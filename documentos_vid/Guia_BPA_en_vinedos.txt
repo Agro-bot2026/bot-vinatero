@@ -1,0 +1,1468 @@
+BUENASPRÁCTICASAGRÍCOLASENVIÑEDOS
+Guía de aplicaciónIntroducción 1
+Objeto y campo de aplicación 1
+1.  Trazabilidad 3
+2. Mantenimiento de documentos 
+yregistros 4
+3.  Condiciones de cultivo y zona de 
+producción 6
+4.  Calidad del agua 9
+5. Productos agroquímicos 11
+5.1 -  F ertilizantes 11
+5.2 -  Fitosanitarios 12
+6.   Use de abonos 16
+7. Condiciones del establecimiento 17
+8. Equipos y herramientas 19
+9. El personal 20
+10. Cosecha 22
+11. Medidas de protección ambiental –
+Legislación 24
+12. Auditorías internas  25
+13. Lista de verificación para  Buenas 
+Prácticas Agrícolas en viñedos 29Anexos
+I. Definiciones 33
+II. Registro de aplicación de productos: 
+fertilización 35
+II. Registro de aplicación de productos: 
+control de plagas 36
+III. Fertilizaciones / Abono / 
+Enmiendas realizadas 37
+IV. Registro de estado y calibración 
+de maquinarias 38
+V. Ejemplo de POES 39
+VI. Ejemplo de hoja de seguridad de 
+productos agroquímicos 40
+VII. Esquema  para la evaluación de 
+riesgos  en nuevas zonas de  
+producción agrícola. 43
+VIII. Señales de obligatoriedad 
+einformativ as. 45
+Bibliografía 47
+Colaboradores 48Secretario de Agricultura, Ganadería, Pesca y Alimentos
+Ing. Miguel S. Campos
+Subsecretario de Política Agropecuaria y Alimentos
+Lic. Fernando Nebbia
+Presidente del Instituto Nacional de Vitivinicultura
+Ing. Raúl Guiñazú
+Presidente del Instituto argentino de Normalización y Certificación
+Ing. José Francisco López
+A/C Dirección Nacional de Alimentos
+Ing. Agr. Mercedes Nimo
+ÍNDICE
+EQUIPOAUTORIDADES
+Miembros del grupo de redacción
+Lic. Natalia Bonvini (SA GPyA)
+Ing. Mar tín Cav agnar o(INV)
+Ing. Alejandro Marianetti (INV) 
+Lic. Juan Carlos Troiano (I RAM) 
+Lic. Diego Grillo Trubba (SAGPyA)Arte y Diagramación
+Eduar doSiutti (SA GPyA).
+Fotogr afías
+SAGPyA - Bodegas y Viñedos López SAIC
+Fecha de edición
+Abril 2006PPuubblliiccaacciióónn ccoonnjjuunnttaa  SSAAGGPPyyAA--IINNVV--IIRRAAMM
+El presente trabajo fue realizado con financiamiento del Programa Calidad de los Alimentos
+Argentinos, Proyecto ARG 96/006 Convenio PROSAP - BIRF  ARG/96-6-8/00.1
+Buenas Prácticas Agrícolas en V iñedosLas Buenas Prácticas Agrícolas (BPA) son pautas que indican
+cómo resulta conveniente manejar la producción primaria, eltransporte y el empaque de vegetales para asegurar la inocuidady la calidad del producto,  en este caso particular la uva, paraobtener el vino deseado.
+Las BPA constituyen un medio adecuado para incorporar las prácticas de
+Manejo Integrado de Plagas (MIP) y de Manejo Integrado de Cultivos(MIC) dentr o del mar co de la pr oducción agrícola comer cial.  El manejo
+integr ado de plagas (M IP) es una estrategia de control basada en la
+aplicación de la menor cantidad de elementos tóxicos posibles, al
+combinar sus efectos con la implementación de manejos culturales, quepermitan minimizar la exposición de aquellos al contacto humano y alambiente. El MIP prioriza la prevención y los tratamientos no químicos. Entanto el MIC es una estrategia de gestión de la producción con el objetode minimizar el uso de agroquímicos, nutrientes del suelo y agua, pormedio de la evaluación previa de necesidades del cultivo, tareascultur ales, r ecursos natur ales disponibles, con el objeto de lograr una
+actividad sustentable y que no atente contra la calidad y la disponibilidad
+de los recursos. En este sentido, la adopción del MIP y del MIC esconsiderada un factor esencial para el mejoramiento y la sustentabilidadde la producción agrícola a largo término.
+La importancia de las BPA radica en que su implementación no sólo
+garantiza que los alimentos sean aptos para el consumo humano sinoque, al mismo tiempo, sus r esultados permiten acceder a los distintos
+mercados que las incluyen en sus legislaciones. El productor que aplica
+BPA está en condiciones de colocar sus productos en mercados externoscada v ez más exigentes y competitivos, como así también diferenciar el
+producto en el mercado interno.
+La legislación argentina en sus tres normas
+1reglamentadas por la SAGPyA
+(Secr etaría de Agricultur a, Ganadería, P esca y Alimentos) y el S ENASA
+(Servicio Nacional de Sanidad y Calidad Agroalimentaria), y siguiendo los
+lineamientos del Código Alimentario Ar gentino, establece r equisitosOBJETO Y CAMPO  DE APLICACIÓN
+Esta publicación conjunta SAGPyA - INV - IRAM tiene por objeto establecer un marco
+de requisitos y recomendaciones para aplicar las Buenas Prácticas Agrícolas (BPA) enlos viñedos, y define los elementos esenciales para el desarrollo de la prácticaagrícola óptima para la producción de uva como materia prima de la industria
+vitivinícola (material de propagación, viveros, uva para elaboración de mosto y vino). INTRODUCCIÓN
+Las BPA tienen como
+principales objetiv os: 
+• Asegurar la inocuidad de los
+alimentos 
+• Obtener productos de calidad que
+satisfagan la demanda de los
+consumidores,
+• Que los productos sean elaborados
+de manera tal que se pr oteja el
+ambiente y se evite sudegradación, 
+• Que se garantice el bienestar
+laboral.
+1 Resolución SAGPyA Nº 7 1/1999, Resolución SENASA Nº 530/2001 y Resolución SENASA Nº 510/2002.   relacionados con la capacitación del personal y la documentación del
+proceso productivo en su totalidad. Además, incluye factores de higieneasociados al suelo y al agua donde se desarrolla la producción, yprácticas de manejo que impidan introducir contaminacionesprovenientes del material vegetal utilizado, la manipulación defitosanitarios, las instalaciones, el personal, la cosecha, los equipos y eltransporte. Para la mejor aplicación y el aprovechamiento de estas
+herramientas de gestión de la inocuidad y la calidad, es esencial que
+todas las organizaciones involucradas en la cadena de elaboración devino acepten su rol en las tareas y responsabilidades para asegurar quelas BPA sean plenamente implementadas y apoyadas. 
+Es conveniente que los productores demuestren su compromiso con, al
+menos, los puntos siguientes:a) mantener la confianza del consumidor en la inocuidad y la calidad de lauva producida;
+b) minimizar los impactos perjudiciales par a el ambiente, y pr opiciar la
+conservación de los recursos naturales y la biodiversidad;
+c) reducir el uso de agroquímicos;d) asegurar una actitud responsable por la salud y la seguridad de losempleados.
+Esta publicación conjunta SAGPyA - INV - IRAM se ofrece como una guía
+para su aplicación por los viñateros. Se basa en la normativa nacional y elProtocolo E UREPGAP para frutas y vegetales frescos (ver bibliografía). 
+Las Buenas Prácticas Agrícolas en viñedos definen los elementos claves
+de las mejores prácticas agrícolas vigentes y promueven la aplicación delprincipio de mejora continua en la producción de uva vinífera. 
+Dado que esta publicación conjunta no es de cumplimiento obligatorio,
+se aclara que en su texto se utilizan las expresiones “debe” o “deben”para indicar que el cumplimiento de los  r equisitos señalados es
+indispensable si se quiere lograr los resultados deseados; y los
+términos “se recomienda”, “es aconsejable” o “es conveniente” seaplican par a indicar lo que se cree que mejora o complementa la
+implementación de la buenas prácticas.
+2 Buenas Prácticas Agrícolas en Viñedos
+Para operar con eficacia, todo sistema de gestión de calidad debe incluir
+un sistema de trazabilidad, entendiendo ésta como un conjunto deprocedimientos que permiten tener un seguimiento completo de la uvadesde su lugar de producción, lote, establecimiento y otros eslabones dela cadena hasta el punto de destino. 
+Para llevar a cabo la trazabilidad es necesario un elemento identificatorio
+(por ejemplo, un código numérico),  y otros documentos adjuntos que
+acompañen al producto y que permitan reconstruir la historia de suprocesamiento e identificar el origen del mismo. 
+De esta forma, contar con un sistema de trazabilidad permitirá, ante un
+reclamo de parte de un cliente o si se detecta peligro para la seguridad delconsumidor, ubicar y retirar total y rápidamente la mercadería afectada,investigar el origen del problema y subsanarlo.
+Por otr o lado, la materia prima y los pr oductos que podrían representar
+un peligro deben mantenerse bajo vigilancia hasta que puedan ser
+eliminados adecuadamente.
+Por esta razón la trazabilidad es reconocida como una herramienta de
+gestión del riesgo alimentario. Es decir el tener trazabilidad no significaque quién la posee pueda garantizar productos inocuos, pero sí que unavez ocurrido un incidente alimentario tiene la posibilidad de reaccionar atiempo identificando clar amente las unidades que podrían tener el mismo
+problema y su ubicación presunta.
+Recomendaciones
+Se recomienda que todos los responsables de la cadena de producción y
+comercialización vitivinícola consensúen los procedimientos que permitan
+el seguimiento y la caracterización de la mercadería desde cualquierpunto de la cadena de elabor ación del vino . 
+El sistema de trazabilidad adoptado puede ser llevado mediante registros
+en papel o planillas electrónicas, como también con softwar e
+(desarr ollado a medida o  paquetes comerciales). No existen
+obligatoriedades respecto a uno u otro sistema de información. 
+3 Buenas Prácticas Agrícolas en V iñedosLa trazabilidad en viñedos
+implica conocer y tenerdocumentación sobre:
+• Origen de las cepas
+• Identificación de lotes, cuadros,
+parcelas o cuarteles.
+• Registr os de la s operaciones
+agrícolas del viñedo:
+-labores
+- aplicación de productos
+(fitosanitarios-f ertilizantes)
+-higiene durante los pr ocesos
+• Condiciones climáticas de la
+temporada
+• Control de las uvas durante la
+cosecha para:
+- detectar contaminaciones,- registrar variedad, método de
+cosecha, composición básica,
+-volumen por lote.TRAZABILIDAD 12.1 Documentos y Registros 
+Los productores deben conservar registros actualizados y disponibles
+para demostrar que todas las actividades de producción cumplen con lasbuenas prácticas agrícolas descriptas en esta guía, y para ayudar a trazarel historial de los productos desde el establecimiento productivo hasta elconsumidor final. 
+Todas las tareas relacionadas con la finca y las correspondientes con el
+proceso productivo deben ser documentadas bajo la forma deprocedimientos e instructivos de trabajo, para evitar errores y fallas.
+A tal fin se deben crear documentos sobre:
+• especificaciones y manejos de equipos,• procedimientos de aplicación de productos químicos,• procedimientos par a riego
+• procedimientos sanitarios en instalaciones y sector es de pr oducción
+(POES)
+2,
+• primeros auxilios,• listado de elementos y materiales no permitidos en el predio de
+producción,
+• procedimientos de mantenimiento de instalaciones y maquinarias,• procedimientos para almacenamiento y manipulación de agroquímicos,• procedimientos de tratamiento de residuos sólidos y líquidos.• procedimientos de disposición final de env ases v acíos de agroquímicos,
+• procedimientos para la cosecha,
+• especificaciones sobre 
+higiene personal,
+• procedimientos de manejo integrado de plagas,
+• análisis de riesgos  de nuevos sitios de cultivo3,
+• análisis de riesgos de la aplicación de fertilizantes.
+También se debe disponer de registros de datos sobre:
+• monitor eo del estado micr obiológico y químico del agua de consumo y
+lavado,
+• calibración de equipos de medición y aplicación de agroquímicos,• documentación que permita conocer cada lote de pr oducción primaria
+(cultiv o, cosecha) y transporte,
+• planillas pertinentes a la cosecha (producción, índices de madurez, tipo
+de cepa, fechas de tratamientos fitosanitarios realizados en cada lote), 
+• planillas de los insumos compr ados con datos de pr oveedor , cantidad,
+estado general del producto.
+4
+Buenas Prácticas Agrícolas en ViñedosIMPORTANTE
+Los registros deben estar firmados por
+personal responsable.
+Los registr os deben ser conservados
+por un mínimo de dos años.
+2 Ver Anexo V: Ejemplo de POES.
+3 Ver Anexo VII: Guías para la evaluación de riesgos en nuevas zonas de producción agrícola.2 MANTENIMIENTO 
+DE DOCUMENTOS Y
+REGISTROS• listado de proveedores,
+• servicios realizados por terceros,• reclamos de clientes,• accidentes laborales,• listado de los plaguicidas permitidos por la legislación nacional con sus
+valores LMR (límite máximo de residuos).
+Algunas consideraciones 
+• Se debe asegurar que el personal haya recibido información acerca de
+los registros que deben llevarse a cabo en cualquier etapa del procesoproductivo.
+• Los instructivos deben redactarse siguiendo la secuencia lógica de los
+procedimientos o tareas de manera precisa, clara y accesible a losdestinatarios. Además, deberán estar actualizados.
+• Las planillas par a el r egistr o de datos tendrían que ser simples de
+completar y poseer suficiente espacio par a volcar la información.
+Deben ser revisadas con el personal que tiene que registrar en ellas,
+con el objeto de asegurar que sean comprendidas en su totalidad yconozcan la importancia de las mismas.
+• También deben estar listados y disponibles cuando corresponda:
+planos, procedimientos y diagramas de flujo.
+En el establecimiento debe haber un registro disponible sobre todos los
+reclamos formulados al pr oveedor de insumos, relacionados con el
+cumplimiento de los requisitos preestablecidos para sus productos, los
+cuales deben estar previamente especificados por escrito. Asimismo,debe haber documentos sobre las acciones tomadas respecto de talesreclamos por parte del proveedor y/o empresa, y las deficiencias halladasen productos o servicios provistos.
+El productor debe tener un documento donde queden registrados los
+reclamos que le r ealizan a él, y sobr e como los gestiona.
+Los registros proveen la evidencia documental de que determinada
+actividad se ha efectuado, sobr e todo cuando un viñedo recibe una
+auditoría por par te de un potencial comprador, de autoridades de control
+o de una certificadora. El registro adquiere la validez de una declaración
+jurada cuando el mismo contiene la ubicación cronológica (fecha, hora encaso que sea indispensable) y los r esponsables de la actividad (quién
+hizo y quién estableció que se hiciera).
+5 Buenas Prácticas Agrícolas en V iñedosSe presentan en los Anexos II
+al IV, modelos de registros de:
+• Registr o de Aplicación de
+Agroquímicos
+• Fertilizaciones/ Abono/ Enmiendas
+realizadas
+• Registr o de Estado y Calibración de
+Maquinaria s
+Las indicaciones siguientes pretenden reducir la probabilidad de
+contaminación del cultivo que pueda poner en riesgo la inocuidad delvino, y su aptitud para el consumo.
+3.1 Variedades y portainjertos
+El material de propagación que se utilice debe tener un certificado que
+verifique el cumplimiento de las directrices de la legislación nacional
+(Referencia Ley de semillas 20.247 y Resolución INV C-108/92).
+Debe considerarse que los viveros proveedores de material de
+propagación tienen que cumplir con lo establecido en la Resolución435/05 (Registro Nacional Fitosanitarios para la habilitación de viveros). 
+Se recomienda que la calidad de plantines o plantas sea conocida antes
+de su implantación y que se mantengan r egistr os en el cuaderno de
+campo, en donde figur en el nombr e de la v ariedad y portainjerto, la
+correcta identificación de la variedad, el número de lote y el vivero
+proveedor del material vegetal. Se recomienda también tener unacertificación del vivero proveedor (certificado de calidad, condiciones deentrega o cartas firmadas). En caso de que el material de propagación(cepa) haya sido tratado, se deben tener registros del nombre delproducto/ utilizado/ fitosanitarios y de los motivos por lo que se hautilizado (plagas o enfermedades).
+Se recomienda que las variedades posean resistencia/tolerancia a las
+plagas y enfermedades comercialmente importantes, y que se aportenregistros que así lo prueben.
+En caso de que se cultiven plantas modificadas genéticamente
+4se debe
+tener una copia de la Resolución de SAGPyA que autoriza el uso de la
+especie modificada. El uso o la producción de plantas transgénicas y/oproductos deriv ados de modificación genética debe estar documentado .
+3.2 Protección de los cultivos
+Se debe demostr ar que se protege el viñedo contra plagas, enfermedades
+y malezas con el menor aporte posible del fitosanitario habilitado. Se
+debe registrar el cultivo tratado y los niveles de infestación para cadaaplicación de fitosanitario con la debida justificación.
+Se recomienda a los pr oductor es que se informen y adopten sistemas de
+6
+Buenas Prácticas Agrícolas en ViñedosTratamiento preventivo de
+enfermedades criptogámicas
+En estos casos se deben utilizar
+productos aprobados por los
+organismos correspondientes,
+aplicarlos cumpliendo la s
+especificaciones que da el fabricante,
+respetando dosis, momento de
+aplicación, compatibilidad, tiempo decarencia, especificidad, etc. 3 CONDICIONES DEL
+CULTIVO  Y LA ZONA
+DE PRODUCCIÓN
+4 En Argentina a la fecha de la publicación no hay plantas de vid modificadas genéticamente con uso comercial aprobado.Manejo Integrado de Plagas –MIP , para controlar y preservar su
+productividad y minimizar el impacto potencial del control de plagas en elambiente. Se recomienda obtener asistencia para la  implementación deestos sistemas a través de la capacitación o asesoramiento por parte delServicio de Extensión del INTA.
+3.3 Selección del sitio de producción
+Se debe evaluar la historia del lote de campo, haciendo extensivo el
+análisis a las inmediaciones del predio para identificar posibles peligrosde contaminación del suelo o los recursos hídricos.
+No se debe cultivar en zonas cercanas a lugares con presencia de
+sustancias potencialmente nocivas, como por ejemplo:• Aguas fecales (aguas residuales no tratadas),• Lodos fecales,
+• Metales pesados,• Heces de animales,• Contaminaciones aéreas, debidas principalmente a emplazamientos
+industriales,
+• Lugares donde se realizan operaciones con ganado, aves o con inusual
+cantidad de vida silvestre o condiciones desfavorables.
+NOTA : De existir contaminación, antes de proceder al cultivo, se debe
+aplicar un adecuado plan de acciones corr ectiv asprevio análisis de riesgo .
+3.4 Suelo o sustrato 
+El uso de tratamientos químicos para desinfección del suelo previo a la
+plantación o con el viñedo instalado debe justificarse (caso de infestación
+grave con nematodos, gusanos blancos, podredumbre de la raíz por
+endoparásitos, etc.). Se recomienda que, en caso de ser posible, seutilicen cultiv ares con por tainjer tos r esistentes. El productor tiene que
+demostrar que ha hecho una evaluación de ésta alternativa mediante
+conocimientos técnicos, evidencia escrita o prácticas locales aceptadas.
+Se recomienda preparar los mapas del suelo (perfil y análisis del suelo)
+del establecimiento productivo para los programas de plantación.
+3.5 Manejo de la explotación
+Se debe establecer un sistema de r egistr os par a cada finca, de maner a de
+proveer un registro permanente de los cultivos y todas las actividades
+agronómicas llevadas a cabo en las mismas.
+7 Buenas Prácticas Agrícolas en V iñedos
+Debe haber una identificación visual o sistema de referencia para cada
+lote del viñedo, a través de un código único, número o color utilizados entodos los registros referidos a cada ubicación.
+Para cada nuevo terreno para explotación de agricultura se debe llevar a
+cabo un análisis de riesgos, teniendo en cuenta el uso anterior de la tierray todos los impactos potenciales (en cuanto a calidad alimentaria y
+laboral) de la producción de cultivos adyacentes y de otras áreas, de
+posible incidencia en la plantación del viñedo. Dicho análisis debeconsiderar, además, el tipo de suelo, la erosión, la calidad y el nivelfreático y la disponibilidad de fuentes sustentables de agua.
+3.6 Laboreo
+Utilizar labranza mecánica donde esté probado que mejora o mantiene la
+estructur a del suelo y evita su compactación y su er osión. Debe existir
+evidencia documentada de las técnicas de labor eo de conser vación del
+suelo realizadas en el viñedo.
+3.7 Animales
+El ganado y los animales domésticos deben mantenerse alejados de los
+viñedos. Para ello, deben alambrarse o cercarse los sectores plantados obien recluir convenientemente los animales.
+Se deben construir zanjas, terraplenes, franjas de vegetación a fin de
+separar campos vecinos en los que se verifique la crianza de animales y delos que se pueda producir arrastre de materias contaminantes por lluvias,por el agua de las acequias o simplemente por escorrentía superficial.
+3.8 Control de heladas
+Se deben utilizar métodos lo menos contaminantes posibles, evitando
+aquellos que además de ser poco efectivos, producen contaminaciónambiental. Se aconsejan métodos como el riego por aspersión(consider ar la calidad del agua –ver capítulo 4), uso de ventiladores o
+máquinas de viento, o técnicas conocidas como defensa pasiv a (suelo
+húmedo no arado, suelo con cobertura vegetal).
+Se recomienda 
+no quemar neumáticos debido al material en suspensión,
+a los gases (como por ejemplo hidrocarburos poliarómaticos) y metalespesados que gener a, perjudicando la salud humana y animal.
+El tipo de contr ol de heladas realizado debe estar registrado. 
+8 Buenas Prácticas Agrícolas en Viñedos
+El agua para uso agrícola comprende, al menos, las siguientes
+aplicaciones: • riego, • lavado de equipo e instrumental, • preparación de soluciones de fertilizantes y productos fitosanitarios,
+etc.
+Debe estar libre de todo tipo de contaminaciones, en especial sustancias
+peligrosas y residuos de agroquímicos. Para ello se debe evaluar lacalidad de la fuente de agua para uso agrícola, mediante análisisperiódicos (se recomienda, por lo menos, cada 6 meses), para determinarcontaminación microbiana, como así también residuos de agroquímicos uotras sustancias nocivas.
+NOTA5: “El agua de uso agrícola es un recurso frecuentemente
+compar tido, por ello es impor tante tener en cuenta los factor es que
+afectan la cuenca hidr ográfica común. La topogr afía del terr eno, así como
+el uso pasado y actual de los campos adyacentes son factores que
+posibilitan la contaminación. La presencia de centros urbanos, plantas industriales, plantas detratamiento de aguas residuales, estercoleras de animales, basurales oaltas concentraciones de fauna silvestre aguas arriba, son fuentes deposibles contaminaciones aguas abajo”.
+4.1 Pulv erizaciones
+El agua que se utiliza para las pulverizaciones debe demostrar, mediante
+análisis, que reúne los siguientes requisitos:• Ausencia de residuos químicos y metales pesados.• pH entre 5,5 – 8,0; si es muy alcalina se deben usar correctores. Por
+ejemplo: ácido fosfórico (la dosis depende del agua y producto a
+aplicar).
+• No debe pr esentar par tículas en suspensión.
+• Baja conductividad eléctrica (no hace a las BPA, aunque si a la eficacia
+de la pulverización).
+4.2 Agua de riego
+El agua de riego es un factor importante de contaminación del cultivo, lo
+cual hace que deba tenerse especial cuidado en la calidad de agua ymétodo de riego a emplear. Si bien el método de riego se elige en función
+9
+Buenas Prácticas Agrícolas en V iñedos5 Fuente: Manual de BP A y buenas prácticas de manejo y empaque, para frutas y hortalizas. Gómez Riera – Hübbe. INTA.
+VI.5.c. El agua y el medio ambiente.Los sistemas de riego por inundación
+desperdician excesiv a cantidad de
+agua.CALIDAD DEL AGUA 4de varios factores, debe evitarse el contacto con el fruto de la planta. 
+El sistema de riego adoptado debe permitir una distribución uniforme y
+efectiva del agua a fin de asegurar el mejor uso del recurso y minimizarlos efectos negativos sobre el ambiente.
+NOTA : Deben considerarse estos puntos en el agua utilizada en el sistema
+de aspersión para el control de heladas.
+4.2 Recomendaciones
+Cuando sea posible, se recomienda ajustar el riego basado en la
+predicción de lluvias y la evapotranspiración. Los registros diarios delluvias para la producción a campo abierto pueden ser utilizados paraayudar en la planificación de los requisitos de riego. Se recomienda a los pr oductor es logr ar acceso a los pr onósticos
+meteor ológicos r egular es  para ayudar a planificar el riego.
+Para proteger el ambiente, tiene que evitarse la extracción de agua de
+fuentes no sustentables. En estos casos se recomienda solicitarasesoramiento y autorización a las autoridades competentes por talextracción, que variarán según cada distrito provincial.
+Es importante considerar un plan de gestión de agua para optimizar su uso
+y reducir los gastos (por ejemplo, sistemas de r e-uso, riego nocturno,
+mantenimiento del equipo de riego para reducir derrames, almacenamiento
+en tanques o tajamares, entre otros).
+Todos los productores tienen que mantener registros del uso del agua de
+riego, que incluyan fecha y volumen por unidad de riego, y tener
+disponibles los permisos de extracción de agua. 
+Si el pr oductor tr abaja con pr ogramas de riego, se r ecomienda registrar
+los volúmenes de agua calculados y los usados efectivamente.
+10 Buenas Prácticas Agrícolas en Viñedos
+Dentro de los productos agroquímicos6utilizados en la finca, se hace
+hincapié en el buen uso de fertilizantes y productos fitosanitarios.Cualquier análisis realizado sobre la presencia de estos productosquímicos en el cultivo se recomiendan realizarlos en laboratorios queestén acreditados según la norma IRAM-ISO 17025. 
+5.1 Fertilizantes 
+La aplicación de fertilizantes, sean ellos minerales u orgánicos, debe
+satisfacer las necesidades del cultivo además de mantener la fertilidaddel suelo, lo cual debe controlarse a través de análisis rutinarios delsuelo y/o foliares, y registrarse.
+Sobre la base de un análisis de riesgo (ver en Anexo VII esquema de
+análisis de riesgo de EUREP) y del suelo, se recomienda que el productordesarr olle un pr ograma de fer tilización (con tiempo, fr ecuencia y cantidad
+de fer tilizante) par a minimizar la pér dida de nutrientes.
+5.1.1 Registro de aplicación
+Se deben registrar en el cuaderno de campo, o su equivalente, todas las
+aplicaciones de fertilizantes de suelo y foliares. Los registros debenincluir: ubicación, fecha de aplicación, tipo y cantidad de fertilizanteaplicado, método y maquinaria de aplicación y nombre del operador queha aplicado el fer tilizante (v er Anexo I I).
+Se debe evitar cualquier aplicación de nitrógeno por encima de los límites
+nacionales e internacionales, como así también la contaminación de lasnapas por lixiviación.
+5.1.2. Maquinaria de aplicación
+La maquinaria de aplicación de fer tilizantes debe ser mantenida en
+buenas condiciones, con calibraciones anuales para asegurar la
+dosificación exacta de la cantidad de fertilizante requerida, de todo locual deben mantenerse r egistros.
+5.1.3 Almacenamiento de fertilizantes
+Se deben conser var registr os del almacenamiento actualizados y
+disponibles (con información detallada de las cantidades de los
+11
+Buenas Prácticas Agrícolas en V iñedosLos productores y/o asesores deberían
+demostrar competencia y
+conocimientos documentados paraestimar la cantidad y el tipo defertilizante a us ar. En caso contrario,
+las recomendaciones de aplicacióndeben estar validadas por bibliografíacientífica o técnica proveniente del
+INTA o el laboratorio proveedor del
+producto.PRODUCTOS 5
+AGROQUÍMICOS
+6 En el Anexo VI se presenta un modelo de hoja de seguridad de productos agroquímicos.productos que entran y que salen).
+Los fertilizantes deben estar separados de otros tipos de productos,
+sobre todo si están en el mismo ambiente7.  
+Los fertilizantes deben estar etiquetados adecuadamente.Los fertilizantes deben ser almacenados, cubiertos, en un lugar limpio,
+seco y bien ventilado, donde no exista riesgo de contaminación de lasfuentes y cursos de agua. 
+5.2 Fitosanitarios
+Los productos fitosanitarios sólo se deben emplear cuando no puedan
+aplicarse con eficacia otras medidas de control. Se deben utilizarúnicamente aquellos pr oductos r egistr ados por S ENASA
+8y recomendados
+para la vid, teniendo en cuenta las par ticularidades de cada r egión.
+Se debe verificar la integridad de los envases, etiquetas y marbetes de
+los productos fitosanitarios recibidos, y guardarlos en sus envasesoriginales, en buenas condiciones.
+5. 2.1 Almacenamiento
+La construcción de los depósitos de fitosanitarios debe r ealizarse con
+materiales no combustibles y que protejan su interior de las altastemperaturas y la humedad. Deben tener pisos impermeables, lisos y sinrajaduras que permitan una fácil limpieza y eviten los derrames. Deben mantenerse en depósitos cerrados con llave y aislados del viñedo,bien ventilados e iluminados con luz natural y/o artificial. 
+No deben instalarse dentro del depósito oficinas, baños, vestuarios,
+comedor es u otr os ambientes destinados al personal.
+Se debe permitir el acceso al depósito sólo al personal que esté
+debidamente capacitado, que posea un pleno conocimiento de sumanipuleo y de los peligr os implícitos, incluyendo la posibilidad de
+contaminación del pr oducto.
+12
+Buenas Prácticas Agrícolas en ViñedosConsideraciones para comprar
+un producto agroquímico:
+• Identificar correctamente la plaga
+y/o consultar a un técnico.
+• Verificar que se está comprando el
+producto recomendado.
+• Ver que los envases estén
+legalmente etiquetados, con las
+instrucciones de uso, marca
+comercial, empresa fabricante ynombre del principio activo en
+castellano (Resolución SENASA
+146/96).
+• Los envases no deben estar
+abiertos, rotos o sin precinto de
+seguridad.
+• Verificar la fecha de vencimiento
+del producto.
+• No se debe comprar productos
+fraccionados, ni en envases nooriginales.
+7 La norma EUREPGAP establece que el requisito mínimo sea que exista un espacio de aire separando ambos recintos, lo
+que presupondría  que debe contarse con un recinto para plaguicida s independiente de otros elementos o productos y un
+recinto aparte para los fertilizantes.
+8 SENASA publica en su página (www .sena sa.gov .ar /agr oquímicos) el Registro Nacional de Establecimientos Productores
+y/o Formuladores de Productos Fitosanitarios, y resoluciones relacionadas con la fiscalización de dichos productos. En la
+Resolución SENASA Nº256/03 se determina los límites máximos de residuos (LMR) vigentes para productos de origenvegetal y animal, complementada por la Resolución 5 12/04 para pr oductos cultivados no tradicionalmente. Ver también
+Resolución  SAGPyA 1384/04 y sus ampliaciones 619/05 y 803/05.Las instalaciones deben ser adecuadas para mezclar y dosificar
+fitosanitarios, provistas de utensilios y equipos de medición (se sugieresu verificación semestral y el correspondiente registro).
+Se deben acomodar los productos en estantes de acuerdo con su tipo
+(insecticidas, herbicidas, funguicidas), formulación y envase. Losproductos muy inflamables se deben ubicar en zonas más frescas y
+ventiladas del depósito, y los más tóxicos en la parte más segura. 
+Se deben mantener separados los productos de formulación sólida de los
+productos líquidos. Éstos deben estar siempre debajo de los sólidos, paraevitar el peligro de contaminación por derrames.
+Los productos almacenados se deben revisar periódicamente para
+verificar su estado y poder eliminar los envases dañados.
+Se debe conser var un r egistro  de todos los fitosanitarios almacenados, el
+cual debe estar fácilmente disponible, actualizado y documentado.
+En el depósito de agroquímicos debe haber, en un sitio visible, un listado
+con direcciones y teléfonos
+9a los que recurrir en los casos de urgencias.
+5.2.2. Emergencias
+Debe haber dispositiv os en el exterior par a tratar las emergencias (por
+ejemplo, para lavado de ojos con agua potable, un balde de arena para
+remediar derrames), tales como la contaminación del operador ycualquier derrame accidental.
+Se recomienda contar con un Instructivo de Emergencias para casos de
+incendios accidentales, con nómina de responsables de conducir los
+operativos. También es conveniente contar con matafuegos, respetandolas normas de uso y v encimiento de la car ga.
+NOTA : En la bibliografía se indican las principales normas IRAM sobre
+seguridad ante incendios y sobr e el uso de matafuegos.
+5.2.3. Preparación y aplicación10
+•Se deben pr epar ar y aplicar los pr oductos r espetando estrictamente las
+13
+Buenas Prácticas Agrícolas en V iñedos
+9  Es conveniente que estén del lado de afuera y adentr o del depósito.
+10  Ver registro de aplicaciones en Anexo IIrecomendaciones de los marbetes en cuanto a: dosis, momento de
+aplicación, condiciones ambientales, limpieza del agua para lapreparación de los caldos. 
+• No se debe fumar, comer, ni beber durante la preparación y aplicación
+del producto.
+• El aplicador debe tener vestimenta de protección y equipo de
+fumigación  apropiados. Existen tres niveles de protección
+dependiendo de dos factores de los productos a aplicar:  la toxicidad y
+la volatilidad. Además, el aplicador debe conocer y respetar las normaspara el uso adecuado y eficaz de fitosanitarios.
+• Se debe mantener en buenas condiciones y calibrar adecuadamente el
+equipo de pulverización.
+• Se debe lavar cuidadosamente el equipo después de cada aplicación
+para evitar la corrosión de los materiales de construcción, comotambién la mezcla con los productos utilizados con posterioridad, y nose debe descuidar el destino de los contaminantes del agua de lav ado,
+para su corr ecta disposición o tr atamiento, con el fin de evitar impactos
+ambientales. 
+• Se deben respetar los tiempos de carencia indicados, es decir el tiempo
+que debe pasar desde la aplicación del producto hasta la cosecha.
+• Debe cuidarse que la cantidad de producto que se va a preparar para
+hacer una determinada aplicación se calcule con la mayor precisiónposible, con el objeto que una vez cubierta el área o plantas asignadasno existan sobrantes. En caso de que, pese a las precauciones, existanestos ex cedentes deben v erterse en áreas no tratadas o cortinas
+forestales, pero nunca en lugares donde puedan existir riesgos de
+sobreaplicación, contaminación de cauces, etc. 
+• Es indispensable que el encargado de recomendar las aplicaciones,
+productos y las dosis utilizadas cuente con la formación adecuadasobre el particular, como también debe supervisar el proceso posterior
+de preparación de las maquinadas y las aplicaciones.
+5.2.4 Disposición de env ases de pr oductos agr oquímicos
+• La eliminación de envases de agroquímicos se debe hacer de modo tal
+que se evite cualquier impacto posible sobr e el ambiente. Se debe
+evitar también que las personas o los animales estén expuestos a los
+recipientes desechados. 
+• Se deben cumplir las instrucciones del fabricante para su destrucción.
+No se los debe guar dar ni utilizar par a otr os fines.
+• Los envases vacíos deben enjuagarse mediante el uso de un mecanismo
+de enjuague a pr esión integr ado con el r ociador , o al menos tres veces
+con agua (triple lav ado), y los enjuagues deben ser r etornados al
+tanque de r ociado.
+14 Buenas Prácticas Agrícolas en Viñedos
+• Luego de enjuagados, los envases deben ser perforados para evitar su
+reutilización, y deben ser etiquetados adecuadamente, de acuerdo con
+las reglas de un sistema de recolección.
+• Los fitosanitarios caducados deben ser dispuestos solamente a través
+de una empresa oficialmente autorizada. Se deben mantener registrosde estas operaciones.
+5.3 Transporte de agroquímicos
+En los v ehículos, los pr oductos agr oquímicos sólo se deben tr anspor tar
+en env ases cerr ados. No se los debe tr ansportar junto con personas,
+animales, ropa o alimentos ya sean para consumo humano o animal.
+• Los productos agroquímicos no deben llevarse en la cabina del
+vehículo.
+• Si se los traslada en camioneta, se los debe cubrir con una lona.• Dur ante la car ga y descar ga de estos productos deben manipularse con
+mucho cuidado, para evitar golpes y caídas.
+• Se debe utilizar el equipo de protección adecuada (al menos delantal
+impermeable, camisa manga larga, guantes y botas).
+• No se debe fumar, comer ni  beber durante las operaciones de carga y
+descarga de estos productos.
+15 Buenas Prácticas Agrícolas en V iñedosEjemplo de un programa de
+recolección y reciclado deenvases 
+La Cámara de Sanidad Agropecuaria y
+Fertilizantes (CASAFE) ha puesto en
+funcionamiento un programa para
+recolectar y reciclar los envases. Así,
+el Programa AgroLimpio prevé la
+creación de un sistema de recolección
+de envases y la habilitación de treinta
+y cuatro centros de acopio, además deuna campaña de concientización
+destinada a productores agropecuarios
+y escolares. Mediante accionescomunicacionales, se intentará que losproductores le entreguen a los centros
+de acopio regionales los bidones
+vacíos, lavados y perforados (paraimpedir su reutilización). Además se
+ayudará a crear centr os de acopio en
+las localidades agrícolas del país, con
+ayuda de municipios, cooperativ as,
+distribuidores de agr oquímicos y el
+Instituto Nacional de TecnologíaAgropecuaria (INT A), entre otr os.TRIPLE LAVADO
+• Agregue agua hasta llenar aproximadamente 1/4 de la capacidad del envase.
+• Cierre el envase y agítelo enérgicamente durante 30 segundos.
+• Vierta la solución del lavado del envase en el tanque de la pulverizadora.
+• Repita este procedimiento tres veces y aplique en el lote objeto de tratamiento.
+ECONOMÍASEGURIDAD
+AMBIENTETRIPLE
+LAVA DOEn el caso de utilizar abonos, éstos deben ser tratados a fin de no dejar
+residuos potencialmente tóxicos para la salud humana. 
+Los abonos tratados o compostados pueden ayudar a mejorar la fertilidad
+del suelo porque aumentan el contenido de materia orgánica, mejoran laretención de los nutrientes y el agua, y reducen la erosión.
+Está prohibido el uso de lodos cloacales y residuos urbanos orgánicos
+como enmiendas (corrector de suelos) que no hayan sido compostados
+previamente.
+Los abonos se deben aplicar con suficiente antelación al momento de
+cosecha para evitar cualquier posibilidad de contaminación delproducto.
+Se recomienda almacenar el abono de una manera apropiada para reducir
+el riesgo de contaminación del ambiente. Si se lo almacena en elestablecimiento pr oductiv o, se r ecomienda que se lo haga en áreas
+dispuestas al menos a veinticinco metros (25 m) de cursos de agua.
+Para evitar la contaminación por metales pesados o por el filtrado de
+nitratos, se recomienda completar el análisis de niveles de nutrientes,metales pesados y otros agentes contaminantes potenciales en el abono,antes de su aplicación. Se debe tener en cuenta la contribución denutrientes del abono. 
+16 Buenas Prácticas Agrícolas en ViñedosSe pueden consulta por los abonos
+orgánicos registrados por el SENASA
+en la Resolución Nº 423/1992 delANEXO A “
+Abono, Fertilizantes y
+mejoradores de suelo permitidos ”.6 USO DE ABONOSSi bien puede suceder que en la mayoría de los establecimientos las
+instalaciones fijas (casas, baños y letrinas, galpones, tanques, molinos,bombas, aguadas, invernáculos, depósitos y similares) ya se encuentrenubicadas, se debe efectuar un estudio de la distribución para evitarcontaminaciones cruzadas y poder clasificar las áreas de acuerdo con sumayor o menor grado de contaminación, y además optimizar los recursos.
+Cuando las instalaciones se usan para varias finalidades, como la
+reparación de maquinarias o depósito de envases u otros insumos, se lasdebe separar mediante paredes, tabiques o mallas de alambre.
+Si el establecimiento tiene viviendas para el personal permanente o
+temporario dentro de su predio, ellas deben ser de construcción sólida,de capacidad suficiente que evite el hacinamiento, y deben estar en buenestado de mantenimiento e higiene y contar con agua potable.
+7.1 Electricidad. 
+Tanto en las viviendas como en cualquier otro lugar del establecimiento
+(galpón, oficinas, depósitos y similares) que disponga de instalacióneléctrica debe contar con los dispositivos de seguridad necesarios paraevitar accidentes por contacto directo o indirecto. Ejemplos de talesdispositivos son: disyuntor diferencial, puesta a tierra, llaves térmicas,cables con doble aislamiento y contenidos en forma adecuada, y otrosque la seguridad de las personas y los bienes indique como necesarios.
+7.2 Residuos. 
+Para evitar que se establezcan focos propagadores de plagas y
+enfermedades, es importante que las instalaciones estén exentas de
+basura y residuos, y que se tomen las medidas adecuadas para
+disponerlos sin afectar el ambiente. 
+7.3 Baños 
+El establecimiento debe tener baños, dado que son de fundamental
+impor tancia sanitaria para evitar que el personal realice sus necesidades
+fisiológicas en el campo, posibilitando la contaminación del cultivo. Se
+puede disponer de baños, excusados, letrinas y lavabos para el personalen instalaciones fijas o por tantes.
+Se debe r espetar la cantidad mínima de baños y lav abos que establecen
+las disposiciones municipales, de acuer do con el personal existente.
+17 Buenas Prácticas Agrícolas en V iñedosCONDICIONES DEL 7
+ESTABLECIMIENTO
+Los excusados o letrinas deben estar construidos con materiales y
+artefactos fáciles de limpiar. Deben estar provistos de suficiente cantidadde insumos para la higiene del personal (agua, papel higiénico, jabónlíquido, papel para el secado y cesto para los residuos). Deben estardisponibles para su uso en todo momento, accesibles durante la jornadade trabajo y en la vivienda.
+Estas instalaciones no deben estar ubicadas cerca de fuentes de agua de
+uso agrícola o en lugares fácilmente anegables, ni donde la escorrentíapueda destruirlas y contaminar las aguas abajo.
+Los desechos deben ser eliminados sin que haya posibilidades de
+contaminar el ambiente. Por ejemplo, con camiones cisterna, previendoun fácil acceso de ellos a los baños, por conductos que llevan a pozossépticos que estén situados lejos de áreas agrícolas.
+Los baños y lav abos deben limpiarse y desinfectarse diariamente, o con
+una periodicidad acorde con la intensidad de su uso por los empleados.
+Los tanques que proveen agua al lavabo deben ser vaciados, limpiados,
+desinfectados y vueltos a llenar con agua potable, con una regularidadque asegure su funcionamiento adecuado. 
+El establecimiento debe tener un plan de emergencia para enfrentar con
+éxito cualquier fuga o derr ame de líquidos cloacales, y el personal debe
+estar capacitado para resolver emergencias de este tipo.
+Los empleados deben tener acceso a sanitarios limpios e instalaciones de
+lavado de manos en la vecindad, situados a no más de 500 metros de sulugar de trabajo.
+18 Buenas Prácticas Agrícolas en Viñedos
+Los equipos (por ejemplo: maquinarias y equipos de riego), las
+herramientas (tijeras, cuchillos) y los recipientes reutilizables (envases decosecha y carpas) que vayan a estar en contacto con la uva tienen que serde limpieza, desinfección y mantenimiento fáciles y adecuados. Además,los materiales utilizados para la construcción de equipos, recipientes einstrumental no deben tener efectos tóxicos para el uso que se destinan.
+Debe tenerse especial cuidado en la limpieza de las herramientas
+utilizadas en la poda, para evitar la propagación de enfermedadesproducidas por microorganismos (hongos, bacterias o virus).
+Los equipos y el instrumental deben funcionar de conformidad con el uso
+al que están destinados, sin deteriorar el cultivo, y deben ser segurospara quienes trabajan con ellos.
+Se debe r ealizar mantenimiento pr eventiv o de bombas, motor es y
+equipamiento utilizados par a el riego . Se debe verificar que las carcasas
+de las bombas y los motores eléctricos tengan descarga a tierra.
+8.1 Envases
+Los cajones cosecheros, canastos, bines o cualquier otro recipiente de
+cosecha, deben ser de materiales aptos para estar en contacto conalimentos. Es conveniente que su diseño sea apropiado para el trabajo yel peso del pr oducto a contener , y permita su limpieza y desinfección en
+forma sencilla. 
+Los envases se deben limpiar y desinfectar al inicio y fin de la temporada,
+y toda vez que sea necesario durante la cosecha.
+Es aconsejable que durante el llenado de los recipientes en el campo, se
+los mantenga cubiertos para evitar la acción del sol.
+19 Buenas Prácticas Agrícolas en V iñedosEQUIPOS Y 8
+HERRAMIENTAS
+Todas las condiciones en que se desempeñen los empleados deben cumplir
+con las reglamentaciones locales y nacionales11respecto de salarios, edad
+de los empleados, horas de trabajo, condiciones de trabajo, seguridad de lastareas, sindicatos, pensiones y otros requisitos legales y sanitarios.
+Las personas que estén en el establecimiento deben tener un grado
+apropiado de aseo personal, tener conocimiento de su función y
+responsabilidad frente al viñedo.
+9.1 Viviendas
+Las viviendas permanentes de los empleados del establecimiento deben
+ser habitables y tener los servicios y las instalaciones básicascorrespondientes.
+9.2 Salud del personal
+La persona que presente cualquier síntoma de enfermedad (ictericia,
+diarreas, tos, lesiones notorias en la piel u otras afecciones a su salud),debe avisar al responsable designado, y no debe estar en contacto con lavid. Antes de volver a la tarea se debe constatar que su estado de saludes el adecuado para realizar sus funciones.
+Los operarios con heridas no sangrantes en las manos deben cubrirlas
+con bandas adhesiv as y, de ser necesario, usar guantes.
+9.3 Conducta
+Se debe verificar que el personal no porte objetos personales (anillos,
+relojes, pulseras, colgantes) que puedan dañar la vid, y/o generar un
+contaminante físico entre la uva enviada a bodega.
+El personal no debe comer en el viñedo ni dejar r esiduos que puedan
+contaminar. Se recomienda acondicionar un lugar como comedor.
+El establecimiento debe brindar a su personal buenas condiciones de
+trabajo, proporcionarle equipos y herramientas seguros, e instruirlo en su
+manejo y mantenimiento.
+9.4 Capacitación
+Todos los empleados deben r ecibir capacitación básica sobr e los
+20
+Buenas Prácticas Agrícolas en ViñedosEl personal del establecimiento debe
+poseer la libreta sanitaria única
+(conforme al artículo 21 del Código
+Alimentario Argentino), expedida porautoridad competente, con validez en
+todo el territorio nacional y con
+vigencia por el plazo de un año.
+Resolución conjunta SAGPyA N°
+1 7 1/2000 y SPyRS N° 29/2000.
+Se recomienda que a los empleados
+que hagan aplicaciones defitosanitarios en el establecimiento seles haga contr oles de salud anuales
+documentados, de acuerdo con las
+directiv as establecidas en códigos de
+prácticas locales.9 EL PERSONAL
+1 1 Ley N° 24.557: RIESGOS DEL TRABAJO – Decreto 61 7/1997 REGLAMENTO DE HIGIENE Y SEGURIDAD PARA LA ACTIVIDAD
+AGRARIA.requisitos de higiene para el manejo de productos frescos. Se recomienda
+que la capacitación señale la necesidad de, al menos, lavado de manos,uso de baños, tratamiento de las heridas de la piel, y de cumplir con larestricción de fumar, comer y beber sólo en las áreas permitidas, y que semantengan registros de dicha capacitación. 
+Debe haber procedimientos para tratar accidentes y emergencias, y las
+instrucciones claramente comprensibles para todos los empleados. 
+Es importante que al menos uno de los empleados capacitados en
+primeros auxilios esté presente en la finca durante la jornada laboral.Dicha capacitación debe actualizarse al menos cada año.
+Los procedimientos para tratar accidentes deben estar exhibidos
+visualmente y redactados en un lenguaje gráfico apropiado para todos losempleados, con una simbología que facilite su compr ensión. Al
+desarr ollar los pr ocedimientos ev aluar las necesidades de comunicación
+ante emergencias: ubicación de teléfonos, comunicadores portátiles,
+radio, etc., dejando en claro los números de los servicios de emergenciamás cercanos. En muchos casos las demoras en recibir la asistenciaprofesional han sido causantes de tornar casos leves en problemáticos.
+Se debe suministrar capacitación formal a todos los empleados que
+operen equipamiento peligroso o complejo, la cual debe ser comprobaday registr ada (r egistro con: fecha, tema de capacitación, listado de
+disertantes y participantes, firmas correspondientes).
+9.5  Indumentaria
+El personal que manipula y aplica fitosanitarios debe estar equipado con
+indumentaria de protección, de acuerdo con las instrucciones del
+fabricante del producto, y apropiada para los tipos de riesgos deseguridad y salud a los que estén expuestos. En el Anexo VIII se
+presentan los pictogramas referentes a la indumentaria que debe tener el
+empleado al momento de usar determinado producto químico, los cualesdeben obser varse previamente en la etiqueta del producto a utilizar.
+La indumentaria y el equipamiento de protección personal deben ser
+almacenados separados de los fitosanitarios, en áreas bien ventiladas. La indumentaria usada par a la aplicación de agr oquímicos debe ser
+lavada en el lugar de trabajo y sin mezclar con otro tipo de vestimenta.
+En todos los puestos fijos, y en las pr oximidades del lugar de tr abajo,
+debe haber permanentemente botiquín de primer os auxilios.
+21 Buenas Prácticas Agrícolas en V iñedosPara establecer los pr ocedimientos de
+higiene para el personal, de modo de
+prevenir la contaminación física,
+microbiológica y química del pr oducto,
+se recomienda usar un protocolo de
+higiene basado en un adecuado
+análisis de riesgo, ambos actualizadosy documentados.Se recomienda planificar las tareas y necesidades de insumos de cosecha
+con suficiente antelación, y organizar el personal para que trabaje enforma eficiente y sin pérdidas de tiempo.
+Durante la cosecha
+Se debe mantener el orden del lugar de cosecha, pues el orden favorece
+la higiene, la eficiencia y la rapidez en el desarrollo de las tareas.
+Se debe tomar muestras de uvas con el grado de madurez, tamaño y
+color aceptables para ser cosechados y dejarlas como referencia para lossupervisores o jefes de cuadrilla; dar indicaciones claras antes decomenzar el trabajo, y comprobar que el personal las ha comprendidoplenamente.
+Se debe evitar r ealizar la tar ea en hor as de alta temper atur a, cuando
+todavía hay r ocío, luego de una lluvia, o con alta humedad ambiental.
+No se debe dejar tirados en el campo restos de cosecha o uvas en el
+suelo, pues al descomponerse podrían contaminar el ámbito. Serecomienda recolectarlos y eliminarlos en forma apropiada (enterrarlos),sin contaminar el ambiente.
+Se debe depositar el producto cuidadosamente en el recipiente de
+cosecha; no debe ser arr ojado, golpeado, pr esionado ni fr otado. 
+10.1 Transporte de la cosecha.
+El traslado del producto debe realizarse en forma tal que se eviten golpes
+y sacudidas bruscas que puedan afectarlo negativamente. 
+Algunas medidas recomendadas son : 
+• niv elar y mantener limpios y tr ansitables los caminos internos, que
+deben estar asfaltados o mejorados (como por ejemplo entoscados ) y
+sin zonas de ripio, 
+• cir cular a baja velocidad, 
+• emplear sistemas de suspensión adecuados en los v ehículos, 
+• disminuir la presión de los neumáticos 
+• instruir al personal encargado de realizar la tarea.
+El vehículo debe mantenerse a la sombra, o cubierto adecuadamente en
+el caso de que no sea descar gado de inmediato .
+La car ga o la descarga de los recipientes, en cualquier etapa, se debe
+22 Buenas Prácticas Agrícolas en Viñedos
+10 COSECHArealizar con cuidado, informando debidamente a los cosecheros.
+Higiene
+Las empresas de transporte serán responsables de la aplicación de
+procedimientos adecuados de limpieza, higiene y saneamiento delvehículo.
+La limpieza de los vehículos y de las unidades de transporte de alimentos
+deberá realizarse poco antes de la carga a fines de evitar larecontaminación. Tras la limpieza deberá aplicarse un ciclo de secado.
+El lugar físico donde se realiza limpieza de los vehículos y de las unidades
+de transporte de alimentos deberá estar limpia, bien ventilada, exenta decondensaciones de humedad, mohos, etc.
+Los riesgos físicos, químicos y micr obiológicos deberán eliminarse
+utilizando sistemas o procedimientos higiénicos, de saneamiento y de
+limpieza establecidos por la autoridad competente (lista positiva deproductos para la limpieza compatibles con los alimentos y nocorrosivos).
+23 Buenas Prácticas Agrícolas en V iñedos
+Legislación
+Con el fin de minimizar el impacto negativo de la producción agrícola la
+nuevas normas referentes a las Buenas Prácticas Agrícolas incluyenmedidas para la protección del ambiente. Para ello, hace hincapié en elcumplimiento de la legislación vigente respecto del cuidado ambiental. 
+Los objetivos de la protección ambiental son:
+• Reducir la emisión a la atmósfera, la cantidad de efluentes, los residuos
+sólidos y la carga contaminante de los mismos.
+• Reducir el consumo de energía y de materias primas.• Prevenir pérdidas accidentales de efluentes líquidos.• Mantener la confianza pública.
+En nuestr o país, la política ambiental nacional fue fijada por la L ey
+Gener al del Ambiente Nº 25.675/2002. Esta política fija los P resupuesto
+Mínimos para el logro de una gestión ambiental sustentable y adecuada,
+la preservación y protección de la Diversidad Biológica y laImplementación del Desarrollo Sustentable. 
+También existen leyes provinciales u ordenanzas municipales respecto de la
+protección ambiental. Por ejemplo se puede mencionar la Ley 51061/102,de la provincia de Mendoza, que establece el concepto de “DesarrolloEconómico R espetuoso del Ambiente Natur al y Social”: esta ley tiene por
+objeto la preservación del ambiente en todo el territorio de esa provincia, a
+los fines de resguardar el equilibrio ecológico y el desarrollo sustentable,siendo sus normas de orden público. Trata los conceptos de ordenamientoterritorial, preservación, conservación, defensa y mejoramiento delambiente, utilización racional del suelo, atmósfera, agua, flora, fauna,
+paisaje, fuentes energéticas y demás recursos naturales en función de los
+valores del ambiente.
+Numerosas organizaciones promueven y cumplen las normas de Gestión
+Ambiental de la serie ISO 14000. Dichas normas internacionales son decumplimiento v oluntario, y algunas de ellas certificables, con lo que al
+ordenamiento de la gestión de impactos ambientales se agrega la
+posibilidad de demostrar el desempeño ambiental según la norma ISO
+14001:2004 a los clientes nacionales y también a los internacionales.
+La Evaluación del Impacto Ambiental es un estudio que sirve para el
+otor gamiento de la habilitación ambiental corr espondiente del
+empr endimiento que se pr oponga. 
+24 Buenas Prácticas Agrícolas en Viñedos11 MEDIDAS DE
+PROTECCIÓN
+AMBIENTAL
+En la Ley General del Ambiente Nº
+25.675/2002 se explican los
+conceptos de Ordenamiento
+Ambiental, Evaluación de ImpactoAmbiental, desarrollo de lo atinente a
+educación e información ambiental,
+participación ciudadana, seguroambiental, Sistema F ederal Ambiental,
+Acuerdos Federales, Autogestión, Daño
+Ambiental y Fondo de CompensaciónAmbiental.Las auditorias internas, denominadas en algunos casos como “auditorías
+de primera parte”, son realizadas por representantes de la dirección conel objetivo de revisar, mediante un proceso sistemático y documentado,el cumplimiento de un sistema de gestión de calidad, en este caso elcumplimiento de las buenas prácticas agrícolas.
+Las auditorias internas deben realizarse al menos una vez al año para
+asegurar el cumplimiento de las BPA. Esto no significa que se deba
+auditar todo el sistema de calidad en un momento determinado sino sepueden auditar los distintos procesos en determinadas épocas del año,es decir distribuir la auditoría dentro del ciclo agrícola. Debendocumentarse y registrarse las observaciones detectadas durante lasmismas, como así también las acciones correctivas realizadas.
+Una de las actividades consiste en recabar información que permita
+determinar si la calidad de un sistema, ser vicio, pr oducto o pr oceso
+concuer da con la norma pr eviamente adoptada y satisface los r equisitos
+establecidos; esta actividad se denomina “auditoría de la calidad”.
+Las auditorías de calidad son exámenes metódicos e independientes que
+se realizan para determinar si las actividades y los resultadosrelacionados con la calidad cumplen con medidas preestablecidas y paracomprobar si estas disposiciones están implementadas en forma efectivay son adecuadas para lograr los objetivos.
+Los principales propósitos que llevan a planear una auditoría son:
+• determinar la conformidad o no de los elementos del sistema de calidad
+con los requisitos especificados, 
+• determinar la efectividad del sistema de calidad instrumentado (ej: BPA,
+BPM, ISO9000, etc), 
+• evaluar la necesidad de introducir mejoras o acciones correctivas en
+base a las no conformidades encontr adas,
+• evaluar la eficiencia y eficacia de las acciones correctivas,
+• o bien satisfacer requisitos reglamentarios.
+Conviene que todos los elementos sean auditados y ev aluados
+internamente en forma regular, teniendo en cuenta el estado y la
+importancia de la actividad por auditar, abarcando al menos personal,instalaciones, mantenimiento de edificios y equipos, pr oducción,
+cosecha, documentación, saneamiento e higiene, calibración de
+maquinarias e instrumentos o sistemas de medición, contr ol de calidad
+del cultiv o y, por supuesto, resultado de inspecciones anteriores y
+medidas corr ectivas adoptadas.
+25 Buenas Prácticas Agrícolas en V iñedosAUDITORÍAS 12
+INTERNAS
+Oportunidad para realizar una
+auditoría:
+• Sospecha s de mal funcionamiento.
+• Cambios de organización o demétodos de trabajo.
+• Medios de detectar oportunidades
+de mejora s.
+• Cumplimiento del programa de
+auditoría s periódicas.Auditores
+Resulta fundamental que los auditores (personas calificadas para realizar
+las auditorías de calidad) tengan independencia, es decir, estén libres detodo prejuicio o tendencia y de toda influencia sobre el sector o área a serauditada, para que no se vea afectada su objetividad.
+Los auditores deben:
+• definir los requerimientos de cada auditoría, 
+• planificar la misma, • revisar la documentación existente relativa a las actividades para
+determinar su adecuación, 
+• informar inmediatamente las disconformidades al auditado, en especial
+las críticas,
+• comunicar cualquier obstáculo importante encontrado durante la
+auditoría e
+• informar los r esultados en forma clar a y concluy ente.
+Responsabilidades de una auditoría – metodología de trabajo
+Toda auditoría debería contar, como mínimo, con las siguientes partes:
+• Plan de auditoría , el cual deberá incluir los siguientes puntos: objetivos
+y alcances de la auditoría, identificación del personal conresponsabilidad directa, identificación de los documentos dereferencia, entre otros. El auditor programa la auditoría, definiendo unlistado de pr eguntas (check-list. Ver modelo en Capítulo 14) y una fecha
+exacta de la realización de la misma.
+• 
+Información al auditado , con la suficiente antelación, de la fecha
+prevista para la auditoría, del objeto y alcance de la misma.
+•Recolección de evidencias mediante entrevistas, examen de documentos y
+observación de las actividades y las condiciones en áreas involucradas. La
+auditoría se efectúa siguiendo el listado de preguntas preparado con
+anterioridad, pero sin restringir la investigación a otros posibles aspectosque surjan y sean de interés o dudosos.
+• 
+Documentación de todas las observaciones realizadas.
+• Preparación y distribución del informe con las observaciones realizadas
+por el auditor . El informe se  distribuye al auditado y/o al responsable
+del establecimiento .
+• Seguimiento de la acciones correctivas . El responsable de la finca
+auditada es quien debe definir las acciones correctoras en el caso deno conformidades. La acción corr ector a no forma par te del pr oceso
+auditor tal como está definido.
+• 
+Archiv o de la documentación respectiv a en gar antía de calidad por un
+período no inferior a cinco años.
+26 Buenas Prácticas Agrícolas en Viñedos
+Ventajas del diseño de una
+lista de verificación sanitaria:
+• Define el procedimiento a ser
+seguido.
+• Requiere investigación.
+• Ayuda a mantener el ritmo de la
+auditoría.
+• Mantiene claros los objetivos.
+• Constituye una referencia histórica.
+• Facilita el trabajo del auditor.• Asegura al auditado el
+profesionalismo del auditor.La frecuencia de la auditorías dependerá de las necesidades de cada
+viñedo, considerándose circunstancias típicas a tener en cuenta paradecidir la misma: cambios significativos en la conducción, organización,técnicas que puedan afectar el sistema de calidad, o cambios del sistemaen sí mismo y los resultados de auditorías previas.
+Ventajas
+Algunas de las ventajas de aplicar sistemas de auditorías internas son las
+siguientes:• Disponer de una serie histórica de datos como apoyo ante reclamos,
+sanciones o denuncias.
+• Comprobar si las mejoras introducidas tienen un reflejo en la finca y en
+el personal.
+• Asegurarse que el cultivo controlado cumplen con las normas
+obligatorias.
+• Reducir los riesgos de pér didas económicas.
+A continuación presentamos un esquema de los pasos a seguir para
+realizar una auditoría.
+27 Buenas Prácticas Agrícolas en V iñedos
+1 Inicio de la audit oría
+-designación del a uditor/re s.
+-designación de los objeti vos, el alcance y los 
+criterio s de la auditoria.
+3 Preparación de las act ividades de 
+ auditoría  
+-preparaci ón del plan de audit oría.
+-asignaci ón de tare as al auditor.
+-preparaci ón de los doc umentos de trabaj o.4 Reali zación de las actividades de 
+ auditoría 
+-realización de la reunión de ap ertura.
+-comunic ación dur ante la auditoría.
+-recopilación y verificación de la información.
+-generación de hallazgos de la auditoría.
+-preparación de las conc lusiones de la auditoría.
+5 Preparac ión, aprob ación y distribución 
+ del informe de auditoría
+-preparación del infor me de auditoría.
+-aprobación y d istribución del informe de auditoría.
+-reunión con el personal para comunicar los 
+resultados de la auditoría.
+6 Finalización de la audit oría2 Revisión de la d ocumentación
+-revisión de los doc umentos pertinentes del sistem a 
+de gestión, incluyend o los registros, y determinaci ón 
+de su adecuación con re specto a los criterios de 
+auditoría.Visión glob al de las actividade s típicas de aud itoría Las auditorías requieren un plan y ese
+plan debe ser revis ado y mantenido
+como el resto del sistema de gestión
+de calidad.  
+CONCLUSIÓN
+Para finalizar en este punto, diremos que un error puede tener serias
+consecuencias, además de costos no medibles tales como tiempo dedirectivos y especialistas, credibilidad de usuarios y autoridades,frustración, desorganización de operaciones, etc. Una auditoría llevada acabo con objetividad y responsabilidad puede identificar actividadesvulnerables permitiendo tomar medidas correctivas y preventivas.
+28 Buenas Prácticas Agrícolas en Viñedos29 Buenas Prácticas Agrícolas en V iñedosLISTA DE CHEQUEO 13
+PARA BUENASPRÁCTICASAGRÍCOLAS ENVIÑEDOS
+Documentos y regist ros 
+¿Lleva documenta ción sob re Reclamos d e Clientes? 
+¿Lleva documenta ción sob re Regi stro de  
+Accidentes laborales? 
+¿Lleva documenta ción sob re Regi stro de falla s? 
+ 
+ 
+¿ Lleva docume ntació n sobre el uso de Procedimie ntos  
+Operativos Estandar izados (POE)? 
+¿ Lleva docume ntació n sobre Inventario de insumos? 
+¿ Lleva docume ntació n sobre Re gistro de p roveedores? 
+¿ Lleva docume ntació n sobre Se rvicios rea lizados  
+por terce ros? 
+¿Tiene r egistro de la capac itación al person al? 
+¿Realizan auditor ías internas? 
+¿Se regi stran? 
+¿Se han realizad o mejo ras a pa rtir de los p ropios  
+diagnósticos (audito rias internas) ? Se refiere a e rrores de aplicación de 
+agroquímicos y /o inconven ientes e n 
+la plantación.Tema O bserv acionessi/no
+parcial
+Capacitación 
+¿La capacitación del pe rsonal es con tinua y programada? 
+¿La actitud del personal haci a la capacitación es buena? 
+¿ Lleva documentación sobre lo s contenidos de l as  
+capacitac iones real izadas? 
+ 
+¿Se registra la as istencia del personal? Temas sugeridos: manejo y a plicación 
+de agroquímicos, higiene personal, 
+seguridad en el trabajo, cosecha.Tema O bservacionessi/no
+parcial
+Trazabilidad 
+¿Están identificados los lotes? 
+¿Se dispone de registros de seguimie nto del cultivo? 
+ 
+¿Se tienen registros sobre la calidad del mate rial de  
+propagació n? Seguimie nto: Brotación, Floración, 
+Cuaje, Envero, Maduración.
+Material de p ropagació n certificado.Tema O bservacionessi/no
+parcial
+30 Buenas Prácticas Agrícolas en Viñedos
+Suelo y Ag ua
+¿Se considero la historia previa del lote?
+¿Hay mapa de suelos?
+¿Se hacen r egistros de labo reos?
+¿Se hace des infección de suelo s?
+ ¿Se ha justificado?
+ ¿Hay registros?
+ ¿Está asignado un responsable?
+¿Se utiliza ma teria orgánica para apli car al suelo ? 
+¿Se composta?
+¿Se real iza un análi sis del a gua de rie go al me nos una 
+vez al año, bu scando contami nantes mi crobiológicos, 
+químicos y  mine rales?
+¿Se mant ienen r egistros de co nsumo d el agua de rie go?
+¿Y del agua pota ble pa ra cons umo y lavad o de equ ipos?
+¿Se hace apropia damente l ucha cont ra heladas?
+ ¿Hay registros al respecto?Tiene que ha ber registro d e dicho 
+análisi s, y de la ce rtificac ión del 
+laboratorio donde se hiz o el m ismo.Tema O bservacionessi/no
+parcial
+Perso nal
+¿Cuenta n con asesor amiento técni co en la finca?
+¿El responsa ble cu enta con capacitación té cnica sobre 
+seguridad e hi giene?
+ ¿Y los opera rios?
+¿ Los t rabaja dores está n equipados con la ropa de 
+protecció n adec uada se gún los posib les riesgos pa ra 
+cada tipo de ta rea?
+¿Los tra bajado res tienen acceso e n las inm ediaciones de 
+su traba jo a se rvicios limpios e instalac iones para el 
+lavado de la s mano s? 
+¿Están en buen estado las vivie ndas de los tra bajadores?
+ ¿Tienen serv icios e instalac iones básicas?
+¿ Los t rabaja dores han r ecibido instrucc iones b ásicas 
+de hig iene?
+¿Se cumplen toda s las condi ciones de tr abajo acor des 
+con la s regulacione s locales y na cionales respecto a l a 
+seguridad del tr abajo?
+¿Los emp leados cuentan con libreta sanitaria?
+¿Se controla el estado de salud del pe rsonal?
+ ¿Hay registros al respecto?Esto i ncluye a  los tra bajad ores 
+temporarios.
+Ley N° 24 .557: Ries gos del Tr abajo – 
+Decreto 617/1887 Reglamento de 
+Higiene y Seg uridad para la 
+Activid ad AgrariaTema O bserv acionessi/no
+parci al31 Buenas Prácticas Agrícolas en V iñedos
+Limpieza  
+¿Se identifi can posibles fuentes de  contaminación? 
+¿Se real iza una limpiez a rutinaria general de la fin ca? 
+¿Existen rec ipientes para recolectar la bas ura, bie n tapados  
+e identifi cados? 
+¿Los residuos so n retira dos diariam ente? 
+¿Está  c laramente definido quien es el responsable de la  
+limpieza? 
+¿Los responsa bles de la limpieza saben cuando y cómo ésta  
+debe realizarse? 
+¿Se real iza control de pla gas de c ultivo?  
+¿Se real iza control de pla gas en el sector de  
+almacenamie nto?  
+ 
+ 
+ 
+ Tema O bservacionessi/no 
+parcial 
+Cosecha 
+¿Las herramientas son de material no poroso y lavable? 
+¿Se controlan los ve hículos de t ransporte, ope raciones de  
+carga y d escarga? 
+¿El lugar donde se guardan las herramientas para la  
+cosecha está iden tificado y  limpio?  
+¿Están identificados y limpio s las herramientas utilizadas  
+para la co secha?  
+ 
+ 
+ 
+ Tema O bservacionessi/no 
+parcial 
+Depósito de Ag roquímicos   
+¿Cuenta con un depósito de agr oquími cos? 
+¿Todo p roducto químico se alma cena lejos del lu gar de  
+almacenamie nto de las he rramientas de t rabajo? 
+¿Posee Abertur as?  
+ 
+Las ventanas que da n al exterior,  
+¿cuentan con malla s y/o rejas que impiden el ingreso d e  
+insectos o pája ros?  
+ ¿Se pueden limpiar fácilmente? 
+¿Las sup erficies y paredes del dep ósito están libres de  
+grietas, rajaduras y pintur a descascarada?  
+¿Los mate riales so n fáciles de limpiar y desi nfectar? 
+¿Los mate riales so n resistentes?  
+¿El drenaje de los pisos evita la acumu lación de agua  
+estancada y p ermite un rápido es currido? 
+¿Hay cartelera que advierta sobre cu idados y pel igros? 
+ Es impo rtante que esté bien v entilado 
+e iluminado.
+Sugerencia: zócalo antiderrame
+Materiales anti corrosivos e ig nífugos.Tema O bservacionessi/no
+parcial
+32 Buenas Prácticas Agrícolas en Viñedos
+Agroqu ímico s 
+¿Se regi stra si se aplican fe rtiliza ntes? 
+ 
+ 
+ 
+¿Se regi stra si se aplican fitosa nitarios? 
+ 
+ 
+¿Están las p lantas libres de s ignos visibles de plagas y  
+enfe rmeda des?  
+¿Los fertilizantes y fitosan itarios se almacen an en:  
+ lugares sepa rados ,  
+ identif icados,  
+ ordenados ,  
+ con sus etiquetas or iginales,  
+ y envases í ntegros?  
+¿Son to dos apro bados por S ENASA pa ra el uso pr evisto? 
+¿Controla y registra el sto ck de a groquímico s?  
+¿Se cuenta co n informac ión y fo rmació n para casos de  
+emergencia? 
+ ¿Existe un botiquí n de p rime ros auxilio s? 
+¿Se alma cenan los só lidos por encima de los líqu idos? 
+¿Se respetan las pa utas de ma nejo de residuos só lidos y  
+líquidos? 
+¿Realiza un man tenimie nto a la maquina ria uti lizada pa ra  
+la aplic ación de a groquímico s? 
+ ¿Se calibran periódi camente? 
+ ¿Se registra dicha cal ibración? 
+¿Utiliza la té cnica del triple l avado lue go de una apli cación?  
+¿Utiliza sistemas ofi ciales de r ecolección y gestió n de  
+enva ses vacíos de fito sanitarios? 
+¿La vestimen ta de protección se gu arda sep aradamen te de  
+los p rodu ctos agr oquími cos? 
+ 
+ El re gistro debe acompaña rse del 
+análisi s de s uelo co rrespondiente y 
+del certificado IS O1 7025 del 
+laboratorio que realiza el análisis.
+El registro tiene que llevar el aval de 
+alguie n capac itado y tal capac itación 
+estar demostr ada co n un certificado.Tema O bserv acionessi/no
+parcial
+33 Buenas Prácticas Agrícolas en V iñedosANEXO I Definiciones
+Agua de uso agrícola . El agua que se utiliza en los cultivos por razones
+agronómicas como en el riego, control de heladas, aplicación defitoterápicos y otras operaciones similares.
+Agua potable . Agua que cumple con lo especificado en la legislación
+vigente del Código Alimentario Argentino, en su artículo 982, contenido
+en su capítulo XII.
+Análisis de riesgo . Proceso que caracteriza los efectos adversos, evalúa
+sus probabilidades, determina sus consecuencias y analiza las formas enque los riesgos pueden ser mitigados (según el Comité de SanidadVegetal del Cono Sur - COSAVE - Agosto 2000).
+Compostado . Proceso al que se someten los sustr atos or gánicos, el que,
+a través de pr ocesos bio xidativos controlados, incluyendo una etapa
+inicial termófilica, estabiliza la materia orgánica, elimina el olor y reduce
+el nivel patogénico.
+Enfermedades criptogámicas . Alteraciones producidas por hongos que
+pueden afectar el rendimiento o la calidad de la materia prima.
+Establecimiento . Ámbito que comprende el área y/o el local donde se
+lleva a cabo un conjunto de oper aciones y pr ocesos con la finalidad de
+acondicionar las materias primas y/o alimentos elaborados, así como el
+almacenamiento de los mismos.
+Evapotranspiración . Proceso  de evaporación desde el suelo, combinado
+con transpiración de las plantas.
+Fertilizante . Toda sustancia, o mezcla de sustancias que, incorporada al
+suelo o aplicada sobr e la par te aér ea de las plantas, suministr a el o los
+elementos que requieren los vegetales para su nutrición, con el propósito
+de estimular su crecimiento, aumentar su productividad y mejorar lacalidad de las cosechas (según el Decr eto Nº 4830, artículo 3º). 
+Lixiviación . Proceso por el cual cualquier líquido y sus componentes en
+suspensión han percolado o drenado a través de una masa de residuos odel suelo .
+Manipulación . Todas las oper aciones que se efectúan con la uv a en
+cualquier etapa de su pr ocesamiento, almacenamiento y tr ansporte.Material de propagación . Todo órgano vegetal, tanto semilla en sentido
+botánico estricto como también frutos, bulbos, tubérculos, yemas,estacas y cualquier otra estructura incluyendo plantas de vivero que seandestinadas o utilizadas para siembra, plantación y/o propagación.
+Organismo competente . Organismo oficial,  o reconocido oficialmente, al
+que el Estado Nacional le otorga las facultades legales para ejercer
+ciertas funciones.
+Patógeno . Microorganismo capaz de causar daño o enfermedad.
+Peligro . Es una expresión cualitativa del daño potencial.
+Plaga . Cualquier especie, raza o biotipo de vegetales, animales o agentes
+patogénicos nocivos para los vegetales o productos vegetales.
+Procedimientos Oper ativos Estandarizados de Saneamiento (POES) .
+Procedimientos de limpieza y desinfección de instalaciones omaquinarias, que deben estar precisamente descriptos y registrados.
+Producto fitosanitario . Sustancia, agente biológico, mezcla de sustancias
+o de agentes biológicos destinados a prevenir, controlar o destruircualquier organismo nocivo, incluyendo las especies no deseadas deplantas, animales o microorganismos que causan perjuicios ointerfer encias negativ as en la pr oducción, la elaboración o el
+almacenamiento de vegetales y sus productos. 
+NOTA. Este término incluye coadyuvantes, fitorreguladores, desecantes y
+las sustancias aplicadas a los vegetales pre y post-cosecha paraprotegerlos contra el deterioro durante el almacenamiento y el transporte(según el Comité de Sanidad Vegetal del Cono Sur - COSAVE - Agosto
+2000). 
+Riesgo . Expresión cuantitativ a de la pr obabilidad de ocurr encia de daño.
+34 Buenas Prácticas Agrícolas en Viñedos35
+Buenas Prácticas Agrícolas en V iñedos
+Lote 
+Cultivo 
+Variedad 
+ 
+Tipo de tratamiento   Fertilización 
+ 
+Fecha 
+ 
+Zona de aplicación del producto 1 1 
+Nombre comercial del producto 1 
+Nombre del principio activvo 1 
+Dosis de producto aplicado 1 2 
+Cantidad total de producto 1 aplicado en el lote 
+Cantidad de producto 1 aplicado por hectárea 
+Forma de aplicación del producto 1 3 
+ 
+Zona de aplicación del producto 2 1 
+Nombre comercial del producto 2 
+Nombre del principio activvo 2 
+Dosis de producto aplicado 2 2 
+Cantidad total de producto 2 aplicado en el lote 
+Cantidad de producto 2 aplicado por hectárea 
+Forma de aplicación del producto 2 3 
+ 
+Zona de aplicación del producto 3 1 
+Nombre comercial del producto 3 
+Nombre del principio activvo 3 
+Dosis de producto aplicado 3 2 
+Cantidad total de producto 3 aplicado en el lote 
+Cantidad de producto 3 aplicado por hectárea 
+Forma de aplicación del producto 3 3 
+ 
+Plazo de seguridad 
+ 
+Justificación de la aplicación 
+Autorización técnica para la aplicación 
+Maquinaria utilizada para la aplicación 
+ 
+Nombre del responsable de la aplicación 
+Nombre del aplicador 1 
+Nombre del aplicador 2 
+Nombre del aplicador 3 
+Nombre del aplicador 4 
+Nombre del aplicador 5 Registro de aplicación de productos: fertilizaciónANEXO II36
+Buenas Prácticas Agrícolas en Viñedos
+Lote 
+Cultivo 
+Variedad 
+ 
+Tipo de tratamiento   Control de insectos/ácaros 
+ 
+Fecha 
+ 
+Zona de aplicación del producto 1 1 
+Nombre comercial del producto 1 
+Nombre del principio activvo 1 
+Dosis de producto aplicado 1 2 
+Cantidad total de producto 1 aplicado en el lote 
+Cantidad de producto 1 aplicado por hectárea 
+Forma de aplicación del producto 1 3 
+ 
+Zona de aplicación del producto 2 1 
+Nombre comercial del producto 2 
+Nombre del principio activvo 2 
+Dosis de producto aplicado 2 2 
+Cantidad total de producto 2 aplicado en el lote 
+Cantidad de producto 2 aplicado por hectárea 
+Forma de aplicación del producto 2 3 
+ 
+Zona de aplicación del producto 3 1 
+Nombre comercial del producto 3 
+Nombre del principio activvo 3 
+Dosis de producto aplicado 3 2 
+Cantidad total de producto 3 aplicado en el lote 
+Cantidad de producto 3 aplicado por hectárea 
+Forma de aplicación del producto 3 3 
+ 
+Plazo de seguridad 
+ 
+Justificación de la aplicación 
+Autorización técnica para la aplicación 
+Maquinaria utilizada para la aplicación 
+ 
+Nombre del responsable de la aplicación 
+Nombre del aplicador 1 
+Nombre del aplicador 2 
+Nombre del aplicador 3 
+Nombre del aplicador 4 
+Nombre del aplicador 5 Registro de aplicación de productos: control de plagasANEXO II37
+Buenas Prácticas Agrícolas en V iñedosANEXO IIANEXO III
+Fecha Producto Dosis por
+planDosis por
+hectáreaEstado 
+fenológicoForma de
+aplicaciónAplicadorObservacionesFertilizaciones /abonaduras /enmiendas realizadas
+ESPECIE    VARIEDAD   SUPERFICIE     Nº/NOMBRE38
+Buenas Prácticas Agrícolas en Viñedos
+Nº
+SINOIZQ.DER.Tipo de
+equipoMarcaModelo Capacidad
+arranqueEstado
+manómetro
+adecuadoNúmero 
+de salidas
+operativas 
+por año Presión de
+trabajo
+normalManteni-
+mientoAñoRegistros de estado y calibración de maquinaria
+Fecha
+última
+calibraciónResponsable
+calibraciónANEXO IV39 Buenas Prácticas Agrícolas en V iñedosANEXO V EEJJEEMMPPLLOO DDEE PPOOEESS
+Página 1 de ........  FINCA .........
+Procedimiento de Limpieza y Saneamiento  
+Sector: Depósito de Productos Fitosanitarios
+Código: POES/ FM - 008                                                  Fecha de Emisión:.../.../...             
+Supera al de Fecha: .../.../...
+Preparado por:...............................      Aprobado por: ............................Firma: ................................              Firma: ...............................
+I. Objetivo:
+Realizar la limpieza y desinf ección del Sector mediante un pr ocedimiento escrito y respaldado por
+información técnica.  
+II. Responsabilidades:
+III. Frecuencia:IV. Materiales y Equipos.
+1. Agua potable.
+2. Cepillo, escoba, secador, mopa sanitaria y tarima. 
+3. Detergente (consignar marca, principio activo y concentración)4. Desinf ectante (consi gnar marca, principio activo y concentración).
+V. Normas de Seguridad.
+1. Asegurarse que se haya cortado la alimentación eléctrica. 
+2. Utilizar delantal de plástico, guantes y gafas de seguridad, evitando en todo momento el contacto
+directo de los pr oductos con piel, mucos as y ojos.
+VI.  Zonas de Limpieza.
+Estantes y pisos
+VII.  Procedimiento.
+1. Retirar los envases que se encuentran en los estantes, colocarlos en una tarima en forma ordenada
+respetando la ubicación que tenían de acuerdo a tipo de producto, marca y fecha de vencimiento.
+Cubrir.
+2. Lavar los estantes con cepillo, agua y detergente. Enjuagar con cepillo. Secar con secador. Aplicar
+desinfectante. Dejar secar.
+3. Una vez seco los estantes, volver a colocar los productos en sus lugares. Verificar que no existan
+productos vencidos y en el caso de encontrarlos, disponer de acuerdo al POES XXX.
+4. Barrer el piso, lavar, enjuagar, secar y desinfectar de la misma forma que los estantes.
+5. El responsable deberá realizar una inspección para corroborar la perfecta limpieza. Luego completará y
+firmará la planilla Registro de Limpieza XXX.40 Buenas Prácticas Agrícolas en ViñedosANEXO VI EJEMPLO DE HOJA DE SEGURIDAD DE PRODUCTOS AGROQUÍMICOS
+Esta hoja de seguridad viene con el producto químico. Se recomienda no
+comprar productos que no estén acompañados por dicha información deseguridad de las personas y los bienes.
+En el siguiente ejemplo se eliminaron datos particulares del agroquímico
+y la empresa, dejando aquellos datos que se consideraron pertinentes
+para determinar la importancia de tener dicha información.
+Ejemplo ilustrativo de hoja de seguridad
+1)IDENTIFICACIÓN DEL PRODUCTO Y PROVEEDOR:
+Nombre del Producto: ...................................................................
+Proveedor : ...................................................................Dirección del Proveedor: ......................................................................................Teléfonos de  Emergencia .................................................................................
+2) COMPOSICIÓN/INGREDIENTES: ...................................................................
+3) IDENTIFICACION DE LOS RIESGOS:
+- CONTACTO CON LOS OJOS: Ligero irritante ocular.
+- CONT ACTO CON L A PIEL: Ligero irritante de la piel.
+- INGESTIÓN: Síntomas descritos arriba.
+- INHAL ACIÓN: Abundantes secreciones na sales y br onquiales.
+- SEÑALES Y SÍNTOMAS DE EXPOSICIÓN: Efectos de una sobreexposición aguda (por una vez):
+ansiedad, vértigo, salivación, opresión del pecho, aumento de secreciones nasales ybronquiales, náusea s, vómitos, diarrea, sudor frío.
+Efectos de una sobre exposición crónica (largo plazo): No descritos.
+Condiciones médicas que se verán agravadas con la exposición al producto: Bajo nivel de
+colinesterasa basal.
+Peligros especiales del producto :
+Inhibidor de la colinesterasa, neurotóxico.Marca en etiqueta: Tóxico. Evite contacto con alimentos.
+4) MEDIDAS DE PRIMEROS AUXILIOS:
+En caso de contacto accidental con el producto, proceder de acuerdo con las siguientes
+indicaciones:INHALACIÓN: Trasladar al afectado al aire fresco.PIEL: Quitar la r opa contaminada, la var en forma abundante la piel con agua y jabón. Si existe
+irritación, acudir al médico.
+OJOS: Lavar con abundante agua limpia y corriente, por lo menos 1 5 minutos, cuidando que lospárpados permanezcan bien abiertos. Si existe irritación, acudir al médico.41 Buenas Prácticas Agrícolas en V iñedosINGESTIÓN: Inducir vómito sólo si el afectado está consciente. Trasladar de inmediato a un centro
+asistencial.NOTA AL MÉDICO: Usar como antídoto sulfato de atropina. Continuar con tratamiento sintomático.
+5) MEDIDAS PARA LUCHA CONTRA EL FUEGO:
+Agentes de extinción: Polvo Químico ABC o espuma química
+RIESGOS DE INCENDIO Y EXPLOSIÓN: Inicialmente asperjar con agua, para enfriar sector noafectado.
+EQUIPOS ESPECIALES DE PROTECCIÓN PARA COMBATIR EL FUEGO Y LOS RIESGOS:
+Ropa especial para combatir incendios y equipo de protección respiratoria autónoma.
+6) MEDIDAS PARA CONTROLAR DERRAMES O FUGAS:
+Manténga se en dirección opuesta a la del viento. Detenga el escape o derrame, si puede hacerlo
+sin correr riesgos. Use equipos de protección adecuados (incluyendo equipo de respiración)
+durante la limpieza. Contenga el derrame para prevenir la contaminación de cauces de agua.Utilice materiales absorbentes como tierra, arena o a serrín para contener el derrame. T ransfiera
+con pala el material impregnado a contenedores apr opiados. Ev acue la s persona s del área
+afectada. Como medida preventiva, apague todas las fuentes de ignición. Coloque los recipientes
+rotos dentro de otros buenos.
+7) MANIPULACIÓN Y ALMACENAMIENTO:
+Recomendaciones técnica s: Almacenar en un lugar seco fresco y bien ventilado, lejos de fuego o
+calor. Lejos del alcance de niños o personas no responsables.Precauciones a tomar: Mantener el envase cerrado con etiqueta visible, lejos del alcance deniños, persona s no respons ables y animales domésticos.
+Recomendaciones sobre manipulación: Us ar ropa protectora, guantes y botas.
+Condiciones de almacenamiento: Lejos de alimentos, de niños o personas no responsables, en
+lugar fresco y seco.Embalajes recomendadas: Almacenar en envase cerrado con la etiqueta visible. Cuidado conenvases rotos o mal sellados.
+8) CONTROL DE EXPOSICIÓN/CONTROL ESPECIAL:
+En caso de manipular el producto en lugares cerrados usar máscara con filtro para vapores
+orgánicos.VENTILACIÓN: Lugar ventilado.PROTECCIÓN RESPIRATORIA: Máscara con filtroPROTECCIÓN PARA LA PIEL: Guantes de neoprén, botas y traje.PROTECCIÓN P ARA LOS OJOS: Antiparra s
+Otros equipos de protección: Protector facial, capucha, botas Parámetros de control: Nivel de
+acetilcolinestera sa en sangre.
+9) PROPIEDADES FÍSICAS Y QUÍMICAS:
+SOLUBILIDAD EN AGUA : ...........................................
+LIMITE DE INFL AMABILID AD : ...........................................42 Buenas Prácticas Agrícolas en ViñedosAPARIENCIA : ............................................
+AROMA : ...........................................DENSIDAD a 20ºC : ...........................................TEMPERATURA DE DESCOMPOSICIÓN : ...........................................PROPIEDADES EXPLOSIVAS : ...........................................
+10) ESTABILIDAD Y REACTIVIDAD:
+ESTABILIDAD (CONDICIONES A EVITAR): ...........................................
+INCOMPATIBILIDAD (MATERIALES ESPECÍFICOS A EVITAR): ...........................................
+PERSISTENCIA/DEGRADABILIDAD: ...........................................
+1 1) INFORMACIÓN TOXICOLÓGICA:
+Nocivo (Grupo II)
+Toxicidad aguda (LD50): Oral ratas 60 mg/kg; Dermal ratas > 3000 mg/kg; LC50 inhalatorioratas (4h): > 0.35 mg/L.Efectos locales: ...........................................
+Sensibilización alergénica: ...........................................
+12) INFORMACION ECOLÓGICA:
+No contamine aguas de riego o de uso doméstico.
+Bio-acumulación: ...........................................Efectos sobre el ambiente: ...........................................
+13) CONSIDERACIONES SOBRE DISPOSICIÓN FINAL:
+MÉTODO DE DISP OSICIÓN: Los desechos resultantes pueden ser eliminados en un entierr o
+autorizado por la entidad local competente, por incineración contr olada ó de acuerdo a la
+recomendación de ABCX SA para casos específicos. Al almacenar o desechar el producto no
+contamine alimentos, forraje o agua.
+14) INFORMACIÓN SOBRE TRANSPORTES: ...........................................43 Buenas Prácticas Agrícolas en V iñedosEUREPGAP
+PUNTOS DE CONTROL Y CRITERIOS DE CUMPLIMIENT O
+Frutas y Hortalizas
+Versión en Español. Versión 2.1-Oct 04
+ANEXO 1:  GUÍAS PARA LA EVALUACIÓN DE RIESGOS EN NUEVAS ZONAS DE PRODUCCIÓN
+AGRÍCOLA
+Punto de Control:
+La pregunta Eurep número 4.1.1 dice: “Hay evaluación de riesgos para nuevas zonas de
+producción agrícola, que muestren que el sitio en cuestión es adecuado para la producción dealimentos en lo referente a la seguridad de los Alimentos, salud laboral y ambiente?"
+Criterio de Cumplimiento:
+El criterio de cumplimiento con respecto a esta pregunta es: " Hay una evaluación documentada
+de riesgos relacionados a la seguridad de los alimentos, salud laboral y ambiente que toma en
+consideración el uso anterior de la tierra, tipo de tierra, erosión, calidad y nivel freático,
+disponibilidad de fuentes sostenibles de agua, y el impacto ambiental en el área de explotación yen el área ady acente. (Consulte las guías EUREPGAP para la evaluación de riesgos en nuevas
+zonas de producción agrícola en el Anexo 1). En caso de que la evaluación de riesgos identifiqueun riesgo no controlable que sea crítico para la salud y / o el medio ambiente, no se podráutilizar el terreno para actividades agrícola s.
+"
+Legislación:
+Antes que nada se deben estudiar los reglamentos locales para verificar que se esté cumpliendo
+con las normas legales.
+Lo referente al uso previo del campo debería cubrir:
+• Cultivos previos.
+Por ejemplo, los productores de algodón utilizan grandes cantidades de productosfitosanitarios que dejan residuos y pueden tener efectos a largo plazo sobre cultivosposteriores de cereales y otros.
+• Uso industrial o militar.
+Por ejemplo, zonas que fueron utilizadas como parque de vehículos pueden tener un altogrado de contaminación de petróleo.
+• Sitios de relleno y minas
+Pueden existir residuos inaceptables en el subsuelo que contaminen cultivos posteriores oque se produzcan hundimientos repentinos en el terreno haciendo peligrar la vida de laspersonas trabajando allí.
+• Vegetación natural
+Puede ocultar plagas, enfermedades y malas hierbas.
+Lo referen te al tipo de suelo debería cubrir:
+Adecuación estructural para los cultivos planeados
+Susceptibilidad estructural a la erosión
+Adecuación química para los cultivos planeados
+• Erosión:ANEXO VII 44 Buenas Prácticas Agrícolas en ViñedosUn estudio realizado debería determinar si hay, o podría haber, pérdida despareja en la capa
+superior del suelo que pueda afectar el rendimiento del cultivo , la tierra o el agua río abajo.
+• La forma del terreno
+• Formas de drenaje:
+Propensidad a inundación y/o erosión
+Conformación e inclinación del terreno
+Erosión del suelo.Seguridad de las personas que operan maquinaria.Transporte del cultivo recolectado.
+• Exposición al viento:
+Velocidades excesivas del viento pueden ser causa de pérdida de cultivos.
+Lo referente a la evaluación del agua debería cubrir:
+• Calidad del agua:
+Se debe determinar la calidad del agua en un laboratorio que sea capaz de realizar análisisquímicos y bacteriológicos de acuerdo a un nivel ISO 1 7025 o, en su defecto, un nivel
+equivalente nacional.
+• Disponibilidad:
+Adecuada durante todo el año, o al menos durante el período de explotación propuesto.
+• Autorización para su uso:
+Se debe a segurar la cantidad estimada de agua que requerirá el cultivo.
+Derechos de tercer os para su uso.
+Las leyes y costumbres locales deberán reconocer el derecho de uso de terceros cuyas
+necesidades puedan supeditar por momentos el uso del agua destinada a la explotaciónagrícola.Impacto medioambientalAlgunas velocidades de extracción que pueden ser legales, podrían a su vez tener efectoadverso sobre la flora y f auna que se a socia con o depende de la s fuentes de agua.
+Lo referen te al impacto de la explotación agrícola debería cubrir:
+• Inter namente:
+Problema s de polvo, humo y ruido caus ado por el uso de maquinaria agrícola.
+Contaminación con agua de desagüe cargada de sedimentos y sustancias químicas, de sitios
+que se encuentran río abajo.Pulverización.Insectos atraídos por el cultivo, su residuo o por el uso de estiércol.
+• Externamente:
+Humo, gases y polvo provenientes de instalaciones industriales o de transporte cercanas,incluyendo calles con mucho tránsito.Agua de desagüe cargada de sedimentos y sustancias químicas proveniente de sitios deexplotación agrícola que se encuentran río arriba.Plagas provenientes de áreas naturales y de conservación cercanas.Robo por habitantes de comunidades cercana s.
+Actividades agrícolas adyacentes.
+Disponibilidad de transporte adecuado a los mercados.Disponibilidad de fuerza de trabajo adecuada.Disponibilidad de fondos.Señales de obligatoriedad
+Señales informativas
+45
+Buenas Prácticas Agrícolas en V iñedosANEXO VIII
+Protección obligatoria
+de la vistaProtección obligatoria
+de la cabezaProtección obligatoria
+del oído
+Protección obligatoria de
+las vías respiratoriasProtección obligatoria
+de los piesProtección obligatoria
+de las manos
+Protección obligatoria
+del cuerpoProtección obligatoria
+de la cara
+Vía obligatoria para
+peatones Obligación general (acompañada, si
+procede, de una señal adicional) Protección obligatoria
+contra caídas
+Dirección que debe seguirse. (Señal indicativa adicional a las siguientes)Vía / Salida de socorr o46 Buenas Prácticas Agrícolas en Viñedos
+Primeros
+auxiliosCamilla DuchaLavado de
+ojosTeléfono de
+salvamentoPara la redacción de esta publicación conjunta se han consultado los
+documentos siguientes:
+• Ley 18.284. Código Alimentario Argentino.
+• Resolución SAGPyA 71/1999. Guía de Buenos Aires Prácticas de Higiene
+y Agrícolas para la Producción Primaria (cultivo - cosecha), Empacado,Almacenamiento y Transporte de Hortalizas Frescas. 
+• Resolución SAGPyA 510/2002. Guía de Buenas Prácticas de Higiene,
+Agrícolas y de Manufactura para la producción primaria (cultivo-cosecha), acondicionamiento, empaque, almacenamiento y transportede frutas frescas.
+• Resolución SAGPyA 530/2001. Normas relativas a las Buenas Prácticas
+de Higiene y Agrícolas para la producción primaria (cultivo-cosecha),acondicionamiento, almacenamiento y transporte de productosaromáticos.
+• Resolución S ENASA 233/1998 sobr e POES (Procedimientos Operativos
+Estandarizados de Saneamiento).
+• Gómez Riera, Pablo – Hübbe, Susana. “Manual de BPA y buenas
+prácticas de manejo y empaque, para frutas y hortalizas”. Mendoza:INTA - ISCAMEN. 2001.
+• EUREPGAP . Frutas y Hortalizas. Reglamento General. Puntos de Control
+y Criterios de Cumplimiento. Listado de Verificación. Versión 2.1 –Octubre 2004.
+• Norma IRAM 14203:2004 “Procedimientos Operativos Estandarizados
+de Saneamiento ”.
+• Norma IRAM-ISO 9000:2005 • Norma ISO 19011:2002  “Directrices para la auditoría de los sistemas de
+gestión de la calidad y/o ambiental”.
+• Resolución SAGPyA 350/1999. “Manual de Procedimientos, Criterios y
+Alcances para el Registro de Productos Fitosanitarios en la República
+Argentina”.
+• FAO - Oficina Regional de la FAO para América Latina y el Caribe. “Las
+Buenas P rácticas Agrícolas”. 2004.
+• Ing. Agr. Pórfido, Daniel. “Envases vacíos de productos fitosanitarios.
+Un Problema que encuentra solución. CASAFE”.
+• Norma I RAM 3517-1:1985 - Matafuegos manuales y sobre ruedas.
+Elección, instalación y uso 
+• Norma IRAM 3517-2:2000 - Extintores (matafuegos) manuales y sobre
+ruedas. Dotación, control, mantenimiento y recarga.   
+• Norma I RAM 3588:1998 - P rotección contr a incendios. P rescripciones
+generales.
+47 Buenas Prácticas Agrícolas en V iñedosBIBLIOGRAFÍALos profesionales siguientes han colaborado a través de sus comentarios
+y sugerencias para mejorar el texto de este documento conjunto:
+Institución / Empresa Representante
+CASAFE Ing. Daniel Porfido
+Consultora externa Lic. María Selva Rodríguez
+Consultora externa Lic. Olga Mitschele
+INTA Ing. Liliana Graciela Troilo
+INTI Ing. Sergio Flores
+INV Ing. Raúl Millán
+IRAM Ing. Agr. Enrique M. Kurincic
+SAGPyA Ing. Germán Behr Menéndez
+SAGPyA Ing. Paula Feldman
+SAGPyA Ing. Mercedes Nimo
+48 Buenas Prácticas Agrícolas en ViñedosCOLABORADORES

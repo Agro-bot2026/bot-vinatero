@@ -1,0 +1,1482 @@
+Manual del AlmendroManual del Almendro
+Sevilla 2013Manual del Cultivo del Almendro
+Editor cientíﬁco: Octavio ArqueroDirección Facultativa: Antonio Rodríguez y José María QuejoEdita: Junta de Andalucía          Consejería de Agricultura, Pesca y Desarrollo RuralPublica: Servicio de publicaciones y DivulgaciónFotografías e ilustraciones: los autores.Colección: AgriculturaSerie: Estudios e Informes técnicosDepósito Legal: SE 2378-2013Manual del almendro / [autores, Arquero Octavio... et al.].-- Sevilla : Consejería 
+de Agricultura, Pesca y Desarrollo Rural, 2013
+80 p. : il. col. ; 24 cm.-- (Agricultura. Estudios e informes técnicos)
+D.L. SE 2378-2013Agricultura. -- Almendro. -- Cultivo. -- Poda
+634.55Manual del Almendro
+3PRÓLOGO
+El almendro es el segundo cultivo frutal en extensión, después del olivar, tanto a nivel andaluz 
+como nacional. Tradicionalmente se ha implantado bajo malas condiciones del medio físico (orografía, clima y suelo), siendo además cultivado en régimen de secano. 
+En gran parte de la superﬁcie cultivada estas malas condiciones son extremas, dando lugar a 
+un cultivo marginal cuyas producciones no superan los 150 kg/ha de almendra grano. A pesar de la baja rentabilidad, éste cultivo suele tener una gran relevancia económica y social, al localizarse en comarcas deprimidas y con escasas posibilidades de alternativas.
+La baja productividad de estas plantaciones tiene un componente muy importante en las 
+limitaciones insalvables que suponen las malas condiciones del medio, siendo más acusadas en el almendral marginal. Pero también hay otro componente negativo debido al mal manejo que, con relativa frecuencia, se hace del cultivo. 
+En países de más reciente implantación del almendro, como California o Australia, se apostó por 
+un cultivo “intensivo”, bajo condiciones óptimas de suelo y clima, con altas dotaciones de riego y muy tecniﬁcado. En estas circunstancias están alcanzando unos niveles productivos en torno a los 2.500 kg/ha de almendra grano.
+En los últimos años el cultivo del almendro en España está experimentado un cambio muy 
+signiﬁcativo. El buen escenario del mercado de la almendra y la necesidad de cultivos alternativos, está propiciando el establecimiento de nuevas plantaciones de almendro bajo buenas condiciones y, generalmente, en zonas no tradicionales para este cultivo. La mayoría de ellas son en riego, aunque deﬁcitario, y los resultados que se están consiguiendo son muy esperanzadores. 
+Estas nuevas plantaciones presentan unas características muy diferentes a las que se dan 
+en las tradicionales, siendo necesarios nuevos criterios de cultivo adaptados a este tipo de plantaciones.
+En este contexto del cultivo del almendro es necesario incidir en las actividades de investigación, 
+experimentación y transferencia (en la que se encuadra esta publicación) que permitan mejorar las diferentes técnicas de cultivo y contribuir, así, a la viabilidad del almendral tradicional y a la consolidación de las nuevas plantaciones en riego como una alternativa de cultivo de alta rentabilidad.
+Gran parte de los resultados expuestos en esta obra se han obtenido en el marco del Proyecto 
+del IFAPA “Transforma de Fruticultura Mediterránea”, contando con la colaboración de las OPFHs Crisol/Arboreto y Mañan.Manual del Almendro
+51. DISTRIBUCIÓN Y MERCADO ..........................................................................
+1.1. Producción y superﬁcie cultivada ....................................................................
+1.2. Mercado y comercialización ...........................................................................
+1.2.1. Comercio exterior .................................................................................1.2.2. Comercio interior ..................................................................................1.2.3. Normas de recepción de la almendra cáscara .........................................1.2.4. La comercialización de la almendra ecológica .........................................
+2. EXIGENCIAS MEDIOAMBIENTALES .................................................................
+2.1. Clima ............................................................................................................
+Temperatura ...................................................................................................Pluviosidad .....................................................................................................Humedad relativa ............................................................................................Viento ............................................................................................................
+2.2. Suelo ............................................................................................................
+Propiedades físicas .........................................................................................Propiedades químicas .....................................................................................
+2.3. Calidad agronómica del agua de riego ............................................................
+3. MATERIAL VEGETAL ......................................................................................
+3.1. Patrones .......................................................................................................
+Francos de almendro ......................................................................................Francos de melocotonero ................................................................................Clonales de ciruelo .........................................................................................Híbridos entre almendro y melocotonero ..........................................................
+3.2. Variedades ....................................................................................................
+Fenología .......................................................................................................Compatibilidad ................................................................................................Resistencia a enfermedades ............................................................................Productividad .................................................................................................Características del fruto ..................................................................................Nuevas variedades..........................................................................................
+4. DISEÑO Y EJECUCIÓN DE LA PLANTACIÓN ....................................................
+4.1. Actuaciones previas .......................................................................................4.2. Disposición de los árboles..............................................................................
+Densidad de plantación ...................................................................................Marcos de plantación ......................................................................................Diseño de polinizadores ..................................................................................
+4.3. Ejecución de la plantación ..............................................................................
+Replanteo y apertura de hoyos ........................................................................Tipos de plantones .........................................................................................
+4.4. Cuidados posteriores .....................................................................................
+5. SISTEMAS DE FORMACIÓN Y PODA ...............................................................
+5.1. Sistemas de formación ..................................................................................5.2. Poda ............................................................................................................
+5.2.1. Criterios de poda ..................................................................................5.2.2. Sistemas de poda .................................................................................
+Poda en verde ..........................................................................................ÍNDICEÍndice
+6Poda de invierno .......................................................................................
+Poda de plantación ...................................................................................Poda de formación ....................................................................................Poda de producción ..................................................................................Poda de rejuvenecimiento ..........................................................................Poda mecánica .........................................................................................
+5.2.3. Intensidad de poda ...............................................................................
+6. MANEJO DEL SUELO.....................................................................................
+6.1. Sistemas de manejo ......................................................................................
+Laboreo .........................................................................................................No laboreo con suelo desnudo .........................................................................Cubierta vegetal viva .......................................................................................Sistemas mixtos .............................................................................................
+7. FERTILIZACIÓN .............................................................................................
+7.1. Criterios de fertilización .................................................................................7.2. Formas y criterios de aplicación .....................................................................
+8. RIEGO ..........................................................................................................
+8.1. Programación de riegos .................................................................................8.2. Riego deﬁcitario ............................................................................................
+9. PLAGAS Y ENFERMEDADES ..........................................................................
+9.1. Plagas ..........................................................................................................
+Pulgón verde ..................................................................................................Mosquito verde ...............................................................................................Falso tigre ......................................................................................................Araña amarilla ................................................................................................Anarsia ..........................................................................................................Orugueta ........................................................................................................Gusano cabezudo ...........................................................................................Barrenillo .......................................................................................................
+9.2. Enfermedades ...............................................................................................
+Moniliosis .......................................................................................................Mancha ocre ..................................................................................................Cribado ..........................................................................................................Roya ..............................................................................................................Lepra .............................................................................................................Chancro de Fusicoccum ..................................................................................Verticilosis .....................................................................................................Podredumbre radical de Fitoftora .....................................................................
+9.3. Estrategias de control ....................................................................................
+10. RECOLECCIÓN ...........................................................................................
+10.1. Derribo y recepción del fruto ........................................................................10.2. Descortezado y secado de la almendra .........................................................10.3. Otros sistemas de recolección .....................................................................
+11. ESTADO ACTUAL DEL CULTIVO DEL ALMENDRO EN ANDALUCÍA ...................
+11.1. El cultivo marginal........................................................................................11.2. El secano tradicional ....................................................................................11.3. Nuevas plantaciones en riego .......................................................................Manual del Almendro
+7Autor Capítulo
+Arquero, Octavio ....................................................................2, 3, 4, 5, 6, 7, 9, 10 y 11
+Doctor Ingeniero Agrónomo (IFAPA)
+Belmonte, Arturo ....................................................................11
+Ingeniero Técnico Agrícola (OPFH Mañan)
+Casado, Baldomero ................................................................3 y 5
+Técnico Agropecuario (OCA Antequera)
+Cruz-Blanco, María .................................................................8
+Ingeniero Agrónomo (IFAPA)
+Espadafor, Mónica ..................................................................8
+Ingeniero Agrónomo (IFAPA)
+Fernández, José Luis (Grupo Borges) .......................................3
+Ingeniero Técnico Agrícola (Grupo Borges)
+Gallego, Juan Carlos ...............................................................1
+Ingeniero Técnico Agrícola (OPFH Almendrera del Sur)
+García, Antonio ......................................................................3
+Ingeniero Técnico Agrícola (OCA Lebrija)
+Lorite, Ignacio ........................................................................8
+Doctor Ingeniero Agrónomo (IFAPA)
+Lovera, María .........................................................................3 y 9
+Ingeniero Técnico Agrícola (IFAPA)
+Parra, Miguel Ángel ................................................................2
+Doctor Ingeniero Agrónomo (UCO)
+Ramírez, Antonio ....................................................................3
+Ingeniero Técnico Agrícola (OPFH Mañan)
+Roca, Luis .............................................................................9
+Licenciado en Ciencias Biológicas (UCO)
+Romacho, F. Javier .................................................................3
+Ingeniero Agrónomo (IFAPA)
+Romero, José ........................................................................3
+Ingeniero Técnico Agrícola (OCA Lebrija)
+Salguero, Arturo .....................................................................3 y 5
+Ingeniero Técnico Agrícola (IFAPA)
+Santos, Cristina......................................................................8
+Dra. Ingeniera de Montes (IFAPA)
+Serrano, Nicolás ....................................................................3, 6, 7 y 10
+Ingeniero Agrónomo (IFAPA)
+Trapero, Antonio .....................................................................9
+Doctor Ingeniero Agrónomo (UCO)
+Urquiza, Francisco ..................................................................1 y 11
+Ingeniero Técnico Agrícola (OPFH Crisol/Arboreto)
+Viñas, Marcelino .....................................................................3 y 5
+Técnico Agropecuario (IFAPA)
+Editor cientíﬁco: Octavio ArqueroÍNDICE DE AUTORESManual del Almendro
+9CAPITULO 1: DISTRIBUCIÓN, MERCADO Y 
+COMERCIALIZACIÓN
+1.1. PRODUCCIÓN Y SUPERFICIE CULTIVADA
+La producción mundial de almendra está actualmente dominada por EEUU, concretamente por California, cuya cuota de mercado superó en 2011 el 86%, seguido muy de lejos por España con el 5,64% y Australia 3,54% (Cuadro 1.1). Desde 2005 las producciones americana y australiana se han duplicado, mientras que la española se encuentra estabilizada en torno a las 60.000 toneladas de almendra grano anuales.
+Según la FAO (Faostat), la superﬁcie total dedicada al cultivo del almendro en el año 2010 fue 
+de 1.626.454 ha, siendo España el país que más superﬁcie destina al cultivo de almendra con 542.100 ha, seguido de Estados Unidos con 291.373 ha. Se ha de tener en cuenta que en España los rendimientos medios oscilan entre los 350-400 kg/ha, mientras que en Estados Unidos se llegan a alcanzar los 4.000 kg/ha, debido al carácter más intensivo de sus plantaciones, la disponibilidad de agua, utilización de variedades de elevado rendimiento y su localización en terrenos prácticamente libre de heladas.
+En España la producción de almendra se concentra principalmente en las Comunidades del 
+litoral mediterráneo: Andalucía, Murcia, Comunidad Valenciana, Aragón, Baleares (Mallorca), Cataluña (Cuadro 1.2). Esta producción resulta muy variable debido a la sequía y a la incidencia de las heladas, que afectan a la ﬂoración y al posterior cuajado del fruto.Cuadro 1.1. Producción mundial de almendra grano (Tn)
+PaísAño % total 
+2011 2005 2006 2007 2008 2009 2010 2011
+EE.UU. 413.540 506.527 627.318 732.370 637.706 738.539 915.123 86,1
+España 63.503 82.554 56.880 54.567 85.502 35.000 60.000 5,6
+Australia 16.177 15.911 26.556 26.058 36.501 39.081 37.626 3,5
+Turquía 13.698 14.379 15.513 16.012 16.012 14.000 16.000 1,5
+Italia 12.020 5.987 12.020 12.020 5.987 6.000 12.000 1,1
+Chile 6.985 6.895 8.800 7.983 6.486 10.000 12.000 1,1
+Grecia 14.016 15.014 9.979 9.979 8.482 8.000 8.000 0,8
+R. mundo 2.148 1.371 10.955 1.611 2.698 69.293 2.600 0,2
+Total 542.087 648.638 768.021 860.600 799.365 919.913 1.063.349 100,0
+Cuadro 1.2. Principales CCAA productoras de almendra (ha)
+CCAAAño
+2007 2008 2009 2010 2011
+Andalucía 151.778 145.354 148.385 144.778 145.451
+Murcia 102.009 102.260 99.899 100.399 102.701
+C. Valenciana 97.186 95.686 95.764 95.544 94.449
+Aragón 86.123 84.800 83.141 80.871 79.297
+Castilla La M. 53.699 55.069 57.745 61.703 62.305
+Cataluña 52.228 52.843 51.392 47.672 44.801
+Fuente: MAGRAMA (ESYRCE).Capítulo 1: Distribución, mercado y comercialización
+10Con respecto a la superﬁcie, y en función de los datos obtenidos, podemos determinar que 
+superﬁcie destinada la cultivo del almendro en España durante el periodo 2006/2010 ha disminuido en 25.090 ha, tal y como se observa en el Cuadro 1.3. Excluyendo el almendro abandonado y almendro no comercial, el resultado ﬁnal es una superﬁcie cultivada para el año 2010, de 578.012 ha.
+En Andalucía, y según datos del Boletín de Información Agraria y Pesquera de la Consejería de 
+Agricultura Pesca y Medio Ambiente de la Junta de Andalucía, la superﬁcie media cultivada en el periodo 06/09 ascendió a 178.137 ha obteniéndose una producción media para el mismo periodo de 41.684 Tn de almendra cáscara. Ello quiere decir que los rendimientos por hectárea en Andalucía oscilan en torno a los 200-240 kg/ha. Estos bajos rendimientos, son debidos a que muchas plantaciones se encuentran en terrenos marginales, en donde otros cultivos no son capaces de producir; secanos de escasa fertilidad con baja pluviometría, amplio régimen de heladas primaverales y pocos cuidados en poda, labores y tratamientos ﬁtosanitarios.
+La producción Andaluza se concentra en las provincias costeras mediterráneas, ya que entre 
+Granada, Almería y Málaga suponen el 85-90% del Almendro Andaluz, Cuadro 1.4.
+Con respecto a la evolución de la superﬁcie de almendro a partir de 2006, se observa una 
+tendencia a la baja, habiendo disminuido su superﬁcie durante el intervalo 2006 a 2011 en 15.309 ha, tal como se puede apreciar en el Cuadro 1.5. Excluyendo tanto el almendro abandonado como el no comercial, el resultado ﬁnal es una superﬁcie cultivada de almendro en Andalucía para el año 2011 de 145.451 ha.Cuadro 1.3. Evolución de la superﬁcie de cultivo de almendro en España (ha)
+AñoAlmendro* Almendro abandonado Almendro no comercial Superﬁcie 
+total Secano Regadío Secano Regadío Secano Regadío
+2006 585.018 32.813 62.376 33.344 1.026 714.579
+2007 564.793 35.853 69.670 30.722 1.444 702.481
+2008 548.115 37.978 73.897 32.958 1.490 694.438
+2009 551.153 37.664 74.880 155 27.333 1.148 692.333
+2010 539.527 38.600 83.062 27.349 951 689.489
+Fuente: MAGRAMA (ESYRCE).*  incluye la superﬁcie de almendro de plantaciones en producción, plantaciones de primer año y 
+plantaciones jóvenes. Equivale a la superﬁcie cultivada de almendro.
+Cuadro 1.4. Producción de almendra grano en Andalucía (Tn)
+ProvinciaAño
+2011 2012
+Granada 4.600 6.000
+Almería 2.700 3.200
+Málaga 1.000 800
+Resto 1.500 2.000
+Total 9.800 12.000
+Fuente: mesa nacional de frutos secosManual del Almendro
+111.2 MERCADO Y COMERCIALIZACIÓN.
+1.2.1. Comercio exterior
+España ha sido tradicionalmente un país exportador de almendra; sin embargo, en 2006 se 
+produjo un cambio de tendencia que se mantiene actualmente, y las importaciones españolas superan a las exportaciones. Así, en 2011, España importó más de 74.260 toneladas de almendra en grano, de las que 69.380 toneladas (93%) proceden de EEUU. El resto procede de Australia (2,36%) y Portugal (1,75%). Los volúmenes exportados, como puede observarse en la Figura 1.1, también se han incrementado desde 2006, pero habría que considerar en ellos parte de la almendra americana que es reexportada. Casi el 90% de las exportaciones Españolas son absorbidas por Alemania con 17.500 Tn y Francia con 11.200 Tn.
+Respecto al consumo, a nivel mundial la demanda de frutos secos continúa en ascenso. Los 
+países mediterráneos, productores tradicionales de almendra, presentan tasas de consumo per cápita elevadas. Analizando los datos de 2010 en kg grano/persona, Túnez con 1,37 ocupó el primer lugar, seguido de Grecia con 0,989 y España con 0,965. En los nuevos países productores el consumo se ha incrementado de manera importante en los últimos años, alcanzando valores elevados en Australia (0,735) y EEUU (0,708). Sin embargo, los países emergentes, a pesar de estar registrando el mayor crecimiento del consumo, aún presentan tasas per cápita reducidas: China (0,008) y Rusia (0,093).Cuadro 1.5. Evolución de la superﬁcie de almendro en Andalucía (ha)
+AñoAlmendro* Almendro abandonado Almendro no comercial Superﬁcie 
+total Secano Regadío Secano Regadío Secano Regadío
+2011 139.588 5.863 18.342 5.512 142 169.447
+2010 138.472 6.306 19.711 8.603 263 173.355
+2009 141.459 6.926 18.010 8.423 318 175.136
+2008 138.663 6.691 18.465 10.626 315 174.760
+2007 145.718 6.061 14.765 11.183 174 177.901
+2006 161.618 5.542 9.509 7.913 174 184.756
+Fuente: MAGRAMA*  incluye la superﬁcie de almendro de plantaciones en producción, plantaciones de primer año y 
+plantaciones jóvenes. Equivale a la superﬁcie cultivada de almendro.
+Figura 1.1. Evolución de las exportaciones españolas de almendra.
+Capítulo 1: Distribución, mercado y comercialización
+121.2.2. Comercio interior
+La comercialización de la almendra en España ha experimentado cambios importantes desde 
+la adhesión de España a la CEE. A partir de entonces, se establecieron Planes de Mejora de la Calidad y de la Comercialización de frutos secos. Para acogerse a las ayudas contempladas en los mismos, era preciso que los productores estuvieran agrupados en una Organización de Productores de Frutos Secos. Las ayudas previstas en los Planes de Mejora debían dirigirse a 3 aspectos: reconversión varietal, mejora del cultivo y mejora de la comercialización.
+Las cooperativas agrarias se agruparon en torno a Cooperativas Agroalimentarias, mientras que 
+la iniciativa privada, principalmente, lo hizo en torno a la Asociación Española de Organizaciones de Productores de Frutos Secos (AEOFRUSE). Ambas organizaciones tienen actualmente una amplia implantación.
+En el principal canal de comercialización de la almendra intervienen los siguientes agentes:
+•  Organizaciones de productores. Concentran la recepción del producto, agrupando la 
+oferta. Habitualmente reciben la almendra descortezada por parte del agricultor, el cual 
+la entrega en las instalaciones o en los centros de recepción dispersos por las zonas productoras.
+•  Descascarador. Parte y separa la cáscara de almendra y deja libre el grano. Esta actividad 
+puede estar integrada dentro de la OP o ser independiente de ésta.
+•  Procesador. Normalmente adquiere la almendra a descascaradoras u OPs para realizar el 
+secado, calibrado, repelado y elaboración de industrializados (láminas, bastones, gránulo, harinas, etc.). Habitualmente son los proveedores de materia prima de la industria del turrón, mazapán o de los aperitivos.
+•  Industria de segunda transformación. Se abastece de almendra a la que se le ha realizado 
+la industrialización, bien nacional o importada, para elaborar turrones, mazapán o aperitivos entre otros.
+La distribución nacional, según los distintos canales de comercialización es la siguiente:
+•  El 2% se exporta directamente desde la OP.
+•  Un 3% se comercializa directamente desde la OP a la industria de transformación.•  El 95% restante de la producción comercializada por las OPs, se realiza por medio de un 
+mayorista, minorista o por venta directa.
+Una vez analizado el sector comercializador de la almendra en España, nos encontramos con 
+las siguientes deﬁciencias:
+•  Aún existiendo OP que están realizando un esfuerzo en la comercialización de sus 
+productos, todavía el 90% de la producción se comercializa a través de un mayorista en origen.
+•  No existen precios de referencia para la industria durante gran parte de la campaña.
+•  Ausencia de normas de calidad para el producto destinado a la industria que permita 
+clasiﬁcarlo en función de su calidad y dirigirlo con mayor eﬁcacia a los diferentes usos.
+•  Existencia de múltiples intermediarios entre el productor y la industria, descascaradores, 
+procesadores, mayoristas y almacenistas, que diﬁcultan la trazabilidad del producto y que 
+los criterios de calidad demandados por la industria sean conocidos por el productor.Manual del Almendro
+131.2.3. Normas de recepción de la almendra cáscara
+En España ALMENDRAVE (Agrupación de Exportadores de Almendra y Avellana de España) es la 
+que realiza las normas para la recepción de almendras. Las actuales entraron en vigor en 2008, estando pendiente de la publicación de una nueva versión. Como norma general no se admitirá almendras mezcladas de cosechas distintas, la almendra se recibirá completamente seca, limpia de impurezas, sana, sin mezcla de otras variedades y sin piel. A la hora de calcular el rendimiento en grano, no se incluyen aquellas podridas, apolilladas, rancias, insuﬁcientemente desarrolladas, resecas, migradas, las perjudicadas por monilia, etc.
+Las características que deben cumplir las almendras al ser recepcionadas son:
+•  Humedad: se tolera hasta el 6,25%.
+•  Gemelas y mezclas de otras variedades: para las gemelas se tolera un 2% y para las 
+planetas un 34%.
+•  Trozos o medias: en las almendras que, a la hora del escandallo, produzcan trozos o 
+medias, este porcentaje de trozos se liquidará al 50% del valor del día de la variedad 
+común.
+•  Muestras: se toma el dos por mil de la cantidad entregada, fijando un mínimo de 1 kg.
+•  Peso: se descontará del peso la totalidad del polvo y otras materias ajenas a la almendra 
+o, en su defecto, el cuatro por mil del peso.
+•  Pago: según contrato.
+Con respecto a los requerimientos de calidad exigidos por los mercados, es necesario que el 
+sector español se fortalezca en aspectos fundamentales como la homogeneidad, separando las partidas y evitando las mezclas, así como la implantación de certiﬁcaciones de calidad (ISO) de cara a satisfacer los requisitos de calidad.
+1.2.4. La comercialización de la almendra ecológica
+Andalucía, con más de 33.500 ha en 2009 es la comunidad autónoma con mayor superﬁcie, representando el 39% del total nacional. A pesar del crecimiento de la superﬁcie, la producción de almendra ecológica se ha mantenido relativamente estable en los últimos años, debido a los bajos rendimientos obtenidos en algunas campañas. En cuanto a las variedades, aunque a priori son todas aptas, normalmente no se cultivan en ecológico las que son más sensibles a ciertas plagas y enfermedades, como Marcona.
+En cuanto el precio percibido, éste ha estado siempre por encima del convencional, aunque 
+desde 2005 las diferencias se están reduciendo, lo que puede afectar en un futuro a la rentabilidad de la actividad, ya que los costes de producción son más elevados. Los canales de comercialización son similares a los de la producción convencional, y lo más habitual es hacerlo a través de un mayorista en origen. La producción ecológica se procesa en una línea independiente, aunque no suelen diferenciarse variedades. El principal destino de esta almendra es el consumo en fresco, presentada en frutos enteros y enviada principalmente a Alemania e Italia. También es importante la comercialización de harina de almendra ecológica para su uso en pastelería.Manual del Almendro
+15CAPÍTULO 2: EXIGENCIAS MEDIOAMBIENTALES
+El almendro es un cultivo típicamente mediterráneo, presentando una plasticidad de adaptación 
+a condiciones muy diversas. De tal forma, puede soportar elevadas temperaturas veraniegas y extremos fríos invernales, o sobrevivir a prolongados periodos de sequía; así como poder ser cultivado en suelos muy pobres. Aunque los niveles productivos serán tanto mayores cuanto mejores sean las condiciones medioambientales.
+2.1. CLIMA. 
+Los factores climáticos más determinantes para la adaptación y productividad de un cultivo son: la temperatura, la pluviosidad, la humedad relativa y el viento.
+Temperatura. Para los frutales de zona templada, como es el almendro, el rango de 
+temperaturas óptimo para la actividad fotosintética se sitúa entre 25-30 ºC, dándose una fuerte reducción con temperaturas inferiores a 15 ºC o superiores a los 35 ºC. 
+Para que se inicie el periodo vegetativo y tenga lugar una correcta ﬂoración y cuajado del fruto, 
+se deben de cubrir unas necesidades de frío invernal y, posteriormente, unas necesidades de calor. Para cuantiﬁcar las necesidades de frío invernal se utiliza el concepto de horas frío (HF), que son el número de horas que debe de pasar el árbol con temperaturas inferiores a 7,2 ºC. El almendro presenta unas bajas necesidades en HF (entre 100-400, según variedades), siendo similares a las de otros frutales típicamente mediterráneos, como la higuera o el olivo. 
+El almendro es una de las especies frutales más resistentes al frío en el periodo de parada 
+vegetativa invernal, pudiendo soportar temperaturas inferiores a los -15 ºC. Los frutos recién cuajados son los órganos más sensibles a las heladas, seguidos de las ﬂores y yemas hinchadas. Estos órganos pueden verse dañados con temperaturas ligeramente inferiores a los 0 ºC. El almendro es uno de los frutales que tiene una ﬂoración más temprana, aunque, como se verá más adelante, se dan grandes diferencias varietales respecto a la fecha de ﬂoración. Por ello, en zonas con riesgo de heladas habrá que poner especial cuidado en escoger variedades de ﬂoración tardía.
+Existen diversos métodos para la lucha contra las heladas (estufas, movimiento de aire, etc.) si 
+bien suelen tener un coste elevado, por lo que solo se utilizan en cultivos de muy alta rentabilidad.
+Las altas temperaturas pueden provocar un grave perjuicio para las plantas. Como se ha 
+comentado anteriormente, por encima de los 35 ºC la actividad fotosintética se ve seriamente reducida, entrando los árboles (sobre todo cuando están en condiciones de secano) en lo que se conoce como parada vegetativa estival. Temperaturas más elevadas, por encima de los 40 ºC, pueden provocar la deshidratación, necrosis (asurado) y caída de hojas, daños al fruto y quemaduras de la madera.
+Pluviosidad. La principal limitación productiva en zonas de clima mediterráneo es el agua. 
+Además de su poca cuantía, la lluvia se reparte mal a lo largo del año, existiendo un periodo de gran déﬁcit hídrico que abarca el verano y parte de la primavera y del otoño. También son frecuentes las series de años secos consecutivos, en los cuales las precipitaciones disminuyen drásticamente. 
+Los cultivos mediterráneos, como el almendro, el olivar o el pistachero, se adaptan bien a 
+condiciones de secano, si bien las producciones se ven altamente incrementadas con la puesta en riego.Capítulo 2: Exigencias Medioambientales
+16Humedad relativa. La humedad relativa (HR) tiene una gran importancia para las plantas. 
+Valores muy altos o bajos de la HR inducen el cierre estomático, afectando negativamente a la actividad vegetativa y reproductiva. Así mismo, la incidencia de las enfermedades se ve muy favorecida en condiciones de alta HR, lo que puede llegar a ser un factor limitante para la implantación de cultivos.
+La humedad dentro de la plantación se puede controlar, en parte, con técnicas de cultivo. Así, 
+mediante el diseño de la plantación y los sistemas de formación y poda, se puede disminuir la densidad de los árboles y de la copa, de forma que se mejore la ventilación dentro de la plantación. 
+Viento. Los vientos fuertes aumentan considerablemente la tasa de transpiración, provocando 
+un estrés hídrico a la planta. También potencian el efecto negativo de las temperaturas extremas, de las mínimas en invierno y de las máximas en verano. La formación de los árboles se ve muy diﬁcultada en zonas con vientos constantes. Al igual que ocurre en condiciones de lluvia o de niebla, la actividad de las abejas queda disminuida con los fuertes vientos, lo que incide negativamente en la polinización. Por último, vientos muy fuertes pueden provocar daños físicos en la arboleda: caída de ﬂores y de frutos, rotura de ramas, pudiendo llegar a tumbar árboles enteros. 
+En zonas de fuertes y frecuentes vientos es necesaria la colocación de tutores para garantizar 
+el anclaje y verticalidad del árbol en los primeros años. También es importante un buen diseño de la plantación, de forma que se facilite la circulación del aire, así como una intensidad de poda adecuada, que aclare lo suﬁcientemente la copa para que no haga efecto de pantalla.
+2.2. SUELO. 
+Propiedades físicas. Las principales características físicas del suelo son la textura y la profundidad efectiva.
+Textura. Dentro de la tierra ﬁna del suelo 
+se diferencian tres fracciones: arena (partículas de tamaño entre 2-0,05 mm), limo (partículas de tamaño entre 0,05-0,002 mm) y arcilla (partículas de tamaño <0,002 mm). La textura de un suelo indica la proporción relativa de estas tres fracciones o composición granulométrica. En función de tal proporción, los suelos se agrupan en las clases texturales recogidas en la Figura 2.1.
+Los suelos arcillosos pueden presentar 
+problemas de falta de aireación y de poca movilidad del agua; por el contrario, muestran una alta capacidad de retención de agua y de nutrientes. Los limosos también tienen diﬁcultades para la aireación y movimiento del agua, además de tener una mala estructura que favorece 
+Figura 2.1. Triángulo de textura, según la clasiﬁcación 
+USDA.Manual del Almendro
+17la formación de costras y la erosión. Los suelos arenosos son muy permeables, facilitando 
+el crecimiento de las raíces y el movimiento de aire y agua, también son sueltos y fáciles de laborear; pero presentan el inconveniente de ser poco fértiles y con escasa capacidad de retención de agua.
+En suelos muy pesados se pueden presentar graves problemas de encharcamiento y de falta 
+de aireación. En estos casos se aconseja cultivar especies que presenten un sistema radicular superﬁcial, como el membrillero y el ciruelo. También se pueden ejecutar medidas culturales para corregir este problema, como pueden ser la realización de drenajes en el suelo y/o hacer las plantaciones en caballón. Así mismo, las cubiertas vegetales mejoran la capacidad de inﬁltración de agua en el suelo.
+El almendro es sensible al encharcamiento (asﬁxia radicular), por lo que son aconsejables los 
+suelos francos o franco-arenosos. 
+Profundidad efectiva. Las raíces se desarrollan en el suelo hasta cierta profundidad (profundidad 
+efectiva), siendo en ese espesor donde extraen agua y nutrientes. Bajo condiciones de secano, la profundidad efectiva suele ser la característica del suelo que más condiciona los estados vegetativos y productivos de los cultivos leñosos.
+La profundidad efectiva de un suelo suele estar condicionada por la presencia de una capa 
+freática o de un horizonte endurecido. Este último puede ser de naturaleza petrocálcica (acumulación de carbonato cálcico), argílica (acumulación de arcilla), o de material parental rocoso. Todos ellos suponen un impedimento físico para el desarrollo en profundidad de las raíces. 
+Para determinar la profundidad efectiva del suelo ha de hacerse una calicata de unos 2 m de 
+profundidad, para caracterizar y analizar los diferentes horizontes que presenta el terreno.
+Las labores profundas de subsolado previas a la plantación pueden mejorar considerablemente 
+la profundidad útil, al romper los horizontes petrocálcicos, así como la suela de labor o la compactación que pueda tener el suelo.
+El almendro puede cultivarse en suelos poco profundos, aunque hay que tener siempre presente 
+que, a mayor profundidad efectiva del suelo tendremos mayor desarrollo radicular y una más alta disponibilidad de agua y nutrientes, mejorándose considerablemente los estados vegetativo y productivo del árbol.
+Propiedades químicas. Entre las propiedades químicas más importantes del suelo ﬁguran: 
+la materia orgánica, la 
+capacidad de intercambio catiónico, el pH y los niveles de fertilidad.
+Para determinar los niveles 
+de estos parámetros hay que realizar un análisis del suelo. En los Cuadros 2.1, 2.2, 2.3 y 2.4, se recogen los valores interpretativos de los principales parámetros químicos.
+Cuadro 2.1. Niveles interpretativos de distintos parámetros del suelo
+Parámetro (unidades)Nivel
+Bajo Normal Alto
+Materia Orgánica (%) 1-1,9 2-2,5 2,6-3
+CO3Ca (%) 5-10 10-20 20-40
+Caliza Activa (%) 0-6 6-9 >9
+Ph 5,5-8,4
+Salinidad (CEes dS/m) 4-6
+Nitrógeno total (Kjeldahl %) 0,06-0,1 0,11-0,2 0,21-0,4
+Relación C/N <10 10-12 >12
+Fuente: FAO, 1984.Capítulo 2: Exigencias Medioambientales
+18Las características de un suelo suelen presentar marcadas 
+variaciones en distancias cortas, tanto vertical como horizontalmente. Por ello, habrá que ser especialmente cuidadoso en la metodología de toma de muestras. Cuando la parcela a estudiar sea heterogénea se dividirá en subparcelas homogéneas, que se muestrearán independientemente. Se ﬁjará un itinerario de muestreo, de tal forma que de cada subparcela se muestren un mínimo de 10 puntos regularmente distanciados. De cada punto se tomarán muestras a distintas profundidades, en función de la distribución de los horizontes. Normalmente, suelen tomarse dos muestras: una en los primeros 30 cm del suelo, y otra entre los 30-60 cm.Cuadro 2.2. Interpretación de 
+los contenidos de fósforo en 
+suelo, calculados a partir del 
+método Olsen.
+Nivel P (ppm)
+Muy alto >25
+Alto 18-25
+Medio 10-17
+Bajo 5-9
+Muy bajo <5
+Fuente: FAO, 1984.
+Cuadro 2.3. Niveles de Fertilidad para los contenidos de potasio, calcio y magnesio en suelo, según la 
+textura y la Capacidad de Intercambio Catiónico (CIC).
+Textura CIC Nivel de fertilidad K (ppm) Mg (ppm) Ca (ppm)
+GruesaBaja 
+(<5 cmolc/kg)Muy alto >100 >60 >800
+Alto 60-100 25-60 500-800
+Medio 30-60 10-25 200-500
+Bajo 15-30 5-10 100-200
+Muy bajo <15 <5 <100
+MediaMedia 
+(5-15 cmolc/kg)Muy alto >300 >180 >2400
+Alto 175-300 80-180 1600-2400
+Medio 100-175 40-80 1000-1600
+Bajo 50-100 20-40 500-1000
+Muy bajo <50 <20 <500
+FinaAlta 
+(>15 cmolc/kg)Muy alto >500 >300 >4000
+Alto 300-500 120-300 3000-4000
+Medio 150-300 60-120 2000-3000
+Bajo 75-150 30-60 1000-2000
+Muy bajo <75 <30 <1000
+Fuente: FAO, 1984.
+Cuadro 2.4. Niveles críticos de sodio, cloruros y boro, en suelo.
+Elemento  (unidades)Grado de restricción
+Ninguno Moderado Severo
+Na (PSI %) < 5 5-15 > 15
+Cl- (meq/l) < 5 5-15 > 15
+B (ppm) < 0,5 0,5-3 > 3
+Fuente:  Ayers and Westcot. 1985. Water quality for agriculture. FAO irrigation and drainage paper 29 Rev. 1.Manual del Almendro
+192.3. CALIDAD AGRONÓMICA DEL AGUA DE RIEGO. 
+Las principales consecuencias negativas que puede presentar el uso de un agua de riego de 
+mala calidad son la salinización y la sodización del suelo, así como la ﬁtotoxicidad en la planta, que pueden producir daños severos en el cultivo e incluso alterar gravemente las características físico-químicas del suelo.
+En el Cuadro 2.5 se recoge el grado de restricción para el agua de riego en almendro por riesgo 
+de salinización, sodiﬁcación y ﬁtotoxicidad.
+Cuadro 2.5. Exigencias del almendro respecto a la calidad del agua de riego.
+Riesgo
+MedidaGrado de restricción para el almendro
+Ninguno Débil a moderado Elevado
+Salinidad
+CE (dS/m) < 1,1 1,1 – 3,2 > 3,2
+Sodiﬁcación
+RAS CE (dS/m)
+0 - 3 > 0,7 < 0,2
+3 - 6 > 1,0 < 0,3
+6 - 12 > 2,0 < 0,5
+12 - 20 > 3,0 < 1,3
+20 - 40 > 5,0 < 2,9
+Fitotoxicidad
+Sodio (RAS) < 3,0 3 - 9 > 9
+Cloro (mg/l) < 142 142 - 355 > 355
+Boro (mg/l) < 0,5 0,5 - 3 > 3
+Fuente: Micke, 1996. Almond production manual. University of CaliforniaManual del Almendro
+21CAPÍTULO 3: MATERIAL VEGETAL
+En el almendro, al igual que en la mayoría de las especies frutales, el árbol lo conforman dos 
+individuos distintos: la variedad, que aporta la parte aérea del árbol; y el patrón o portainjerto, que constituye la parte subterránea o sistema radicular. Variedad y patrón se unen mediante injerto, que se sitúa a unos pocos centímetros de la superﬁcie del terreno. 
+3.1. PATRONES. 
+A la hora de escoger un patrón habrá que tener en cuenta, entre otros, los siguientes aspectos:
+•  Compatibilidad con la variedad.
+•  Homogeneidad de la planta.•  Vigor.•  Longevidad de la plantación.•  Comportamiento frente a condiciones edáficas adversas.•  Adaptación a condiciones climáticas extremas.•  Adecuación al sistema de cultivo (riego/secano, replantaciones, etc.).•  Resistencia a plagas y enfermedades del suelo.•  Influencia sobre productividad y características del fruto.
+Los patrones más utilizados en el almendro son:
+Francos de almendro. Tradicionalmente el patrón utilizado en España ha sido el franco de 
+almendro, tanto dulce como amargo. La principal virtud de estos patrones es su rusticidad. Por el contrario, presentan como inconvenientes la falta de homogeneidad, su menor vigor y productividad y su alta sensibilidad a la asﬁxia radicular.
+El buen comportamiento general que presentan los patrones híbridos ha hecho que, en la 
+actualidad, el empleo del patrón de almendro amargo haya casi desaparecido y se mantiene, pero con una importancia mucho menor, el de almendro dulce. Las variedades más utilizadas como patrón son: ‘Garrigues’, ‘Atocha’ y ‘Marcona’.
+Francos de melocotonero. Este tipo de patrones es muy frecuente en California. En España 
+ha sido muy poco utilizado debido a que presentan un mal comportamiento en condiciones de secano y en suelos calizos, además de tener una vida útil menor.
+Las variedades de melocotonero más empleadas son el GF-305 o ‘Montclar’, ‘Lovell’, ‘Nemaguard’ 
+y ‘Nemared’.
+Clonales de ciruelo. Estos patrones pueden presentar serios inconvenientes, como son: 
+frecuentes casos de incompatibilidad con variedades de almendro, gran propensión a emitir sierpes, menor vigor y productividad. Los distintos tipos de ciruelos utilizados muestran diferente comportamiento, por lo que será necesario disponer de una información ﬁdedigna y contrastada. Su principal virtud es la gran resistencia frente a las enfermedades del suelo y a la asﬁxia radicular.
+Las variedades más utilizadas son: ‘Sanjulián’, ‘Damas’, ‘Mirobolan’ y los Pollizos de Murcia: 
+‘Montizo’, ‘Mompol’ y ‘Adesoto’.Capítulo 3: Material Vegetal
+22Híbridos entre almendro y melocotonero. La utilización de patrones híbridos entre almendro 
+y melocotonero ha supuesto un gran cambio en el cultivo del almendro. Su buen comportamiento en muy diversas condiciones ha hecho que sea actualmente el tipo de patrón mayoritariamente empleado. 
+Las principales virtudes de estos patrones son: alto vigor, resistencia a condiciones de sequía y 
+a altos contenidos en caliza, buena precocidad de entrada en producción y elevados potenciales productivos, así como una total compatibilidad con todas las variedades de almendro. 
+Los híbridos más utilizados son: ‘GF-677’, ‘Garnem’, ‘Adafuel’ y ‘Mayor’.Las principales características de los diferentes tipos de patrones se recogen en los Cuadros 
+3.1 y 3.2.
+3.2. VARIEDADES. 
+Existe una gran diversidad española y mundial de variedades de almendro. Esta gran riqueza genética posibilita la elección de variedades adaptadas a muy diversas condiciones. Sin embargo, en los países productores más avanzados hay una tendencia a manejar unas pocas variedades y tipos comerciales deﬁnidos.
+No siempre la variedad de mayor potencialidad productiva consigue la más alta rentabilidad. 
+Los niveles productivos pueden verse afectados negativamente por diferentes causas: heladas, incidencia de plagas y enfermedades, costes de poda, etc. Por tanto, los diferentes aspectos del comportamiento varietal habrá que priorizarlos en función de las condiciones medioambientales (incidencia de heladas, condiciones favorables para las enfermedades, etc.); sistema de cultivo (riego, secano, etc.); y características de la explotación (dimensión, disponibilidad de colmenas, cualiﬁcación del personal, etc.).
+Los principales aspectos a considerar del comportamiento varietal son: fenología, compatibilidad, 
+facilidad de poda (ver Capítulo 5), resistencia a plagas y enfermedades, productividad y características del fruto. 
+Fenología. El almendro es una de las especies frutales de ﬂoración más precoz, siendo 
+el motivo de que una de las principales causas de pérdida de cosecha sea la debida a los Cuadro 3.1. Comportamiento vegetativo de los principales patrones.
+Patrón Compatibilidad Homogeneidad Vigor LongevidadSusceptibilidad a las 
+enfermedades del suelo
+Almendro Muy buena Regular Medio Muy alta Sensible
+Melocotonero Muy buena Buena Alto Baja Sensible
+Almen. x Meloco.Buena Muy buena Muy alto Alta Sensible
+Ciruelo Mala-variable Buena Bajo-medio Media Resistente
+Cuadro 3.2. Comportamiento de los principales patrones frente a las condiciones del medio.
+Patrón Sequía Encharcamiento Caliza
+Almendro Muy resistente Muy sensible Muy resistente
+Melocotonero Muy sensible Sensible Sensible
+Almen. x Meloco. Muy resistente Sensible Resistente
+Ciruelo Muy sensible Tolerante MediaManual del Almendro
+23daños producidos por heladas tempranas. También es relativamente frecuente la elección, en 
+plantaciones plurivarietales autoincompatibles, de variedades que no coinciden plenamente en la fecha de ﬂoración, lo que provoca una mala polinización y merma de la cosecha. Por todo lo cual, la época de ﬂoración debe de ser un aspecto a tener muy en cuenta en la elección varietal. 
+La fecha de ﬂoración tiene un componente genético y otro ambiental. Al depender del régimen 
+térmico existente, la época de ﬂoración para una misma variedad y año será distinta en zonas con condiciones climáticas diferentes, Figura 3.1. Por el mismo motivo, para una misma variedad y localización se pueden registrar fechas de ﬂoración muy diferentes en años con climatología muy dispar, Figura 3.2.
+El componte genético hace que existan claras diferencias varietales respecto a la fecha de 
+ﬂoración. Este orden varietal se mantiene, con bastante frecuencia, aunque cambien las condiciones ambientales. 
+Las variedades se suelen agrupar en tres grandes categorías (Figura 3.3) en función de su fecha 
+de ﬂoración: extratempranas (tipo ‘Desmayo largueta’); tempranas (tipo ‘Marcona’); y tardías (tipo ‘Ferragnès’). En la Figura 3.4 se puede observar la fecha de ﬂoración de las principales variedades de ﬂoración tardía, y en la Figura 3.5 las de ﬂoración extratemprana y temprana.
+Existe un cuarto grupo de variedades que presentan una ﬂoración extratardía (tipo ‘Penta’), que 
+ﬂorecen entre 10-20 días después que las variedades de ﬂoración tardía. La productividad de estas variedades es menor, por lo que solo se recomiendan en zonas con una alta incidencia de heladas. 
+Figura 3.1. Fechas de ﬂoración para la variedad Guara en el año 2007, en distintas localizaciones.
+Figura 3.2. Fechas de ﬂoración para la variedad Guara en Córdoba. Valores alcanzados en el año más precoz 
+(2004); en la media del periodo 2004-2012; y en el año más tardío (2005).Capítulo 3: Material Vegetal
+24Otro aspecto fenológico a tener en cuenta es 
+el momento de maduración, sobre todo en plantaciones plurivarietales, para establecer el grado de escalonamiento que se desee de la recolección. Como se puede observar en las Figuras 3.6 y 3.7, se dan grandes diferencias entre variedades respecto a la fecha de maduración.
+Compatibilidad. El almendro es una 
+especie con ﬂores completas (dotadas de los órganos masculinos, estambres; y femeninos, pistilos) y polinización entomóﬁla a través de insectos (principalmente abejas), existiendo variedades autoincompatibles y autocompatibles.
+En las variedades autoincompatibles es inviable la fecundación de las ﬂores con polen de la misma variedad, mientras que 
+en las autocompatibles si es posible la autopolinización (fertilización del óvulo con polen de la misma variedad). Si el carácter de autocompatibilidad se complementa con una morfología ﬂoral que tenga una disposición adecuada de las anteras respecto al estigma, de tal forma que los granos de polen se puedan posicionar en el estigma de forma espontánea, sin necesidad de ser transportados por insectos vectores, se consigue el carácter de autogamia o autofertilidad para una variedad, Figura 3.8.
+Todas las variedades de almendro españolas tradicionales son autoincompatibles. La utilización 
+de este tipo de variedades presenta una serie de condicionantes para el diseño y manejo de la plantación. 
+El carácter de autoincompatibilidad exige la implantación de, al menos, dos variedades 
+intercompatibles entre ellas y además coincidentes en ﬂoración, siendo aconsejable poner, como mínimo, un 30% de la superﬁcie de la variedad o variedades polinizadoras y el resto de la variedad principal. Así mismo, es estrictamente necesario la presencia de abejas y Figura 3.3. Fechas de ﬂoración para los grupos de variedades de ﬂoración extratemprana (tipo Desmayo 
+largueta), temprana (tipo Marcona) y tardía (tipo Guara). Datos medios registrados en Córdoba para el 
+periodo 2004-2012.
+Figura 3.4. Fechas de ﬂoración de las principales 
+variedades de ﬂoración tardía. Datos medios 
+registrados en Córdoba para el periodo 2004-2012.
+Manual del Almendro
+25que, además, se den unas buenas 
+condiciones climáticas (ausencia de lluvia, viento y niebla y temperaturas no bajas) en el periodo de ﬂoración, que permitan una buena actividad de las abejas.
+Con cultivares autocompatibles 
+se pueden realizar plantaciones monovarietales. Si además cuentan con el carácter de autofertilidad, conseguimos que la polinización sea menos dependiente de la actuación de insectos vectores. Por tanto, el carácter de autofertilidad es indispensable para plantaciones monovarietales y/o con escasa presencia de abejas.
+Estas ventajas han inducido a que la 
+mayoría de las nuevas variedades de almendro obtenidas mediante planes de mejora sean autofértiles. A pesar de ello, es aconsejable siempre la colocación de colmenas y, para grandes plantaciones, poner más de una variedad coincidentes en ﬂoración.
+En los Cuadros 3.3 y 3.4, ﬁgura el tipo 
+de compatibilidad de las principales variedades de almendro.
+Resistencia a enfermedades. 
+Existen claras diferencias varietales respecto a la susceptibilidad a las enfermedades. Esto habrá que tenerlo muy presente en aquellas zonas en las que se den condiciones ambientales propicias para la incidencia de enfermedades, ya que su presencia obliga a realizar un mayor número de tratamientos ﬁtosanitarios, y si no se consigue un buen control los daños ocasionados pueden ser muy considerables.
+En las Figuras 3.9 y 3.10 se recogen 
+las diferencias varietales respecto a la incidencia de dos de las enfermedades Figura 3.5. Fechas de ﬂoración de las principales variedades de 
+ﬂoración extratemprana y temprana. Datos medios registrados en 
+Córdoba para el periodo 2004-2012.
+Figura 3.6. Fechas de maduración de las principales variedades 
+de ﬂoración tardía. Datos medios registrados en Córdoba para el 
+periodo 2004-2012.
+Figura 3.7. Fechas de maduración de las principales variedades de 
+ﬂoración extratemprana y temprana. Datos medios registrados en 
+Córdoba para el periodo 2004-2012.Capítulo 3: Material Vegetal
+26más frecuentes, moniliosis (Monilia 
+spp.) y mancha ocre (Polystigma ochraceum), respectivamente.
+Productividad. El potencial 
+productivo máximo del almendro se puede ﬁjar en torno a los 3.000 kg/ha de almendra grano. Las producciones medias de almendro en España, y en Andalucía, son muy bajas, no superando los 200 kg/ha de almendra grano. Ello es debido al carácter marginal que tienen la 
+mayoría de las plantaciones, con pésimas condiciones edafoclimáticas y cultivo en secano con escasas precipitaciones, además de presentar defectos en la elección del material vegetal y en la ejecución de las técnicas de cultivo. 
+Cultivado bajo condiciones ambientales no muy limitantes y con un manejo del cultivo apropiado, 
+en situaciones de secano se pueden sobrepasar los 500 kg/ha, mientras que en riego deﬁcitario se pueden llegar a los 1.500 kg/ha de almendra grano.
+Se dan claras diferencias varietales respecto a la producción. En el Cuadro 
+3.5 ﬁguran los 
+niveles productivos de las principales variedades de almendro de ﬂoración tardía. Los 
+cultivares de ﬂoración temprana suelen tener una productividad menor, y los de ﬂoración extratardía son claramente menos productivos.
+El almendro es una de las especies con mayor precocidad de entrada en producción, pudiendo alcanzar al 3º-4º año unas cosechas considerables. Sin embargo, hay que diferenciar el Cuadro 3.3. Origen, tipo de compatibilidad y características del fruto de las principales variedades de 
+ﬂoración extratemprana y temprana.
+Variedad Origen CompatibilidadCaracterísticas del fruto (*)
+Rto. cáscara/
+grano (%)Peso medio de la 
+pepita (gr)Cantidad de
+semillas dobles (%)
+Abizanda España Autoincompatible 25.6 1.20 1.2
+Asperilla España Autoincompatible 28.5 1.18 1.5
+Blanquerna España Autofértil 27.9 1.34 0.0
+Cartayera España Autoincompatible 28.1 1.25 1.6
+Desmayo larg. España Autoincompatible 29.6 1.15 0.3
+Garrigues España Autoincompatible 29.4 1.04 0.1
+Marcona España Autoincompatible 23.5 1.36 1.7
+Pajarera España Autoincompatible 27.0 1.25 0.6
+Peraleja España Autoincompatible 30.4 1.11 0.7
+Pizzuta Avola Italia Autoincompatible 26.9 1.07 1.3
+Ramillete España Autoincompatible 31.2 1.20 1.0
+Rumbeta España Autoincompatible 31.2 1.44 1.8
+Vert España Autoincompatible 29.6 1.17 0.9
+(*)  Valores medios de 8 cosechas, obtenidos en campo de variedades ubicado en Córdoba, bajo 
+condiciones de riego.Figura 3.8. Morfología ﬂoral que impide la autogamia 
+(izquierda); morfología ﬂoral que permite la autogamia o 
+autofertilidad (derecha).
+Manual del Almendro
+27Cuadro 3.4. Origen, tipo de compatibilidad y características del fruto de las principales variedades de 
+ﬂoración tardía.
+Variedad Origen CompatibilidadCaracterísticas del fruto (*)
+Rto. cáscara/
+grano (%)Peso medio de la 
+pepita (gr)Cantidad de semillas 
+dobles (%)
+Antoñeta España Autofertil 35.0 1.43 0.3
+Cambra España Autofertil 30.7 1.16 0.0
+Cristomorto Italia Autoincompatible 28.3 1.49 13.1
+Ferraduel Francia Autoincompatible 28.5 1.40 0.2
+Ferragnès Francia Autoincompatible 34.4 1.57 0.0
+Genco Italia Autofertil 35.9 1.41 1.7
+Glorieta España Autoincompatible 29.3 1.50 0.9
+Guara España Autofertil 36.6 1.31 10.7
+Lauranne Francia Autofertil 34.5 1.11 0.3
+Masbovera España Autoincompatible 28.4 1.38 0.0
+Marta España Autofertil 33.7 1.31 0.1
+Supernova Italia Autofertil 35.2 1.39 5.1
+Tuono Italia Autofertil 34.7 1.33 4.6
+(*)  Valores medios de 8 cosechas, obtenidos en campo de variedades ubicado en Córdoba, bajo 
+condiciones de riego.
+Figura 3.9. Grado de susceptibilidad varietal a la moniliosis. Datos tomados en campo de variedades 
+de Puebla de Guzmán (2009) y expresados en grado de presencia de síntomas: 0 (ausencia), 1 (muy 
+baja), 3 (baja), 5 (media), 7 (alta).
+Figura 3.10. Grado de susceptibilidad varietal a la mancha ocre. Datos tomados en campo de variedades 
+de Chirivel (2004) y expresados en porcentaje de superﬁcie foliar afectada.Capítulo 3: Material Vegetal
+28comportamiento varietal respecto a la precocidad de entrada en producción con el del nivel 
+o potencial productivo en estado adulto, ya que no siempre están relacionados. Así, hay variedades muy precoces pero que luego su potencial productivo en adulto es bajo, y viceversa, Figura 3.11.
+Otro aspecto productivo importante es el grado de alternancia de la producción o vecería. 
+Siempre es aconsejable que una variedad mantenga una regularidad en las cosechas. Como puede observarse en la Figura 3.12 se da diferente comportamiento varietal respecto a la vecería, existiendo cultivares, como ‘Cristomorto’, con una vecería muy marcada y otros, como ‘Lauranne’, con escasa alternancia de las producciones.
+Características del fruto. El fruto del almendro es una drupa con la particularidad de que, 
+en el momento de la maduración, el mesocarpio se seca y no experimenta el engrosamiento característico de las drupas de otras especies frutales.
+El fruto está formado, de fuera hacia dentro, por el exocarpio, el mesocarpio, el endocarpio y 
+la semilla, Figura 3.13. A la parte externa y blanda del fruto, constituida por el exocarpio y el mesocarpio, se la conoce por corteza o pellejo; mientras que al endocarpio se le llama cáscara. En el interior del fruto se encuentra la semilla (pepita o grano), que es la parte comestible y comercial del fruto. Cuando el fruto alcanza la madurez, la corteza se separa longitudinalmente por la sutura ventral, dejando al descubierto la cáscara. Cuadro 3.5. Comportamiento productivo de las principales variedades de ﬂoración tardía
+Categoría Variedad
+Muy alto-alto Cristomorto, Ferraduel, Ferragnès y Lauranne
+Alto-medio Antoñeta, Glorieta, Guara, Masbovera, Supernova y Tuono
+Medio-bajo Marta
+Bajo Cambra
+Catalogación establecida a partir de la producción media de ocho cosechas, obtenidas en la red del IFAPA de campos de variedades de almendro, ubicados en Alcalá del Río (Sevilla), Antequera (Málaga), Córdoba (Córdoba), Chirivel (Almería) y Huéneja (Granada).
+Figura 3.11. Producciones medias en el campo de variedades de Córdoba, bajo condiciones de riego 
+deﬁcitario. En verde, producción media de las dos primeras cosechas; en azul, producción media de 
+las seis últimas cosechas.Manual del Almendro
+29Entre las principales características del fruto a tener en cuenta están: el peso medio de la 
+semilla, el porcentaje de semillas dobles (Figura 3.14) y el rendimiento cáscara/grano. 
+Comercialmente es deseable que la almendra tenga un alto peso de pepita y un bajo porcentaje 
+de dobles, aunque actualmente estos valores no suelen inﬂuir en el precio de compra a los agricultores
+El valor comercial del cultivo del almendro lo tiene la semilla del fruto (almendra grano, semilla o pepita). El agricultor entrega la almendra en cáscara, una vez eliminada la corteza del fruto. De la partida entregada, se toma una muestra y se determina el peso de la pepita o semilla respecto al peso del fruto entero (almendra cáscara). A esta relación, expresada en tanto por ciento, se le denomina rendimiento cáscara/grano, sirviendo para determinar la cantidad total de pepita, sobre la 
+que se hace la liquidación.
+Es habitual relacionar un mayor rendimiento 
+cáscara/grano con un mejor nivel productivo. Esta aﬁrmación es errónea, ya que el nivel productivo viene dado por el peso de pepita producido por unidad de superﬁcie, siendo independiente del rendimiento cáscara/grano. Así, hay variedades como ‘Cristomorto’, que tienen una alta productividad con un bajo rendimiento; mientras que otras, como ‘Supernova’, presentan un alto rendimiento pero una producción media/baja.Figura 3.12. Grado de vecería de las principales variedades de ﬂoración tardía. Datos medios (2004-2012) en 
+el campo de variedades de Córdoba, bajo condiciones de riego deﬁcitario. Rango del índice de vecería 0-1.
+Figura 3.13. Partes del fruto de la almendra.
+Figura 3.14. Anomalías en el fruto. Almendra 
+entera (izquierda), semillas dobles (centro) y 
+almendras dobles (derecha).
+Capítulo 3: Material Vegetal
+30Los caracteres de rendimiento cáscara/grano, peso medio de la semilla y porcentaje de semillas 
+dobles, tienen un claro componente genético, apreciándose claras diferencias varietales, Cuadros 3.3 y 3.4. Aunque también su valor se ve inﬂuido por las condiciones medioambientales, sistemas de cultivo y carga de cosecha, lo que provoca diferencias de índole anual y local.
+Nuevas variedades. Los datos sobre el comportamiento varietal reﬂejados en los apartados 
+anteriores se han obtenido de la red de variedades de almendro del IFAPA, implantada en el año 2.001 en cinco ubicaciones diferentes. 
+Lógicamente, los datos sobre el comportamiento de variedades recientemente registradas, no 
+tienen el grado de ﬁabilidad y consistencia que el de aquellas variedades más viejas que hayan sido analizadas en condiciones de campo durante años y bajo muy diferentes condiciones. Por ello, habrá que ser prudente si se opta por poner una nueva variedad y valorar el grado de ﬁabilidad que nos merece la fuente de información consulta.
+En España existen tres Centros que llevan a cabo programas de mejora en almendro: el CEBAS 
+de Murcia, el CITA de Aragón y el IRTA de Cataluña, que en los últimos años han registrado nuevas variedades. En el Cuadro 3.6 se recogen los principales datos sobre el comportamiento de estas variedades, que han sido facilitados por los respectivos obtentores.
+ Cuadro 3.6. Comportamiento de las nuevas variedades registradas en España, referenciado con la 
+variedad ‘Guara’. Para ﬂoración y maduración se indica ± días respecto de Guara. 
+Centro obtentorVariedad Compatibilidad Floración Maduración ProductividadRto. Cásca/
+grano (%)Peso 
+Pepita (g)
+CEBAS Penta Autofertil +15 +7 Muy alta/Alta 29 1,0
+CITA Belona Autofertil -3 +15 Alta/Media 33 1,3
+Mardia Autofertil +20 +18 Alta/Media 24 1,2
+Soleta Autofertil -3 +24 Muy alta/Alta 33 1,3
+IRTA Constanti Autofertil 0 +10 Alta/Media 28 1,2
+Marinada Autofertil +7 +15 Muy alta/Alta 32 1,3
+Tarraco Autoincompat. +9 +20 Alta/Media 31 1,6
+Vayro Autofertil 0 0 Muy alta/Alta 29 1,2
+CITA Guara Autofertil Tardía Temprana Alta/Media 35 1,3
+Datos facilitados por los obtentores: F. Dicenta (CEBAS); R. Socias (CITA); y F. Vargas (IRTA).Manual del Almendro
+31CAPÍTULO 4: DISEÑO Y EJECUCIÓN DE LA PLANTACIÓN
+En especies leñosas plurianuales el diseño y ejecución de la plantación es de gran importancia, 
+ya que tiene un coste elevado y condiciona la productividad a lo largo de toda la vida útil de la plantación. Además, los errores cometidos no siempre pueden subsanarse posteriormente o tienen un alto coste.
+4.1. ACTUACIONES PREVIAS A LA PLANTACIÓN.
+Antes de la plantación habrá que dar una labor profunda, de más de 50 cm, que facilite el desarrollo de las raíces en profundidad y favorezca la inﬁltración del agua en el suelo. Para ello pueden utilizarse dos clases de aperos: de desfonde (tipo vertedera) que voltea el terreno y de subsolado que realiza una labor vertical, cuarteando el terreno. 
+El pase de vertedera invierte parcialmente la disposición de los perﬁles del suelo y crea una suela 
+de labor en profundidad, por lo que es más recomendada la labor de subsolado, debiéndose de dar dos pases cruzados cuando el terreno esté seco. 
+Posteriormente se darán las labores superﬁciales necesarias para eliminar las malas hierbas 
+y desmenuzar el terreno, acondicionándolo para la plantación. Estas labores se ejecutan con gradas de discos o de púas, cultivadores, rastras, etc.
+En parcelas que potencialmente puedan tener problemas de encharcamiento por no tener 
+salida el agua de lluvia, habrá que hacer una correcta nivelación del terreno y realizar las obras necesarias, de forma que se asegure un buen desagüe de la parcela, Figura 4.1. 
+Si el riesgo de asﬁxia radicular es elevado, por tratarse de suelos con textura ﬁna y con un 
+régimen de lluvias alto, habrá que plantearse la realización de una red de drenaje o hacer la plantación en caballón, Figura 4.2. Esta última opción también es válida para los casos de suelos con escasa profundidad útil. Los caballones siempre supondrán una diﬁcultad para la realización de las diferentes labores culturales y no son recomendables en condiciones de secano.
+Si es necesario, también habrá que ejecutar diferentes actuaciones, como pueden ser: 
+eliminación de restos de vegetales, despedregado, enmiendas del suelo, instalaciones de riego, caminos de servicio, etc. 
+Figura 4.1. Arboles muertos por asﬁxia radicular en la parte baja de la parcela sin desagüe del agua.Capítulo 4: Diseño y ejecución de la plantación
+324.2. DISPOSICIÓN DE LOS ÁRBOLES
+Densidad de plantación. La densidad de plantación (número de árboles por unidad de 
+superﬁcie) es determinante sobre aspectos esenciales para la rentabilidad del cultivo, como son: la precocidad de entrada en producción, el nivel productivo en estado adulto, la inversión inicial, los costes y el manejo del cultivo y la vida útil de la plantación.
+Al aumentar la densidad de plantación se mejorará la precocidad de entrada en producción, 
+reduciéndose el periodo improductivo. El nivel máximo productivo dependerá de las condiciones del medio y del sistema de cultivo, siendo también determinante la densidad de plantación. El grado de captación de la radiación luminosa es proporcional al volumen de copa, por tanto, las producciones se verán incrementadas al ir aumentando la densidad (Figura 4.3), hasta alcanzar una densidad máxima, a partir de la cual los incrementos en producción son mínimos o nulos. El valor de esta densidad máxima dependerá, sobre todo, de las características del medio y del cultivo, y para especies como el almendro puede ﬁjarse en torno a los 300 árboles/ha.
+Por el contrario, a mayor densidad de plantación tendremos unos costes de implantación 
+más altos y, normalmente, mayores costes de ejecución de las labores, así como una mayor incidencia de enfermedades y una vida útil de la plantación más corta.Figura 4.2. Medidas culturales para evitar la asﬁxia radicular.  
+Drenaje del suelo (izquierda); plantación en caballón (derecha).
+Figura 4.3. Marco de plantación excesivo que desaprovecha el potencial productivo del medio.Manual del Almendro
+33A la hora de establecer el marco y densidad de plantación más adecuado, habrá que tener en 
+consideración tres factores determinantes: las condiciones medioambientales, el potencial de desarrollo vegetativo y las características de la maquinaria a utilizar en las labores culturales.
+El árbol ha de tener un volumen de suelo suﬁciente para poder extraer sus necesidades de 
+agua y nutrientes. A peores condiciones agronómicas del terreno, son necesarios mayores volúmenes de suelo por árbol, debiéndose de incrementar el marco de plantación. Para el almendro en secanos duros y con suelos pobres, no es recomendable sobrepasar densidades de 150 árboles/ha.
+En plantaciones de alta o muy alta densidad, cuando se supera cierto tamaño de copa se produce 
+el sombreamiento de la zona inferior de la copa, provocando una caída de las producciones y el declive de la plantación. Así mismo, se va estrechando la zona libre de vegetación de las calles, diﬁcultando el tránsito de la maquinaria para realizar las distintas labores culturales, Figura 4.4.
+El crecimiento vegetativo de la plantación depende de múltiples factores, siendo los más 
+importantes el vigor del material vegetal (patrón y variedad) y las condiciones de cultivo. En plantaciones de alta densidad habrá que escoger un material vegetal no excesivamente vigoroso. Así mismo, bajo condiciones medioambientales (suelo y clima) y de cultivo (riego) óptimas para el desarrollo vegetativo se debe de aumentar el marco de plantación, sobre todo el ancho de la calle, para evitar los problemas de sombreamiento y limitaciones al transito de maquinaria.
+En la actualidad, teniendo en cuenta las características generales del material vegetal, las 
+condiciones del medio y sistema de cultivo y, sobre todo, el tipo de maquinaria utilizada para la recolección, para las plantaciones de almendro se aconseja que el ancho de calle sea de 7-8 m y la distancia entre árboles de 5-7 m, lo que nos da unas densidades de plantación entre los 179-286 árboles/ha.
+Desde hace muy pocos años se está analizando el comportamiento de plantaciones de 
+almendro de muy alta densidad (superior a los 1.000 árboles/ha), Figura 4.5. En ellas se están ensayando patrones poco vigorosos, sistemas de formación y poda adecuados a este sistema y la recolección integral mediante las cosechadoras cabalgadoras utilizadas en el olivar en seto y en la vid en espaldera. Este tipo de plantación se encuentra en fase experimental y se desconoce su comportamiento a medio y largo plazo.Figura 4.4. Plantación intensiva adulta, con problemas de sombreamiento e 
+imposibilidad de recolectar con vibrador de tronco con paraguas incorporado.
+Capítulo 4: Diseño y ejecución de la plantación
+34Durante los primeros años improductivos de la plantación no es aconsejable poner en las calles 
+cultivos asociados de especies herbáceas anuales, pues retrasan la entrada en producción y diﬁcultan el correcto manejo de la plantación.
+Otra práctica habitual y no recomendada, es el aumento de la densidad de una plantación adulta 
+intercalando plantones. Los árboles jóvenes tardarán muchos años en desarrollarse, debido a la competencia de los adultos, y se complica el manejo de la plantación.
+Marcos de plantación. Los marcos de plantación más utilizados son el cuadrado y el 
+rectangular. El marco real o cuadrado mantiene la misma distancia entre calles que entre ﬁlas, permitiendo la ejecución de las labores en los dos sentidos. 
+Con un marco rectangular la plantación se dispone en ﬁlas, con una distancia menor entre 
+árboles dentro de las ﬁlas, que la existente entre las ﬁlas o calle. El tránsito de maquinaria y la realización de las labores se hacen solamente en las calles. Este marco consigue un mejor aprovechamiento del terreno que el cuadrado, siendo el más utilizado en fruticultura.
+A la hora de establecer la disposición de las calles habrá que tener en consideración, entre 
+otros, los siguientes factores: pendiente del terreno, orientación geográﬁca, dimensiones de la parcela y viento.
+En plantaciones con pendiente, la pérdida de suelo por erosión hídrica puede causar graves 
+daños, siendo prioritario diseñar la plantación para eliminar o minimizar estos daños. En parcelas con pendiente suaves, habrá que disponer las calles perpendiculares a la línea de máxima pendiente. Con pendientes entre 5-10% es recomendable hacer la plantación a curvas de nivel y marco irregular. Para pendientes entre 10-20% se aconseja la plantación en terrazas (Figura 4.6), y si se supera el 20% en bancales. 
+Figura 4.5. Plantación de alta densidad de almendro, marco 4 x 1,5 m, en su 3º verde.
+Figura 4.6. Plantaciones en terraza y curvas de nivel.
+Manual del Almendro
+35En el caso de que la plantación se establezca sobre un terreno de escasa pendiente, sin 
+problemas de erosión, las ﬁlas han de orientarse en el sentido norte-sur para conseguir la mejor iluminación de la copa. Este factor será tanto más determinante cuanto mayor sea la densidad de plantación.
+Diseño de polinizadores. Toda plantación que tenga una variedad autoincompatible deberá 
+de contar, como mínimo, con otra variedad que permita la polinización cruzada, aconsejándose tener un 30% de árboles polinizadores para que se de una óptima polinización. También es recomendable que no haya más de dos ﬁlas contiguas de la misma variedad autoincompatible y que las variedades se distribuyan en ﬁlas pares, para facilitar la recolección mecanizada. 
+Si la variedad principal elegida es autofértil, no es indispensable disponer de otra variedad 
+polinizadora y se podría hacer una plantación monovarietal. Sin embargo, es aconsejable, sobre 
+todo en plantaciones grandes, poner más de una variedad, aunque no sería necesario un porcentaje de polinizador tan alto como el recomendado para variedades autoincompatibles.
+El principal criterio de elección de una 
+variedad polinizadora es el de tener un periodo de ﬂoración coincidente con el de la variedad principal, Figura 4.7. También habrá que considerar su época de maduración y determinar si interesa, o no, que coincida con el de la variedad principal. Ya que los polinizadores ocuparán un porcentaje alto de la superﬁcie, también han de tener un buen comportamiento agronómico y productivo.
+4.3. EJECUCIÓN DE LA PLANTACIÓN.
+Replanteo y apertura de hoyos. Tradicionalmente el replanteo se hacia trazando una línea base sobre la que se trazaban otras perpendiculares. Actualmente se emplean Sistemas de Posicionamiento Global (GPS) que consiguen una excelente precisión y rapidez de ejecución, existiendo incluso plantadoras mecánicas que realizan la labor de marcado y plantación en el mismo pase.
+Si se ha realizado una correcta preparación del terreno, el hoyo de plantación solo debe de tener 
+las dimensiones necesarias para ubicar holgadamente el sistema radicular de los plantones. Se puede practicar de muy diversas formas: manualmente con azada; mecánicamente, con ahoyadoras, o mediante la apertura de surcos o zanjas, con aperos tipo vertedera.
+No es recomendable la localización de fertilizantes o materia orgánica en el fondo del hoyo de 
+plantación, ya que pueden provocar ﬁtotoxicidades en la planta o quemaduras en la raíz.
+Tipos de plantones. Actualmente las plantaciones de almendro se hacen con plantones 
+injertados procedentes de vivero, que se pueden comercializar a raíz desnuda o con cepellón. 
+Figura 4.7. Desfase de ﬂoración entre las variedades 
+Marcona (izquierda) y Desmayo largueta (derecha).Capítulo 4: Diseño y ejecución de la plantación
+36Para raíz desnuda la plantación se debe de hacer en parada vegetativa invernal, entre los 
+meses de Diciembre-Febrero. Desde su arranque en vivero hasta su colocación en el terreno de asiento, las raíces deben de mantenerse húmedas.
+Los plantones a cepellón pueden, en principio, plantarse en cualquier época del año. Si no hay 
+riesgo de fuertes heladas invernales, el otoño es una buena época. En primavera es conveniente plantar antes de los meses de Mayo-Junio, con antelación suﬁciente a las altas temperaturas estivales.
+Para los plantones a raíz desnuda se ha de proceder a eliminar las partes de las raíces que estén deterioradas y recortar las que sean muy largas. La planta se enterrará a unos 5-10 cm por encima de donde estaba en vivero o en la maceta, procurando que el punto de injerto no quede enterrado. Localizar las raíces a mucha profundidad (Figura 4.8) puede provocar una mala aireación 
+de las raíces, llegando a causar la muerte del árbol.
+La tierra con la que se vaya a aporcar las raíces ha de estar mullida y exenta de piedras o terrones. Una vez cubierto el hoyo de plantación se procederá a compactar la tierra, para asegurar un contacto íntimo con las raíces que evite aireaciones.
+4.4. CUIDADOS POSTERIORES. 
+Inmediatamente después de la plantación se debe de proceder al riego, poda y entutorado de la planta, Figura 4.9.
+Si no se dispone de instalación de riego, se hará una poza 
+alrededor del tronco y se dará un riego de implantación, para mejorar las condiciones de humedad del terreno y eliminar los posibles huecos que hayan quedado entre el suelo y las raíces.
+También se practicará una poda de plantación, ver Capítulo 
+5. Si la planta tiene suﬁciente longitud (más de 1,1 m), permite despuntarla a la altura de la cruz, con lo que se adelanta y facilita la formación del árbol, Figura 4.10. Por ello, es aconsejable la planta grande, pero no vieja, ya que en plantones de más de un año las brotaciones laterales son más irregulares, diﬁcultando la emisión de brotes que darán lugar a las ramas primarias, Figura 4.11.
+Figura 4.8. Hoyo de plantación excesivamente profundo
+Figura 4.9. Riego de implantación, 
+entutorado y colocación de 
+protector.
+Manual del Almendro
+37Para facilitar la formación del árbol y conseguir 
+un tronco recto que favorezca la recolección con vibrador, se debe de entutorar la planta. El tutor habrá de enterrarse unos 50 cm y llegar hasta la cruz del árbol, debiendo de ser de un material y grosor adecuado para proporcionar la consistencia necesaria. El tutor ha de situarse antes de la planta en la dirección de los vientos dominantes, a una distancia de unos 5-10 cm. Si la planta viene de vivero con el tronco inclinado, ha de colocarse en el terreno de forma que al atarla al tutor se corrija la curvatura. Para el atado es aconsejable un material elástico y degradable, que reduzca el riesgo de estrangulaciones del tronco. 
+En el caso de presencia de roedores (liebres, 
+conejos, etc.) se colocarán protectores, que deberán de tener la altura y consistencia necesaria 
+para impedir las mordeduras. Es bueno que los protectores estén perforados para permitir una buena aireación del tronco.Figura 4.10. Grado de desarrollo de una plantación al ﬁnal de su primer verde, mes de Octubre. 
+Plantones a cepellón puestos en Mayo con menos de 50 cm (izquierda); plantones a raíz desnuda 
+puestos en Febrero con más de 120 cm y rebajados a la altura de la cruz en el momento de plantación 
+(derecha).
+Figura 4.11. Poder de brotación: izquierda 
+plantón de 1 año, derecha plantón de 2 
+años.
+Manual del Almendro
+39CAPÍTULO 5: SISTEMAS DE FORMACIÓN Y PODA
+El sistema de formación y poda de los árboles es una de las técnicas de cultivo más importante, 
+ya que tiene una gran incidencia sobre la producción, la calidad del fruto, el estado ﬁtosanitario y los costes de cultivo. Mediante la misma el agricultor modiﬁca los hábitos naturales de crecimiento del árbol, para alcanzar y mantener una estructura que permita conseguir las máximas producciones (lo antes posible y durante un periodo de tiempo amplio) y que facilite el manejo de la plantación, todo ello con el menor esfuerzo y coste posible. 
+5.1. SISTEMAS DE FORMACIÓN
+El sistema de formación más adecuado y utilizado para el almendro es el vaso, existiendo diferentes tipos (pisos, helicoidal, libre, etc.), así como distintas intensidades de poda.
+La estructura básica del vaso de pisos (Figura 5.1) está formada por un conjunto equilibrado, constituido por 3 ramas primarias, también llamadas principales o brazos, unidas directamente al tronco en la zona denominada “cruz”. A lo largo de las primarias se insertan, de forma sistemática, las ramas secundarias o pisos y sobre estas las ramas terciarias. Las ramas fructíferas se insertan, principalmente, en las ramas secundarias y terciarias.
+El conjunto de las ramas 
+primarias, secundarias y terciarias, constituyen lo que se conoce como armazón o esqueleto de la copa, que permanecerán durante toda la vida productiva del árbol, por lo que también son denominadas “ramas de vida”. Tienen unos cometidos fundamentalmente estructurales y mecánicos, debiendo de favorecer 
+la presencia y el buen estado de las ramas fructíferas y soportar el peso de la cosecha.
+A las ramas vigorosas de 2º y 3º orden (no fructíferas, ni chupones) que no conformarán el 
+armazón del árbol, se les denominan “ramas de acompañamiento o de muerte”. Estas ramas sustentan ramas fructíferas y, por lo tanto, solamente serán eliminadas cuando interﬁeran el correcto desarrollo de las ramas estructurales, limiten la adecuada iluminación de la copa o diﬁculten la realización de labores culturales.
+En las ramas fructíferas se localizan las hojas y los órganos reproductivos, esenciales para la 
+actividad vegetativa y productiva del árbol.
+Figura 5.1. Estructura básica de la formación en vaso de 
+pisos. Reproducido de Cambra y Cambra.(1991). Diseño de 
+plantación y formación de árboles frutales. Cuaderno nº1. 8ª 
+Edición. CSIC-Caja de Ahorros de la Inmaculada.Capítulo 5: Sistemas de Formación y Poda
+40La altura de la cruz suele situarse entre 90-110 cm del suelo, para facilitar la recolección 
+mecanizada mediante vibrador de tronco. 
+Para la elección de las ramas primarias hay que tener en cuenta una serie de consideraciones 
+básicas. Se ha de procurar que las ramas principales no se inserten justo a la misma altura del tronco (Figura 5.1), con ello se favorece una cierta jerarquía entre ellas y se disminuyen los riesgos de rotura. Para conseguir un buen porte del árbol, el ángulo de inserción de las ramas primarias con el tronco ha de ser de unos 45º. La separación entre las ramas principales debe ser lo más uniforme posible, para que el volumen de copa se reparta equitativamente entre ellas, en el caso de tres ramas sería de 120º. Para que el crecimiento del árbol sea uniforme en todo su volumen, se tratará que todas las ramas principales seleccionadas tengan una altura y vigor similares, debiendo de mantener esta igualdad durante toda la vida del árbol.
+Para la selección de las ramas secundarias habrá que considerarse los siguientes aspectos: la 
+primera rama secundaria debe dejarse como mínimo a unos 30-50 cm del tronco, ya que las ramas muy próximas a la cruz adquieren un excesivo vigor. Dentro de una misma rama primaria, la distancia entre pisos ha de ser de unos 40-70 cm, para que no se interﬁeran entre ellas. El ángulo de inserción de las ramas secundarias con las primarias debe ser de unos 45º y el ángulo de sus proyecciones horizontales de 30º (Figura 5.1), para favorecer la ramiﬁcación y consistencia mecánica. 
+En el primer nivel o piso, sólo se dejará una rama secundaria por brazo, orientada en el mismo 
+sentido, de tal forma que el espacio entre dos ramas principales sea ocupado por una sola rama secundaria y pueda tener un desarrollo adecuado. A lo largo de cada brazo se irá alternando la dirección de salida de las ramas secundarias, para que dos ramas contiguas no compitan por el mismo espacio de la copa.
+5.2. PODA
+La poda es la técnica de cultivo más intuitiva y subjetiva. Siempre es muy aconsejable contar con unos conocimientos técnicos, pero su buena práctica dependerá, en gran medida, de la experiencia del podador y de su capacidad de observación de las respuestas del árbol a las distintas intervenciones, en resumen, de su profesionalidad. 
+5.2.1.Criterios de poda 
+Las intervenciones de poda se deberán de adecuar a las características particulares de cada plantación, en especial a los siguientes factores: características del material vegetal, diseño de plantación, sistemas de cultivo y condiciones medioambientales.
+El hábito vegetativo de la 
+variedad suele ser el factor más determinante sobre el criterio de poda a adoptar. Las variedades de almendro presentan diferentes portes (Figura 5.2 y Cuadro 5.1) y grados de ramiﬁcación (Figura 5.3 y Cuadro 
+Figura 5.2. Diferentes tipos de porte en variedades de almendro.  
+Caedizo (izquierda), medio (centro) y erguido (derecha).Manual del Almendro
+415.2), características que son determinantes sobre los criterios y facilidad de poda. En general, 
+son deseables las variedades de porte medio-erguido e intensidad de ramiﬁcación media, que permiten una formación fácil de la estructura de la copa, con un mínimo de intervenciones.
+La operación de poda es la labor de cultivo que más mano de obra demanda y, además, cada 
+vez es más difícil encontrar podadores profesionales. Por ello, la facilidad de poda de las variedades es un aspecto a tener muy en cuenta, sobre todo en grandes explotaciones. En el Cuadro 5.3 se recoge la catalogación de las principales variedades por su facilidad de poda.
+El sistema de formación dependerá del marco y densidad de plantación. En plantaciones con baja, media o alta densidad, cada árbol tiene una unidad estructural, practicándose una formación a “todo viento”. Por el contrario, en situaciones de muy alta densidad, la unidad estructural pasa del árbol individual a la ﬁla de árboles, debiéndose de obtener una estructura en “seto”.
+Otro aspecto esencial es el vigor o tasa de crecimiento vegetativo. Al aumentar éste las intervenciones de poda habrán de ser más frecuentes e intensas, para conseguir una buena ramiﬁcación y endurecimiento de las ramas estructurales, así como para mantener un volumen Cuadro 5.1. Porte de las principales variedades
+Categoría Variedad
+Erguido Asperilla, Constanti, Ferraduel, Ferragnès, Marinada, Marta, Peraleja, Rumbeta y Tarraco
+Medio Cambra, Cartayera, Cristomorto, Garrigues, Glorieta, Masbovera, Soleta, Vayro y Vert 
+Abierto Belona, Blanquerna, Desmayo largueta, Genco, Guara, Lauranne, Marcona, Supernova y Tuono
+Caedizo Antoñeta
+Fuente: Arquero y col., 2008. Hábitos de formación y respuesta a la intensidad de poda de formación de 
+las principales variedades de almendro. Consejería de Agricultura y Pesca de la Junta de Andalucía.
+Figura 5.3. Diferentes grados de ramiﬁcación en variedades de almendro.  
+Escaso (izquierda), medio (centro) y alto (derecha).
+Cuadro 5.2. Grado de ramiﬁcación de las principales variedades
+Categoría Variedad
+Escasa Cambra, Genco, Marinada y Tarraco
+Media Asperilla, Belona, Cristomorto, Guara, Lauranne, Masbovera, Rumbeta, Supernova, Tuono y Vayro
+Densa Antoñeta, Blanquerna, Constanti, Desmayo largueta, Ferragnès, Glorieta, Marcona y Marta
+Muy densa Cartayera, Ferraduel, Garrigues, Peraleja, Soleta y Vert
+Fuente: Arquero y col., 2008. Hábitos de formación y respuesta a la intensidad de poda de formación de 
+las principales variedades de almendro. Consejería de Agricultura y Pesca de la Junta de Andalucía.Capítulo 5: Sistemas de Formación y Poda
+42de copa adecuado. Los principales factores que inﬂuyen en el crecimiento son: el sistema de 
+cultivo (riego/secano), las condiciones edafoclimáticas y el vigor del material vegetal.
+5.2.2.Sistemas de poda 
+Se pueden establecer diferentes tipos de poda en función de diversos criterios. Teniendo en cuenta el ciclo vegetativo anual, se diferencia la poda en verde y la de invierno; atendiendo a la fase de la vida del árbol, tendremos las podas de plantación, formación, producción y de rejuvenecimiento; por último, según la naturaleza del instrumental utilizado, se puede diferenciar entre poda manual y poda mecánica.
+Poda en verde. Se ejecuta en el periodo de actividad vegetativa del árbol, siendo lo habitual 
+hacerla en Mayo-Junio. En este tipo de poda solo se interviene en ramas del año (brotes), mediante cortes de aclareo o de rebaje. 
+Poda de invierno. Se realiza cuando el árbol está en parada vegetativa invernal (noviembre-
+febrero). Es la poda propiamente dicha, interviniéndose cualquier tipo de rama con cortes de aclareo o rebaje (eliminando total o parcialmente la rama intervenida, respectivamente), en función de las necesidades y objetivos de la poda.
+Poda de plantación. Se practica en el momento de la plantación. Para plantones a raíz 
+desnuda se sanearán las raíces, eliminando las dañadas y recortando las de mucha longitud. Si el plantón tiene la altura necesaria, se despuntará a la altura a la que se pretenda sacar la cruz y se eliminarán todas las brotaciones laterales, teniendo cuidado de no dañar las yemas situadas en la zona de la cruz, Figura 5.4.Cuadro 5.3. Facilidad de poda de las principales variedades
+Categoría Variedad
+Muy buena Ferraduel
+BuenaAsperilla, Belona, Blanquerna, Constanti, Desmayo largueta, Ferragnès, Garrigues, Glorieta, 
+Marcona, Marinada, Marta, Masbovera, Peraleja, Rumbeta, Tarraco y Vert
+Media Cartayera, Lauranne, Soleta y Vayro
+Mala Cambra, Cristomorto, Guara, Supernova y Tuono
+Muy mala Antoñeta
+Fuente: Arquero y col. 2008. Hábitos de formación y respuesta a la intensidad de poda de formación de las principales variedades de almendro. Consejería de Agricultura y Pesca de la Junta de Andalucía. 
+Figura 5.4. Poda de plantación.Manual del Almendro
+43Poda de formación. Este tipo de poda se aplica desde el primer año de plantación hasta que 
+el árbol alcanza unos niveles productivos y de desarrollo vegetativo cercanos a los máximos potenciales, que en el almendro puede ser en el 5º-7º año. Para este periodo es necesario realizar anualmente poda en verde y de invierno.
+La poda en verde se hará cuando los brotes tengan una longitud superior a los 30-50 cm. 
+Normalmente con una sola intervención anual es suﬁciente, aunque situaciones de fuertes crecimientos o deformaciones de la copa pueden aconsejar hacer dos.
+En la intervención en verde del primer año, en la zona de la cruz se dejarán 4-6 brotes y se 
+eliminarán las brotaciones que surjan por debajo. En los años sucesivos, en la intervención en verde se eliminarán las brotaciones que salgan por debajo de la cruz y los chupones. Así mismo, se quitarán aquellas brotaciones que impidan el correcto desarrollo de las ramas de vida y se hará un aclareo de brotes si los hubiese en exceso. En condiciones de fuertes crecimientos vegetativos y peligro de rotura o arqueamiento de los brotes, se harán cortes de rebaje sobre los mismos.
+En las intervenciones de invierno se irán seleccionando las ramas estructurales (primarias, 
+secundarias y terciarias) con los criterios que antes se han descrito. En la intervención del primer año es aconsejable dejar ya solamente las 3 ramas principales, si no se ha hecho antes en la poda en verde. Siempre es aconsejable la formación con 3 ramas principales, ya que un mayor número dará lugar a un exceso de madera y falta de ramiﬁcación en la parte baja de la copa. Si no existieran 3 ramas que cumplan las exigencias necesarias, se formará el árbol con solo dos ramas principales, que permite también conseguir una buena estructura y facilidad de poda. 
+Los criterios básicos de ejecución de la poda de invierno para los distintos tipos de ramas son: 
+•  Ramas vigorosas
+•  Chupones. Eliminarlos siempre (Figura 
+5.5, corte 1)
+•  Ramas estructurales (de vida). Si es 
+necesario, favorecer su consistencia y 
+ramiﬁcación mediante cortes de rebaje (Figura 5.5, corte 2).
+•  Ramas no estructurales (de muerte). 
+Se quitarán las que se dirijan hacia el interior o exterior de la copa. Las orientadas a derecha o izquierda se eliminarán, total o parcialmente, cuando diﬁculten el correcto desarrollo de las de vida (Figura 5.5, corte 3).
+•  Ramas poco vigorosas (fructíferas).
+•  Eliminar total o parcialmente las bajeras 
+que estorben (Figura 5.5, corte 4).
+•  En el resto de la copa, hacer un aclareo, 
+si hay excesivo número (Figura 5.5, corte 5).
+Figura 5.5. Criterios básicos de la poda de invierno en 
+formación del árbolCapítulo 5: Sistemas de Formación y Poda
+44Poda de producción. Si mediante la poda de formación se ha conseguido una buena estructura 
+de copa, la poda de producción será muy ligera y de rápida ejecución. 
+Las intervenciones de poda en verde son mínimas o nulas, a no ser que se produzcan fuertes 
+desequilibrios vegetativos en el árbol.
+La poda de invierno se limitará a la eliminación de chupones y de las ramas que interﬁeran la 
+idónea iluminación y ramiﬁcación de las ramas estructurales. Así mismo, se irán renovando las ramas que empiecen a dar síntomas de agotamiento (bajo crecimiento, necrosis y escasez de frutos).
+Siempre es aconsejable realizar la poda de invierno de producción con una frecuencia anual. De 
+esta forma mantendremos permanente una buena disposición de la copa y evitaremos tener que realizar podas fuertes que desequilibren el árbol y supongan un alto coste.
+Poda de rejuvenecimiento. Con el envejecimiento del árbol se produce una parada del 
+crecimiento y una paulatina disminución de las cosechas. 
+Para rejuvenecer y revigorizar el árbol son necesarias intervenciones drásticas de poda, mediante 
+cortes de rebajes sobre las ramas primarias a unos 30-50 cm de la cruz. Es conveniente hacer una renovación secuencial de las ramas primarias, una por año, empezando con la mejor iluminada (orientación sur). Con ello mantendremos cierto nivel productivo y no provocaremos fuertes desequilibrios copa/raíz. De las brotaciones que surjan por debajo de los cortes de rebaje se vuelve a formar una nueva copa.
+Una vez que la plantación empieza a ver disminuida su productividad, habrá que plantearse la 
+adopción de dos posibles soluciones: hacer una poda de rejuvenecimiento o arrancar la vieja plantación y poner una nueva. Normalmente, la segunda opción es la más rentable a medio/largo plazo.
+Poda mecánica. Solamente se recomienda su uso en poda de producción, siendo una forma 
+rápida y económica de mantener los volúmenes de copa, así como de provocar la ramiﬁcación de las ramas intervenidas. Se dan cortes tanto en altura como laterales, según las necesidades.
+Son relativamente frecuentes los fracasos al aplicar este sistema, debiendo de tener unos 
+criterios técnicos y experiencia en su ejecución. Habrá que establecer la intensidad y frecuencia de los pases más adecuadas, también suele ser necesario una poda manual de aclareo sobre las brotaciones que surgen por debajo de los cortes mecánicos. Mediante la poda mecánica no se pueden corregir deﬁciencias estructurales, como la presencia de un excesivo número de ramas, para lo que será necesario intervenciones manuales.
+5.2.3. Intensidad de poda. 
+En la poda de formación, atendiendo a la cantidad de vegetación eliminada (intensidad o severidad de poda), podemos diferenciar dos tipos: poda larga y corta.
+Poda larga o mínima. La intensidad de la poda es muy baja. Las ramas estructurales (primarias 
+y secundarias) no se rebajan o el rebaje es largo y se mantienen la mayoría de ramas no estructurales o de muerte, quitando solamente las interiores y las entrecruzadas, haciendo también un ligero aclareo si hubiese una excesiva densidad. 
+Poda corta o intensa. La intensidad o severidad de la poda es muy fuerte. Todas las ramas 
+estructurales (primarias y secundarias) se rebajan en corto en los 2-3 primeros años y se eliminan casi todas las ramas de muerte.Manual del Almendro
+45Al aumentar la intensidad de poda mejoraremos la estructura del árbol, consiguiendo una 
+mayor solidez mecánica y mejor grado de ramiﬁcación, asegurando una mayor vida útil de la plantación. Por el contrario, estaremos retrasando la entrada en producción, provocaremos fuertes crecimientos con los cortes de rebaje, que tendrán que ser corregidos, y aumentaremos considerablemente el coste de la labor de poda.
+La poda es la técnica de cultivo que más mano de obra requiere y, por tanto, la de mayor 
+coste. Este es el principal motivo de que la tendencia actual en fruticultura sea la de ir hacia estructuras más o menos libres, Figura 5.6. 
+Respetando lo máximo posible la tendencia natural del árbol, se ha de conseguir un mínimo de 
+estructura, que asegure la suﬁciente solidez mecánica, para evitar arqueamientos o roturas de las ramas; y que consiga una buena ramiﬁcación e iluminación de la copa, que permitan alcanzar altos niveles productivos y un mínimo de vida productiva de la plantación. Todo ello ha de alcanzarse con intervenciones de poda que han de ser sencillas y lo más limitadas posible, practicando lo que se conoce como poda larga o mínima.
+La intensidad de la poda de formación dependerá, sobre todo, de los hábitos vegetativos de la 
+variedad. Para cultivares con bajo grado de ramiﬁcación, portes muy abiertos o tendencia al arqueamiento de las ramas, serán necesarias podas cortas de alta intensidad, con cortes de rebaje durante los 2-3 primeros años, que modiﬁquen la tendencia natural y permitan alcanzar una estructura con el grado de solidez y ramiﬁcación necesarias, Figura 5.7. Una vez conseguido esto (Figura 5.7 inferior derecha), se llevará a cabo una poda mínima.
+Variedades de portes medios/erguidos y buen grado de ramiﬁcación permitirán adoptar una 
+poda mínima desde el primer año, que se limite a un aclareo de las ramas mal situadas, Figura 5.8.
+Figura 5.6. Árbol con estructura en vaso libre.Capítulo 5: Sistemas de Formación y Poda
+46
+Figura 5.7. Respuesta a la poda larga 
+(parte superior) y corta (parte inferior) 
+en variedad con porte medio/abierto 
+y baja ramiﬁcación. Foto de la 
+izquierda, árbol en 1º verde antes de 
+la poda; centro, después de la poda; 
+derecha, mismo árbol en 2º verde.
+Figura 5.8. Respuesta a la 
+poda larga (parte superior) 
+y corta (parte inferior) en 
+variedad con porte medio/
+erguido y alta ramiﬁcación. 
+Foto de la izquierda, árbol 
+en 1º verde antes de la 
+poda; centro, después de la 
+poda; derecha, mismo árbol 
+en 2º verde.Manual del Almendro
+47CAPÍTULO 6: MANEJO DEL SUELO
+El manejo del suelo incide directamente en aspectos tan importantes como la disponibilidad 
+de agua en el suelo; el control de la erosión; la fertilidad y estructura del suelo; el transito de maquinaria; el microclima; y el control de plagas y enfermedades. 
+6.1. SISTEMAS DE MANEJO.
+En fruticultura suelen aplicarse tres sistemas de manejo de suelo: laboreo, no laboreo con suelo desnudo y cubierta vegetal.
+Laboreo. El sistema tradicional de manejo del suelo es el laboreo, que se basa en pases 
+continuados de aperos de labranza. El calendario más habitual es el siguiente: en el otoño se da una labor profunda, que tienen como principal objetivo el de favorecer la inﬁltración del agua de lluvia; a la caída de pétalos se da otra labor; en primavera se realiza otro pase, para eliminar las malas hierbas; y se termina dando el último pase hacia el mes de Julio, para disminuir las pérdidas de agua por evaporación. 
+Es aconsejable la utilización de aperos que realicen una labor vertical, como rastras, 
+vibrocultivadores o cultivadores. La grada de disco es muy efectiva para la eliminación de las malas hierbas cuando han alcanzado un gran desarrollo, sin embargo, estos tipos de aperos que voltean el terreno presentan una serie de inconvenientes: alteran el perﬁl del suelo, aumentan las pérdidas de agua por evaporación y provocan un endurecimiento del suelo en la zona de corte del apero, conocida como “suela de labor”, que disminuye la inﬁltración del agua y diﬁculta la penetración vertical de las raíces.
+Entre las ventajas del laboreo podemos citar: fácil control de las malas hierbas, posibilidad 
+de incorporar abonos al suelo, no presenta diﬁcultad técnica para el agricultor, elimina las pequeñas cárcavas y rompe la costra superﬁcial que se forma tras las lluvias. 
+El laboreo es utilizado en prácticamente el 100% de las plantaciones tradicionales de almendro. 
+Aunque en otras especies frutales es cada vez menos empleado por la gran cantidad de inconvenientes que presenta, entre ellos: impide el desarrollo radicular en el horizonte superﬁcial del suelo (sujeto a laboreo), con lo que no se aprovechan las lluvias de poca intensidad; provoca daños en raíces y troncos, pudiendo llegar a matar los árboles de corta edad (Figura 6.1); disminuye el contenido de materia orgánica y la estructura del suelo; diﬁculta el tránsito de la maquinaria. Además, de los tres sistemas de manejo del suelo es el que presenta un coste energético más alto, mayores pérdidas de agua por evaporación y el que más favorece la erosión.
+Figura 6.1. Árboles jóvenes muertos por un laboreo excesivo, en profundidad y proximidad al tronco.Capítulo 6: Manejo del Suelo
+48Por todo lo comentado, el laboreo tradicional no es el sistema más recomendable. En el caso 
+de utilizarlo se ha de procurar reducir el número (máximo 2-3) y profundidad de las labores, practicando lo que se denomina “mínimo laboreo”. Así mismo, para disminuir las pérdidas de suelo por erosión es conveniente realizar las labores en el sentido perpendicular a la máxima pendiente del terreno.
+No laboreo con suelo desnudo. En este sistema el control de las malas hierbas se hace 
+mediante la utilización de herbicidas, por lo que no puede ser aplicado en cultivo ecológico. 
+La práctica del no laboreo se basa en la aplicación de herbicidas residuales de preemergencia 
+en otoño, antes o inmediatamente después de las primeras lluvias. Las malas hierbas que presenten resistencia a este tratamiento serán eliminadas en primavera, en tratamientos de postemergencia, utilizando herbicidas de translocación o de contacto. 
+Los herbicidas deben ser aplicados mediante barras de aplicación de herbicidas (aplicación 
+vertical), en las que se montarán las boquillas adecuadas a cada tipo de tratamiento. Solamente se utilizarán los herbicidas que estén autorizados para el cultivo del almendro, respetando las dosis y criterios de aplicación establecidos. Así mismo, es aconsejable alternar la materia activa, de lo contrario se puede provocar una inversión de ﬂora hacia especies no controladas por los herbicidas utilizados.
+El no laboreo tiene como principales ventajas la de permitir el desarrollo radicular en superﬁcie 
+y la de tener un bajo coste energético. Su mayor inconveniente es el de reducir la tasa de inﬁltración del suelo, disminuyendo la cantidad de agua de lluvia que puede almacenar el terreno. Este problema es especialmente grave en plantaciones en pendiente con suelos limosos, en las que se desaconseja su utilización. Otro aspecto negativo es el de favorecer la compactación del suelo.
+Cubierta vegetal viva. Con este sistema de manejo se mantiene el suelo cubierto de 
+vegetación. Normalmente se utilizan especies naturales espontáneas, pudiéndose seleccionar las gramíneas mediante aplicación de herbicidas selectivos de hoja ancha. Si la presencia de estas especies es escasa y su implantación natural lenta, se puede proceder a su siembra. Las cubiertas de leguminosas tienen la ventaja de ﬁjar nitrógeno atmosférico, pero su valor como cubierta es menor, debido a su escasa cobertura del terreno y a su rápida degradación cuando se seca. 
+Para un mejor control de la erosión, la implantación de las cubiertas y el tránsito de maquinaria 
+se ha de hacer en el sentido perpendicular a la máxima pendiente.
+En condiciones de secano hay que ser muy cuidadoso con el manejo de la cubierta, debiéndose 
+de eliminar a ﬁnales de invierno o principio de primavera, antes de que empiece a competir con el almendro por el agua almacenada en el suelo. La eliminación o control de la cubierta puede hacerse de forma química, mediante la aplicación de herbicidas; o mecánica, con el empleo de desbrozadoras o segadoras. El control químico tiene la ventaja de provocar la muerte total de las hierbas, eliminando toda extracción de agua por parte de las mismas, así como de mantener una buena protección de la superﬁcie del suelo cuando se seca. 
+Algunas especies de gramíneas utilizadas como cubiertas tienen un ciclo vegetativo muy corto, 
+pudiéndose secar antes de empezar a competir, con lo que no sería necesario su control.
+Si la eliminación de la cubierta en primavera se hace antes de que semille, habrá que dejar 
+una parte de ella viva para que produzca la suﬁciente semilla que regenere la cubierta al año Manual del Almendro
+49siguiente. También deberá de hacerse una fertilización complementaria para la cubierta vegetal.
+La cubierta vegetal viva presenta muchas ventajas respecto a los sistema de laboreo y no 
+laboreo: consigue una mejor estructura del suelo y un mayor contenido en materia orgánica; mejora la tasa de inﬁltración del agua en el suelo y reduce las pérdidas de agua por evaporación; facilita el tránsito de la maquinaria; y es el sistema que más reduce los daños por erosión, Figura 6.2. 
+Por el contrario, este sistema presenta el inconveniente de ser muy técnico, exigiéndole al 
+agricultor cierto grado de preparación y dedicación. Hay que saber escoger la especie más adecuada, implantarla en el terreno, mantenerla durante años y determinar el momento y forma en que hay que controlarla anualmente, con el objeto de que no compita por el agua con el cultivo. Siendo esto último de suma importancia en condiciones de secano.
+También pueden utilizarse cubiertas inertes de materiales inorgánicos, como piedras; u 
+orgánicos, como los restos de poda y paja, aunque son difíciles de establecer y mantener.
+Sistemas mixtos. En la práctica es habitual realizar distintos manejos del suelo en la zona bajo 
+copa y en el centro de las calles. 
+Lo más frecuente es mantener el suelo desnudo bajo copa con la aplicación de herbicidas, 
+mientras que en las calles se practica un mínimo laboreo o se implanta una cubierta vegetal, siendo este último el más recomendable y utilizado en fruticultura convencional e integrada (Figura 6.3), no pudiéndose aplicar en ecológico por la prohibición de aplicación de herbicidas. 
+Figura 6.2. Grado de erosión en función del manejo del suelo. Cubierta vegetal (izquierda); laboreo 
+tradicional (derecha).
+Figura 6.3. Sistema mixto: no laboreo bajo copa y cubierta vegetal en el centro de la calle.Manual del Almendro
+51CAPÍTULO 7: FERTILIZACIÓN
+La fertilización tiene como objetivo el de satisfacer las requerimientos nutritivos de la planta 
+cuando estos no sean aportados en los momentos y cantidades necesarias por el suelo. Los suelos presentan una gran variabilidad respecto a sus características físico-químicas y de fertilidad. Así mismo, las necesidades nutritivas varían según la edad y los estados vegetativos y productivos del árbol. Por todo ello, no pueden darse recomendaciones genéricas de fertilización. 
+7.1. CRITERIOS DE FERTILIZACIÓN.
+Tradicionalmente se ha considerado que mediante el abonado se debería de restituir al suelo las cantidades de nutrientes que la cosecha extraía. Este método de abonado de restitución presenta serias deﬁciencias que lo hacen desaconsejable, siendo las dos más importantes la falta de respuesta al abonado cuando un elemento está disponible en cantidad suﬁciente en la solución del suelo, y la no cuantiﬁcación del consumo de lujo. 
+En el Cuadro 7.1 se recogen los criterios que se pueden seguir para el abonado de restitución 
+en el almendro.
+Actualmente se considera que el plan anual de fertilización de los cultivos leñosos se ha de 
+basar en el diagnóstico del estado nutritivo de la planta, determinado mediante el análisis foliar, debiéndose de complementar con una serie de informaciones o referencias, como son: características del suelo, sintomatología que presente la planta, estados vegetativos y productivo, y manejo del cultivo.
+El análisis foliar es el mejor método para diagnosticar el estado nutritivo del árbol. Permite 
+detectar niveles bajos de nutrientes, antes de que se den deﬁciencias, establece la respuesta al abonado aplicado y detecta las toxicidades por cloro, boro y sodio.
+El resultado del análisis foliar se ha de comparar con los niveles críticos de cada uno de los 
+elementos nutritivos. En el Cuadro 7.2 ﬁguran los valores establecidos para el almendro. Concentraciones por debajo del nivel adecuado, provocan una disminución del crecimiento y de la producción. Cuadro 7.1. Criterios del abonado de restitución para el almendro. Inmovilizaciones, extracciones y 
+necesidades de fertilizante, expresadas en kg/ha de elemento nutritivo, para dos niveles productivos: 
+1000 y 4000 kg/ha de almendra cáscara.
+ElementonutritivoInmobilizadoProducción 1000 kg/ha Producción 4000 kg/ha
+Extracción Aporte fertilizante Extracción Aporte fertilizante
+Nitrógeno (N) 40 10-20 30 40-80 90
+Fósforo (P2O5) 6 1,5-2,5 20 6-10 50
+Potasio (K2O) 30 13-15 40 52-60 100
+Calcio (CaO) 30 1,5-2,5 6-10
+Magnesio (MgO) 4 0,8-1,0 20 3,2-4,0 50
+Hierro (Fe) 1,5 0,4-0,6 1,6-2,4
+Manganeso (Mn) 0,5 0,04-0,006 0,16-0,24
+Zinc (Zn) 0,8 0,1-0,3 0,4-0,12
+Fuente: C. Grasselly y H. Duval. 1997. L´Amandier. Ctiﬂ. Paris. Datos estimados para un suelo sin niveles deﬁcientes de nutrientes.Capítulo 7: Fertilización
+52Los niveles críticos han sido estimados para unas características determinadas de tipo de hoja 
+y época del año. Por tanto, para que los resultados del análisis foliar puedan ser comparados con los niveles críticos establecidos es esencial que se siga una metodología de toma de hojas, acorde con los criterios considerados al establecer los niveles críticos. 
+Se tomarán muestras de parcelas homogéneas respecto a la edad, material vegetal, tipo de 
+suelo, técnicas de cultivo, etc. El muestreo se hará en el mes de Julio. El tamaño de la muestra será de unas 100 hojas, tomadas en árboles escogidos al azar y distribuidos por toda la parcela. Las hojas se cogen enteras, con limbo y peciolo, y no deben de mostrar desperfectos. Se tomaran de la zona intermedia de brotes cortos o de ramilletes de mayo, nunca de chupones, situados en las cuatro orientaciones y en la zona media-baja de la copa. Una vez cogidas, las hojas han de mantenerse en frío (nevera) hasta su traslado al laboratorio.
+7.2. FORMAS Y CRITERIOS DE APLICACIÓN.
+La fertilización del almendro se realiza, fundamentalmente, mediante aportes al suelo o por aplicaciones foliares.
+La forma tradicional y más empleada actualmente es la aplicación directa al suelo. El fertilizante 
+así aportado pasa a la solución del suelo de la que será absorbido por las raíces. Este sistema es el que presenta menor eﬁciencia, expresada como porcentaje de elemento absorbido por la planta respecto al total aplicado. Las principales pérdidas son por lavado en profundidad y por volatilización a la atmósfera. 
+Para mejorar la eﬁciencia del abonado al suelo habrá que seguir unos criterios o recomendaciones 
+de aplicación. El abonado se debe de hacer cuando el árbol tenga actividad vegetativa y, por tanto, con mayor capacidad de absorción de nutrientes, siendo recomendado fraccionar la aplicación en dos o tres momentos a lo largo del periodo vegetativo. El fertilizante se ha de distribuir uniformemente en toda la superﬁcie, ya que el sistema radicular, en plantación adulta, explora todo el terreno. Para evitar pérdidas por volatilización se harán aplicaciones localizadas, incorporando el fertilizante al terreno mediante una labor superﬁcial, o bien, se aplicará en Cuadro 7.2. Niveles críticos de nutrientes en hoja de almendro para el mes de Julio, expresados en % o 
+ppm sobre materia seca.
+Elemento nutritivoNivel
+Deﬁciente Adecuado Tóxico
+Nitrógeno, N (%) < 2 2,2-2,5
+Fósforo, P (%) 0,1-0,3
+Potasio, K (%) < 1 > 1,4
+Calcio, Ca (%) > 2
+Magnesio, Mg (%) > 0,25
+Sodio, Na (%) > 0,25
+Cloro, Cl (%) > 0,3
+Boro, B (ppm) < 30 30-65 > 300
+Manganeso, Mn (ppm) > 20
+Zinc, Zn (ppm) < 15
+Cobre, Cu (ppm) > 4
+Fuente: P.H. Brown and K. Uriu. 1996. Nutrition deﬁciencies and toxicities: diagnosing and correcting imbalances. In. Edt. W.C. Micke, Almond production manual. University of California.Manual del Almendro
+53superﬁcie inmediatamente antes de las lluvias, para que el agua lo incorpore al suelo.
+Mediante la fertilización foliar el abonado es aplicado, mediante pulverización, en forma de 
+solución nutritiva a la copa de los árboles, siendo absorbido por las hojas. Este sistema permite una utilización rápida y eﬁciente de los nutrientes. Está especialmente recomendado para el aporte de micronutrientes y en aplicaciones de “choque”, para tener una pronta respuesta. Para una mayor eﬁciencia, las aplicaciones se han de hacer con el árbol en actividad vegetativa y cuando las hojas estén totalmente expandidas; no debiéndose de tratar con fuertes vientos o temperaturas altas. 
+En plantaciones con riego localizado se recomienda aplicar los fertilizantes disueltos en el agua 
+de riego, técnica conocida como fertirrigación. Este sistema es el de menor coste de aplicación y el que presenta una mayor eﬁciencia, ya que el fertilizante se localiza en una zona húmeda y con gran concentración de raíces, por lo que la absorción de nutrientes por la planta es máxima. Además, al incorporarlo con el agua de riego la pérdida de fertilizantes por volatilización es mínima. Se aconseja aplicar los fertilizantes con la frecuencia más corta posible, que puede ser semanal o diaria, a lo largo de todo el periodo de riego, con la salvedad del abonado nitrogenado, que no es conveniente aportarlo al ﬁnal del periodo vegetativo. De esta forma las concentraciones de fertilizantes en el agua son bajas y se mantienen unos niveles constantes en el suelo. 
+En cualquier caso, siempre habrá que respetar los productos, concentraciones, formas y 
+momentos de aplicación permitidos o recomendados para las aplicaciones de fertilizantes.Manual del Almendro
+55CAPÍTULO 8: RIEGO
+Como se ha comentado anteriormente, tradicionalmente el cultivo del almendro en España 
+ha sido realizado en condiciones de secano y bajo malas condiciones medioambientales. Sin embargo en los últimos años el manejo del cultivo está cambiando, extendiéndose a zonas más productivas con acceso a agua de riego. Este cambio ha hecho que la productividad del cultivo en España aumente de los tradicionales 150 kg/ha de almendra grano a un máximo de 1.500 kg/ha. En otras zonas, como California o Australia, el cultivo del almendro ha demostrado su extraordinario comportamiento en condiciones de regadío, llegando a producciones medias de más de 2.000 kg/ha de almendra grano (con máximos de hasta 4.000 kg/ha) con dotaciones de riego muy elevadas (superiores a los 10.000 m
+3/ha y año). Estas dotaciones en España 
+no son aplicables, pero no por ello se debe renunciar al riego del almendro. Con dotaciones cercanas a los 3-4.000 m
+3/ha el cultivo del almendro presenta una respuesta al riego sumamente 
+satisfactoria, siempre y cuando se aplique en el momento adecuado y de forma óptima. 
+El desarrollo de estrategias de riego con dotaciones inferiores al óptimo se debe a la creciente 
+limitación de recursos hídricos disponibles, causada por la mayor competencia por los recursos con otros sectores, como el medio ambiental, y a la disminución de precipitaciones prevista por los efectos del cambio climático. Así, hasta hace pocos años, el ﬁn último del regadío era la maximización de la cosecha. Sin embargo en la actualidad otros factores como la conservación de recursos, la maximización del beneﬁcio o el respeto por el medio ambiente tienen cada vez mayor importancia.
+A pesar de su aparente simplicidad, la práctica del riego no es fácil, siendo posiblemente ésta 
+una de las actividades de mayor complejidad a la que un agricultor tiene que hacer frente. Así, además de requerir una laboriosa caracterización del cultivo y poseer un amplio conocimiento del manejo de los sistemas de riego, el regadío requiere un detallado estudio del suelo, componente con una alta diﬁcultad de estudio debido a su gran variabilidad tanto espacial como temporal y a su difícil caracterización.
+En este trabajo se expondrán las directrices básicas de la programación de riegos para el 
+cultivo del almendro, así como se introducirá la técnica del riego deﬁcitario controlado como estrategia de ahorro de agua logrando una alta productividad.
+8.1. PROGRAMACIÓN DE RIEGOS
+A la hora de la programación de riegos hay multitud de metodologías que han sido aplicadas con mayor o menor éxito en los últimos años. Estudios clásicos sobre la determinación de las necesidades de riego de los cultivos se han basado en balances de agua en las zonas próximas a la de extracción de agua por las raíces. Sin embargo, para la determinación de las necesidades de riego de cualquier cultivo el método más preciso es la lisimetría. Esta técnica consiste en establecer un cultivo sobre un contenedor que es pesado regularmente a lo largo de su ciclo. La diferencia de peso será la pérdida de agua del sistema, y por lo tanto las necesidades de riego del cultivo. Siendo este procedimiento el más preciso, su uso en la práctica queda para labores de investigación y experimentación por su alto coste. En la Figura 8.1 se muestra el lisímetro de pesada construido en la Finca “Alameda del Obispo” en Córdoba en una plantación de almendros.Capítulo 8: Riego
+56Otros procedimientos como el 
+uso de medidas en planta (como sistemas de medida de ﬂujo de savia o dendrometría), o con medidas en suelo (por medio de sondas de humedad FDR) cada vez tienen más relevancia y son usados por más técnicos y agricultores. Sin embargo, presentan como gran inconveniente la puntualidad de la medida, requiriendo emplear un número elevado de equipos para obtener valores representativos de la explotación.
+La alternativa más usada para 
+la programación de riegos es la realización de balances de agua considerando cada una de las entradas (lluvia) y salidas (escorrentía, percolación profunda, evaporación desde el suelo y 
+transpiración del cultivo) al suelo. Una vez deﬁnido este balance, la programación de riegos debe complementar el aporte procedente de lluvia para mantener el suelo por encima de unos niveles mínimos de humedad (en el caso del almendro alrededor del 30% de la capacidad de almacenamiento total del suelo) para evitar que se produzca una reducción de la transpiración del cultivo, generando una disminución del rendimiento. 
+El componente más complejo a la hora de realizar un balance de agua es la evapotranspiración 
+del cultivo (ET
+c). Para su determinación, las metodologías tradicionales relacionan este 
+componente con la demanda evaporativa de la atmósfera (ETo) mediante un coeﬁciente de 
+cultivo (Kc) y un coeﬁciente de reducción (Kr,t) 
+El coeﬁciente de cultivo Kc en un cultivo como el almendro no es constante a lo largo del ciclo 
+(Figura 8.2) sino que va aumentando a medida que el área foliar va aumentando en primavera y principios de verano, después se mantiene prácticamente constante hasta que empieza a disminuir coincidiendo más o menos con la caída de hojas en otoño. Diversos estudios se han centrado en la determinación de valores de K
+c para almendro. En la Figura 8.2. se muestran los 
+valores de Kc que han resultado de los estudios llevados a cabo por los principales investigadores 
+en esta materia. Estos valores que pueden encontrarse en algunos manuales de riego, son los que se utilizan en programación de riego para cuantiﬁcar el consumo de agua de nuestro cultivo. 
+Figura 8.1. Imagen de un lisímetro de pesada en una 
+plantación de almendro en una parcela experimental del 
+IFAPA de Córdoba.
+ETc = ETo · Kc · Kr,t[1]Manual del Almendro
+57El coeﬁciente Kr,t reduce el valor teórico de Kc en función del tamaño del árbol y se calcula por 
+medio del gráﬁco incluido en la Figura 8.3. Así, el coeﬁciente Kr,t es función de la fracción de 
+suelo cubierta por el cultivo. Así, con fracciones de cobertura del 30% el valor de Kr,t sería de 
+aproximadamente 0,6 mientras que para coberturas superiores al 70% el valor de Kr,t sería igual 
+a 1. Una completa descripción de este procedimiento de cálculo se encuentra en el Manual Nº 
+66 de Riegos de la FAO, accesible en la dirección: http://www.fao.org/docrep/016/i2800e/i2800e.pdf
+Un procedimiento de cálculo más preciso, pero también mucho más complejo, para la 
+determinación del coeﬁciente de cultivo sería dividir éste en dos términos; la evaporación del suelo mojado por medio del coeﬁciente K
+e, el cual se incrementa tras una lluvia o riego, y la 
+transpiración del cultivo por medio del coeﬁciente Kcb. Además se podría incluir un coeﬁciente 
+de estrés Ks que afecta al coeﬁciente Kcb para tener en cuenta el posible estrés hídrico del Figura 8.2. Evolución del coeﬁciente de cultivo para almendro según estudios realizados por diferentes 
+investigadores.
+Fuente: Goldhamer y Girona (2012). “Almond” en el Manual Nº 66 de FAO “Crop Yield Response to Water”
+Figura 8.3. Relación entre 
+la fracción de cobertura de 
+suelo (%) y el parámetro 
+Kr,t.
+Fuente: Fereres, Goldhamer y Sadras (2012). “Yield response to water of fruit trees and vines: guidelines” en el Manual Nº 66 de FAO “Crop Yield Response to Water”Capítulo 8: Riego
+58cultivo: en condiciones sin estrés Ks es igual a 1 y para situaciones con estrés dependerá del 
+agua disponible en el suelo. Incluyendo estos coeﬁcientes, la evapotranspiración del cultivo 
+será igual a:
+En plantaciones con cobertura cercana a la completa el coeﬁciente de evaporación desde 
+el suelo Ke es muy pequeño. Sin embargo en plantaciones jóvenes el término Ke debe ser 
+determinado por medio de la realización de un balance de agua en la capa más superﬁcial del suelo. Una completa descripción del procedimiento de cálculo de estos coeﬁcientes para el cultivo del almendro se encuentra en los Manuales Nº 56 y 66 de Riegos de la FAO, accesibles en las direcciones ftp://ftp.fao.org/agl/aglw/docs/idp56s.pdf y  http://www.fao.org/docrep/016/i2800e/i2800e.pdf respectivamente.
+Finalmente para el cálculo de la evapotranspiración del cultivo (ET
+c), o agua consumida por 
+el cultivo, se requerirá conocer la demanda de la atmósfera llamada evapotranspiración de 
+referencia (ETo), que puede ser obtenida por medio de redes de estaciones meteorológicas. En 
+Andalucía la Red de Información Agroclimática proporciona diariamente valores de ETo para la 
+totalidad de zonas regables en Andalucía (http://www.juntadeandalucia.es/agriculturaypesca/ifapa/ria).
+Una vez deﬁnido el momento de aplicar el riego por medio del balance de agua, la dosis 
+a aplicar dependerá del sistema de riego, la disponibilidad de agua y especialmente de la capacidad máxima de almacenamiento de agua del suelo.
+Aplicando esta metodología, a modo de ejemplo se ha considerado una plantación adulta de 
+almendro con una densidad de 312 árboles por ha en la provincia de Jaén con riego por goteo, la cual requeriría aproximadamente 6.900 m
+3 por hectárea y año para evitar que la plantación 
+presentara estrés hídrico en toda la campaña.
+Respecto al modo de aplicar la dotación calculada, los sistemas de riego más empleados 
+son por goteo y microaspersión. Estudios realizados con anterioridad recomiendan el uso de la microaspersión frente a los sistemas de goteo en plantaciones adultas debido a que los sistemas de microaspersión mojan un volumen superior de suelo, incrementando la absorción de agua por las raíces. Aspectos como la necesidad de un mayor caudal instantáneo, la falta de uniformidad en zonas con fuerte viento y la alta evaporación en plantaciones jóvenes limitan la implantación de la microaspersión, recomendándose en esas circunstancias el riego por goteo, aunque en cualquier caso se recomienda maximizar la superﬁcie mojada con el uso de doble línea de goteros.
+En este documento se han señalado las bases de la programación de riegos y el riego deﬁcitario 
+en el cultivo del almendro. Sin embargo para realizar una programación de riegos más detallada y precisa se deberán seguir las directrices marcadas por los Manuales Nº 56 y 66 de Riegos de la FAO.ETc = (Kcb · Ks + Ke) · ETo[2]Manual del Almendro
+598.2. RIEGO DEFICITARIO
+Dadas las altas dosis de riego recomendadas para obtener una producción máxima, y 
+considerando las claras restricciones de agua que sufren las zonas regables españolas, es preciso deﬁnir estrategias de riego especíﬁcas para el almendro que generen calendarios de riego alternativos, en los que el consumo de agua sea menor pero sin afectar de forma signiﬁcativa a la cosecha. 
+En los últimos años las técnicas de riego deﬁcitario controlado han tenido una especial 
+relevancia. Estas técnicas consisten en realizar un riego con dotaciones por debajo de las óptimas pero respetando unos periodos críticos en los cuales el cultivo no debe sufrir estrés. Son múltiples los trabajos que deﬁnen estrategias de riego deﬁcitario controlado para el cultivo del almendro, principalmente realizados en California y España. Estos trabajos muestran cómo la aplicación de estrategias de riego deﬁcitario durante el periodo de llenado de grano generó ahorros muy signiﬁcativos en el volumen de riego aplicado (hasta un 60%), con un impacto muy limitado en la cosecha (caídas máximas de aproximadamente el 20%) e incrementando de forma considerable la productividad del agua de riego (incrementos de hasta el 90%).
+Las estrategias de riego deﬁcitario controlado se basan en la identiﬁcación de los períodos 
+críticos del cultivo del almendro en los cuales un estrés hídrico tiene un efecto negativo sobre la cosecha (crecimiento rápido de fruto y postcosecha), y de aquellos otros (llenado de fruto) en el que el impacto es muy limitado. Una vez conocidos estos períodos, la programación de riegos se realiza de tal modo que la reducción de riego se produzca únicamente en aquellos periodos menos sensibles (aproximadamente desde Mayo hasta Agosto), no modiﬁcando los calendarios óptimos desde Marzo a Mayo y desde Agosto a Octubre.
+En la Figura 8.4 se muestra el balance de agua y el calendario de riegos propuesto para la 
+plantación de almendros anteriormente descrita realizando una estrategia de riego deﬁcitario controlado. Esta programación de riegos requirió un consumo anual de 4.800 m
+3/ha, inferior 
+en un 30% a la estrategia de riego óptima.
+Con los resultados obtenidos hasta la fecha, el riego deﬁcitario controlado se convierte en una 
+herramienta de gran utilidad en los sistemas agrarios mediterráneos en donde la disponibilidad de agua para el cultivo del almendro es limitada. A pesar de ser una herramienta totalmente aceptada, trabajos adicionales son requeridos para determinar, entre otros, el efecto de estas estrategias en el largo plazo.
+Figura 8.4. Déﬁcit de agua en el suelo, lluvia y calendario de riego propuesto (en azul claro) para una 
+plantación de almendros en la provincia de Jaén durante las campañas 2011 y 2012.Manual del Almendro
+61CAPÍTULO 9: PLAGAS Y ENFERMEDADES
+9.1. PLAGAS
+Las principales plagas de ﬁtófagos que afectan al cultivo del almendro son:
+• Homópteros 
+• Pulgón verde (Myzus persicae)
+• Pulgón negro (Pterochloroides persicae)• Mosquito verde (Empoasca vitis)
+• Hemípteros
+• Falso tigre (Monosteira unicostata)
+• Arácnidos
+• Araña amarilla (Tetranychus urticae)
+• Lepidópteros
+• Anarsia (Anarsia lineatella)• Orugueta (Aglaope infausta)
+• Coleópteros
+• Gusano cabezudo (Capnodis tenebrionis)• Barrenillo (Scolytus amygdali)
+Pulgón verde. Es una plaga de numerosos cultivos hortícolas y arbóreos, encontrándose extendida por todo el mundo. Su incidencia en el almendro es muy alta.
+Hay individuos ápteros y alados. Los adultos, de longitud aproximada entre 1,5-2,5 mm, tienen 
+una coloración que varía del verde al amarillo. En la parte terminal del abdomen llevan dos tubos excretores de cera, denominados sifones.
+Pasan el invierno en forma de huevo, depositados en la base de las yemas. Los huevos eclosionan 
+a ﬁnales del invierno, coincidiendo con la brotación. Su presencia se mantiene durante toda la fase vegetativa, dándose varias generaciones.
+Los daños aparecen en Abril-Mayo. Los pulgones suelen localizarse en el envés de la hoja, 
+aunque también se pueden encontrar en los frutos. Se sitúan principalmente en los brotes tiernos y vigorosos. El síntoma más claro es la formación de melaza y posteriormente la presencia de hormigas. Con frecuencia tiene una presencia zonal dentro de la plantación.
+Las picaduras que practican en las hojas provocan 
+el abarquillamiento de las mismas (Figura 9.1), adquiriendo una tonalidad amarillenta y posterior necrosis. Los brotes presentan deformaciones y una paralización del crecimiento. Ataques severos pueden provocar fuertes defoliaciones que debilitan el árbol. También la melaza que segregan actúa como fuente de inóculo para diversas enfermedades, como la negrilla. 
+Mosquito verde. Es una plaga muy frecuente, causando daños severos sobre todo en árboles 
+jóvenes y en vivero. 
+Los adultos tienen alrededor de 4 mm de longitud, cuerpo de forma alargada y de color verde 
+Figura 9.1. Pulgón verde.Capítulo 9: Plagas y enfermedades
+62(Figura 9.2). Los huevos son de forma alargada y de unos 0,7 mm 
+de longitud. 
+Los adultos aparecen en el cultivo hacia Febrero, coincidiendo con el 
+inicio de la brotación. Las primeras ninfas comienzan a observarse a ﬁnales de Abril o principios de Mayo, alcanzando su número máximo a mediados de Junio. 
+Se alimentan succionando savia del ﬂoema en los nervios 
+principales. Ataca a las hojas tiernas, provocando un decaimiento de la vegetación, deformación de las hojas (abarquillamiento) con un 
+amarillamiento o enrojecimiento de los bordes y posterior necrosis. Los brotes también se ven afectados, con una parada del crecimiento y acortamiento de los entrenudos. Los daños suelen aparecer en los meses de Julio-Agosto.
+Falso tigre. Es una plaga muy extendida por toda la zona mediterránea. Ataca sobre todo al almendro, aunque también se puede encontrar en otros frutales como melocotonero, ciruelo, etc. 
+El adulto es una chinche pequeña de 2,2-2,5 mm de largo por 0,8 
+mm de ancho, de color pardo amarillento, con franjas transversales más oscuras y la parte ventral negra. Los huevos son de color blanco brillante, de forma elipsoidal, con un tamaño aproximado de 0,7 mm. 
+Inverna en estado adulto entre la corteza de los árboles, en las plantas 
+espontáneas y en la hojarasca del suelo. Al comienzo de la primavera, los adultos invernantes se dirigen a las hojas jóvenes, desarrollando todo su ciclo en el envés. Realizan la puesta e introducen los huevos en el envés de las hojas, presentando 3 ó 4 generaciones anuales entre primavera y verano.
+En el haz de las hojas se produce una decoloración blanquecina (Figura 
+9.3) formada por pequeñas manchas. En el envés pueden localizarse excrementos y melaza. Las picaduras provocan un abarquillamiento 
+de las hojas, induciendo un debilitamiento del árbol, pérdida de hojas y disminución de cosecha. Los daños más importantes se producen a ﬁnales del verano, con la presencia de chinches de la tercera generación.
+Araña amarilla. Es una plaga extraordinariamente 
+polífaga, causando daños graves a los cultivos hortícolas, frutales y vid. Esta plaga es poco frecuente o produce escasos daños en almendro, aunque puede aparecer como consecuencia de un abuso en los tratamientos insecticidas previos contra otras plagas.
+Los adultos miden unos 0,6 mm, siendo algo mayores 
+las hembras. Su cuerpo es muy transparente, 
+apreciándose en ocasiones manchas laterales de tonalidad más oscura. Los huevos son esféricos e 
+Figura 9.2. Mosquito 
+verde.
+Figura 9.3. Falso tigre.
+Figura 9.4. Araña amarilla.
+Manual del Almendro
+63inicialmente incoloros, pero se vuelven amarillentos al aproximarse a la eclosión. Las larvas son 
+semejante al adulto, pero hexápodas y de menor talla.
+Esta especie pasa el invierno como hembra adulta guarecida en diversos refugios: corteza 
+de árboles, suelo, hojarasca, etc. En primavera se traslada preferentemente a los cultivos herbáceos. La puesta de huevos aislados se realiza en las hojas, completándose una generación en tan sólo 15 días. Hacia el mes de Abril-Mayo aparecen en cultivos leñosos y a ﬁnales de otoño las hembras se retiran a invernar.
+La araña amarilla se desarrolla en el envés de las hojas causando decoloraciones, punteaduras 
+y manchas amarillentas. Ataques severos pueden provocar fuertes necrosis y defoliaciones (Figura 9.4). El desarrollo de la plaga se ve favorecido por las temperaturas elevadas y el ambiente seco.
+Anarsia. Es una plaga de relativa importancia, afectando principalmente a árboles en formación.Los adultos son de coloración grisácea, con pequeñas 
+manchas oscuras en sus alas anteriores, y su tamaño es de unos 15 mm. Los huevos tienen forma ovalada, de color blanco recién puestos y posteriormente adquieren un tono amarillo, midiendo aproximadamente 0,5 mm de largo, por 0,3 mm de anchura. Las larvas tienen un color marrón claro, con líneas mas claras entre segmentos, su tamaño varía desde 12 mm al nacer, hasta 16 mm en su máximo desarrollo. Las crisálidas son de tonalidad marrón oscuro y no están encerradas en un capullo.
+Suelen tener de dos a tres generaciones. Pasan el invierno en estado de larva, protegida en el 
+interior de las yemas o de la corteza. Antes de la primavera, coincidiendo con la ﬂoración, las larvas salen de sus refugios invernales y minan los brotes (primera generación). Posteriormente crisalidan en hojas secas, entre dos hojas o en grietas del tronco.
+Las larvas de primera generación penetran en los brotes por su parte apical, provocándoles un 
+marchitamiento característico, Figura 9.5. La segunda generación afecta fundamentalmente al fruto, generalmente en variedades tardías, penetrando en su interior y produciendo una caída prematura.
+Orugueta. Normalmente esta plaga solo tiene una presencia y severidad alta en plantaciones 
+con escasos cuidados culturales.Los adultos alcanzan un tamaño de unos 20 mm. 
+El cuerpo es algo peludo, el tórax es de tonalidad negra con collar rojo y las alas son grisáceas con banda estrecha roja. Las larvas son de escasa longitud (unos 15 mm) y de aspecto rechoncheado, presentando una banda amarilla central, rodeada de dos líneas negras.
+Las larvas se alimentan de hojas (Figura 9.6), que 
+pueden llegar a devorar en su totalidad. En ataques severos también son afectados los frutos.
+Figura 9.5. Anarsia
+Figura 9.6. OruguetaCapítulo 9: Plagas y enfermedades
+64Gusano cabezudo. Este coleóptero puede considerarse plaga secundaria de los frutales, 
+aunque localmente puede revestir una gran gravedad. En los últimos años se está produciendo una preocupante expansión de esta plaga.
+Los adultos machos miden de 15-20 mm y las hembras son algo mayores (20-30 mm), el 
+cuerpo es de color negro mate. La cabeza es ancha casi enteramente oculta por el pronoto, que es corto y ancho con dibujos en relieve y recubierto por una pruina blanca. Los huevos son de color blanco lechoso y tamaño 1,5 x 1 mm. Las larvas son muy grandes (60-70 mm), siendo ápodas y de color blanco-amarillento, con cuerpo formado por segmentos aplanados que se van estrechando hacia la parte posterior, siendo el primero de ellos especialmente ancho. Este estado se desarrolla en el suelo, entre las raíces de los árboles.
+Durante el invierno se pueden encontrar adultos refugiados en el suelo y las larvas de diferentes 
+edades en las raíces, ya que su ciclo completo dura generalmente dos años. Cuando empiezan a subir las temperaturas los adultos abandonan estos refugios, dirigiéndose a las zonas soleadas de los árboles. Posteriormente se aparean y las hembras se dirigen al suelo a realizar la puesta, aproximadamente en Mayo. Las larvas recién nacidas penetran en el suelo y se dirigen a las raíces donde se alimentan hasta completar su desarrollo, para pasar al estado de ninfa. De ésta saldrán los nuevos adultos, desde ﬁnales de Junio hasta Agosto.
+En la parte aérea del árbol pueden observarse daños, en 
+forma de hojas y brotes roídos, que producen los adultos al alimentarse. Sin embargo, el daño más grave lo realizan las larvas, ya que destruyen las raíces y el cuello del tronco, ocasionando un debilitamiento general del árbol, disminución de la producción, defoliaciones y llegando a provocar la muerte del árbol, Figura 9.7. 
+Por sus hábitos de vida, las plantaciones en secano y los suelos de textura arenosa son las 
+más susceptibles de padecer esta plaga. Aunque no hay constatación cientíﬁca, los patrones híbridos de almendroxmelocotonero están considerados más susceptibles al gusano cabezudo que los francos de almendro.
+Barrenillo. Es una plaga presente en todo el mundo y que afecta a numerosos cultivos arbóreos. En almendro está considerada como plaga secundaria, que afecta cuando el árbol está muy debilitado por cualquier otra causa. 
+Los adultos miden de 1-6 mm, tienen forma cilíndrica 
+y coloración oscura. Las larvas miden de 2-3 mm, son ápodas y de tonalidad blanquecina.
+Pasan el invierno en el interior de galerías practicadas en 
+la madera de troncos y ramas. Pueden darse de dos a tres 
+generaciones al año.
+Las larvas y los adultos realizan galerías para alimentarse en brotes, ramas y tronco (Figura 9.8), siendo también utilizadas para el apareamiento de los adultos y la puesta de huevos. 
+Figura 9.7. Gusano cabezudo
+Figura 9.8. BarrenilloManual del Almendro
+659.2. ENFERMEDADES
+Las principales enfermedades del almendro, todas ellas provocadas por hongos, agrupadas por 
+los órganos afectados, son:
+• Flor y fruto
+• Moniliosis (Monilia laxa)
+• Hoja
+• Mancha Ocre (Polystigma ochraceum)• Cribado (Stigmina carpophila)• Roya (Tranzschella pruni-spinosae)
+• Brotes y ramas
+• Lepra (Taphrina deformans)• Chancro de ramas (Phomopsis (=Fusicoccum) amydali.)• Verticilosis (Verticillium dahliae)
+• Raíz
+• Podredumbre radical de Fitoftora (Phytophthora spp.)
+Moniliosis. Es una de las 
+enfermedades que mayor daño económico causa en el almendro, ya que afecta a la ﬂor y al fruto recién cuajado. Su incidencia es alta si se dan condiciones adecuadas de humedad ambiental elevada y temperaturas suaves durante la ﬂoración, que es el período crítico para la infección. También hay distinto grado de susceptibilidad varietal, siendo ‘Marcona’, ‘Guara’, ‘Supernova’ y ‘Tuono’, variedades muy sensibles.
+Los primeros síntomas se aprecian en ﬂores y frutos pequeños, que adquieren una tonalidad 
+parda, para terminar necrosándose y cayendo al suelo, Figura 9.9. Posteriormente son afectados los brotes e incluso las ramas, presentando lesiones cancerosas, llamadas chancros, los cuales pueden llegar a ser similares a los causados por Fusicoccum. 
+El patógeno sobrevive en los brotes y las ramas infectadas, 
+donde al ﬁnal del invierno produce las esporas que se dispersan por el aire, la lluvia o los insectos que infectan las ﬂores.
+Mancha ocre. Es una de las enfermedades más 
+extendidas, sobre todo en zonas de interior. Al afectar solamente a la hoja, no suele producir daños económicos importantes, aunque en algunas variedades muy sensibles, como ‘Guara’, ‘Supernova’ y ‘Tuono’, puede llegar a producir una fuerte defoliación y debilitamiento del árbol.
+Figura 9.9. Moniliosis
+Figura 9.10. Mancha ocre
+Capítulo 9: Plagas y enfermedades
+66En las hojas afectadas se observan unas manchas amarillentas al principio, que pasan 
+posteriormente a rojizo, para terminar necrosándose, Figura 9.10. 
+En las hojas caídas al suelo en otoño sobrevive el patógeno, formando las esporas sexuales 
+(ascosporas) durante el invierno. Estas esporas se dispersan por el viento e infectan las hojas nuevas tras la caída de los pétalos, siendo aparentemente el único inóculo responsable de la infección foliar.
+Cribado. Está presente en casi todas las regiones frutícolas de España. La importancia varía 
+con las condiciones climáticas del año. Suele aparecer en ataques conjuntos con Monilia spp.
+Las lesiones del cribado o perdigonado (Figura 9.11) se presentan tanto en las hojas como en los frutos y brotes. En las hojas se observan inicialmente unas manchas redondeadas de color marrón rojizo que puede llegar a violáceo, con un halo clorótico que evoluciona a necrosis circulares, las cuales hacen que el centro de la mancha se deseque y se caiga, generando los oriﬁcios característicos. Los frutos afectados aparecen manchados y con necrosis circulares que segregan goma, mientras que en los 
+brotes las lesiones son redondeadas o longitudinales y de tonalidad pardo-negruzca.
+El patógeno sobrevive en las hojas caídas del año anterior y sobre todo en los brotes afectados que permanecen en el árbol. En estas lesiones y con humedad relativa alta y temperaturas suaves se forman las esporas que se dispersan por la lluvia y establecen las nuevas infecciones en los tejidos jóvenes al comienzo de la primavera.
+Roya. Su presencia no suele ser habitual y sus daños escasos.En el haz de las hojas se aprecian gran número de pequeñas 
+manchas, mientras que en el envés se localizan las pústulas, de color marrón y consistencia pulverulenta, que contienen las esporas, Figura 9.12.
+El patógeno sobrevive como esporas de resistencia en hojas caídas 
+o como micelio en ramas infectadas, estableciendo la infección de las hojas nuevas durante la primavera. En ocasiones las esporas del hongo pueden provenir de huéspedes herbáceos alternantes, como las anémonas.
+Lepra o abolladura. El desarrollo de la enfermedad está 
+relacionado con la temperatura ambiental en el momento de la brotación. Períodos frescos y húmedos favorecen el desarrollo de la abolladura, deteniéndose con temperaturas altas y baja humedad relativa. Algunas variedades son muy susceptibles, como ‘Desmayo largueta’, ‘Francoli’, ‘Guara’, ‘Supernova’ y ‘Tuono’
+Esta enfermedad se maniﬁesta en las hojas y los brotes, que toman un aspecto deformado 
+característico, de tonalidades pardo-amarillentas. Con el tiempo van aumentando de tamaño y su tonalidad se vuelve rojiza, terminando con la necrosis de la zona afectada, Figura 9.13.
+Figura 9.12. RoyaFigura 9.11. Cribado
+Manual del Almendro
+67El patógeno sobrevive como esporas o 
+de forma epifítica entre las brácteas de las yemas. Al brotar las yemas comienza su fase patogénica, infectando los tejidos jóvenes y formando ascosporas que establecen nuevas infecciones, pero esta fase patogénica es breve y cesa cuando sube la temperatura y baja la humedad relativa. No obstante, las esporas pueden sobrevivir durante meses en condiciones calurosas y secas.
+Chancro de Fusicoccum. Es una de las enfermedades más graves que afectan al almendro, ya que la progresiva necrosis de brotes y ramas puede llevar a secar el árbol; si bien su presencia se limita a zonas con temperaturas suaves y alta humedad ambiental. Algunas variedades, como ‘Lauranne’ y ‘Ferragnès’, están consideradas como muy sensibles.
+En las hojas, el patógeno induce grandes manchas 
+pardas que son circulares o irregulares en el contorno. El centro de las lesiones aparece escasamente punteado de picnidios negros. En brotes y ramas provoca chancros y zonas de secado rápido.
+La infección tiene lugar en otoño por las cicatrices foliares y en primavera tiene lugar el 
+desarrollo del chancro, que conlleva generalmente la desecación de los brotes y el puntisecazo de ramas, Figura 9.14.
+Verticilosis. Esta enfermedad afecta a gran número de especies cultivadas, tanto herbáceas 
+como leñosas. En el almendro, la verticilosis está considera como una enfermedad secundaria, de escasa incidencia y severidad, manifestándose solamente en condiciones de muy alta concentración de propágalos del patógeno en el suelo.
+Los síntomas y la evolución de la enfermedad son típicos de una micosis vascular. Al principio 
+se maniﬁesta como un marchitamiento que afecta generalmente a los árboles de un modo asimétrico, Figura 9.15. Las hojas situadas en la base de las ramas son las primeras en desecarse, permaneciendo algún tiempo en el árbol, para caer después. Normalmente los síntomas se maniﬁestan en árboles jóvenes (2-3 años de edad) y no suele superarse el 1% de árboles afectados. Una vez eliminadas las ramas afectadas, mediante la poda, no suelen volver a presentarse los síntomas.Figura 9.13. Lepra
+Figura 9.14. FusicoccumCapítulo 9: Plagas y enfermedades
+68El patógeno sobrevive en el suelo o en restos vegetales 
+infectados, formando estructuras de resistencia denominadas microesclerocios, o bien asociado con diversas plantas huéspedes. El agua de riego es un factor que contribuye a la dispersión del patógeno.
+Podredumbre radical de Fitoftora. Su presencia 
+está asociada a una mala aireación de las raíces por encharcamiento del suelo. Los daños son severos, provocando normalmente la muerte del árbol.
+En la parte subterránea, provoca una podredumbre de 
+raíces y chancros en el cuello. En la parte aérea se observa un decaimiento general, con posterior necrosis y muerte del árbol, Figura 9.16.
+Las diversas especies de 
+Phytophthora causantes de la podredumbre 
+radical del almendro sobreviven en el suelo formando esporas 
+de resistencia y para multiplicarse, dispersarse y establecer infecciones en las raíces requieren del encharcamiento del suelo. Por ello, la gravedad de las infecciones depende del nivel de inóculo en el suelo y del tiempo que éste permanece encharcado.
+9.3. ESTRATEGIAS DE CONTROL
+En los Cuadros 9.1a, 9.1b y 9.2, se recogen (para las principales plagas y enfermedades) la estimación de riesgo, criterios de intervención y métodos de control, establecidos en el Reglamento de Producción Integrada del Almendro de la Consejería de Agricultura, Pesca y Medio ambiente de la Junta de Andalucía, BOJA nº 62 de fecha 29 de Marzo de 2012. 
+Ya que las materias activas autorizadas sufren cambios periódicos, se aconseja consultar el 
+listado de materias activas autorizadas dictado por el Ministerio de Agricultura, Alimentación y Medio Ambiente (www.magrama.gob.es).Figura 9.15. Verticilosis
+Figura 9.16. Fitoftora
+Manual del Almendro
+69Cuadro 9.1a. Estrategias de control de plagas, según el Reglamento de Producción Integrada de la Consejería de Agricultura de la Junta de Andalucía.
+PlagaEstimación del riesgo Criterios de intervención Métodos de control
+Método visual
+Otros 
+métodosUmbral EpocaBiológicos
+Químicos OtrosUnidad de muestra 
+secundaria Variable de 
+densidadEscala de valoraciónFauna 
+auxiliar 
+autóctona ElementoNº por 
+UMP
+Pulgones
+Brotes 10Nº huevos
+% = brotes no 
+ocupados0 = brotes no atacados
+1 = brotes atacadosPresencia
+5% brotes ocupadosInvierno
+VegetaciónCoccinélidos
+Neurópteros
+SirﬁdosAceite paraﬁna
+Azadiractina
+Deltametrina (1)
+Imidacloprid
+Lambda cihalotrin (2)
+Pririmicard
+TiametoxanPoda verde
+Eliminar 
+brotes 
+interiores
+Mosquito verde
+Brotes 10% de brotes 
+atacados0 = brotes sin síntomas
+1 = brotes con síntomasPresencia (sólo en árboles de 
+hasta 5 años de edad)VegetaciónChrysoperla
+Neurópteros
+CoccinélidosTau ﬂuvalinato
+Falso tigre
+Brotes 10% de brotes 
+atacados con 
+formas vivas0 = brotes no atacados
+1 = brotes atacados> 5-10% de hojas con 
+presencia de formas vivas> 50% de 
+huevos 
+eclosionadosTau ﬂuvalinato
+Anarsia
+Brotes 10% de brotes 
+atacados0 = brotes no atacados
+1 = brotes atacados2 trampas 
+por E.C.> 5 adultos por trampa y día
+3% brotes atacados
+1% frutos dañadosVegetaciónApanteles 
+spp.Bacillus thuringiensis
+Kurstaki
+Lambda-cihalotrin (2)
+(1) Tapar las colmenas previamente al tratamiento y mantenerlas así hasta 1 ó 2 horas después de haberlo concluido
+(2) Efectuar un máximo de 2 aplicaciones por campañaCapítulo 9: Plagas y enfermedades
+70 Cuadro 9.1b. Estrategias de control de plagas, según el Reglamento de Producción Integrada de la Consejería de Agricultura de la Junta de Andalucía.
+PlagaEstimación del riesgo Criterios de intervención Métodos de control
+Método visual
+Umbral EpocaBiológicos
+Químicos OtrosUnidad de muestra 
+secundaria Variable de 
+densidadEscala de valoraciónFauna 
+auxiliar 
+autóctona ElementoNº por 
+UMP
+Acaros
+ Brotes 10% de brotes 
+atacados con 
+formas vivas0 = brotes no atacados
+1 = brotes atacados> 5% de brotes 
+atacadosVegetaciónFitoseidos
+Stethorus sppAceite de paraﬁna
+Polisulfuro de calcio
+Azufre
+Propargita
+Orugueta Brotes 10Brotes 
+afectados con 
+formas vivas0 = brotes no atacados
+1 = brotes atacadosPresenciaPrimavera
+VeranoBacillus thuringiensis
+Kurstaki
+Deltametrina
+Lambda-cihalotrin (2)
+Gusano Cabezudo Arbol 20Nº de adultos 
+por árbol0 = árbol sin presencia de 
+adultos
+1 = árbol com presenciaAdultos: presencia
+Presencia de 
+larvas neonatasA partir de febrero
+Primavera: antes de inicio de 
+puesta en mayo
+Verano: a mediados de 
+septiembre antes de que 
+adultos invernenArrancar árboles 
+afectados, quemando 
+raíces y tronco
+En árboles jóvenes 
+cubrir con plástico la 
+zona radicular
+Barrenillo Brotes 10Brotes con 
+adultos vivos0 = brotes no atacados
+1 = brotes atacados> 20% brotes con 
+adultos vivosSalida de adultos (primavera) Imidacloprid
+(2) Efectuar un máximo de 2 aplicaciones por campañaManual del Almendro
+71Enfermedad Estimación del riesgo Criterios de intervención Métodos de control
+Método visual
+Umbral Epoca Químicos OtrosUnidad de muestra 
+secundariaVariable de 
+densidadEscala de valoración
+Elemento Nº por UMP
+Moniliosis
+Brotes 10% de brotes 
+afectados0 = brotes sin síntomas
+1 = brotes con síntomas> 5% de brotes 
+afectadosInicio ﬂoración
+Caída pétalosCaptan (2)
+Ciproconazol (2)
+Mancozeb (3)
+Tiram (3)
+Folpet+oxicloruro de 
+cobre+sulfato cuprocálcico
+Compuestos de cobre
+Mancha ocre
+Brotes 10% de brotes con 
+síntomas0 = brotes sin síntomas
+1 = brotes con síntomas> 5% de brotes 
+afectadosCuajado de fruto
+Caída de hojaCaptan (2)
+Captam+metiltiofanato (2)
+Tiram
+Compuestos de cobre
+Cribado
+Brotes 10% de hojas con 
+síntomas0 = hojas sin síntomas
+1 = hojas con síntomas> 5% de hojas con 
+síntomasInicio ﬂoración
+Cuajado de fruto
+Caída de hojaCaptan (2)
+Captam+metiltiofanato (2)
+Folpet+oxicloruro de 
+cobre+sulfato cuprocálcico
+Compuestos de cobre
+Roya
+Brotes 10% de brotes 
+afectados0 = brotes sin síntomas
+1 = brotes con síntomas> 5% de brotes 
+afectadosPrimaveraCiproconazol (2)
+Mancozeb (3)
+Maneb (3)
+Ziram (3)
+Lepra
+Brotes 10% de hojas con 
+síntomas0 = hojas sin síntomas
+1 = hojas con síntomasPresencia año anterior
+> 5% de hojas con 
+síntomasInicio ﬂoración
+Cuajado de fruto
+Caída de hojaCaptan (2)
+Mancozeb (3)
+Maneb (3)
+Tiram (3)
+Folpet+oxicloruro de 
+cobre+sulfato cuprocálcico
+Compuestos de cobre
+Chancro de 
+ramas Brotes 10% de brotes 
+afectados0 = brotes sin síntomas
+1 = brotes con síntomas> 5% de brotes 
+afectadosPreﬂoración
+Caída de hojaCaptan (2)
+Captam+metiltiofanato (2)Eliminar brotes 
+afectados en la 
+podaCuadro 9.2. Estrategias de control de enfermedades, según el Reglamento de Producción Integrada de la 
+Consejería de Agricultura de la Junta de Andalucía.
+(2) Efectuar un máximo de 2 aplicaciones por campaña(3) Efectuar un máximo de 3 aplicaciones entre estos al añoManual del Almendro
+73CAPÍTULO 10: RECOLECCIÓN Y POSTCOSECHA
+Hasta su mecanización, la recolección del almendro era la labor cultural con más demanda de 
+mano de obra y, por tanto, la de mayor coste. Hoy en día la viabilidad económica de este cultivo no sería posible sin una recolección mecanizada.
+El agricultor vende la cosecha en almendra cáscara, es decir, el fruto una vez quitado la corteza, 
+también denominada pellejo o capote. La humedad máxima admitida en la almendra cáscara suele ser del 7%. Por tanto, las labores de recolección y postcosecha que debe de realizar el agricultor incluyen las siguientes actuaciones: derribo del fruto del árbol, descortezado del fruto entero y deshidratación de la almendra cáscara.
+10.1. DERRIBO Y RECEPCIÓN DEL FRUTO.
+Tradicionalmente el derribo de la almendra del árbol se realizaba mediante “vareo”, utilizando palos o cañas con las que se golpeaban las ramas pequeñas. En árboles pequeños también se utilizaban mazos o rodillos de goma, con los que se golpeaban las ramas gruesas o los troncos. El fruto derribado caía en el suelo sobre mantos o mallas, que eran colocadas debajo de la copa del árbol. 
+En la actualidad el derribo mecánico de la almendra se hace mediante el empleo de vibradores 
+de tronco de masas excéntricas, que consiguen una eﬁcacia de derribo muy alta. Estos vibradores pueden ser autopropulsados o acoplados a un tractor, bien en su parte delantera o trasera, y suelen contar con un sistema que despliega un manto en forma de cono (paraguas invertido), donde se recepciona el fruto derribado, siendo almacenado en una tolva situada en la parte inferior. El rendimiento de trabajo de estas máquinas se sitúa sobre los 2 árboles/minuto.
+El uso del vibrador de tronco con paraguas se ha generalizado en los últimos años, permitiendo 
+una recolección rápida y económica. Las únicas 
+limitaciones al uso de este sistema son en parcelas con pendientes muy fuertes, en plantaciones con caballones muy altos, o bien con marcos muy estrechos (menos de 5 m). 
+Para evitar daños por descortezado de tronco 
+(Figura 10.1) habrá que utilizar vibradores adaptados al almendro y no realizar la primera recolección con vibrador hasta que el tronco haya alcanzado el suﬁciente grosor y endurecimiento. También es recomendable cortar el riego 10-15 días antes de la recolección, para disminuir el movimiento de savia.
+Figura 10.1. Árbol muerto por descortezado del 
+tronco debido a un mal uso del vibrador.Capítulo 10: Recolección y postcosecha
+7410.2. DESCORTEZADO Y SECADO DE LA ALMENDRA
+El descortezado debe de hacerse inmediatamente después del derribo del fruto. Antiguamente 
+esta operación se realizaba manualmente, en la actualidad existen unas máquinas (descortezadoras) que lo hacen mecánicamente. Las hay de accionamiento eléctrico o a la toma de fuerza del tractor y de diferente capacidad de trabajo, con rendimientos que pueden oscilar entre los 200-2.000 kg de almendra descortezada por hora.
+Desde hace unos pocos años hay disponibles vibradores especíﬁcos para la recolección de la almendra que, además del paraguas invertido para la recepción, disponen de un mecanismo de descortezado de la almendra, Figura 10.2. De esta forma se consigue una mecanización integral de la recolección, una sola máquina y un solo operario realiza el derribo, la recepción y el descortezado de la almendra. 
+Desde la tolva del vibrador la almendra es descargada, mediante un mecanismo de cinta 
+sinfín o de elevación, en un contenedor para su transporte al punto de secado o almacén.
+La humedad de la almendra en el momento de la recolección depende del grado de madurez 
+ﬁsiológica que tenga y de las condiciones climatológicas que se den en ese momento, pudiendo llegar a superar el 20%. Para evitar problemas en su almacenamiento, la humedad deberá de rebajarse a valores en torno al 6%. 
+El secado de la almendra se hace de forma tradicional extendiéndola sobre superﬁcies secas y 
+aireadas, con un tramo o grosor que no debe superar los 10-20 cm. 
+El proceso de secado resulta tedioso para el agricultor, ya que debe disponer de una gran 
+superﬁcie adecuada y mantener la almendra durante varios días en la zona de secado, acentuándose en el caso de variedades de maduración tardía en zonas frías. Por otra parte, los secaderos mecánicos tienen un precio elevado y solamente son rentables para grandes plantaciones. Por ello, la tendencia es que los compradores dispongan de grandes secaderos, cobrándoles a los agricultores una cantidad de dinero por realizar esta operación.
+10.3. OTROS SISTEMAS DE RECOLECCIÓN
+La mecanización de la recolección, al igual que la de otras labores culturales, se tiene que adecuar a la orografía del terreno, al tamaño de las parcelas, al diseño de plantación y a las características del cultivo. El sistema de recolección descrito anteriormente es el mejor adaptado, en líneas generales, al tipo de plantaciones existentes en España y gran parte de la Cuenca Mediterránea.
+Figura 10.2. Vibrador de tronco con paraguas y descortezadora 
+incorporadas.Manual del Almendro
+75En California, para explotaciones de grandes dimensiones y de poca pendiente, se utilizan 
+otros sistemas, como el de plataformas recolectoras. El sistema consta de dos máquinas autopropulsadas, una de ellas con vibrador de tronco, que se desplazan en paralelo y en continuo a lo largo de una ﬁla de árboles. La almendra derribada cae en los planos inclinados en cuyo fondo hay una cinta que la transporta a un contenedor, Figura 10.3. 
+También se emplea un sistema que 
+consiste en el derribo de la almendra al suelo, mediante un vibrador de tronco; posteriormente pasa una máquina hiladora, que acordona la almendra en el centro de la calle; y por último, una maquina cosechadora/barredora la recoge del suelo, hace una prelimpia y la descarga en un contenedor. Este sistema es muy utilizado en nogal, Figura 10.4. 
+Figura 10.3. Plataformas recolectando pistacho.
+Figura 10.4. Sistema californiano para la 
+recolección de frutos secos. Derribo (izquierda 
+arriba), acordonado (Izquierda abajo) y recogida 
+del suelo (derecha).
+Manual del Almendro
+77CAPÍTULO 11: ESTADO ACTUAL DEL CULTIVO DEL ALMENDRO 
+EN ANDALUCÍA
+Debido a la elevada extensión cultivada y gran demarcación geográﬁca que abarca, se dan muchas diferencias entre las plantaciones de almendro existentes en Andalucía. Para abordar la caracterización, problemática, actuaciones recomendadas para mejorar su rentabilidad y futuro del cultivo del almendro en Andalucía, estableceremos tres grandes tipos claramente diferenciados: el cultivo marginal, el secano tradicional y las nuevas plantaciones en riego, Figura 11.1.
+11.1. EL CULTIVO MARGINAL.
+Las plantaciones marginales de almendro son las predominantes, pudiendo suponer más del 50% de la superﬁcie actualmente cultivada. El carácter marginal viene dado por las malas condiciones del medio físico, que hacen que las producciones no superen los 150 kg/ha de almendra grano y, por tanto, su rentabilidad es muy baja.
+También inciden negativamente otros aspectos de tipo estructural, como la edad avanzada de 
+los propietarios y la falta de relevo generacional, la pequeña dimensión de las explotaciones y el alto grado de parcelación. 
+Sin embargo, este tipo de cultivo normalmente presenta una gran relevancia económica y social, 
+ya que suele estar ubicado en zonas socialmente deprimidas y con escasas posibilidades de alternativas de cultivo y económicas.
+Características generales y problemática. El medio físico presenta unas condiciones 
+muy adversas para el cultivo. Son muy frecuentes las altas pendientes (superiores al 15%), que diﬁcultan la mecanización del cultivo y favorecen la erosión del suelo. Suelen localizarse a elevadas altitudes (por encima de los 700 m), por lo que son habituales las pérdidas de cosecha por helada, pudiendo en algunas zonas superar la frecuencia de 5-6 años de cada 10. El suelo presenta escasa profundidad y fertilidad. El régimen de lluvias es bajo (inferior a los 400 mm/año) y con pocas posibilidades de puesta en riego. 
+El diseño de plantación es variable, existiendo plantaciones regulares, irregulares, en curva 
+de nivel o en bancales. La densidad de plantación no suele superar los 200 árboles/ha y el desarrollo vegetativo de los árboles es escaso. 
+Normalmente las plantaciones tienen una elevada edad (mayor de 30 años). Como patrones 
+predominan los francos de almendro, tanto dulces como amargos; y como variedades las tradiciones españolas de ﬂoración temprana (fundamentalmente ‘Marcona’, ‘Desmayo largueta’ y Comunas de la zona), aunque también son frecuentes las plantaciones adultas reinjertadas con variedades de ﬂoración tardía. No se ponen colmenas en ﬂoración.
+Figura 11.1. Tipología de las plantaciones de almendro. Marginal (izquierda), tradicional en secano 
+(centro), y nuevas plantaciones en riego (derecha).Capítulo 11: Estado actual del cultivo del Almendro en Andalucía
+78Debido a la escasa productividad de este tipo de plantaciones, los cuidados culturales suelen 
+ser escasos. El sistema de manejo del suelo es el laboreo tradicional, que agrava los problemas de erosión; los tratamientos ﬁtosanitarios y aplicación de fertilizantes son muy limitados; y la recolección se hace mediante vibrador de tronco con paraguas y peladora incorporados, salvo en aquellas parcelas con elevada pendiente que impide su utilización. 
+Actuaciones de mejora y futuro. La baja productividad del almendro marginal viene 
+determinada por las pésimas condiciones del medio de cultivo: excesiva pendiente, clima muy adverso, etc. Aunque, en ocasiones, se podrían mejorar algo los niveles productivos con actuaciones culturales, sobre todo con la implantación de variedades de ﬂoración tardía, para paliar los daños por heladas, y con un mayor esmero en las labores culturales, sobre todo en tratamientos ﬁtosanitarios y fertilización. 
+En este tipo de cultivo hay que hacer un especial hincapié en la diferenciación y búsqueda de 
+valor añadido. En este sentido, está teniendo una gran difusión el cultivo ecológico. 
+Dada su baja rentabilidad económica, la viabilidad y continuidad de las plantaciones de almendro 
+marginales dependerá de la cuantía de las ayudas institucionales que perciban y, a pesar de ello, una cantidad considerable podrían desaparecer.
+11.2. EL SECANO TRADICIONAL.
+Las plantaciones tradicionales de secano tienen unos niveles productivos entre los 150-500 kg/ha de almendra grano, y pueden suponer en torno al 40% de la superﬁcie total cultivada. 
+Las condiciones del medio no son las ideales para el cultivo y también se dan deﬁciencias de 
+carácter estructural, pero sin llegar a los niveles extremos del cultivo marginal. 
+Características generales y problemática. El medio físico no presenta unas condiciones 
+excesivamente limitantes para el cultivo. La pendiente no supera el 10%, permitiendo una buena mecanización. La altitud puede oscilar entre los 400-1.100 m, dándose una alta incidencia de heladas que merman las cosechas, aunque en menor grado que en las plantaciones marginales. Los suelos presentan una aptitud media/baja para el cultivo y el régimen de precipitaciones no suele superar los 400 mm/año. 
+La densidad de plantación media puede situarse alrededor de los 200 árboles/ha, en 
+plantaciones regulares con marcos entre los 9-7 m. 
+Existen tanto plantaciones viejas, como jóvenes. En las primeras el patrón es franco de 
+almendro y las variedades las tradicionales españolas de ﬂoración temprana, aunque en una gran mayoría se han reinjertado con cultivares de ﬂoración tardía. Las nuevas plantaciones suelen contar con patrón híbrido (mayoritariamente el GF-677) y variedades de ﬂoración tardía, siendo ‘Ferragnès’ y sobre todo ‘Guara’ las más extendidas, aunque en los últimos años también se están implantando las nuevas obtenciones del INRA francés, del CEBAS de Murcia, del CITA de Aragón y del IRTA de Cataluña. Cuando se utilizan variedades autoincompatibles, la elección de variedades polinizadoras no siempre se hace de forma correcta. Raramente se ponen colmenas en ﬂoración.
+Por regla general, se lleva a cabo un aceptable manejo del cultivo. Los mayores problemas 
+suelen ser los criterios erróneos de poda en variedades de difícil formación y los escasos tratamientos ﬁtosanitarios, que provocan una gran incidencia de plagas y enfermedades en los años favorables. Se practica el laboreo tradicional, normalmente excesivo, tanto en número de pases como en profundidad de las labores. La recolección se hace mediante vibrador de tronco con paraguas y peladora incorporados.Manual del Almendro
+79Actuaciones de mejora y futuro. En ciertas circunstancias se podría aumentar la productividad 
+de este tipo de plantaciones introduciendo ciertas mejoras en su cultivo. Así, en zonas con incidencia de heladas habría que implantar variedades de ﬂoración tardía. También sería muy aconsejable colocar colmenas, sobre todo en el caso de variedades no autofértiles o con escasa presencia de abejas silvestres. Y, por supuesto, mantener un buen estado sanitario y nutritivo de los árboles.
+El principal factor limitante de estas plantaciones es la escasez de agua, por lo que se 
+conseguiría un incremento considerable de las producciones con la puesta en riego.
+En el marco actual de libre mercado y economía globalizada, la viabilidad económica de las 
+plantaciones tradicionales de secano depende de la percepción de las ayudas institucionales, aunque en menor medida que en el cultivo marginal.
+El futuro que se prevé para este tipo de plantaciones es bueno, experimentando un incremento 
+de la superﬁcie. Ello es debido a los buenos precios actuales de la almendra y al incremento de la productividad al aplicar los nuevos criterios de cultivo. Así mismo, en condiciones de secano el almendro es, en estos momentos, una de las mejores alternativas de cultivo en muchas demarcaciones geográﬁcas.
+11.3. NUEVAS PLANTACIONES EN RIEGO.
+Tradicionalmente el cultivo del almendro en España, y en toda la Cuenca Mediterránea, ha sido en secano y, generalmente, bajo condiciones edafoclimáticas limitantes. Debido a ello, la producción media en España, y en Andalucía, no supera los 150 kg/ha de almendra grano.
+Por el contrario, en países de más reciente implantación de este cultivo, como Estados Unidos 
+o Australia, su cultivo es en riego (con dotaciones que pueden superar los 8.000 m
+3/ha y año) 
+y sin limitaciones del medio físico. En estas condiciones óptimas se están alcanzando niveles productivos del orden de los 2.000-2.500 kg/ha de almendra grano.
+En Andalucía durante los últimos años se está incrementando considerablemente la puesta en 
+riego del almendro, aunque su superﬁcie todavía es muy pequeña, no superando el 5% del total. Destacar que la mayoría de estas nuevas plantaciones en riego se están poniendo en provincias y comarcas sin tradición en el cultivo del almendro. Normalmente se trata de riegos deﬁcitarios, con dotaciones inferiores a los 2.000 m3/ha y año, y los niveles productivos conseguidos están sobre los 1.000-1.500 kg/ha de almendra grano, muy superiores a los de las plantaciones marginales o tradicionales.
+Características generales y problemática. Parte de estas nuevas plantaciones están en 
+explotaciones con la dimensión necesaria para alcanzar un alto grado de mecanización y tecniﬁcación del cultivo.
+Las características edafoclimáticas suelen ser, en general, bastante aptas para el cultivo. Bajas 
+pendientes, sin problemas de erosión y que permiten una adecuada mecanización; altitudes medias o bajas, con un riesgo de heladas mínimo; precipitaciones superiores a los 400 mm/año, que permiten alcanzar niveles productivos aceptables en condiciones de secano; y suelos sin graves limitaciones.
+La densidad de plantación media oscila entre los 200-250 árboles/ha, con marcos entre los 
+8-5 m. En suelos pesados, con riesgo de encharcamiento, se diseña la plantación en caballón.
+La práctica totalidad de las nuevas plantaciones se están poniendo con patrones híbridos (GF-
+677 y Garnem), y variedades de ﬂoración tardía, destacando ‘Lauranne’ y otros cultivares del CEBAS de Murcia, del CITA de Aragón y del IRTA de Cataluña. Las plantaciones de pequeña Capítulo 11: Estado actual del cultivo del Almendro en Andalucía
+80extensión suelen ser monovarietales, utilizando un cultivar autofértil; y plurivarietales en las de 
+mayor extensión. Es práctica habitual la colocación de colmenas en ﬂoración.
+El manejo del cultivo es bueno, aunque con los errores propios que se cometen en un cultivo nuevo 
+para el que no se tiene experiencia. Se siguen planes de fertilización y de control ﬁtosanitario, el manejo del suelo es con cubierta vegetal en el centro de las calles y la recolección se hace mediante vibrador de tronco con paraguas y peladora incorporados.
+Actuaciones de mejora y futuro. El manejo de cultivo que se está realizando es muy similar 
+al utilizado en el cultivo tradicional. Sin embargo, estas nuevas plantaciones presentan una serie de características y problemática propias, como pueden ser el riesgo de asﬁxia radicular, el excesivo desarrollo vegetativo, la mayor incidencia de plagas y enfermedades, la elevada productividad, etc. 
+Por ello, es necesario experimentar nuevos sistemas y técnicas que se adapten mejor a este 
+tipo de plantaciones, sobre todo en los aspectos de diseño de plantación, material vegetal, protección del cultivo y mecanización.
+También habría que incidir en las actividades de transferencia, por parte de la Administración y 
+del Sector, para mejorar la cualiﬁcación técnica de agricultores y técnicos.
+Los frutos secos en general, y el almendro en particular, están considerados como una de 
+las mejores alternativas de cultivo, con buenas perspectivas de expansión. Entre los aspectos favorables podemos destacar los siguientes: buena productividad (bajo adecuadas condiciones de cultivo); alto grado de mecanización y costes de cultivo reducidos; condiciones favorables del mercado (la UE es altamente deﬁcitaria, consumo en aumento, buenos precios actuales de la almendra, etc.).
+Para el caso especíﬁco de Andalucía, destacar también que el almendro se complementa 
+muy bien con el olivar, tanto por la maquinaria utilizada como por el calendario de ejecución de las labores, pudiendo ser una buena opción para paliar el grave problema que supone el monocultivo del olivar.
+Todo ello está propiciando una considerable expansión de este tipo de cultivo del almendro en 
+riego, bajo buenas condiciones edafoclimáticas y altamente tecniﬁcado, que permite alcanzar unos buenos niveles productivos y de rentabilidad.

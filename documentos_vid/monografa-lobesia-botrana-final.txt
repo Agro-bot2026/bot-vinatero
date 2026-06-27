@@ -1,0 +1,2052 @@
+ 
+ 
+ 
+ 
+ 
+Facultad de Ciencias Agrarias  
+ 
+ 
+MONOGRAFÍA DE ESPECIALIZACIÓN  
+ 
+ 
+“CICLO DE VIDA Y PLAN DE ACCION SOBRE LA PLAGA  Lobesia  
+botrana  (LEPIDOPTERA: TORTRICIDAE)  ADOPTADO EN MENDOZA, 
+ARGENTINA ” 
+ 
+ 
+ESPECIALIZACIÓN EN VITICULTURA  
+ 
+ 
+ 
+ 
+ 
+HUGO DANIEL CARMONA TORRES  
+Director: Dr. Ing. Agr. Pablo  H. Pizzuolo  
+Co-Director: Dr. Ing. Agr. Rodrigo J. López Plantey  
+ 
+MENDOZA, 2023  
+ 
+Dedicado a mis padres Marcelo y Elba por el ejemplo y por los  hermanos que me  
+han dado.   
+A mis abuelos Cándido, Rafaela, Ceferino y Carmen por l a maravillosa gran familia 
+que formaron  y por quienes tengo admiración y los mejores recuerdos .  
+   
+AGRADECIMIENTOS  
+ 
+A los doctores ingeniero s agrónomos Pablo Pizzuolo y Rodrigo López Plantey ,  
+ 
+Director y co -Director respectivamente,  por la dedicación pro fesional y humana que  
+ 
+recibí para poder  concretar el presente trabajo.  
+ 
+ 
+Al ingeniero agrónomo y amigo Omar David Romero por todo el apoyo que me  
+ 
+brindó en Mendoza durante  el cursado del posgrado.  
+  
+ RESUMEN  
+ 
+La “polilla europea de  la vid”, Lobesia botr ana Den et Schiff , es una plaga cuarentenaria en 
+diversos países vitivinícolas del mundo. Hasta 2010 no se encontraba presente en la 
+Argentina.  Se supone que ingresó al país desde Chile a través del alquiler de cosechadoras 
+mecánicas probablemente indebida mente sanitizadas. Luego de un par de años, el 
+lepidóptero  proliferó a tal punto que afectó una cantidad importante de hectáreas de 
+viñedos en Mendoza. La zona afectada por la plaga fue declarada en estado de 
+contingencia y puesta en cuarentena por la auto ridad competente. Su dispersión, detectada 
+por la presencia de adultos en trampas colocadas a tal fin, ha sido muy rápida en los oasis 
+de Mendoza. La plaga ha ocasionado un impacto en el sistema productivo vitivinícola y en 
+la calidad de la uva tanto para consumo en fresco como para vinificación. Como medidas 
+de control, el gobierno nacional y el provincial adoptaron  un programa de prevención y 
+erradicación, basado en el manejo integrado de plagas (MIP) utilizando la técnica de 
+confusión sexual (TCS) junto a insecticidas  aplicados por vía terrestre y aérea. En paralelo, 
+junto a otras instituciones se iniciaron ensayos con la técnica del insecto estéril (TIE), 
+estudios sobre posibles predadores, parasitoides y entomopatógenos para poder integrar a 
+futuro al p rograma de control. A pesar de la fuerte intervención y de los esfuerzos 
+realizados por personal técnico de las provincias y de la nación, no se pudo evitar que la 
+plaga siguiera avanzando. Los actuales resultados ponen en evidencia la necesidad de 
+seguir con estudios en laboratorio y a campo, como abarcar también grandes  áreas 
+continuas de trabajo para conformar bloques homogéneos en donde se controlen las 
+poblaciones de la plaga de manera completamente coordinada.  
+ 
+Palabras clave: plaga cuarentenaria; pa rasitoide;  manejo integrado; Vitis vinífera ; Argentina    
+ ABSTRACT  
+ 
+The "European grapevine moth," Lobesia botrana  Den et Schiff, is considered a quarantine 
+pest in many  wine-producing countries around the world. Until 2010, it was not present in 
+Argentina. It is believed to have entered the country from Chile through the rental of 
+mechanical harvesters, likely inadequately sanitized. After a couple of years, the 
+lepidopteran proliferated to such an extent that it affected a significant number of vineyard 
+hectares in Mendoza. The affected  area was declared a n emergency  zone  and placed 
+under quarantine by the competent authority. The dispersi ón of the “European grapevine 
+moth” , detected by the presence of adults in traps set for this purpose, has rapid ly spread   
+across the oases of Mendoza. The pest has signiflcantly  impact ed one the wine production 
+and the quality of grapes, both for fresh consumption and for winemaking.  The national and 
+provincial governments adopted a prevention and eradication program based on integrated 
+pest management (IPM), using the technique of mating disruption (MD) in conjunction with 
+the application of  insecticides  via both terrestrial  and aerial methods. In parallel, with other 
+institutions, experiments involving  the sterile insect t echnique (SIT), studies on potential 
+predators, parasitoids, and entomopathogens were initiated  with the aim of integrating  them  
+into future control program s. Despite strong intervention and efforts by technical personnel 
+from the provinces and the nation,  it was not possible to prevent the pest from continuing to 
+advance. The current results highlight the need to continue laboratory and field studies, as 
+well as to establishment of  large continuous work areas to create coordinated blocks for 
+pest populatio ns control . 
+ 
+Keywords: quarantine pest; parasitoid; integrated pest management; Vitis vinifera ; 
+Argentina.i 
+ ÍNDICE  
+ 
+ÍNDICE  ................................ ................................ ................................ ................................ ...i 
+1. INTRODUC CIÓN  ................................ ................................ ................................ ..........  1 
+1.1.General del trabajo  ................................ ................................ ................................ ..... 1 
+1.2.Marco teórico  ................................ ................................ ................................ ..............  1 
+Origen y distr ibución mundial  ................................ ................................ ........................  1 
+Taxonomía  ................................ ................................ ................................ ....................  5 
+Importancia agronómica  ................................ ................................ ................................  7 
+2. BIOE COLOG ÍA ................................ ................................ ................................ .............  8 
+2.1. Caracteres  Morfológicos  ................................ ................................ ............................  8 
+Huevo  ................................ ................................ ................................ ...........................  9 
+Larva  ................................ ................................ ................................ ...........................  10 
+Pupa  ................................ ................................ ................................ ...........................  10 
+Adulto  ................................ ................................ ................................ .........................  11 
+2.2. Ciclo biológico  ................................ ................................ ................................ .........  12 
+Primera Generación.  ................................ ................................ ................................ ... 13 
+Segunda Generación.  ................................ ................................ ................................ . 15 
+Tercera generación.  ................................ ................................ ................................ .... 16 
+2.3. Comportamiento Sexual.  ................................ ................................ ......................  17 
+3. INFLUENCIA DE LOS F ACTORES AMBIENTALES SOBRE LA BIOLOGÍA  DEL 
+INSECTO  ................................ ................................ ................................ ...........................  18 
+3.1. Temperatura  ................................ ................................ ................................ ............  18 
+3.2. Humedad Relativa, Precipitación  y Viento.  ................................ ..............................  18 
+3.3. Fotoperíodo  ................................ ................................ ................................ .............  19 
+3.4. Cambio Climático. ................................ ................................ ................................ .... 19 
+4. RELACIÓN PLANTA E INSECTO  ................................ ................................ ..................  20 
+5. SERVICIOS AGROECOSISTÉMICOS: ACCIÓN DE ORGAN ISMOS NATURALES 
+SOBRE LA PLAGA  ................................ ................................ ................................ ............  21 
+6. MANEJO INTEGRADO de Lobesia botrana  ................................ ................................ ... 22 
+6.1. Monitoreo  ................................ ................................ ................................ ................  22 
+Curvas de vuelo  ................................ ................................ ................................ ..........  22 
+Modelos  ................................ ................................ ................................ ......................  24 
+6.2. Manejo con insecticidas de síntesis  ................................ ................................ .........  26 
+Plaguicidas autorizados en la Argentina ................................ ................................ ...... 26 ii 
+ Resistencia a Insecticidas  ................................ ................................ ...........................  29 
+Efectos Secundarios y S ubletales de los Insecticidas  ................................ .................  29 
+6.2. Manejo  de la confusión sexual  ................................ ................................ .................  30 
+6.4. Manejo  Biológico  ................................ ................................ ................................ ..... 33 
+Controladores biológicos  ................................ ................................ .............................  33 
+Biocidas  ................................ ................................ ................................ ......................  35 
+6.5. Manejo Mediante Macho Estéril  ................................ ................................ ...............  36 
+6.6. Manejo Cultural  ................................ ................................ ................................ ....... 37 
+6.7. Consideraciones  ................................ ................................ ................................ ...... 38 
+7. PROGRAMAS DE MANEJO  DE Lobesia botrana  ................................ ..........................  38 
+7.1. Caso Chile y E.E.U.U.  ................................ ................................ .............................  38 
+7.2. Caso Argentina  ................................ ................................ ................................ ........  39 
+Cronología del proceso de detección, monitoreo, y manejo de L. botrana en Mendoza, 
+Argentina.  ................................ ................................ ................................ ...................  40 
+8. AVANCES Y EXPERIENCIAS DE ESTUDIO DE L. botrana  EN MENDOZA, ARGENTINA
+................................ ................................ ................................ ................................ ...........  47 
+9. CONCLUSIÓN Y DISCUSIÓN  ................................ ................................ .......................  50 
+REFERENCIAS  ................................ ................................ ................................ .................  52 
+Citas bibliográficas  ................................ ................................ ................................ .........  52 
+Artículos y Sitios Web  ................................ ................................ ................................ ..... 57 
+Informes periodísticos  ................................ ................................ ................................ .... 59 
+ 
+  iii 
+ ÍNDICE DE TABLAS  
+Tabla 1: Hospederos cultivados de  L. botrana  ................................ ................................ ..... 4 
+Tabla 2: Hospedantes silvestres para  L. botrana  ................................ ................................ . 5 
+ 
+  iv 
+ ÍNDICE DE FIGURAS  
+Figura 1 : L. botrana .(a) adulto, (b) huevo,(c)  huevo cabeza negra, (d) larva (e) pupa. 
+Fuente: Claudio Ioaratti.  ................................ ................................ ................................ ....... 9 
+Figura 2: Adulto de L. botrana . Fuente: SENASICA.  ................................ ..........................  12 
+Figura 3 ; Daños causados por L. botrana . A. En inflorescencias por primera generación. B. 
+En bayas verdes por segunda generación. C,D y E en bayas maduras por tercera 
+generación. Fuente : Claudio Ioratt i. ................................ ................................ ..................  15 
+Figura 4: Difusor pasivo de feromona. Fuente: SENASA.  ................................ ..................  32 
+Figura 5: Distribución de L. botrana entre 2010 y 2016 basada en ca pturas simples y 
+múltiples de polillas en los oasis norte y este de Mendoza, Argentina. Fuente ISCAMEN.  . 43 
+Figura 6 : Evolución de capturas de  L. botrana  desde 2010 a 2013.  Histograma con los 
+cuatro vuelos. Primer vuelo (rojo), segundo vuelo (naranja), tercer vuelo (amarillo) y cuarto 
+vuelo (blanco). (ISCAMEN, 2023).  ................................ ................................ .....................  46 1 
+  
+1. INTRODUCCIÓN  
+1.1. General del trabajo  
+ 
+La “polilla europea de la vid”, Lobesia botrana  Den et Schiff, es una plaga 
+cuarentenaria que hasta 2010 no se encontraba presente en Argentina y que se supone 
+ingresó al país desde Chile. En un par de años, este lepidóptero  proliferó provocando serios 
+daños en viñedos de Mendoza declarados en estado de contingenc ia y cuarentena.  
+El objetivo del trabajo fue relevar la información inherente al plan de acción que sobre 
+la plaga Lobesia botrana  adoptó Mendoza y otras provincias vitivinícolas argentinas junto a la 
+Nación con miras a l manejo integrado racional . Para pod er cumplir con el objetivo planteado 
+se realizó una revisión de textos científicos de diverso grado de complejidad publicados a nivel 
+internacional, nacional y local. Se hizo una reseña de la difusión de la polilla europea de la vid 
+en el mundo, las caract erísticas del insecto, su ciclo biológico en distintas regiones, su 
+dinámica poblacional y los daños económicos que ocasiona. Se describen las herramientas de 
+manejo empleadas en zonas vitivinícolas a nivel mundial y la utilizada en la provincia de 
+Mendoza . Se exponen conclusiones tendientes a integrar reflexivamente el trabajo.  
+El presente trabajo se realiza para la obtención del título de “Especialista en 
+Viticultura”, carrera  de Posgrado de la  Facultad de Ciencias Agrarias de la Universidad 
+Nacional de C uyo. 
+1.2. Marco teórico  
+Origen y distribución mundial  
+ 
+Lobesia botrana, es una plaga paleártica  occidental que recientemente se ha extendido 
+a Sudamérica  (SENASICA, 2022). Considerada como la plaga más importante de la vid y 
+sobre la que más tratamientos  químic os se realizan para reducir sus daños (Pérez Marin et al., 
+1995). En 1776 fue descrita por Denis & Schiffmüller en Austria como Phalaena Tortrix botrana 
+atacando plantas de vid y en una maleza de nombre Daphne gnidium L., la cual se cree es su 
+hospedante p rimario. Sin embargo, es sólo sobre Vitis vinifera que completa su desarrollo 2 
+ (González, 2010; Benelli et al., 2023a). Fue señalada por primera vez como plaga en Austria 
+en 1800 en plena revolución agrícola (Torres -Vila, 1995 a), por lo que su adaptación a la vid ha 
+de considerarse relativamente reciente (Benelli et al., 2023a).  
+Desde mediados del siglo XIX a principios de XX comienza a extenderse desde 
+viñedos cercanos a Viena en Austria hacia Alemania (1854), Rusia (1865), Hungría (1869), 
+Italia (1873), Es paña (1879), Suiza (1880), Francia (1890), Portugal y Luxemburgo (1908), 
+entre otros países (Torres -Vila, 1995 a; González, 2010; Benelli, et al., 2023a).  
+La importancia de la plaga generó a principios del siglo XX una misión científica de 5 años en 
+todos l os viñedos franceses reuniendo a destacados entomólogos, como Paillot, Picard, 
+Feytaud y Marchal (Benelli,  et al., 2023a )  
+En la actualidad este microlepidóptero se encuentra presente también en África 
+(Argelia, Egipto, Eritrea, Etiopía, Kenia, Libia y Mor oco) y Asia (Armenia, Azerbaiyán, Georgia, 
+Irán, Irak, Israel, Jordania, Kazajstán, Líbano, Siria, Turquía). Otros países en los cuales se 
+menci ona su presencia son Tayikistán, Turkmenistán, Uzbekistán, Albania, Bielorrusia, 
+Bélgica, Bulgaria, Croacia, Chi pre, República Checa, Checoslovaquia, Grecia, Lituania, 
+Macedonia, Malta, Moldavia, Montenegro, Países Bajos, Polonia, Portugal, Rumania, Serbia, 
+Eslovaquia, Eslovenia, Suiza, Ucrania,. Sin embargo, no se especifica el año de su detección 
+en dichos países (SENASICA, 2022).  
+La plaga estuvo ausente en Sudamérica hasta el año 2008, cuando el Servicio Agrícola 
+Ganadero (SAG) de Chile la detectó en su territorio (González 2008; SAG, 2010). Su 
+identificación fue corroborada en Estados Unidos (E.E.U.U.) por el ex perto en Tortricidos, Dr. 
+John W. Brown (COSAVE, 2017).  
+Por ello en el 2009 el Gobierno de Argentina, a través del S ENASA , declaró la alerta 
+fitosanitaria e implementó medidas de prevención. Como parte de estas medidas de 
+precaución  se puso en marcha  una r ed oficial de monitoreo con trampas específicas de 
+atracción sexual, distribuidas a lo largo de las principales zonas productoras de vid del país 
+(SENASA, 2009; Carmona Torres, 2009). En la primavera de ese año se emite una alerta 
+fitosanitaria por la dete cción de un adulto de L. botrana , y posteriormente otr os 2 hallazgos  
+tienen lugar en Mendoza en octubre (COSAVE, 2017). Los E.E.U.U. no quedan exentos, pues 
+en el 2009, específicamente al Norte de California, se tiene la primera aparición de la polilla 
+europea de la vid pero esto no trasciende sino hasta el 2010 donde es interceptada 
+nuevamente en San Joaquín y Santa Clara ( FAO 2009;  Varela  et al., 2010; COSAVE, 2017; 3 
+ Herrera, 2019). Aunque no está claro si L. botrana  se introdujo en California directamente  
+desde Europa Occidental o indirectamente a través de Chile (Benelli et al., 2023a).  
+En febrero de 2010, se detectaron en trampas ejemplares adultos de la polilla en dos 
+predios próximos a Maipú, Mendoza (He rrera, 2019). Por tal motivo, se intensificó la r ed de 
+vigilancia, con el objeto de delimitar su dispersión. Se declaró la emergencia fitosanitaria 
+mediante la Resolución S ENASA  N° 122/2010 del 3 de marzo de 2010, con el objetivo de 
+contener y controlar la plaga (SENASA , 2010a). Con el inicio de la campa ña 2010/11, se 
+aprobó e implementó el Programa Nacional de Prevención y Erradicación de L. botrana 
+conforme a la Resolución N° 729/ 2010 (SENASA,  2010b). Hoy para la Argentina es una plaga 
+de importancia cuarentenaria  bajo control oficial (SENASA,  2023).  
+En Dinamarca se ha reportado como interceptada y en Japón actualmente  no se 
+encuentra  (SENASICA, 2022), al igual que Escandinavia y el norte de Rusia (Benelli,  et al.,  
+2023a). En el 2016 E.E.U.U. declaró para California la erradicación de la plaga (NAPPO , 
+2016).  
+Lobesia botrana , es un insecto con un amplio rango de hospedantes, que incluyen 
+plantas cultivadas y silvestres. S egún SENASICA (2022)  reportan más de 30 especies de 
+vegetales sensibles , entre ellas especi es cultivadas (Tabla 1)  y silvestres (Tabl a 2).   4 
+ Tabla 1: Hospederos cultivados de  L. botrana  
+Actinidia chinensis  Planch (Actinidiaceae)  Kiwi 
+Dianthus spp  L. (Caryophyllaceae)  Clavel  
+Diospyros kaki  Thunb (Ebenacea)  Caqui o pérsimo  
+Olea europea  subsp. europea L. 
+(Oleacea e) Olivo europeo  
+Punica granatum  L. (Punicaceae)  Granad o 
+Prunus amygdalus  L. (Rosaceae)  Almendro  
+Prunus avium L. (Rosaceae)  Cerezo  
+Prunus salicina  Lindl. (Rosaceae)  Ciruelo japonés  
+Prunus doméstica  L. (Rosaceae)  Ciruelo  
+Prunus speciosa  L. (Rosaceae)  Endrino  
+Ribes nigrum  L. (Grossulariaceae)  Zarzaparrilla negra  
+Ribes rubrum  L. (Grossulariaceae)  Grosello rojo  
+Ribes uva -crispa  L. (Grossulariaceae)  Grosella europea  
+ 
+  5 
+ Tabla 2: Hospedantes silvestres para  L. botrana  
+Arbutus uned o L. (Ericaceae)  Madroño  
+Berberis vulgaris L. (Berberidaceae)  Agracejo  
+Clematis vitalba L. (Ranunculaceae)  Vitalba  
+Cornus mas L. (Cornaceae)  Cornejo macho  
+Cornus sangu inea L. (Cornaceae)  Cornejo rojo  
+Daphne gnidium L. (Thymelaeaceae)  Torvisco  
+Daphne laureola L. (Thymelaeaceae)  Laureola  
+Drimia maritima (Asparagaceae)  Cebolla almorrana  
+Hereda helix L. (Araliaceae)  Hiedra común  
+Ligustrum vulgare L. (Oleaceae)  Aligustre  
+Lonicera tatarica L. (Caprifoliaceae)  Madreselva  
+Menispermum canadense L: 
+(Menisp ermaceae)  Zarzaparrilla de Arce  
+Parthenocissus quinquefolia L. Planch 
+(Vitaceae)  Parra virgen  
+Rosmarinus officinalis L. (Lamiaceae)  Romero  
+Rubus caesius  L. (Rosaceae)  Zarza pajera  
+Rubus fruticosus L. (Rosaceae)  Zarzamora  
+Thymelaea hirsula (Thymelaeace ae) La boalaga  
+Vivurnum lantana (Caprifoliaceae)  Ärbol caminante  
+Ziziphus jujuba (Rhamnaceae)  Azufaifa común  
+Syringa vulgaris L. (Oleaceae)  Lila común  
+Taxonomía  
+La clasificación taxonómica de L. botrana  de acuerdo a la Organización Europea y 
+Mediterrán ea de Protección de Plantas (EPPO) (2022) es la siguiente:  6 
+ Reino: Animalia. Phylum: Arthropoda. sub Phylum: Hexapoda. Clase: Insecta. Orden: 
+Lepid optera. Género: Lobesia . Especie: Lobesia botrana  Denis y Schifferm üller.i 
+La familia Tortricidae  es una de l as más grandes de los llamados microlepidópteros, 
+con 11.365 especies descritas (Gilligan et al., 201 8). Su nombre deriva del latín Tortus , que 
+significa retorcido, aludiendo al comportamiento de la mayoría de las larvas del taxón de torcer 
+las hojas para formar un refugio. Las diversas especies que integran la familia tiene 
+distribución cosmopolita, sin embargo, se encuentra fuertemente representada en regiones 
+templadas y tropicales (Herrera, 2019). La mayoría de los miembros presentan hábitos 
+crepuscular es o nocturnos, muchas de ellas son importantes plagas agrícolas (Cubillos 
+Vallejos , 2011; Herrera, 2019).  
+En su trabajo Herera (2019) agrega que hay tres tortrícidos que son plaga de la vid: L, 
+botrana Den. et. Schiff. y Eupoecilia ambiguella Hübner, que  se alimentan de racimos florales 
+y frutos, mientras que la  tercera, Sparganothis pilleriana Den. et. Schiff., se alimenta tanto de 
+racimos florales , frutos , como de brotes  y hojas.  
+La familia Tortricidae  presenta dos subfamilias de importancia económica : 
+Olethreutinae y Tortricinae. Dentro de la primera, se destacan tres especies que causan 
+graves pérdidas en frutales de pepita, carozo y uva vinífera: la polilla de la manzana:  Cydia 
+pomonella (L.), la polilla oriental de los frutales: Grapholita molesta (Busck), y la polilla 
+europea de la vid: Lobesia botrana (Denis & Schifermüller) (Cubillos Vallejo, 2011).  
+El género Lobesia  incluye más de 110 especies en todo el mundo (Gilligan et al ., 
+2018). En la actualidad, la ciencia ya ha descripto completamente pa ra L. botrana  su genoma 
+mitocondrial (Benelli et al. , 2023a).  
+L. botrana  fue descrito por primera vez por Denis & Schiffermüller (1775) como Tortrix 
+botrana . Posteriormente, fue reportado por otros autores con diferentes nombres, incluyendo 
+Tortrix vitisan a (Jacquin 1786), Tortrix romaniana  (Costa 1840), Eudemis rosmarinana  (Millière 
+1866), Coccyx botrana  (von Praun 1869), Polychrosis botrana  (Ragonot 1894), y Policrosis 
+botrana flavosquamella  (Dufrane 1960) (Benelli et al. 2023a). También como Lobesia 
+rosm ariana , Paralobesia botrana , Penthina  vitivorana  (Packard 1860)  Tortrix reli quana  
+(Treitschke 1835) y Tinea reliquana  (Hubner 1816) (Senasica , 2016). Luchi y Scaramozzino 
+(2018 a) agregan a la lista anterior los nombres de Noctua romani  (Costa  1940) ; Cochyl is 
+vitisana  (Audo uin 1942 ); Cochylis botrana  (Herrich -Schaffer  1843) ); Grapholita botrana  
+(Heinemann 1863) y Eudemis botrana  (Frey 1880) . 7 
+ Así como fue clasificada  con diversos nombres científicos según los investigadores que 
+la estudiaron, existe también u na variedad importante de nombres comunes o vulgares con los 
+cuales se la menciona. Probablemente esta diversidad se asocie a su amplia distribución a 
+nivel mundial (SENASICA, 2022). Entre los nombres comunes más conocidos se pueden 
+mencionar eudémis , eudé mis de la vigne, insect du midi, tordeuse de la grape, ver de la grape 
+y ver du raisin  en Francia, tignoletta della vite en Italia, bekreuzter traubenwickler en Alemania 
+y grape vine moth, grape berry moth o grape leafroller european grapevine moth, grape fruit 
+moth, grape moth,  en los países anglosajones. Muchos de los apelativos señalados hacen 
+alusión también a Eudemis ambiguella  dada la facilidad de confusión de ambas en estado 
+larvario (Torres -Vila, 1995a) . COSAVE (2017) y SENASICA (2022) también menc ionan como 
+nombres  comunes a: palomilla  europea de la vid; polilla del racimo  de la vid; arañuelo de la 
+vid, barrenillo de la vid, gusano de la vid, hilandero de la vid, polilla de las vides  y polilla del 
+racimo . 
+Importancia agronómica  
+Lobesia  botrana , es considerada la plaga más importante que afecta a la vid y contra la 
+que más tratamientos químicos hay que realizar para reducir daños en todas las zonas 
+peninsulares así como en la mayor parte de las europeas  y representa una grave amenaza 
+(Pérez Marín  et al, 1995). En Siria, Croacia, Eslovenia, Serbia y Rusia, se reportan pérdidas 
+causadas por este insecto de más de un tercio de la producción. En Israel se registran daños 
+del 40 -50% en uvas de mesa y del 80% en uvas para vino. Los costos derivados para su 
+manejo son altos ya que es difícil de controlar y erradicar (Herrera, 2019). En E.E.U.U. las 
+pérdidas en las exportaciones en el 2008 de estos frutos se estimaron en 2,7 billones de 
+dólares en estados bajo cuarentena y en 5,7 billones de dólares en Califor nia (APHIS -USDA, 
+2010).  
+Para Argentina es de vital importancia su control por ser el séptimo productor mundial 
+de vino y décimo primer exportador (OIV, 2022), con una superficie cultivada de 207.047 ha, 
+distribuidas en 23.090 viñedos a lo largo de 19 provi ncias. Del área total cultivada en 
+Argentina, el 71 % está en la provincia de Mendoza, 20 % en San Juan, 4% La Rioja 2 % Salta 
+y el 3 % restante en 15 provincias vitivinícolas menores (INV, 2022a). Del total de la superficie, 
+el 92,3 % corresponden a viñed os con vides aptas para elaboración de vinos y mostos, el 7,6 
+% para uva s de mesa y pasas (INV, 2022a). Las bodegas argentinas exportaron vinos en 
+2022 por un total de 2.657.040 hl, representando 950 millones de dólares (INV, 2022b).  8 
+ Si bien no hay cifras  oficiales de organismos técnicos gubernamentales sobre la 
+merma que la plaga afecta a la producción, productores y entidades vitivinícolas han 
+manifestado en  medios de prensa importantes mermas de rendimiento que van desde un 10 
+al 70 % dependiendo las z onas, y de un promedio general del 30 % (Explícito 201 6; Fuentes, 
+2015; Sitio Andino, 2016;  Gobierno de Mendoza, 2018 c; Manini, 2022), quizás confundiendo 
+porcentajes de rindes con porcentajes de h ectáreas  donde se ha detectado a L. botrana . Sin 
+embargo, las cifras oficiales de cosecha no registran esos niveles de merma promedio (INV, 
+2022c).  
+Como daño indirecto está la posibilidad , producto del ataque de L. botrana  a los frutos, 
+que se produzca la podredumbre del racimo, originada principalmente por Botritys cinerea 
+(Becerra et al., 2015) y que afectan en mayor magnitud la calidad del vino, uva y pasa 
+producida (Mendoza, 2011).  
+2. BIOE COLOGÍA  
+2.1. Caracteres  Morfológicos  
+Lobesia  botrana , tiene cuatro estados de desarrollo durante su ciclo: huevo, larva, 
+pupa y a dulto  (Figura 1) . 
+ 
+ 9 
+  
+Figura 1. L. botran a. (a) adulto, (b)  huevo .(c) huevo cabeza negr a.(d) larva .(e) pupa. Fuente: 
+Claudio Ioaratti . 
+  
+Huevo   
+Esta estructura es plana, de forma lenticular y ligeramente elipsoidal (0,65 - 0,90 mm 
+de longitud por 0,45 - 0,75 mm de ancho). Posee una micrópila, que se encuentra en el 
+extremo del huevo y su función es lograr  un adecuado intercambio gaseoso (respiración). La 
+unión del huevo al sustrato está asegurada por una sustancia pegajosa secretada  por las 
+glándulas coletéricas (Benelli et al., 2023a). Presenta una coloración blanco - amarillenta, es 
+translúcido, con reflejos iridiscente s. El corión protector le otorga un aspecto macroscópico 
+liso, aunque posee una fina reticulación poligonal especi almente en los bordes y en torno a la 
+micrópila (Torres -Vila, 1995 a). La convexidad del huevo aumenta a medida que se desarrolla 
+el embrión y afecta a toda la superficie superior, excepto al borde, que permanece plano 
+(Benelli et al., 2023a).  
+Durante el de sarrollo embrionario, el corion translúcido revela la larva en crecimiento 
+que eventualmente muestra dos puntos rojos donde estará la cabeza, mientras que el cuerpo, 
+doblado sobre sí mismo, es de color más claro que la yema que lo rodea. Al final del desar rollo 
+embrionario el huevo se oscurece por el lado donde se encuentra la cabeza negra (Benelli  et 
+al., 2023a),  conocida como “huevo cabeza negra” (González, 2010).  
+10 
+ Larva  
+En periodo metamórfico  del insecto pasa por V (5) estadios  larvales . Las 
+característic as de las larvas de L. botrana  son considerados de gran valor taxonómico (Benelli  
+et al.,  2023a).  
+La larva neonata alcanza una dimensión de aproximadamente 1 mm de longitud. Tiene 
+la cabeza y el escudo protoráxico de color negro y el cuerpo de color amari llo claro (Herrera, 
+2019). El tórax y el abdomen tienen cerdas relativamente largas, especialmente en la región 
+posterior del cuerpo. La quetotaxia  de la larva recién nacida es idéntica a la de la larva madura 
+(Benelli et al., 2023a). En los estadios larva les siguientes las dimensiones de los individuos 
+pueden alcanzar valores entre  10 a 15 mm de longitud en su madurez (González, 2010).   
+En los estadios larvarios el exoesqueleto de la superficie dorsal y ventral del cuerpo, a 
+excepción de la cabeza y el pro noto, es rugoso debido a la presencia de diminutos tubérculos 
+rematados en cortas y finas cerdas (Herrera, 2019; Benelli, et al. , 2023 a). En los estadios 
+siguientes la cabeza y el escudo son de color pardo más claro y el cuerpo de color variable, de 
+amaril lo verdoso a violeta oscuro (Herrera, 2019) .  
+En el último estadio larval, la cabeza es ligeramente alargada, de color marrón 
+avellana, a veces verde o gris, con antenas cortas, retráctiles y triarticuladas en la región 
+anterior de la cabeza (Benelli et al., 2023 a). El ancho de la cápsula de la cabeza, así como la 
+longitud de la mandíbula, sirven para discernir las etapas larvarias (Benelli et al.,  2023 a). Las 
+patas de la larva son fuertes y relativamente pequeñas. Las pseudopatas están presentes en 
+los seg mentos abdominales III, IV, V, VI y X.  El peine anal tiene de 6 a 8 dientes (Benelli et 
+al., 2023a). La descripción del último estado larvario de L. botrana está basad a en el estudio 
+de la quetotaxia de ejemplares criados en condiciones de laboratorio, un a recopilación con 
+registros de hospederos y el aporte de nuevas citas (Cepeda & Cubillos, 2011).  
+A partir del último estadio de desarrollo la larva, deja de alimentarse y se ubica en un 
+lugar apropiado para pasar a pupa. Gracias a las glándulas de secreci ón que posee la larva  
+teje un capullo sedoso fusiforme de color blanquecino, en cuyo interior se produce la 
+metamorfosis (Herrera, 2019).  
+Pupa  
+La pupa es de color blanco, verde o azulada cuando recién está formada, luego pasa a 
+un color pardo oscuro. Est á envuelta por un capullo blanquecino fusiforme de textura sedosa 11 
+ (González, 2010). Su cambio de color se relaciona a los procesos de quitinización de la 
+cutícula. Su tamaño y peso son mayores en la hembra (macho 4 - 7 mm; hembra 5 - 9 mm) 
+(Torres -Vila, 1995 a). Los sexos en este estado pueden ser diferenciados, por la posición de 
+los primordios genitales, que se sitúan en el segmento abdominal IX en el macho y VIII en la 
+hembra (COSAVE, 2017; Herrera, 2019; Benelli et al.,  2023). El orificio genital del macho  se 
+encuentra entre dos pequeñas prominencias laterales (Torres -Vila, 1995 a; COSAVE, 2017).  
+El carácter morfológico que permite una fácil y fiable discriminación en este estadio del 
+insecto radica en el vértice del último segmento abdominal (cremáster), qu e en L. botrana  
+termina con una superficie en forma de abanico y está dotado de 8 cerdas grandes en forma 
+de gancho, 4 dorsales y 4 later o-dorsal es (Benelli et al., 2023a).  
+Cuando la emergencia es inminente, la crisálida, mediante movimientos abdominales,  
+ayudada por las espinas dorsales y los ganchos caudales, perfora el capullo y libera al adulto. 
+(COSAVE, 2017). La emergencia se acompaña de la proyección de un meconio blanco 
+verdoso, usualmente expulsado en mayor cantidad por los machos. La exuvia queda  fijada 
+exteriormente por el cremaster (Torres -Vila, 1995 a). 
+Adulto  
+Es un lepidóptero de aproximadamente 10 -13 mm de envergadura alar y 6 - 8 mm de 
+longitud en reposo.  Su tamaño, no obstante, depende mucho de la calidad del substrato 
+nutritivo a lo largo de l estado larvario (Torres -Vila, 1995 a; COSAVE, 2017; Benelli et al.,  
+2023a).  
+Las ornamentaciones en mosaico de las alas anteriores (pardo -rojo-azul) contrastan 
+con la coloración grisácea más o menos uniforme de las alas posteriores, ocultas en posición 
+de reposo, y ell diseño de alas es similar (González, 2010). A lo largo del borde del 2º par de 
+alas se dispone una fila de flecos de color gris. Los sexos se diferencian tanto por su 
+morfología como por su comportamiento.  
+Los machos, al igual que en el est ado de pupa, son más pequeños, presentan un 
+abdomen estrecho, poseen un peine anal de escamas modificadas y movimientos ágiles y 
+nerviosos cuando se les molesta (Torres -Vila, 1995 a; COSAVE, 2017).  La forma de la válvula 
+genital del macho juega un papel tax onómico importante, son relativamente simples y tienen 
+un sáculo bien diferenciado y un ápice redondeado; el uncus es bífido y el vinculum tiene 
+forma de U y está fuertemente esclerificado (Benelli et al.,  2023a).  12 
+ En las hembras, el último uroterguito ter mina en dos papilas anales cubiertas de setas 
+cortas y densas. La bursa copulatoria es larga, claviforme, claramente bilobulada en el ápice y 
+tiene un signo alargado y rugoso (Benelli et al.,  2023 a). En las hembras de muchos 
+lepidópteros, la glándula de fe romonas sexuales se encuentra entre el VIII y el IX urotergito, 
+justo debajo de la membrana intersegmentaria (Benelli et al. . 2023a).  
+Se ha descrito un mutante melánico derivado de laboratorio cuya herencia está 
+regulada por un gen recesivo no ligado al se xo (Torres -Vila et al ., 1996b). 
+ 
+ 
+Figura 2: Adulto de  L. botrana. Fuente: SENASICA . 
+ 
+2.2. Ciclo biológico  
+Lobesia botrana  es capaz de desarrollarse sobre un gran número de especies 
+vegetales agrestes y cultivadas, dada su extensa polif agia (Torres -Vila, 1995 a). Es una 
+especie polivoltina, pudiendo tener de 1 a 4 generaciones al año, dependiendo de la 
+temperatura y el fotoperíodo. Estos últimos parámetros, influyen sobre la inducción de 
+diapausa y la tasa de desarrollo, respectivamente. Por lo tanto, el largo del ciclo puede variar  
+(INIA -SAG, 2008; González, 2010; Becerra, 2016). El período de incubación del huevo es en 
+promedio de 7 -10 d, el estado de larva de 20 -30 d y el de pupa de 10 -12 d.  Los adultos 
+presentan una actividad máxima du rante el crepúsculo: vuelo, llamada, acoplamiento, puesta y 
+alimentación. Pueden mostrar cierta actividad al alba o en días nublados (González, 2010).   
+13 
+ Las hembras son usualmente monándricas pero varios factores pueden promover 
+acoplamientos múltiples  (Torres-Vila et al., 1997). Al contrario, los machos son 
+predominantemente poligínicos (Torres -Vila, et al.,  1995 b). 
+Se ha demostrado que la actividad de vuelo de las hembras en laboratorio se 
+concentra a las 6 h alrededor del inicio de la escotofase. Asimismo , en laboratorio con una 
+dieta artificial y un crepúsculo simulado de 1 h, las larvas son más activas durante el período 
+nocturno (Benelli et al.,  2023a). Los adultos se mueven en un radio de entre 80 a 100 m 
+durante su vida. Las distancias de vuelo de más  de 300 m son poco frecuentes, aunque el 
+viento, según su velocidad, puede llevarlos más lejos (Benelli  et al.,  2023a).  
+Fotoperíodos de 8 a 12 h durante al menos la mitad de la etapa de huevo -larva 
+inducen la diapausa en las larvas para luego pupar (Rodit akis & Karandinos, 2001 ). La integral 
+térmica acumulada determina el número de generaciones por año y puede variar desde 1 en 
+Rumania hasta 3 o 4 en España, Grecia, Creta, Italia y la antigua Yugoslavia. Incluso puede 
+alcanzar una quinta generación en Turk menistán (Coscoll á,1997). En Argentina se cita 4 
+generaciones (Silva et al., 2013 ; Dagatti & Becerra, 201 5; Speed Agro , 2020). Sin embargo, 
+se presume un aumento del voltinismo para L. botrana  dado el escenario de calentamiento 
+global (Benelli  et al. , 202 3a).  
+A continuación, se describe el típico ciclo de vida trivoltino que puede observarse en 
+vid: 
+Primera Generación.  
+El primer vuelo del año proviene de individuos que pasan el invierno como pupa  en 
+estado de diapausa (González, 2010 ; Silva et al., 2013 ) y comienza en Mendoza en  setiembre 
+con un máximo de vuelo a mediados de  octubre  (Silva et al., 2013; Daga tii y Becerra, 2015) . 
+Los machos emergen en promedio algunos días antes que las hembras (protandría) y la 
+puesta de huevos comienza de 1 a 3 d después  del apareamiento (Benelli et al., 2023a).  
+La primera generación  en Mendoza  se da a finales de octubre y en  noviembre  (Silva et 
+al., 2023; Dagattii y Becerra, 2015) y dura de 4 a 6 semanas (ISCAMEN 2018) y coincide con 
+la floración de la vid (50 % de flore s abiertas) de acuerdo a variedades  de la vid  y los oasis de 
+la provincia (Herrera, 2019; IDR, 2023).  
+Las hembras del 1er vuelo ponen huevos en las brácteas, botones florales y muy 
+raramente, en el raquis de las inflorescencias, en los brotes y en las hoja s de las plantas de 14 
+ vid. La superficie lisa de los botones florales estimula la puesta de huevos (Torres -Vila, 1995 a; 
+González, 2010). Las hembras colocan los huevos en forma separada y más raramente en 
+grupos de 2 a 3. Este es un comportamiento típico de la subfamilia Oletreutinae (COSAVE 
+2017; Herrera 2019). Los huevos eclosionan 7 –10 d después de la oviposición y pasan por 
+cinco fases de desarrollo embrionario (embrión visible, ojos visibles, mandíbulas visibles, 
+cabeza marrón/oscura, y cabeza negra) (To rres-Vila, 1995 a; Herrera 2019; Benelli et al ., 
+2023a).  
+La larva neonata emerge perforando el huevo en uno de los polos con sus mandíbulas 
+y recién nacidas caminan hasta 24 h (dependiendo de la radiación solar y la temperatura) en 
+busca de un lugar adecuad o para asentarse, por ello se la suele llamar “etapa errática” 
+(Benelli et al. , 2023 a). En esta,  se alimentan de las inflorescencias, devoran total o 
+parcialmente cierto número de botones florales, flores y granos a los qu |e, además, unen por 
+medio de hilo s sedosos formando glomérulos (González, 2010) ; se alimentan de los 
+primordios estaminales y del gineceo  (Figura 3 A) . En correspondencia con la muda, donde 
+cambia de estadio larval (ecdisis) forma nuevos glomérulos, comprometiendo mayor cantidad 
+de flores  (Herrera, 2019). En la medida que cambian de estadio larval forman nuevos 
+envoltorios sedosos. Transcurridos los cinco estadios larvales forma la pupa fuera de las 
+inflorescencias, preferentemente en las hojas, para luego emerger el adulto y reanudar el c iclo 
+(González, 2010; Herrera, 2019; Benelli et al., 2023a).  
+El nuevo adulto excreta un meconio de color blanco verdoso, que suele ser más 
+abundante en los machos que en las hembras. La exuvia pupal permanece adherida al capullo 
+(Benelli et al., 2023a). L a duración del estado larval es de 20 a 28 días y la del estado de pupa 
+es de 12 a 14 días (Benelli et al. , 2023a).  
+ 15 
+  
+ 
+Figura 3. Daños causados por  L. botrana. A. En inflorescencias por primera generación. B. En 
+bayas verdes por s egunda generación. C,  D y E en bayas maduras por tercera generación. 
+Fuente : Claudio Ioratti.  
+Segunda Generación.  
+El segundo vuelo se desarrolla en Mendoza entre fines de noviembre y l a primera 
+decena  de diciembre (Dagatii & Becerra, 2015). En el segundo vuelo, las hembras colocan sus 
+huevos sobre las bayas inmaduras (verdes), en las zonas más sombreadas de los racimos, a 
+mediados de noviembre (González, 2010). Las larvas emergentes realizan una perforación en 
+la inserción peduncular o en el punto de conta cto de dos bayas. A medida que cambian de 
+estadio perforan otros granos que unen mediante hilos sedosos refugiándose en el interior de 
+los granos vacíos  (Figura 3 B)  (Herrera, 2019).  
+Los grupos dispersos de bayas atacadas (focos) se vuelven de color púrpu ra y luego 
+de color marrón oscuro con excrementos y seda visibles y son el síntoma más claro del daño 
+de las larvas en las bayas inmaduras (Benelli et al. , 2023a).  
+El comportamiento defensivo típico de la larva es el de huida, con violentos culebreos 
+hacia  atrás, pero si son levemente hostigadas con un objeto punzante a través del orificio de 
+16 
+ penetración en las bayas, sacan bruscamente la cabeza e incluso intentan bloquearlo con las 
+mandíbulas (Torres -Vila, 1995 a; COSAVE, 2017).  
+El desarrollo larvario requi ere una mayor integral térmica que en primera generación, 
+alrededor de 255 ºC -día en base 10, debido a la menor riqueza en nitrógeno en las bayas 
+(Benelli et al.,  2023 a), para luego pupar siguiendo las mismas pautas que en primera 
+generación. La pupa requi ere para su desarrollo una integral térmica análoga a la de la 
+primera generación (COSAVE, 2017; Benelli et al., 2023a).  
+Cuando las condiciones climáticas son adecuadas, las uvas dañadas pueden ser 
+colonizadas por especies de hongos, incluyendo Aspergillus  spp y especialmente Botrytis  
+cinerea  que puede causar daños cualitativos y cuantitativos severos (Benelli et al.,  2023a).  
+Tercera generación.  
+El tercer vuelo suele empezar en Mendoza, Argentina, a finales de enero y las larvas 
+se desarrollan durante febre ro (Dagatti & Becerra, 2015 ). En este ciclo, la postura se realiza 
+sobre las bayas en envero o en maduración (Torres -Vila, 1995 a; González, 2010). Las larvas 
+penetran en las bayas y se alimentan de ellas causando un daño directo, pérdidas de cosecha 
+y dism inución de la calidad de la uva (Herrera, 2019). En esta ocasión, l as larvas perforan las 
+uvas más superficialmente que en la segunda generación alimentándose principalmente de su 
+hollejo, a su vez pueden incrementar la incidencia y la severidad de la podr edumbre gris del 
+racimo ocasionada por B. cinerea  (González, 2010; Benelli et al., 2023a).  La fermentación del 
+jugo perdido por las heridas, rico en azúcar, actúa como atrayente de Drosophila sp., cuyas 
+larvas favorecen la manifestación de la enfermedad po dredumbre ácida de la vid (Torres -Vila 
+1995 a; Benelli et al.,  2023a). Estas  heridas producidas en los frutos constituyen la puerta de 
+entrada a hongos de los géneros Botrytis, Aspergillus, Alternaria, Rhizopus, Cladosporium, 
+Penicillium , entre otros, que p rovocan podredumbres. En uva de mesa sus ataques 
+desmejoran la presentación y calidad de sus racimos (Herrera, 2019; Agroproductores, 2021).  
+Cuando la baya atacada se deseca y la larva alcanza un tamaño adecuado, suele 
+buscar refugio en el interior del hol lejo, asegurando con  seda a los circundantes, para evitar su 
+caída. Desde este emplazamiento de protección , se alimenta de las bayas próximas, pudiendo 
+cambiar de ubicación una o varias veces (COSAVE, 2017 ). Las larvas pupan bajo la ritidomis, 
+los tutores o rodrigones, pero no en las partes verdes de la planta (González, 2010; Benelli et 
+al., 2023a) (Figura 3 C, D, E).  17 
+ Temperaturas primaverales y estivales anormalmente elevadas aceleran los procesos 
+y es posible que se inicie un cuarto vuelo parcial, o tota l, cuya descendencia se pierde ante los 
+rigores invernales, por falta de tiempo y condiciones apropiadas para completar una nueva 
+generación y alcanzar el estado diapausante  (Torres -Vila, 1995 a). El insecto pasa el invierno 
+como pupa en diapausa desde el o toño hasta la primavera (Benelli et al.,  2023a).  
+2.3. Comportamiento Sexual.  
+Las hembras atraen a los machos a través de feromonas que liberan desde una 
+glándula ubicada en el abdomen (Torres -Vila et al. , 2002 ; Belelli et al., 2023b).  
+La hembra de L. botrana  es usualmente monándrica, entre el 70 -100 % de los 
+individuos se aparean sólo una vez en su vida tanto en campo como el laboratorio (Torres -Vila 
+et al., 2005). Sin embargo, la tasa de poliandria aumenta con el tamaño de la hembra a lo 
+largo de la temporada. Al contrario, los machos, son predominantemente poligínicos (Torres -
+Vila et al., 2005).  
+El volumen de espermatóforos se correlaciona positivamente con el tamaño del macho 
+y su historial de apareamiento. En general, las hembras prefieren aparearse con macho s que 
+proporcionen espermatóforos más grandes ya que los espermatóforos pequeños pueden 
+afectar negativamente la fecundidad de las hembras (Torres -Vila et al.,  2019).  
+Las hembras de L. botrana  son proovigénicas y ponen alrededor del 20 -40% de sus 
+huevos e n los primeros días después del apareamiento, luego la producción de huevos 
+disminuye progresivamente con la edad (Benelli  et.al. , 2023a).  
+Los machos se sienten más atraídos por las feromonas secretadas por las hembras 
+vírgenes respecto a las hembras poliá ndricas que se han ya apareado una vez (Benelli et al., 
+2023a).  
+El (E,Z) -7,9-dodecadienil acetato (E7,Z9 -12:Ac) es el componente principal de la 
+mezcla de feromonas sexuales que libera L. botrana  y el único detectado en hembras. Estos 
+compuestos son por sí  solos, suficientes para atraer a los machos. Hay al menos otros cuatro 
+compuestos menores: (E,Z) -7,9- dodecadien -1-ol (E7,Z9 -12OH), acetato de (Z) -9-dodecenilo 
+(Z9-12:Ac), acetato de (E) -9-dodecenilo (Z9 -12:Ac) y acetato de 11 -dodecenilo (11 -12:Ac) 
+presen tes cuya función debe aún verificarse (Benelli et al.,  2023a).  
+L. botrana  tiene actividad sexual al anochecer en un tiempo de entre 2 a 4 h (Lucchi et 
+al., 2018 b), detectando los machos la feromona sexual a través de neuronas olfativas 18 
+ ubicadas en las ante nas y vuelan con patrón zigzagueante hacia una fuente de olor y 
+localizando así las hembras (Benelli et al., 2023 a). 
+3. INFLUENCIA DE LOS F ACTORES AMBIENTALES SOBRE LA BIOLOGÍA  
+DEL INSECTO  
+3.1. Temperatura  
+La temperatura es la variable meteorológica que má s incide en el desarrollo de  L. 
+botrana ( Torres -Vila, 1996 a; Benelli et al., 2023 a). Un informe de SENASICA (2022) refiere 
+que el rango de temperaturas para el desarrollo de L. botrana , está entre 10 -30 °C como 
+mínima y máxima, respectivamente. Las condici ones óptimas para la palomilla europea de la 
+vid son temperaturas de 26 a 29 °C, y una humedad relativa del 40 -70%. Temperaturas por 
+debajo de 8 °C y mayores a 34 °C ocasionan la muerte de larvas.  
+Las primaveras calurosas y la sequía destruyen los huevos, larvas y las pupas  
+(Coscollá  et al.,  1986).  La temperatura del anochecer afecta directamente el vuelo, el 
+apareamiento y la puesta de huevos de los adultos (Benelli  et al., 2023 a). En las hembras, la 
+temperatura puede regular el desarrollo ovocitario y la producción de huevos, que alcanzan un 
+máximo a una temperatura en torno a los 22ºC (Torres -Vila, 1995 a). Temperaturas elevadas 
+actuando sobre el huevo y/o sobre la oruga, pueden inducir dormancia en la crisálida dando 
+adultos más pequeños y afectando su po tencial reproductivo (Torres -Vila, 1995 a; Benelli et al.,  
+2023a).  
+En un informe del C OSAVE  publicado en el 2017 se explica que el mecanismo de 
+inhibición de la diapausa, todavía no es bien conocido pero infiere que interviene 
+decisivamente la temperatura media de final del invierno e inicio de primavera en la 
+manifestación de la misma. Entre otras características se puede mencionar que las pupas en 
+diapausa pueden soportar temperaturas más bajas que las pupas que no están en diapausa.  
+3.2. Humedad Relativ a, Precipitación  y Viento.  
+Las humedades relativas extremas pueden causar la muerte de huevos y crisálidas, sin 
+embargo, resultan menos afectadas  las orugas. En adultos determina la actividad y 
+longevidad, especialmente si no disponen de agua líquida (Cos collá et al., 1986; Torres -Vila, 
+1995 a). Las lluvias abundantes y los fríos primaverales resultan perjudiciales para la evolución 19 
+ del insecto, así como, el viento y la lluvia afectan la oviposición de las hembras, la vida de las 
+orugas y la actividad de lo s adultos al afectar su vuelo ( Torres -Vila, 1995 a; Savopoulou -
+Soultani  et al.,  1998 ). 
+3.3. Fotoperíodo  
+La mayor duración de la fotofase puede incrementar la fecundidad de la hembra ( Savopoulou -
+Soultani y Tzanakakis, 1979; Torres -Vila, 1995 a). Roditakis y K arandinos (2001) investigaron 
+los efectos de varios fotoperíodos diarios y no diarios y de la temperatura, experimentados por 
+huevos y larvas, sobre la inducción de la diapausa pupal llegando a la conclusión que 
+períodos de luz de 8 a 12 h de duración dura nte al menos la mitad de la etapa de huevo -larva 
+inducen la diapausa en las larvas para pasar al estadio de pupal . El crepúsculo determina el 
+ciclo diario de la actividad de los adultos (Gonz ález, 2010 ; Luchi et al. , 2018 b). 
+3.4. Cambio Climático.  
+En gener al, las vides responden a calentamiento global con una brotación, floración, 
+envejecimiento y cosecha más temprana. A su vez los  intervalos entre las etapas fenológicas 
+mencionadas, son más cortos generando consecuencias en la sincronía en el desarrollo d e las 
+plantas de vid y sus respectivas plagas insect iles (Reineke & Thiéry 2016).  
+El cambio climático global, particularmente el aumento general de las temperaturas 
+promedio, influyen en la fisiología, fenología, voltinismo y rangos de distribución de L. botrana . 
+Al ser una especie multivoltina, se puede esperar que debido a las temperaturas más altas del 
+invierno y principios de la primavera, los adultos emer jan antes de las pupas hibernan tes, 
+logrando una generación adicional por año (Reineke &  Thiéry 20 16; Benelli et al. 2023 a). En 
+España y en Portugal las poblaciones muestran un cuarto vuelo adicional completo (Benelli et 
+al., 2023 a), al igual que en Argentina ( Speed Agro , 2020).  
+Nuevos estudios indican que la plaga se desplazará  significativamente hac ia el  norte 
+en el hemisferio norte. El cambio climático hará que L .botrana  sea más débil ante el ataque 
+de parasitoides al disminuir la reserva de lípidos en las larvas (Benelli et al., 2023a).  
+Castex y colaboradores ( 2018 ) plantearon que las relaciones tritróficas (planta 
+hospedante , plaga y enemigo natural) son particularmente importantes en el contexto de 
+agricultura sostenible porque están en el corazón del control integrado de plagas, por lo tanto 
+los cambios en el clima a futuro  influyen en esas r elaciones.  20 
+ Varios lepidópteros Tortricidae están adaptados para resistir inviernos fríos y secos y 
+son conocidos por ser capaces de sobrevivir a bajas temperaturas invernales de -22°C. Climas 
+templado e inviernos húmedos cuando se combinan son catastrófico s en particular para 
+aquellos insectos que hibernan como pupas debido a una mayor virulencia de hongos 
+entomófagos o antagonistas bacterianos (Reineke & Thiéry, 2016).  
+4. RELACIÓN PLANTA E INSECTO  
+Como se mencionó anteriormente  L. botrana  es un lepidóptero  polífago tanto de 
+plantas silvestres como cultivadas (Coscoll á 1997;  González, 2010; Ioriatti  et al.,  2011) que 
+debido a su fenología o al tipo de frutos de las plantas hospedante, no puede completar todo 
+su ciclo de vida anual en algunas de ellas (Torre s-Vila et al.,  2012). Si lo hace en el arbusto D. 
+gnidium L. y desde el cual L. botrana  se trasladó a la vid ( Maher y Thiéry , 2006 ). 
+La planta hospedante influye en el  tamaño de la hembra, característica que a su vez, 
+se correlaciona positivamente con la f ecundidad, el tamaño del huevo y la longevidad (Torres -
+Vila et al.,  1995 b). También influye el tamaño del macho sobre la longevidad, el número y 
+tamaño de espermatóforos a lo largo de la vida. (Torres -Vila et al.,  1995 b). Se ha observado, 
+además, que L. bo trana  prefiere las uvas afectadas por la pudrición porque mejora la 
+alimentación de las larvas y aumenta la fecundidad de las hembras (Benelli et al, 2023a).   
+Hay otros tortricidos que pueden coexitir con L. botrana  especialmente en la etapa 
+larvaria: E. a mbiguella  (cochylis), Argyrotaenia ljungiana  (Thunberg) (eulia), Sparganothis 
+pilleriana  (Denis & Schiffermüller) (vine pyral) (Bovey 1966) y Paralobesia viteana  (Clemens), 
+plaga importante de la vid en el este de América del Norte (Rufus et al., 2012).  
+La planta hospedante, su defensa inmunitaria, la variedad y la fenología de la vid,   
+influyen en la supervivencia de las larvas y tamaño de los adultos de  L. botrana   (Torres -Vila et 
+al., 2012). También  la planta huésped, la composición química de la superf icie de la fruta y el 
+contenido de azúcar,  influyen en el comportamiento de oviposición de las hembras de  L. 
+botrana  y se ha encontrado un detector de fructosa específico en el ovopositor de las hembras 
+(Benelli et al. , 2023).  
+También se han identificado compuestos orgánicos volátiles emitidos por la vid que 
+actúan  como  atrayentes  para L. botrana  en el reconocimiento de plantas hospedantes (Tasin 
+et al.,  2005).  21 
+ Otros tipos de compuestos volátiles que pueden influir sobre el insecto son olores 
+asociados a m icroorganismos que determinan la calidad del alimento de la planta hospedante 
+para las larvas. Estos olores podrían usarse para desarrollar nuevos sistemas de monitoreo o 
+control (Lar sson Herrera et al., 2020).  
+Los adultos de L. botrana  se sienten atraído s por los olores volátiles emitidos por 
+fuentes potenciales de alimentos, en particular azúcares y sustancias nitrogenadas (Benelli et 
+al., 2023a). Probablemente existen también diversas sustancias volátiles producidas por 
+algunas variedades de uva que pue den atraer en mayor o menor medida al insecto.  
+Markheiser y colaboradores (2020) sugieren que las hembras tienen la capacidad de 
+percibir compuestos orgánicos volátiles no solo por las antenas sino también a través del 
+ovipositor que podría atraerlos o re pelerlos para la puesta de huevos. Estamos todavía lejos 
+de comprender cuál es la mezcla de olores que atrae a las hembras (Benelli et al.,  2023a).   
+Las condiciones son más favorables para la plaga si el sistema de conducción de la vid 
+es en parral y con v ariedades de brotación temprana ( Speed Agro , 2020). El conocimiento 
+resumido anteriormente destaca la necesidad de incrementar las  investigaci ones  sobre estos 
+temas, para una mejor comprensión de la dinámica de la población de L. botrana (Benelli  et 
+al., 2023a).  
+5. SERVICIOS AGROECOSISTÉMICOS: ACCIÓN DE ORGANISMOS 
+NATURALES SOBRE LA PLAGA  
+Ante los actuales desafíos sanitarios y medioambientales, la viticultura está 
+directamente relacionada con la necesidad de reducir el uso de pesticidas (Charbonnier et al. , 
+2020). En viñedos con cobertura verde las especies vegetales que coexisten entre las hileras 
+pueden hospedar insectos que proporcionan importantes servicios agroecosistémicos como 
+reguladores de  las poblaciones de fitófagos y otros como polinizadores (Ló pez Plantey, et al, 
+2018). Por ello es necesario establecer estrategias de MIP que favorezcan el incremento y la 
+conservación de los enemigos naturales como servicios agroecosistémicos, como nuevos 
+estudios que identifiquen las distintas especies de artróp odos fitófagos y benéficos que 
+contribuyen al conocimiento de la artropofauna del cultivo de la vid (Holgado et al. , 201 8). 
+Hay una variedad de organismos que interactúan con L. botrana  en la naturaleza y 
+potencialmente regulan su abundancia, ocupación y d inámica de población como varios 
+depredadores. Ha sido observada la influencia de murciélagos, pájaros, arañas , insectos, 22 
+ parasitoides y microorganismos entomopatógenos como virus, procariontes, hongos, 
+protozoos y nematodos (Torres -Vila, 1995 a). Los insec tos depredadores  pertenecen a los 
+órdenes  Dermaptera, Hemiptera, Neuroptera, Diptera y Cole optera; mientras que entre los 
+arácnidos se incluyen las arañas de las familias Clubionidae, Theridiidae, Thomisidae, 
+Linyphiidae y Salticidae (Araneae)  (Torres -Vila, 1995 a ; Coscoll á, 1997)).  
+Los servicios naturales de control de plagas proporcionados por los murciélagos se 
+han demostrado en otros cultivos y se mencionan como una forma de reducir el uso de 
+pesticidas (Charbonnier  et al., 202 0). Estos servicios de co ntrol de plagas proporcionados por 
+los murciélagos, que tienen dieta insectívora nocturna, son muy importantes y  pueden ser 
+predadores de plagas de la vid (Baroja et al. , 2019; Charbonnier et al., 202 0). 
+López PLantey  et al  (2018) citan en viñedos de Mendo za, Argentina, a la chinche 
+depredadora Zelus renardii (Kolenati (Hemiptera), un heteróptero de reciente introducción en 
+el país desde Chile , proponiendo que la explosión de sus poblaciones puede ser un hecho 
+beneficioso para eventuales plagas  de los viñed os. 
+6. MANEJO INTEGRADO DE Lobesia botrana  
+6.1. Monitoreo  
+Curvas de vuelo  
+Las curvas de vuelo son representaciones gráficas que registran en las ordenadas el 
+número de polillas macho capturadas en las trampas y en las abscisas la fecha en la que se 
+realizó  la captura. Estas curvas muestran los ciclos que presenta la polilla durante un período 
+de tiempo, que corresponde a una campaña completa (desde el primer vuelo hasta la cosecha 
+de la vid (Silva  et al. , 2013).  
+Para determinar el momento oportuno de trata miento y realizar una estrategia de lucha 
+adecuada es necesario seguir la evolución del vuelo de adultos de cada generación mediante 
+trampas  de feromonas  sexuales para el  monitoreo, información que se complementa con 
+observaciones en campo sobre la evoluci ón de la puesta y la eclosión de huevos (Comunidad 
+Autónoma de La Rioja, 2023).  
+El monitoreo no sólo es útil para determinar la presencia de la plaga y seguir la 
+evolución de la población sino también para verificar la eficacia de los  métodos de control  23 
+ químico y con feromonas , obtener los períodos de actividad diaria y optimizar la liberación de 
+feromonas sintéticas a través de dispositivos de aerosol automatizados ( Benelli et al. , 2023b).  
+Dagatti y Becerra (201 5), concluyeron que en Mendoza, Argentina, el  1er vuelo ocurre 
+en octubre con un promedio de 204,05 +/ - 10,73 grados día, el 2do vuelo ocurre en diciembre 
+con un promedio de 728,34 +/ - 41,95 grados día, el 3er vuelo se produce en enero con una 
+media de 1329,08 +/ - 151,35 grados día, y el 4º vuelo a m ediados de febrero con una media 
+de 1721,84 +/ - 116,63 grados día. La investigación se basó ajustando el modelo de Touzeau 
+(1981), que utiliza los grados días (GD) con un umbral mínimo de desarrollo de 10 °C, que es 
+la temperatura mínima por debajo de la c ual el desarrollo de L. botrana  se interrumpe (Dagatti 
+& Becerra, 2015). El método de GD se basa en la suma de las acumulaciones diarias de 
+temperatura, para luego transformarlas en GD y relacionarlas con las fechas de vuelo 
+estacional de adulto, posturas de huevos, diferentes estados y estadios. Este estudio 
+corroboró un cuarto vuelo en Mendoza, tal como lo definieron anteriormente, en una 
+investigación también basada en GD   Silva y colaboradores (2013).  
+Rexhaj y Shahini (2017), mediante el seguimiento de  la población de L. botrana  
+utilizando feromonas sexuales, determinaron en Albania que la polilla europea de la vid 
+presenta  tres generaciones al año . Estimaron la incidencia media y la gravedad ponderada de 
+la infe stación  por esta plaga clave de la vid, y  el momento de intervención con B. thuringiensis 
+que se basa precisamente en la curva de vuelo de los adultos de L. botrana . 
+El monitoreo puede estar dirigido a seguir al insecto en distintas etapas de su 
+desarrollo.  El conteo de huevos es un método confi able, pero no ha dado resultados prácticos 
+todavía (Markheiser et al. , 2020). El seguimiento de la evolución  de las larvas es fundamental 
+durante la primera generación, cuando éstas  construyen nidos visibles en las inflorescencias y 
+el daño es limitado. E n la segunda y tercera generación, el monitoreo de los huevos es crucial 
+para prevenir el daño, mientras que el monitoreo de las larvas es relevante sólo para evaluar 
+los niveles de infestación (Benelli et al., 2023b).  
+La búsqueda de pupas, que se esconden  en las hojas, la corteza o el suelo, no es un 
+método factible para estimar poblaciones. El adulto es la única etapa que se puede muestrear 
+pasivamente usando trampas de feromonas. Estas permiten atraer a los machos de la 
+especie, pero no a las hembras ( Benelli et al.,  2023 b). 
+Otra metodología de monitoreo consiste en usar señuelos de alimento  que se basan en 
+la fermentación de soluciones que contienen azúcar. Uno de los inconvenientes de este 24 
+ método está asociado con la pegajosidad de la solución de azúcar , la poca selectividad y la 
+necesidad de recarga periódica (Ior iatti et al., 2011).  
+La electrónica y la informática están allanando el camino para desarrollar dispositivos 
+de monitoreo automatizados , basados en sensores infrarrojos, sensores de audio y 
+clasificación basada en imágenes y desarrollos recientes, incluido el aprendizaje  automático y 
+el internet de las cosas (Lima  et al. , 2020).  
+Brindan dos beneficios sobre las trampas manuales tradicionales: alta resolución 
+temporal y acceso a la red, indicand o entre otras cosas, la hora del día en que la plaga está 
+activa. Este parámetro puede ser de suma utilidad  para cronometrar los difusores automáticos 
+de feromonas ( puffer ) con lo cual se reducirían  los costos en las feromonas (Benelli  et al., 
+2023 b). Po r ejemplo, el conocimiento de que los machos de L. botrana  vuelan durante un 
+período de 1 a 3 h oras a partir de la puesta del sol podría ser usado como un dato de entrada 
+al sistema informático, lo cual permitiría sincronizar los emisores  de feromonas (Lucchi et al., 
+2018 b). 
+Asimismo, otro sistema de monitoreo que podría ser interesante en el futuro es el que 
+utiliza trampas de “golpes de ala”. Éstos codifican el aleteo de una polilla que cruza una matriz 
+de sensores ópticos led, pudiendo detectar con clari dad el momento en el cual los insectos  se 
+encuentran en vuelo (Faria  et al., 2021).  
+Modelos  
+Los modelos buscan simular la evolución de los diferentes estados de desarrollo del 
+insecto, mediante el empleo de modelos matemáticos, establecidos en base a info rmación de 
+tipo biológico e integrando para su funcionamiento información de tipo climático (Torres -Vila, 
+1995 a). Hoy en día, los modelos fenológicos, fisiológicos y preventivos son fundamentales en 
+el manejo integrado de plagas (Benelli et al., 2023b). Se  han utilizado modelos fenológicos 
+para determinar el mejor momento para la aplicación de insecticidas . Estos evalúan la relación 
+entre las capturas  de L. botrana  en las trampas de feromonas y las acumulaciones de grados -
+día (Touzeau 1981; Gallardo et al., 2009).  
+Hay modelos fisiológicos que incluyen parámetros ambientales y de historia de vida (Benelli et 
+al., 2023b) . Sin embargo, los modelos basados en la acumulación de grados -día, tienen la 
+ventaja de ser más simples de desarrollar y más fáciles de usar  por los productores . Estos 
+deben  de ser validados localmente , porque las integrales térmicas varían  debido a diferencias 25 
+ lógicas atribuibles al paso del tiempo y a las distintas localizaciones geográficas (Gallardo et 
+al., 2009, Silva et al., 2013, Dagat ti & Becerra, 2015).  Es importante obtener registros de datos 
+durante varios años para conocer la modalidad de instalación del insecto en la región (Silva et 
+al., 2013).  
+Varios investigadores han propuesto modelos predictivos del desarrollo de L. botrana  
+basados en la relación entre temperatura y la tasa de desarrollo (Benelli et al., 2023b) . La  
+aplicación de  estos modelos a una determinada  área geográfica puede ser de gran utilidad 
+aunque  requier a de ajustes a las condiciones locales como lo demostraron  Flores y Azin  
+(2016) en Mendoza, Argentina. Reineke y Thiéry (2016)  también  han estudiado el desarrollo 
+de modelos fenológicos basados en temperatura tanto para la vid como para L. botrana   los 
+cuales  pueden co ntribuir a comprender  el impacto del cambio cl imático en la fenología de 
+estos organismos. Sin embargo, es importante destacar, que el uso de estos modelos no 
+reemplaza la necesidad de programas comunes de monitoreo ni de establecer umbrales 
+económicos para el manejo de la plaga  (Benelli et al., 2023b ). 
+El conocimiento de la distribución espacial de las poblaciones de L. botrana  es 
+importante para un umbral de intervención. Las inspecciones directas de plantas a campo y 
+los umbrales de intervención ayudan a los agricultores a decidir si usan insecticid as y cuando 
+realizar las aplicaciones (Speed Agro , 2020; Benelli et al., 2023b).  
+Para tener estrat egias efectivas para el control de  L. botrana  es necesario desarrollar 
+herramientas que sirvan de apoyo a los programas de muestreo y el momento de aplicacion es 
+de insecticidas, debiendo los servicios de extensión y técnicos consultores realizar 
+evaluaciones de huevos y larvas para estimar el nivel de infestación (Benelli et al.,  2023 b). 
+Pascualli y colaboradores (2022), para superar la falta de datos que hay s obre la 
+función mortalidad, estimaron la misma a partir de datos de campo, y el método de estimación 
+permite determinar sus coeficientes teniendo en cuenta el error de medición de las 
+observaciones.  
+Estos modelos tienen enfoques muy prometedores para prono sticar la infestación si 
+brindan resultados cualitativos confiables o son fácilmente ajustables a otras condiciones 
+locales (Benelli  et al., 2023b).  26 
+ 6.2. Manejo con insecticidas de síntesis  
+Plaguicidas autorizados en la Argentina  
+El SENASA ha autorizado pa ra su uso en el país a los plaguicidas clorantraniliprole, 
+indoxacarb, spinetoram, metoxifenocide, novaluron, benzoato de emamectina y un formulado 
+a base de Lamdacialotrina con Clorantraniliprole. Entre otros productos  se mencionan  los 
+bioinsecticidas  a base de Bacillus thuringensis  variedad kurst aki, y Beauveria  bassiana ,  así 
+como  la feromona E/Z -7,9 dodecadenil acetato  y el extracto de ajo (contenido mínimo de 
+alicina) está aprobado como repelente de uso complementario con  los productos previamente 
+menc ionados ( SENASA, 2023; ISCAMEN, 2023).  
+A pesar de la aplicación generalizada de la técnica de confusión sexual con feromonas 
+y las recientes restricciones en el uso de insecticidas, L. botrana  todavía se maneja con este 
+último tipo de productos en  amplias superficies en todo el mundo (Benelli et al., 2023 b). 
+En los programas de control de plagas que se basan en el empleo de insecticidas, se 
+han incorporado algunas herramientas que mejoran la racionalidad en el uso de estos 
+principios activos de síntesis quí mica. Entre estas mejoras se puede mencionar la 
+determinación del momento  de aplicación basado en el empleo de  trampas de captura de 
+insectos, uso de modelos de pronóstico y en inspecciones visuales ( Speed Agro , 2020; Benelli 
+et al. , 2023b). El número de aplicaciones por año quedará supeditado estrictamente a la 
+densidad de población, el cultivo (es decir, uvas para vino o de mesa) y los niveles de daños 
+económicos relacionados ( Speed Agro , 2020).  
+En Argentina para realizar las aplicaciones foliares de pro ductos destinados al control de la 
+polilla de la vid, se consideran las alertas emitidas por el SENASA (Gobierno de Argentina, 
+2023). Este organismo, basándose en datos recopilados por estaciones de monitoreo 
+considerando la fenología del cultivo, proporci ona alertas que orientan a los productores en la 
+implementación de medidas fitosanitarias (SENASA, 2010b). La primera alerta se emite 
+cuando los racimos florales del cultivo son visibles, alcanzando entre 5 y 7 centímetros de 
+tamaño (Gobierno de Argentina,  2023). La segunda alerta se lanza cuando los racimos 
+muestran bayas verdes, aproximadamente del tamaño de una arveja (Gobierno de Argentina, 
+2020).  
+En el caso específico de L. botrana , es común establecer un umbral de daño alto para la 
+primera generación,  especialmente en cultivares de vid con abundantes inflorescencias, 
+mientras que en la segunda y la tercera generación, que se consideran las más destructivas, 27 
+ se fija un umbral de daño más bajo. Este último suele ser de 1 a 15 % de racimos infestados 
+(Ben elli et al ., 2023b). En el caso específico de Mendoza, c on un 3 % de glomérulos 
+verificados a campo, el  control deberá ser más agresivo  en el segundo vuelo, a principios de 
+noviembre ( Speed Agro , 2020).  
+Los tratamientos con insecticidas generalmente se pr ograman en la fase fenológica de 
+la vid de pre -cierre y luego del envero de racimos. Estos tienen como objeto controlar a 
+huevos o larvas de primer estadio (Coscoll á, 1997).  
+A continuación,  se mencionan los productos mayormente empleados en la actualidad 
+para el control químico de L. botrana : 
+Los insecticidas selectivos como los reguladores del crecimiento de insectos, incluidos 
+los inhibidores de la síntesis de quitina, los agonistas de la hormona juvenil y los agonistas de 
+la hormona de la muda o compues tos aceleradores de la muda , son productos efectivos a 
+bajas concentraciones. Además, son potencialmente menos peligrosos para especies no 
+objetivo como mamíferos y ácaros depredadores, en consecuencia, se han considerado como 
+una alternativa a varios comp uestos convencionales (Tirello et al.,  2013; Herrera,  2019).  
+El piriproxifeno afecta el crecimiento y desarrollo (mimético de la hormona juvenil) 
+(IRAC, 2023) atacando al sistema hormonal endocrino y perturba el proceso de pupación y el 
+desarrollo embriona rio en huevos recién puestos (Benelli et al.,  2023 b). No está autorizado 
+para L. botrana  en Argentina (SENASA, 2010; ISCAMEN, 2023) y si en Chile (SAG , 2023) , 
+Perú ( Gobierno de Perú, 2023)  y en la Unión Europea (UE, 2023) . 
+El flufenoxuron y lufenuron,  actúan también sobre el crecimiento y desarrollo inhibiendo 
+la síntesis de la quitina (IRAC, 2023) y aplicados sobre la  primera generación de larvas de L. 
+botrana , demostr ó ser eficaz reduci endo significativamente  la población de la segunda 
+generación (Pavan  et al., 2014).  Sin embargo no están autorizados para L. botrana  en 
+Argentina (SENASA, 2023; ISCAMEN 2023) y Chile (SAG, 2023). Actualmente son sustancias 
+activas no aprobadas en Unión Europea (Gobierno de España, 2024). Lufenuron si está 
+permitido para su a plicación en vides en Perú (Gobierno de Perú, 2023) . 
+El indoxacarb es un insecticida de la clase química de las oxadiazinas, el cual actúa 
+inhibiendo la entrada de iones de sodio en las células nerviosas de los insectos objetivo, con 
+el consecuente bloqueo  del sistema nervioso de los mismos  (CIATI, 2022) . Sin embargo, 
+recientemente al solicitarse la renovación de la molécula activa de indoxacarb en la UE, la 
+Autoridad Europea de Seguridad Alimentaria (EFSA) consideró elevado el riesgo a largo plazo 28 
+ para los  mamíferos silvestres, en particular para mamíferos herbívoros pequeños  y por lo tanto 
+no se renovó la aprobación de la sustancia activa (CIATI, 2022).  
+El metoxifenozide es una hidracilhidracina que actúa sobre el crecimiento como 
+agonista del receptor de ecdisona (IRAC, 2023). E s efectivo después de la ingestión o el 
+contacto con las larvas. Éste induce en los insectos que  se encuentran en ese estad io a 
+mudar de manera prematura. El producto tiene además,  actividad ovicida. Cuando se 
+administra por vía or al a adultos reduce la fecundidad y fertilidad del insecto pero no su 
+longevidad (Sáenz de Cabezón Irigaray  et al., 2005; Benelli et al., 2023b). Al ser un ovicida 
+eficaz, sería interesante revisar la estrategia clásica de control químico basada en insecti cidas 
+neurotóxicos dirigidos a las larvas de L. botrana . (Benelli et al., 2023b). Las pulverizaciones de 
+metoxifenozide para la segunda y tercera generación se deben aplicar durante el pico de 
+vuelo, para cubrir el período de oviposición y eclosión de huev os. (Sáenz de Cabezón Irigaray 
+et al., 2005).  
+El clorantraniliprol e actúa sobre el sistema nervioso y muscular con modo de acción 
+como agonista de la modulación de recepción de la rianodina (IRAC, 2023). M uy usado en 
+MIP, alcanzó un alto nivel de toxicidad  para las larvas de L. botrana en el laboratorio y fue muy 
+efectivo en viñedos causando a campo  mortalidad de huevos, no afectando al ácaro 
+depredador Amblyseius  (Neoseiulus) californicus  (McGregor) y a  Chrysoperla externa  
+(Hagen) (Neuroptera: Chrysopida e) (Benelli et al., 2023b).  
+El benzoato de emamectina es una  lactona  macrocíclica  que a través de  su ingestión  
+afecta  el sistema nervioso y muscular actuando sobre los  moduladores alost éricos (moléculas 
+receptoras) del canal de cloro dependiente de glutam ato (principal neurotransmisor  exitatorio  
+del cerebro)  (IRAC, 2023 ). Es efectivo a concentraciones muy bajas (Bosell i et al., 2008). Es 
+considerado  inofensivo para los enemigos naturales y se puede usar previo a la cosecha por 
+su breve periodo de carencia (Liguori et al., 2010) . 
+El Spinetoram actúa sobre el sistema nervioso como modulador alostérico del receptor 
+nicotínico de la acetilcolina excitando el sistema nervioso (IRAC, 2023). Para Varela y 
+colaboradores (2010), el Spinetoram es cuestionado porque p uede ser tóxico para 
+parasitoides himenópteros. Sin embargo, aplicado sobre vides para controlar la segunda 
+generación de larvas, tiene una eficacia similar a la de metoxifenocide y clorantraniliprol (Forte 
+et al., 2014).  
+Los productos a base de Bacillus t huringiensis  se utilizan comercialmente contra la L. 
+botrana  tanto en manejo integrado de plagas como en viticultura orgánica (Herrera et al ., 29 
+ 2016).  Actúan sobre el sistema digestivo de insectos como disruptores microbianos de la 
+membrana digestiva (IRAC,  2023).  
+La exploración de nuevos productos naturales generados por los simbiontes de los 
+nematodos entomopatógenos, como bacterias pertenecientes a los géneros Xenorhabdus y 
+Photorhabdus , puede contribuir al desarrollo de nuevas herramientas para el contro l de L. 
+botrana.  Sin embargo, es necesaria una adecuada evaluación a campo de estos 
+microorganismos. (Benelli et al., 2023b).  
+Resistencia a Insecticidas  
+Hay muy pocos informes de resistencia a insecticidas para L. botrana , incluida la 
+resistencia a indoxa carb en Italia y Turquía, y resistencia a piretroides y spinosad en 
+poblaciones del insecto en Grecia, y recientemente de Turquía (Benelli et al., 2023b).  
+Una de las principales dificultades para realizar bioensayos para evaluar respuestas a 
+plaguicidas en  L. botrana , es la crianza lenta y elaborada de cepas recolectadas en el campo. 
+Es esperable que en un futuro próximo se incremente el número de ensayos vinculados a esta 
+temática dada la escasez de moléculas disponibles para estrategias de control más 
+adecuadas (Benelli et al., 2023 b). 
+Efectos Secundarios y Subletales de los Insecticidas  
+Se han realizado investigaciones para estudiar el efecto de los insecticidas en la 
+producción y liberación de feromonas y en la detección y orientación de las feromonas 
+sexuales por parte de los machos (Navarro -Roldan et al., 2019). Sin embargo, es muy escaso 
+aún hoy el conocimiento sobre el impacto de las dosis subletales de insecticidas en el 
+monitoreo y control de semioquímicos en condiciones de semi -campo y de campo (Be nelli et 
+al., 2023b).  
+Gavara y colaboradores (2022) clasifican los mecanismos implicados en la TCS contra 
+plagas en competitivos o no competitivos. En el caso de los mecanismos competitivos, los 
+machos son capaces de responder a las señales de las hembras porque no están alterados 
+fisiológicamente. En este caso, la disrupción es el resultado de la competencia entre hembras 
+y difusores. Los mecanismos no competitivos, resulta de un efecto sobre la composición de la 
+señal o de alteraciones fisiológicas en la hembra o el macho e influyen, en la desensibilización 
+y el camuflaje, cuando la hormona de una hembra se vuelve imperceptible debido a su 30 
+ combinación con la hormona liberada. Para medir la respuesta de los insectos ante la fuente 
+de olor, hoy se realizan e xperimentos electrofisiológicos como la técnica del 
+electroantenograma (EAG) (Chaparro & Molina, 2021).  
+No es claro aún, si la TCS es competitiva o no en L. botrana,  porque la exposición 
+prolongada a una gran concentración de feromonas reduce las respuesta s antenales y de 
+vuelo (Gavara et al., 2022).  
+Una reducción en la atracción generada por la hembra asociada a una disminución en 
+la concentración del atrayente, podría hacer que los señuelos de feromonas artificiales sean 
+más atractivos que las hembras, y  en consecuencia, aumentaría la eficiencia de las trampas 
+de monitoreo y de interrupción de apareamiento. Por lo tanto, las dosis de insecticidas 
+subletales pueden generar sinergia en la interrupción del apareamiento, pero al mismo tiempo 
+pueden sobrestima r los recuentos de población (Benelli et al., 2023b) De igual manera un 
+deterioro de detección y respuesta a feromonas en los machos podría potenciar la interrupción 
+de apareamiento no competitivo y aumentar su atracción a los difusores porque tienen más 
+tasa de emisión que las hembras (Benelli et al., 2023b)  
+Los efectos subletales de los insecticidas pueden afectar notoriamente el manejo 
+integrado de la plaga influyendo, directa o indirectamente, sobre la fenología de emergencia 
+de adultos, la protandria y  la resistencia de los parasitoides a través del sistema inmunitario de 
+las larvas y otras estrategias de defensa (Th iéry et al., 2018).  
+6.3. Manejo  de la confusión sexual  
+El desarrollo de la Técnica de Confusión Sexual (TCS),  data de la década de los 60, y 
+puede definirse como la perturbación de la atracción sexual de los machos hacia las hembras, 
+provocada por la impregnación del aire de forma homogénea con la feromona específica, 
+difundida a partir de numerosos puntos de emisión (Torres -Vila, 1995 a). La consecuencia es 
+una reducción de la tasa de acoplamientos en la población, una fuerte disminución de la 
+cantidad de individuos y por lo tanto una reducción de los daños ocasionados al cultivo y la 
+producción. (Torres -Vila, 1995 a). La técnica es preventiva y el producto que se utiliza es 
+inocuo  para  la fauna auxiliar y los seres humanos. (Torres -Vila, 1995 a; Benelli et al., 2023b).  
+La puesta a punto del método de confusión sexual para  L. botrana  se inició 
+prácticamente tras la síntesis de la feromona y su  producción en cantidad suficiente (Torres -
+Vila, 1995 a). Los conocimientos acumulados en los siguientes años, junto con una mejor 31 
+ comprensión del comportamiento reproductivo  del insecto, han posibilitado que la efectividad 
+actual sea satisfactoria y al men os análoga a la conseguida con  el uso de insecticidas de 
+síntesis química ( Torres -Vila, 1995 a).  
+Las feromonas sexuales pueden ser producidas por los dos sexos, pero en  L. 
+botrana  sólo se han descrito en la hembra, aunque existen evidencias que señalan su  
+existencia en el macho (Torres -Vila, 1995 a; Tasin, 2005). Estos metabolitos posibilitan la 
+orientación a larga distancia del macho  ayudando a  la localización de la hembra, el cortejo y 
+el acoplamiento (Torres -Vila, 1995 a;  Benelli et al., 2023b). La mol écula química que tiene la 
+acción atrayente hacia los machos fue descripta en 1973 (Torres -Vila 1995 a). El principal 
+compuesto de la feromona de L. botrana  y que se utiliza comercialmente es el acetato de 
+(E,Z) -7,9-dodecadienilo (Becerra, 201 6; Speed Agro , 2020) . 
+Las primeras pruebas de TCS contra L. botrana  se llevaron a cabo en Francia, y en 
+Italia. Hoy en día se aplica en aproximadamente 300.000 ha de viñedos europeos, es decir, 
+alrededor del 6 -7% del área total de cultivo de vid (Benelli et al. 2023b).  Esta técnica es uno de 
+los métodos de biocontrol más efectivos utilizados contra L. botrana , en grandes áreas y a 
+largo plazo, por su alta selectividad y un impacto ambiental negativo muy bajo ( Speed Agro , 
+2020; Benelli et al., 2023b).   No genera resisten cia, n i perturba a otras especies.  
+El tratamiento por TCS ha consistido típicamente en difusores pasivos aplicados 
+manualmente (pequeños recipientes de plásticos llenos o impregnados con feromona) 
+desplegados en el campo a altas densidades. Sin embargo, ex isten otros tipos de difusores, 
+los de aerosol automáticos programables, que han demostrado una eficiencia similar a 
+densidades muy bajas, 2 a 5 unidades por ha (Gavara et al.,  2022).  
+ 
+ 
+ 
+ 32 
+  
+ 
+Figura 4: Difusor pasivo de feromona. Fuen te: SENASA.  
+ 
+La dispersión de la feromona en el ambiente se consigue a través del empleo de 
+emisores o difusores. Estos son diseñados de manera diferente según la marca comercial, 
+pero básicamente son dispositivos que llevan en su interior la feromona en f orma líquida, para 
+ser emitida y volatilizada al medio ambiente del cultivo en forma progresiva. La duración de 
+esta emisión puede ser de hasta 6 meses. Dependiendo de la formulación, se colocan  de 200 
+a 500 difusores por ha, antes del inicio del primer v uelo estacional, porque el despliegue tardío 
+provocará problemas de control (Benelli et al., 2023b).  Para Argentina las dosis recomendadas 
+de feromonas varían de acuerdo a la marca comercial  si es en  forma de  difusores , aerosol, 
+sólida o líquida  (SENASA, 2023) . Experiencias en Mendoza aconsejan  en general  con alta 
+presión de plaga , el empleo de 350  difusores por ha  para la marca Rack 2 Plus  (Becerra 
+2016 ), y otras experiencias entre  350 a 500 difusores por ha,  en caso de usar puffer  3 por ha y 
+de feromona floable 70 cc por ha (Speed Agro; 2020 ;  Azin & Bartolucci, s.f,)   
+Cuando hay poblaciones del insecto muy elevadas, la eficiencia de la TCS resulta baja 
+dado que se producen encuentros aleatorios por choques directos de polillas dentro de la 
+nube de feromo nas, por lo que igualmente se produce la cópula , y por lo tanto se gene ra 
+descendencia y posteriormente los daños a l cultivo . En estos casos la TCS debe ser 
+acompañada con el empleo de insecticidas de síntesis química , por lo menos en el primer 
+vuelo ( Spee d Agro, 2020; Azin & Bartolucci , s.f.). Para evaluar la efectividad del sistema de 
+confusión sexual, se debe instalar trampa s de feromonas para el monitoreo de la plaga, con 
+33 
+ observaciones semanales para seguir el movimiento de los adultos dentro y fuera de  la nube 
+de feromonas  (Becerra, 2016 : Phytoma -España , 2023 ) 
+ Una vez que la metodología se encuentra en funcionamiento, la  ausencia de  captura s 
+de machos en las trampas permite verificar su correcto funcionamiento (Speed Agro , 2020).  
+Los dosificadores debe n distribuirse uniformemente en el viñedo y deben fijarse a los 
+sarmientos cubiertos de follaje para protegerlos de la exposición directa al sol y de las altas 
+temperaturas. Se debe colgar el doble de difusores a lo largo de los bordes del viñedo para 
+comp ensar la pérdida de concentración de feromonas en esas áreas ( Asin & Bartolucci (s.f.); 
+ISCAMEN 2018; Speed Agro, 2020;  Benelli et al., 2023). No obstante,  sigue siendo crítico 
+desarrollar y comercializar formulaciones más efectivas, más económicas y más f áciles de 
+implementar (Benelli et al ., 2023b). Nuevas formulaciones en aerosol pueden liberar 
+feromonas a intervalos de tiempo programados. Estos dispositivos activos requieren un 
+número mucho menor de unidades por hectárea (3 a 5 ) porque  liberan microgota s de líquido 
+que flotan en el aire y se evaporan. Estos  difusores se pueden ajustar fácilmente para liberar 
+feromonas  durante las horas en que los machos vuelan en busca de su pareja, entre las 21:00 
+y 23:00 lo que brinda una alternativa rentable y baja lo s costos de aplicación (Benelli et al., 
+2023b).  
+La extensión de áreas bajo TCS en todo el mundo es una opción actual muy eficiente 
+para el manejo de L. botrana . Los resultados prometedores obtenidos en California (NAPPO, 
+2016), sugieren que un proyecto a gran escala p odría ser altamente efectivo (ISCAMEN, 
+2023).  
+6.4. Manejo  Biológico  
+Se incluyen aquí los métodos de control que se basan en el uso racional y dirigido de 
+los enemigos naturales, empleados hasta la fecha en  L. botrana . (Torres -Vila, 1995 a). 
+Controladores biológicos  
+La fisiología de L. bot arana, le permite desarrollar una cierta inmunidad a parasitoides 
+por alimentarse de muchas plantas hospedantes además de vides (Tasin, 2005), lo que 
+aumenta su respuesta inmune. Esto podría explicar el manteni miento de la polifagia (Benelli et 
+al., 2023b).  34 
+ Como tendencia general, la tasa de parasit oidización  de huevos y larvas es mayor en 
+las dos primeras generaciones de L. botrana  y disminuye en la generación de hibernación, que 
+se ve afectada principalmente p or parasitoides de larvas y pupas (Benelli et al. , 2023b).  
+La mayoría de las especies asociadas con L. botrana  (>95%) son himenópteros 
+parásitos pertenecientes a las familias Braconidae, Chalcididae, Elasmidae, Eulophidae, 
+Ichneumonidae, Pteromalidae y Tr ichogrammatidae , o pertenecen a  dipteros  Tachinidae  
+(Torres -Vila, 1995 a; Benelli et al., 2023). Los himenópteros aptos para ser criados en masa 
+para liberación posterior en el viñedo son Trichogramma spp y Campoplex capitator Aubert 
+(Salgado Navarro, 2021) . 
+Benelli y colaboradores en  2023 evaluaron tres especies de Trichogramma  (T. 
+cacaeciae  Marchal, T. embriophagum  (Hartig) y T. dendrolimi  Matsumura) en laboratorio y en 
+campo para el manejo de L. botrana y E. ambiguella,  con diferentes tasas de parasit oidización  
+de huevos que oscilaron entre el 22,5 % y el 83,3  % respectivamente . Estos resultados 
+contrastantes han llevado a un  fracaso en el uso de estos enemigos naturales para el control 
+de L. botrana y la investigación aún  está en curso.  
+Campoplex capitat or mostró tasas de parasit oidización  de L. botrana  interesantes. 
+Tiene un rango de hospedantes limitado a unos pocos tortr ícidos que se alimentan de vides. 
+Su crianza es difícil porque , como en otros icneumónidos, los fallos de apareamiento 
+desplazan rápid amente la proporción de sexos hacia los machos. Sin embargo, un proyecto 
+conjunto entre la Universidad de Pisa (Italia) y SAG (Chile) condujo a la cría masiva de C. 
+capitator , seguida de su liberación para fines de manejo de L. botrana  en Chile (Salgado 
+Navarro, 2021). Los resultados aún deben evaluarse por completo, ya que la aparición de 
+covid -19 truncó  el trabajo. Sin embargo, esta especie todavía se considera uno de los 
+parasitoides más prometedores para el manejo de L. botrana . (Benelli et al.,  2023b)  
+También surgieron otros tres candidatos, a saber, Dibrachys microgastri  (Bouché) (= 
+Dibrachys cavus  (Walker)) (Hymenoptera: Pteromalidae) (Coscollá 1980; Benelli et al.,  2023 ), 
+D. affinis  Masi, 1907 (Coscollá 1980; Torres -Vila, 1995 a; Benelli et al., 2023)  y Phytomyptera 
+nigrina  (Meigen) (Diptera: Tachinidae) (Benelli et al., 2023). Coscollà en 1980 identificó a D. 
+microgastri  como un parasitoide adecuado de  L. botrana  en la zona vitivinícola valenciana y la 
+mosca taquínida P. nigrina  representa un importan te endoparasitoide polífago para el control 
+natural de L. botrana  en Toscana (Italia) (Benelli et al., 2023b),  
+El uso exitoso de enemigos naturales como técnica de control de plagas requiere 
+esfuerzos importantes . En este sentido  la viticultura también ti ene que evolucionar hacia 35 
+ prácticas más respetuosas con el medio ambiente, favoreciendo a las poblaciones de 
+enemigos naturales de L. botrana . Esta estrategia se presenta como una vía prometedora  
+para el futuro control biológico (Benelli e t al., 2023b).  
+Bioplagui cidas  
+Se incluyen aquí los virus, bacterias, hongos y protozoos que causan enfermedades 
+a L. botrana . (Torres -Vila, 1995 a). 
+ 
+Bacterias   
+El empleo de  Bacillus thuringiensis  es un método de control satisfactorio que se 
+dispone y resulta tan efectivo como los insecticidas convencionales. Su uso se ha 
+generalizado a escala industrial en los últimos años en el control de los lepidópteros en 
+general y de  L. botrana  en particular. La infección bacteriana ocurre también naturalmente en 
+muchos casos (Torres -Vila, 1995 a).  El insecto ha sido exitosamente controlado usando 
+ciertas cepas de B. thuringiensis . La mayoría de estas cepas tienen  una mezcla de hasta 
+ocho proteínas Cry diferentes, que aporta una gran diversidad de toxinas con actividad 
+insecticida  (Ruíz de Escudero et al., 2006 ). Ninguna cepa comercial utilizada para el control de 
+L. botrana  contiene todas las proteínas más activas, como Cry1Ab, Cry2Ab y Cry9C. Esta 
+combinación en una cepa en particular es probable que resulte altamente eficaz como 
+bioinsecticida para su uso en el control de la polilla europea del racimo de la vid. (Ruíz de 
+Escudero  et al., 2006).  
+Hongos   
+El uso de hongos entomopatógenos como estrategia de control de lepidópteros podría ser una 
+herramienta alternativa para  utilizar en u n planteo de manejo integrado de plagas. El uso de 
+este tipo de herramienta tiene varias ventajas, entre otras, evita la selección de individuos 
+resistentes (López Plantey et al., 2019).  
+Cytromices  glaber  Whem,  Verticillium, heterocladum  Penz.,  Beauveria b assiana  (Bals.) 
+Vuil.,  Beauveria densa  (Link) Fries y  Spicaria  (= Isaria ) farinosa  var. verticilloides  (Vuil.) Fron., 
+son hongos que causan mortalidad a las pupas invernantes  de L. botrana  (Torres -Vila, 
+1995 a).  
+López Plantey y colaboradores en 2019 demos traron aislando varias cepas de 
+Beauveria bassiana y Metarhizium  robertsii  de la zona vitivinícola Argentina que eran capaces 36 
+ de infectar larvas de L. botrana . A su vez confirmaron que  ambas especies se adaptaron a las 
+condiciones específicas del viñedo es tudiado. Asimismo , Altimira y colaboradores en  2019 y 
+2022 propusieron el uso de cepas de B. pseudobassiana  durante el receso vegetativo  para 
+controlar las pupas invernates de modo de reducir el número de adultos en el siguiente vuelo. 
+Aguilera -Sammarita no y colaborad ores en 2018 evaluaron el uso de M. anisopliae  para el 
+manejo de diferentes etapas de desarrollo de L. botrana , mostrando un 85 % de mortalidad de 
+pupas y adultos y un 75 % de mortalidad de larvas en el laboratorio, y hasta el 91 % a campo. 
+El hongo microsporidio Pleistophora lingerie  Paillo también ha sido mencionado infectando a la 
+polilla europea de los racimos (Torres -Vila, 1995 a). 
+Nematodos  
+Steinernema feltiae (Filipjev), S. carpocapsae  Weiser, S. riojaense n. sp . y 
+Heterorhabditis bacte riophora  (Poinar), son nemátodes que en estudios de laboratorio fueron 
+capaces de matar larvas y pupas de L. botrana , siendo S. carpocapsae  la más eficiente 
+(Benelli  et al,  2023b).  
+Protozoos   
+Torres -Vila (1995 a) cita también al microsporidio Pleitophora le geri Pailot, un protozoo 
+que afecta específicamente a L. botrana  . Este microsporidio recibe su nombre  por las 
+pequeñas esporas que produce (Becerra et al., 2015).  
+Virus  
+Enemigos naturales como los virus se han estudiado muy pocos. Existe una referencia 
+de Baculovirus orana  de 1986 con resultados de mortalidad sobre L. botrana  entre 60 y 100% 
+(Torres -Vila, 1995 a; Becerra et al., 2015).  
+6.5. Manejo Mediante Macho Estéril  
+Existe un interés creciente en el desarrollo de la técnica del insecto estéril (TIE) co mo 
+parte de la estrategia de manejo de L. botrana  debido a su estatus de plaga en todo el mundo 
+y la necesidad de erradicarla especialmente cerca de las áreas urbanas (FAO -IAEA, 2022 ).  
+Durante los últimos diez años, han sido numerosos los intentos por pon er a punto la TIE . Se 
+ha trabajado sobre el desarrollo de métodos de crianza en masa y posterior liberación  en el 
+campo de los insectos tratados (FDF, 2015, 2016). Los estudios se han realizado a nivel de 
+proyecto piloto y se complementa ron con evaluacion es de  competitividad, dispersión, 37 
+ longevidad y supresión de la población a pequeña escala durante toda una temporada 
+(Simmons et al., 2021 a ; Taret et al. , 2021).  
+L. botrana  tiene un sistema de apareamiento monándrico en el que aproximadamente 
+el 80% de la s hembras se aparean una vez y solo el 20% se aparean más de una vez (Torres -
+Vila et al. 2002). En Chile, el Servicio Agrícola y Ganadero (SAG), inició un proyecto piloto 
+para desarrollar la TIE para L. botrana . Lograron producir 100.000 o más polillas por  semana 
+criadas con una dieta artificial (SAG, 2019).  
+A pesar de lograr buenos ejemplares irradiados, en Chile, la TIE no arrojó resultados 
+satisfactorios debido a la alta población de polillas silvestres . La liberación de polillas estériles 
+no alcanzó la proporción adecuada  para lograr un control efectivo. Sin embargo, se observó 
+una alta calidad en los  insectos estériles.  Se detectó que éstos ejemplares fueron capaces de  
+volar hasta 800 m y vivi r hasta 10 días (Simmons  et al., 2021 a; Benelli et al., 2023 b). 
+En Argentina se inició un programa de liberación piloto y cría masiva  a menor escala 
+en cooperación con el programa chileno (Taret et al.,  2021).  
+6.6. Manejo Cultural  
+Para Torres -Vila (1995 a) las prácticas culturales en el viñedo pueden afectar 
+indire ctamente a las poblaciones de  L. botrana,  pero en ningún caso han supuesto un medio 
+de control efectivo . Sin embargo, se sostiene que amontonar tierra sobre los troncos de las 
+plantas y eliminar de la corteza con guantes, pueden matar a las pupas que hiber nan (Be nelli 
+et al., 2023b),  
+La  cosecha completa de  frutos en viñedos, en especial los abandonados  eliminando 
+restos de racimos en invierno, la captura masiva con trampas de luz que atrapan adultos en 
+recipientes con aceites o sustancias pegajosas. , tramp as alimenticias para atraer las 
+mariposas hacia recipientes con líquidos donde se ahogan   y pintado de las cepas con 
+lechadas de cal o con sulfato de cobre , son algunas prácticas que ayudan  para evitar el 
+resguardo y la propagación de L. botrana  (Becerra, 2016: ISCAMEN, 2023).   
+El manejo adecuado de flora silvestre, como intercalar cultivos o asociarlos con 
+coberturas, aumenta  la diversidad de plantas y artrópodos y esto puede mejorar la regulación 
+natural de la polilla. La cobertura del suelo nativo aument ó el parasit oidismo  en un 50%, en 
+comparación con los viñedos con suelo desnudo (Benelli et al., 2023b).  38 
+ 6.7. Consideraciones  
+Es claro que la clave para el manejo de la plaga está en la prevención  de la 
+introducción y/o dispersión de L. botrana , resultando  a futuro menos costosa que la batería de 
+medidas que deben sincronizarse en un plan de erradicación ( Speed Agro , 2020).  Por ello es 
+vital que  los artículos  que entran, se mueven y/o egresan de un área delimitada  debido al 
+riesgo del traslado de la plaga,  deben estar  sujetos a reglamentaciones o procedimientos 
+fitosanitarios  (SAG,  2008; SENASA, 2023) . Se consideran  artículos reglamentados  a la fruta 
+fresca, material de propagación vegetativo y subproductos de la vid, maquinaria agrícola 
+usada, elementos y t ransportes utilizado en la cosecha y acarreo en la producción vitivinícola , 
+los vehículos particulares, transporte de cargas y pasajeros  (SENASA, 2023) . 
+Como necesidades futuras de gestión e investigación, Reineke y  Thiéry  en 2016 , sostienen 
+que nuevos e studios deben  incluir datos sobre interacciones tritróficas (vid, plaga y enemigos 
+naturales) supuestamente modificadas en los viñedos a la hora de predecir los impactos del 
+cambio climático sobre los insectos que causan plagas en la vid.  Además, los model os de 
+población existentes deben vincularse adecuadamente a varios escenarios de cambio 
+climático  y extenderse a las interacciones tritróficas relacionadas con las plantas de vid.  
+Es un compromiso de los técnicos hacer evidentes los costos ocultos y extern alidades 
+de distintas estrat egias de control de plagas, como así también, diseñar alternativas de menor 
+impacto ambiental para que puedan ser implementadas por productores de diferentes estratos 
+económicos (Mendoza et al. , 2014).  
+7. PROGRAMAS DE MANEJO  DE Lobesia botrana  
+7.1. Caso Chile y E.E.U.U.  
+Luego de la detección en 2008 en la Región Metropolitana de Chile, se inició un 
+programa nacional de control para el manejo de L. botrana . Esto se logró mediante el 
+despliegue de un programa de monitoreo de plagas  en las áreas de producción de uva.  Las 
+medidas mayormente implementadas consistieron en la aplicación de TCS en toda el área, 
+tratamientos insecticidas y controles regulatorios para las áreas de producción de uva. Se 
+aplicaron tratamientos obligatorios e n áreas dentro de los 500 m de una captura positiva con 
+una cuarentena establecida dentro de los 3 km del hallazgo (SAG, 2015).  
+El período pico de detecciones proyectadas de L. botrana, elaborada por el sector 
+privado , fue para la temporada de 2016 -2017 ( ASOEX, 2015) y desde entonces ha habido una 39 
+ disminución significativa en las detecciones de polillas adultas en uvas del 60  % en el ciclo 
+2021/2022  (Coagra, 2022) . 
+En EEUU se estableció un plan de erradicación que incluyó un programa de vigilancia, 
+restri cciones al movimiento de material vegetal y equipo, múltiples medidas de control, 
+investigación y desarrollo de metodologías eficientes para el área afectada y un programa muy 
+importante de divulgación de información a los agricultores (Simmons et al ., 202 1b). El 
+programa de control logró que las poblaciones disminuyeran drásticamente con el tiempo. En 
+2016, tras dos años sin detección, la plaga fue declarada erradicada (NAPO 2016; Simmons et 
+al., 2021 b). 
+7.2. Caso Argentina  
+Se estableció aquí una alerta fi tosanitaria  para prevenir el ingreso de la plaga 
+(SENASA 2009; Carmona Torres, 2009). Con su detección en 2010, Argentina estableció un 
+programa nacional de control oficial para la prevención y erradicación de L. botrana  y una red 
+de trampeo de vigilancia (SENASA 2010a; 2010b). En Mendoza se ubicaron  zonas de 
+tratamiento del programa en función del grado de infestación y se establecieron protocolos 
+para el transporte de uva dentro de cada zona. El programa proporcionó fondos para pagar 
+pesticidas y entrega de emisores de feromonas para pequeños y medianos productores de 
+uva. Las feromonas se aplicaron utilizando difusores atados a mano, pulverizaciones con 
+máquinas y pulverizaciones aéreas. Las medidas de cuarentena incluyeron la restricción del 
+movimiento d e uvas y otros materiales que podría hospedar a la plaga, cubrir con lonas o telas 
+los envíos de uvas a granel para evitar que las larvas dejen los envíos infestados, la 
+destrucción de los desechos de la elaboración del vino y la eliminación de la fruta re stante 
+después de la cosecha (ISCAMEN, 2023).  
+A partir de 2010 se detectó L. botrana  en las provincias de San Juan, Entre Ríos , Salta  
+y Neuquén  y se iniciaron programas de control en dichas provincias . Las medidas de control 
+adicionales incluyeron un proye cto piloto para desarrollar y evaluar el uso de la TIE y las 
+liberaciones del agente de control biológico clásico C. capitator . Desde el inicio del programa, 
+para 2021 las provincias de Entre Ríos y Salta han logrado el estado de área libre de la plaga 
+después de dos años sin detecciones (Gobierno de Salta 2021; SENASA 2021).  Desde que en 
+el año 2022 se detectara L .botrana  en San Patricio del Chañar,  Neuquén  (Diario de Río 
+Negro, 2022 ; Infocampo, 2022) ), a junio del 2024 el SENASA no detectó al insecto  en dicha 
+localidad,  logrando también el estado de área libre de la plaga (Realidad Económica, 2024).  40 
+ Así mismo, las  regiones vitivinícolas del norte, este y centro de Mendoza han logrado 
+reducciones en las capturas de polillas de alrededor del 50 % además , en las regiones 
+vitivinícolas del sur de la provincia se han registrado poblaciones  muy bajas (ISCAMEN, 
+2023). L. botrana  todavía está presente en las áreas de cultivo de uva d e la provincia de San 
+Juan ( SENASA, 2021; Pérez, 2023).  
+Cronología del proceso de d etección, monitoreo, y manejo de L. botrana en Mendoza, 
+Argentina.  
+Año 2009.  
+Teniendo la conformación de presencia de L. botrana  en Chile, Argentina, como parte 
+de medidas de prevención, implementó una red oficial de monitoreo con trampas específicas 
+de at racción sexual, distribuidas a lo largo de las principales zonas productoras de vid del país 
+(SENASA 2009).  
+Temporada 2010 -2011.   
+El 3 de marzo de 2010 el SENASA reconoce que Mendoza tiene L. botrana,  
+declarando la emergencia fitosanitaria en todo el terr itorio nacional con respecto a esta plaga. 
+El 7 de octubre del año 2010 se crea el Programa Nacional de Prevención y Erradicación de L. 
+botrana (PNPyELb) (SENASA, 2010b). Se declaró la emergencia agropecuaria en la provincia 
+con una red de 2.434 trampas, q ue fueron monitoreadas en conjunto  por el ISCAMEN , y en 
+forma parcial junto al SENASA. Se denominó captura simple cuando al realizar una lectura en 
+trampas se encuentra un ejemplar de L. botrana y captura o detección múltiple cuando hay 
+más de un ejemplar (ISCAMEN, 2023).  
+Como parte del Programa Nacional de Prevención y Erradicación de L. botrana  
+(SENASA, 2010), se implementó un sistema de vigilancia de la plaga, mediante el análisis de 
+los datos obtenidos de las lecturas de las trampas con feromonas.  Esta medida, proporcionó la 
+información necesaria para generar, delimitar e informar las áreas bajo cuarentena y aquellas 
+bajo plan de contingencia.  
+Se define a Área Reglamentada por presencia de la plaga, como aquella en la cual los 
+artículos reglamentados que  entran, se mueven y/o egresan de la misma están sujetos a 
+reglamentaciones (fruta fresca, material de propagación vegetativo y subproductos de la vid, 
+maquinaria agrícola usada, elementos y transportes utilizado en la cosecha y acarreo en la 41 
+ producción vi tivinícola y los vehículos particulares, transporte de cargas y pasajeros 
+(ISCAMEN, 2011).  
+Se denominó “Areas Bajo Cuarentena” aquellas comprendidas dentro de un radio de 
+un 1  kilómetro a partir de una detección  múltiple, incluyendo los establecimientos 
+alcanzados  parcialmente  por la misma, debiendo los propietarios de los predios dar 
+cumplimiento a las  medidas  fitosanitarias obligatorias (ISCAMEN 2023).  
+La Dirección Nacional de Protección Vegetal fue facultada además para disponer las 
+medidas mínimas a apl icar por parte de los productores para el control químico de la plaga, y 
+los momentos y frecuencia de aplicación de la información que surja de las estaciones de 
+monitoreo, especificando que cada productor o  responsable técnico del establecimiento, 
+deberá desarrollar una estrategia de control químico utilizando productos agroquímicos 
+registrados en el SENASA para tal fin (SENASA, 2010b).  
+En el programa intervienen organismos públicos y privados. Para la provincia de 
+Mendoza, el organismo encargado es el Ins tituto de Sanidad y Calidad Agropecuaria 
+(ISCAMEN , 2011 ). 
+Temporada 2011 -2012.  
+Se realizó la lectura y mantenimiento semanal de 5.700 trampas ubicados en el Oasis 
+Norte, Este, Centro y Sur . El trampeo demostró la continuidad de la presencia de la plaga, y el 
+Gobierno de Mendoza amplió el área de aplicación, considerando a la provincia como Área 
+Reglamentada (ISCAMEN, 2013).  
+Sólo se permitió el traslado de uva de una zona a otra una vez realizado el proceso de 
+obtención de mosto libre de restos sólidos, perm itiendo la presencia de orujos solamente en 
+las uvas tintas. Se estableció que la carga de uva debe estar protegida con malla. El principal 
+objetivo de dichas medidas es disminuir la cantidad de nuevos puntos de detección de la 
+plaga, acompañando a la luch a que se efectúa mediante aplicaciones en las áreas donde se 
+detecta la presencia del insecto (ISCAMEN, 2013). Se mantiene la obligatoriedad de realizar 
+los controles fitosanitarios por parte de los productores (SENASA, 2010). El tratamiento de 
+fumigación con Bromuro de Metilo fue requisito para que la uva de mesa pueda salir de 
+Mendoza a otras provincias (ISCAMEN, 2013).  
+Durante esta campaña el PNPyELb asistió a 2800 pequeños productores con la 
+entrega de 19.800 litros de productos fitosanitarios para el c ontrol de la plaga en 18.000 h a, y 42 
+ se aplicó la TCS en 1.600 h a, de las cuales 600 fueron coordinadas por SENASA (Canal 
+Agrositio, 2012).  
+Temporada 2012 -2013 . 
+El SENASA e ISCAMEN,  presentaron  los lineamientos de la Campaña 2012 -2013 del 
+Programa de Preven ción y Erradicación de L. botrana  y manteniendo estricto control sobre los 
+focos en cuarentena , idénticas  medidas culturales, el tratamiento con bromuro de metilo para 
+uvas que salgan de la provincia y las mismas condiciones de obligatoriedad respecto al c ontrol 
+de la plaga (SENASA, 2012) . 
+Temporada 2013 -2014.  
+Con una red de trampeo de 6.250 unidades se prosiguió con la aplicación de la TCS en 
+los cuatro oasis que conforman la zona de producción de vid en Mendoza. En este ámbito, y 
+en cuanto a la estrategi a de control, el ISCAMEN asumió una postura técnica  diferente a la 
+propuesta por el SENASA, proponiendo que la lucha contra la plaga  sea únicamente la  
+utilización de la TCS, basado en que la vitivinicultura en Mendoza  se ha desarrollado 
+prácticamente sin l a aplicación de agroquímicos  (ISCAMEN, 2014) . 
+En ese sentido adquirió feromonas para ser entregados a los productores (ISCAMEN, 
+2014), insumos provistos por dos multinacionales: la alemana BASF y la japonesa Shin -Etsu 
+(Flores, 2022). Se brindaron más capac itaciones a productores, se continuó con el control del 
+movimiento de la uva entre zonas, y las aplicaciones de bromuro de metilo para tratamiento 
+cuarentenario de la fruta (ISCAMEN, 2014).  
+Temporada 2014 -2015.  
+En este ciclo la red de monitoreo estuvo inte grada por 6.800 puntos de trampeo, con 1 
+trampa/20 ha de cultivo. El ISCAMEN priorizó el empleo de los emisores para implementación 
+de la TCS, entregando a propietarios la cantidad suficiente para lograr una  densidad de 350 
+difusores/ha ( Azin, 2020).  
+En no viembre de 2015 se sancionó la Ley Nacional 27.277, cuyo objetivo fue lograr la 
+financiación del programa contra L. botrana . En la misma se estableció que el Gobierno 
+Nacional entregar a a los  productores vitivinícolas los emisores de feromona para la 
+imple mentación de la TCS o bien los insumos necesarios para el empleo de alguna técnica de 
+lucha contra la plaga, quedando a cargo de los beneficiarios los gastos operativos para la 
+colocación y mantenimiento de los emisores (SENASA, 2015).  43 
+ Temporada 2015 -2016 . 
+La red de monitoreo fue de 4.500 puntos de trampeo en los cuatro oasis de la 
+provincia, e ISCAMEN definió como prioritario el vínculo con los productores y organizaciones 
+vitivinícolas para avanzar hacia la toma de conciencia y el control sobre el daño qu e produce 
+esta plaga ( Speed Agro , 2020).  
+La dinámica de dispersión de la plaga desde 2010 al 2016 fue veloz ya que no había 
+ninguna normativa que estableciera un programa estricto sino que solamente se obligó al 
+productor a que hiciera los controles fitosa nitarios necesarios por estar ubicada su propiedad 
+en área bajo cuarentena ( Speed Agro , 2020) . En el año 2016 se perdió aproximadamente el 
+30% de la producción por razones sanitarias y el mal manejo de la plaga en años anteriores, 
+esto equivale a un total de 1.500 millones de dólares (Gobierno de Mendoza, 2018 c). 
+ 
+ 
+ 
+Figura 5: Distribución de L. botrana  entre 2010 y 2016 basada en capturas simples y múltiples 
+de polillas en los oasis norte y este de Mendoza, Argentina. Fuente ISCAME N. 
+Temporada 2016 -2017.   
+44 
+ Bajo una red de monitoreo de 3.865 puntos, para el ciclo 2016/2017 se trabajó sobre 
+130.925 h a de cultivo de vid, 11.304 propiedades correspondientes a 8.320 productores, 
+entregando insumos (feromonas y fitosanitarios) para cubrir 85.100 h a, 6.977 propiedades y 
+5.037 productores. Las aplicaciones aéreas formaron parte de las medidas de lucha 
+adoptadas durante esa temporada. Para llevar adelante esta técnica se emplearon productos 
+de bajo impacto ambiental como Clorantraniliprole y Bacillus thuringiensis (ISCAMEN, 2017).  
+Temporada 2017 -2018 .  
+Se prosiguió la lucha contra L. botrana  con la misma estrat egia que la temporada 
+anterior. Para la campaña 2017/2018 hubo un descenso del 65 % en los niveles de detección 
+de la plaga comparado c on la anterior campaña. Desempeñaron un rol fundamental las 
+barreras sanitarias internas en el control de las condiciones de transporte de aquellos 
+elementos que favorecen la  migración de la plaga. (ISCAMEN, 2018).  
+Temporada 2018 -2019.  
+En la campaña 2018/ 2019 la Provincia de Mendoza contaba ya con la Ley 9076/ 18, 
+que aseguraba la financiación del Programa de lucha contra la polilla europea de la vid con 
+fondos asignados por los estados nacional, provincial y el sector productivo, a través de 
+una contribuci ón obligatoria especial de los productores vitícolas de más de 10 hectáreas  
+(Gobierno de Mendoza, 2018b) . La adquisición de los difusores de feromonas fue por licitación 
+(Gobierno de Mendoza, 2018 a). Se bonificaron hasta 10 hectáreas a todos los productore s 
+vitícolas de Mendoza, lo que significó, que un 70 % de los viticultores estuvieron exentos del 
+pago para financiar los insumos y servicios del programa (Gobierno de Mendoza, 2018 a). 
+En 2018 técnicos del Departamento de Agricultura de EE. UU.  visitaron Men doza, y se 
+firmó un convenio con el objeto de intercambiar saberes y experiencias sobre el control de la 
+plaga  L botrana (Gobierno de Mendoza, 2018 b; Speed Agro , 2020). Para el mes de noviembre  
+de 2018 Mendoza había logrado reducir a un 95% la plaga en fun ción de las capturas en 
+trampas del primer vuelo (Gobierno de Mendoza, 2019, Hernández, 2019). Tras el exitoso 
+control, técnicos argentinos del ISCAMEN expusieron en California en 2019 (Hernández, 
+2019; Mendoza Post, 2019;).  
+No hay un antecedente de una ca mpaña que abarque más de 165 mil hectáreas de 
+cultivo y con casi 70 mil hectáreas alcanzadas, es una de las mayores superficies bajo la 
+técnica de confusión sexual en el mundo, con una asistencia a 4.500 productores, en el marco 
+de un programa de manejo in tegrado, minimizando de esta manera un impacto ambiental 45 
+ negativo (Gobierno de Mendoza, 2018 c). La tarea se consolidó con los comunicados de avisos 
+de alertas de aplicación en momentos oportunos y con  pulverizaciones aéreas en zonas 
+puntuales (Hernández, 2 019).  Se destaca que Estados Unidos pudo  declarar la erradicación 
+de la plaga  en 2016  actuando sobre 16.000 ha , mientras que en Mendoza se trató un área 
+casi diez veces mayor . Esta diferencia subraya la magnitud de la tarea realizada en la región  
+(Speed Ag ro, 2020) . 
+Temporada 2019 -2020 y 2020 -2021.  
+Habiéndose alcanzado luego de las temporadas 2017/2018 y 2018/2019 una reducción 
+en los niveles de detecciones de hasta el 95%, las temporadas 2019/2020 y 2020/2021 se 
+caracterizaron por ser de menor envergadura respecto a las anteriores (ISCAMEN, 2021). Si 
+bien se siguió con el manejo integrado de plagas, no se contó con los suficientes recursos 
+financieros para seguir optimizando la lucha contra L. botrana  (Speed Agro , 2020). No 
+obstante, el ISCAMEN realizó la p rimera liberación a campo de insectos estériles de L. 
+botrana siguiendo la implementación del TIE (Gobierno de Mendoza, 2020) . 
+Temporada 2021 -2022.  
+Buscando mayor eficiencia en el manejo integrado de la plaga, ISCAMEN en 2021, 
+compró 100 “trampas inteligen tes” que facilitan la captura de datos y agilizan la toma de 
+decisiones. Este tipo de trampas se instalan en el campo y recolectan, en forma diaria, datos 
+de temperatura y humedad, cada una hora, y toman una fotografía del estado del piso 
+adhesivo que pose e la trampa. Con estos datos, a través de un software asistido  por 
+inteligencia artificial, se detecta el número de insectos capturados de la plaga a controlar 
+(Diario Los Andes 2021). En 10 campañas, Mendoza tuvo una red de trampeo permanente 
+con 4.000 tr ampas tipo delta, distribuidas sobre la base de un sistema de grillado provisto por 
+SENASA. Esto permitió estimar los niveles de presión de plaga para cada zona (ISCAMEN, 
+2021).  
+Temporada 2022 -2023.  
+Próximo al inicio de la temporada 2022/2023 hubo una demo ra en la llegada de fondos 
+nacionales para afrontar la campaña y problemas para adquirir la feromona por inconvenientes 
+en la importación. Fue una temporada que costó 10,4 millones de dólares, contra el mayor 
+presupuesto de 17 millones del ciclo 2017/2018 (Flores, 2023). El operativo de control 
+2022/2023 tras cuatro etapas de intervención, marcadas por la estrategia del MIP, arrojó 
+resultados positivos en cuanto a capturas de L. botrana . La red de detección permitió 46 
+ constatar que las capturas se redujeron a proximadamente un 40% respecto del primer vuelo 
+de la plaga en comparación con la campaña anterior  y del 65 % comparando el segundo 
+vuelo (Gobierno de Mendoza, 2023). El programa esa temporada estuvo basado  en cuatro 
+pilares: asistencia con difusores de feromonas, en 24.499 h a, correspondientes a  1.417 
+propiedades; entrega en mano de insecticidas para el control de la primera generación de L. 
+botrana , en 25.000 h a, llegando a 1.500 propiedades, manejadas tanto en forma orgánica 
+como convencionales; servic io de tratamientos aéreos con productos específicos y de bajo 
+impacto ambiental en 124.550 h a. Las etapas de control se definieron considerando las zonas 
+más críticas para cada oasis productivo. El objetivo fue alcanzar el mayor impacto posible 
+sobre las p oblaciones de L. botrana  mediante el empleo de la T CS en áreas amplias y 
+continuas de control (ISCAMEN, 2023) . 
+Asimismo, herramientas como el Servicio de Tratamientos Aéreos se priorizaron sobre 
+cultivos  en estado de abandono o con importante descuido fito sanitario, de los oasis Norte y 
+Este, comunicando las acciones con antelación al sector productivo y municipios.  
+ 
+Figura 6. Evolución de capturas de L. botrana  desde 2010 a 20 23.  Histograma con los cuatro 
+vuelos. Primer vuelo (ro jo), segundo vuelo (naranja), tercer vuelo (amarillo) y cuarto vuelo 
+(blanco). (ISCAMEN, 2023).  
+ 
+Para un plan de "sostenimiento o mantenimiento" de la plaga, se requería un mínimo 
+de feromonas e insecticidas equivalente a la cobertura de 40.000 ha para la campaña 
+47 
+ 2022/2023, siendo un óptimo la cobertura de aproximadamente 65.000 ha con TCS para 
+alcanzar los mejores resultados. En virtud de la disponibilidad de insumos del mercado local, 
+se adquirió una cantidad equivalente de 8.574.832 unidades de difusores  de feromonas, 
+considerando una densidad de uso de 350 unidades/ha. También se adquirieron plaguicidas  
+para cultivos tradicionales y orgánicos (ISCAMEN, 2023).  
+La estrategia desde lo técnico debió ser fuertemente acompañada con herramientas de 
+comunicación  y capacitación. La TCS resultó clave para la disminución de las poblaciones del 
+insecto. La definición de las áreas tratadas respondió además a los niveles de detecciones 
+acumuladas durante la campaña anterior. Una vez definidas las áreas (bloques de apli cación), 
+se conformó un cronograma de tratamientos ajustado  a la etapa fenológica de los cultivos en 
+cada área  (ISCAMEN, 2023) . 
+Preocupa el financiamiento para la próxima temporada, por cuanto la ley nacional que 
+financiaba el programa de combate y erradi cación de L. botrana venció  en 2022 y el SENASA 
+informó que  en 2023 está trabajando en una nueva ley nacional  que sustituya la sancionada 
+en noviembre de 2015 (Flores, 2023). Un aliciente es que el Gobierno de Mendoza en julio de 
+2023 oficializó un aporte  750 millones de pesos para la próxima campaña (Diario El Sol, 
+2023), y el pasado mes de agosto, el ISCAMEN y el INTI firmaron un convenio para 
+desarrollar a futuro la síntesis de feromonas, insumo clave para el control de la plaga L. 
+botrana  (MendoVoz, 20 23; Enolife , 2023).  
+8. AVANCES Y EXPERIENCIAS DE ESTUDIO DE  Lobesia  botrana  EN 
+MENDOZA, ARGENTINA  
+Herrera y colaboradores (2016) realizaron en Mendoza, Argentina, un método práctico 
+de cría en laboratorio, produciendo, a través de una dieta artificial, eje mplares de L. botrana , 
+para determinar la duración de cada etapa de desarrollo y el porcentaje de mortalidad de los 
+estados del insecto. El ciclo de la polilla europea, bajo las condiciones del insectario, tuvo una 
+duración de huevo hasta la muerte del adu lto de 31,27 + - 2,36 d. El periodo de incubación de 
+huevos fue 2,82 + - 0,14 d, el de  larva 13 ,63 + - 1,37 d, pupa 6,57 + - 0,22 d y los adultos 
+sobrevivieron 8,25 + - 0,64 d. El método ajustado, permitió que el insecto transcurriera todas 
+las etapas del desar rollo,  además , el costo de producción resultó bajo.  Simultáneamente al 
+ajuste del método de cría el grupo de trabajo estudió diversos parámetros biológicos de la 
+plaga a partir de tablas de vida desarrolladas en laboratorio, herramienta básica para elabora r 
+estrategias de control (Herrera et al.  2016). Becerra (2016) aconsejó utilizar un programa de 48 
+ MIP para reducir eficientemente la población del insecto. Mencionó,  además, que para cumplir 
+ese objetivo era clave una identificación adecuada de la plaga, eva luación de sus  daños, y el 
+conocimiento  de su bioecología.  
+Investigaciones de INTA Mendoza determinaron que los ensayos que combinaron la 
+utilización de feromonas de confusión sexual con insecticidas resultaron ser los que menores 
+porcentajes de daños pre sentaron  (Becerra, 2016). El uso de insecticidas biológicos es 
+efectivo pero su residualidad es baja y necesita de un ajuste minucioso de la acidez del caldo 
+de aplicación y la dosis de empleo (Becerra, 2016). Tiene como ventajas ser útiles  para el 
+control  de la última generación ya que hay seguridad  de no dejar residuos en vinos además 
+de ser apropiado para un manejo orgánico del viñedo ( Speed Agro , 2020). .  
+Herrera en (2019) evaluó, en laboratorio, la toxicidad (efectos letales y subletales) de 
+los insec ticidas metoxifenocide, clorantraniliprole, novaluron y Bacillus thuringiensis var. 
+kurstaki sobre los estados larvales y adulto de la polilla europea de la vid. Se estudiaron los 
+efectos toxicológicos de los insecticidas sobre diferentes estados de desarr ollo del insecto a 
+través de distintas vías de exposición. En ensayos de inmersión de huevos el metoxifenocide, 
+clorantraniliprole y novaluron no mostraron  efecto ovicida  ni embrionicidas. Sin embargo, B. 
+thuringiensis var. Kurstaki, tuvo un marcado efecto  ovicida/embrionicida. Metoxifenocide, 
+clorantraniliprole, novaluron y B. thuringiensis var. Kurstaki en ensayos tópicos sobre larvas 
+produjeron efecto anti alimentario , dando lugar a pupas de bajo peso. Las hembras 
+emergentes mostraron baja capacidad repr oductiva. Aplicado vía tópica sobre pupas, B. 
+thuringiensis var. Kurstaki permitió el desarrollo pupal hasta el estado de imago. Los productos 
+restantes detuvieron el desarrollo en la etapa pre imaginal . 
+En Mendoza la aplicación de  la TIE comenzó a estudia rse en lepidópteros en la 
+bioplanta perteneciente a ISCAMEN . Cabe mencionar que la bioplanta citada tiene una vasta 
+experiencia en la producción de machos estériles de Ceratitis capitata  (Gobierno de Mendoza , 
+2021 ). En 2019, en Mendoza, se realizó un encue ntro internacional con el objeto de 
+desarrollar  la TIE para polilla de la vid y otros lepidópteros (Gobierno de Mendoza, 2019).  
+Lobesia  botrana  tiene una tasa de esterilidad más baja que C. capitata  y  aplicaciones  altas de 
+radiación deforman a los machos  e impiden un vuelo normal que les permita  competir con los 
+adultos silvestres  (Speed Agro, 2020) . Por el contrario, el uso de una dosis baja no logra la 
+esterilidad total, en consecuencia , queda un porcentaje de machos fértiles ( Speed Agro , 
+2020) . Queda c laro entonces, que por el momento la TIE es útil sólo si se pretende disminuir 49 
+ la densidad de la población de L. botrana , pero nunca para eliminar la plaga ( Speed Agro , 
+2020).  
+Se ha visto en Mendoza que las aplicaciones t anto aéreas como terrestres son 
+eficaces en el primer y segundo vuelo de la p laga. El segundo vuelo es la última oportunidad  
+de control químico que tenemos en la temporada. Los insecticidas están actuando sobre 
+huevos y larvas y no la dinámica de adultos ( Speed Agro , 2020). Está demostrado que las 
+mejores acciones de control han sido sobre las primeras generaciones del insecto. A partir de 
+la tercera generación de la plaga (mes de enero para Men doza ) las aplicaciones de 
+plaguici das químicos pierden eficacia debido a que las larvas de L. botr ana se encuentran en 
+áreas del racimo donde no es posible alcanzarlas .. Además, la aplicación de insecticidas  en 
+este momento  podría dejar residuos tóxicos en niveles no permitidos por la legislación y 
+consecuentemente impedir la comercialización de los pr oductos o subproductos elaborados 
+con esa materia prima.  (ISCAMEN, 2023).  
+Algunas formulaciones especiales de feromonas pueden ser aplicadas en forma aérea. 
+Generalmente esta aplicación es eficaz cuando se realiza en el transcurso de la segunda 
+quincena de  noviembre y hasta los primeros días de diciembre inclusive, provocando el efecto 
+buscado de la confusión sexual de los machos de L. botrana   mientras transcurre el segundo 
+ciclo de adultos de la temporada. En el  caso que la persistencia del producto fuera  lo 
+suficientemente larga, podría actuar sobre el tercer ciclo de  la plaga (ISCAMEN, 2023). Esta 
+metodología  de aplicación tiene la venta ja de actuar sobre el insecto en viñedos no tratados 
+por los propietarios o en aquellos que se encuentren en estado de abandono ( Speed Agro , 
+2020; ISCAMEN, 2023). En la temporada 2022 -23 se  realizó en la provincia de Mendoza la 
+aplicación de feromonas utilizando la metodología mencionada. La experiencia incluyó el 
+tratamiento de una superficie de 15.900 ha con el producto fitosanitario SPLAT Lobesia  FL, a 
+razón de 1,1 Kg por ha, con una densidad de impactos cercana a los 3.000 puntos/ha de 
+modo  de asegurar  una correcta distribución y duración del producto en el campo (ISCAMEN, 
+2023). .  
+En el caso de aplicar las feromonas me diante el uso de difusores no se deben colocar 
+menos de 20 mg/ha/hora del producto, lo cual significa emplear al menos 350 difusores/ha 
+(Speed Agro , 2020). En este tipo de aplicación se debe tener en cuenta la pendiente del 
+terreno y la dirección predomina nte de los vientos, debiéndose reforzar las zonas altas y 
+aquellas por las cuales ingresa el viento. Es menester,  además, cuidar el efecto bordura, esto 50 
+ significa que es conveniente colocar en los bordes al menos, el 10% del total de los difusores 
+en los 2 0 primeros metros de todos los bordes del cultivo. Los difusores se instalan sobre los 
+elementos de poda (cargador y/o pitón), nunca en el alambre. Estos elementos deben quedar 
+a la sombra, protegidos del sol directo (ISCAMEN, 2018). El aumento en el númer o de 
+difusores por hectárea no implica un mejor control, solo genera aumento de costos  (Speed 
+Agro, 2020) . El éxito de la TCS se evalúa con el monitoreo de trampas y debe ser cotejado 
+con un relevamiento de daños dado que puede haber migración de hembras c opuladas 
+provenientes de fincas vecinas o encuentros casuales ( Speed Agro , 2020).  
+Tener en cuenta que el daño secundario que la plaga ocasiona está relacionado al desarrollo 
+de podredumbres en los racimos (Aguilera Sammaritano et al.,  2018; Herrera, 2019) . En 
+consecuencia,  disminuir la incidencia de dichas podredumbres tiene que ver con aplicar en el 
+manejo del viñedo medidas que favorezcan la aireación de la canopia y de los racimos 
+(ISCAMEN, 2023). También debe evitarse el uso excesivo de bioestimulantes  y fertilizantes 
+nitrogenados además de manejar  el riego de forma racional. En el momento de la cosecha  
+debe evitarse dejar racimos en el cultivo porque éstos favorecen el desarrollo del insecto 
+(ISCAMEN, 2023).  
+9. CONCLUSIÓN Y DISCUSIÓN  
+A pesar de la meto dología del plan y de los esfuerzos realizados por personal técnico 
+de las provincias vitivinícolas y de la nación, no se ha podido evitar que la plaga siga 
+avanzando en Mendoza, encontrándose en la Provincia de San Juan con daños considerables 
+y con el pe ligro latente que se extienda a otras provincias vitivinícolas del país.  
+En Mendoza, según especialistas  hay más de 52.000 ha que presentaron daños, con 
+pérdidas de producción que van del 5% al 70%, según comunicaciones periodísticas en medio 
+de difusión m asivos locales, con un promedio de 30% . Se estima que  la superficie afectada 
+con la polilla llega al triple desde su introducción .  
+Desde el punto de vista técnico el control integrado empleado ha funcionado sobre la 
+plaga. Sin embargo, los actuales result ados ponen en evidencia la necesidad de contar con el 
+financiamiento adecuado en tiempo para la compra de insumos y abarcar grandes áreas 
+continuas de trabajo.  De este modo se pueden conformar   bloques homogéneos en donde se 
+controlan las poblaciones de la plaga de manera completamente coordinada. Sin las acciones 51 
+ directas ejecutadas en el marco de planes de control coordinados por el programa oficial, la 
+plaga vuelve a incrementar sus poblaciones de forma acelerada.  
+La erradicación de L. botrana resulta  un objetivo alcanzable para la provincia de 
+Mendoza, aplicando  planes de control durante campañas sucesivas sobre grandes áreas de 
+cultivo, contemplándose como parte de dicho Plan el empleo de franjas de avance (haciendo 
+uso de la técnica de confusión sex ual y de aplicaciones sumamente oportunas de insecticidas 
+específicos) que permitan extinguir las poblaciones del insecto mientras que en el resto del 
+territorio se continúa suprimiendo la plaga (en donde la misma está presente) y protegiendo el 
+territorio  en donde la misma ya ha sido erradicada como gran parte del Oasis Sur de la 
+provincia.   52 
+ REFERENCIAS  
+Citas bibliográficas  
+Aguilera Sammaritano, J . A., Deymié Terzi, M.C ., Herrera, M. , Vazquez, F ., Cuthbertson, Andrew G. 
+S., Lopez Lastra, C. , Lechner, B. E (2018).  El hongo entomopatógeno Metarhizium anisopliae  
+para la polilla europea de la vid, Lobesia botrana  Den. y Schiff. (Lepidoptera: Tortricidae) y su 
+efecto en el hongo fitopatógeno Botrytis cin erea. Editorial: Springer Heidelberg. Revista: 
+Revista egipcia de control biológico de plagas  ISSN: 2536 -9342.  
+Altimira, F ., de la Barra, N., Rebufel, P., Soto, S., Soto, R., Estay, P., Tapia, E. (2019). Potential 
+biological control of the pupal stage of the European grapevine moth Lobesia botrana by the 
+entomopathogenic fungus Beauveria pseudobassiana in the winter season in  Chile. BMC 
+Research Notes, 12 (1), 1 –6. https://doi.org/10.1186/s13104 -019-4584 -6. 
+Altimira, F., de la Barra, N., Godoy, P., Roa, J., Godoy, S., Vitta, N., & Tapia, E. (2022). Lobesia 
+botrana : A biological con­trol approach with a biopesticide based on entomopathogenic fungi in 
+the winter season in Chile. Insects,  13(1), 8. https://doi.org/10.3390/insects13010008.  
+Baroja, U., Garin, I., Aihartza, J., Arrizabalaga -Escudero, A.,Vallejo, N.,  Aldasor o, M., & Goiti, U. 
+(2019). Pest consumption in a vineyard system by the lesser horseshoe bat ( Rhinolophus 
+hipposideros ). https:// doi.org/10.1371/journal.pone.0219265  
+Benelli, G., Lucchi, A., Amfora, G., Bagnoli, B., Botton, M., Campos -Herrera, R., Carlos, C., 
+Daugherty, M.P., Gemeno, C., Harari,A.R. Hoffmann, C., Ioriatti, C., Lopez Plantey, R.J., 
+Reineke, A., Ricciardi, R., Rodita kis, E., Simmons, G., Tay, W.T., Torres -Vila, L.M., Vontas,J., 
+& Thierry, D. (2023a). European grapevine moth , Lobesia botrana .  Biology and ecology; 
+Entomologia Generalis. Pt I Vol 43 (2023).Isuue 2, 261 -280. 
+DOI:10.1127/entomologia/2023/1837  
+Benelli Benelli, G., Lucchi, A., Amfora, G., Bagnoli, B., Botton, M., Campos -Herrera, R., Carlos, C., 
+Daugherty, M.P., Gemeno, C., Harari,A.R. Hoffmann, C., Ioriatti, C., Lopez Plantey, R.J., 
+Reineke,  A., Ricciardi, R., Roditakis, E., Simmons, G., Tay, W.T., Torres -Vila, L.M., Vontas,J., 
+& Thierry, D (2023b). Prevention and management. Entomologia Generalis. Pt II Vol. 43 
+,(2023), Issue 2, 281 -304.Published online 28 April 2023. DOI:10.1127/entomología/2023/1947  
+Becerra, V. (2016). Lobesia botrana  “Polilla de la vid”. Manejo de la plaga. 
+https://www.argentina.gob.ar/sites/default/files/becerravioleta -mayo16 -inv-lobesia.pdf  
+Becerra, V.C.,  Herrera, M.E., González, M.F., Mendoza, G.B., & Dagatti, C. (2015). Vid:  Lobesia 
+botrana Den et Schiff.  (Pollilla europea del racimo). Recuperado de:  
+http://hdl.handle.net/20.500.12123/828  
+Boselli , M., Scannavini, M., Cavazza, F., & Franceschelli, F. (2008). Evaluation of efficacy of a new 
+Active ingredient, Emamectin benzoate, against the grape moth, Lobesia botrana. Giornate 
+Fitopatologiche, 1, 175 –180 
+Castex, V., Beniston, M., Calanca, P., Fleur y, D., & Moreau, J. (2018). Pest management under 
+climate change: The impor­tance of understanding tritrophic relations. The Science of the Total 
+Environment, 616 -617, 397 –407. https://doi.org/10.1016/j.scitotenv.2017.11.027  
+Cepeda, D., & Cubillos, G. (201 1). Descripción del último estado larvario y recopilación de registros de 
+hospederos de siete especies de Tortrícidos de importancia económica en Chile (Lepidoptera: 
+Tortricidae).  https://www.scielo.cl/scielo.php?script=sci_arttext&pid=S0717 -
+65382011000100004  
+Coscollá, R. (1980). Aproximación al estudio del parasitismo natu­ral sobre Lobesia botrana Den. y 
+Schiff. en las comarcas vití­colas Valencianas. Boleti n de Sanidad Vegetal, Plagas, 6 , 5–15. 
+Coscollá, R., Sánchez, J., & Beltrán, V. (1986). Estudio preliminar sobre mortalidad de huevos de 
+Lobesia botrana Den. y Schiff. por efecto de altas temperaturas y bajas humedades relativas 
+en laboratorio. Boletin de Sanidad Vegetal, Plagas, 12 , 3–7. 53 
+ Coscollá, R. (1997). La polilla del racimo de la vid (Lobesia botrana Den. y Schiff.) . Valencia: 
+Conselleria De Agricultura, Pesca y Alimentación.  https://dialnet.unirioja.es . 
+Cubillos Vallejos, G. (2011). Caracterización taxonómica del último estado larvario de Proeulia  auraria  
+(Clarke) y Proeulia chrysopteris  (Butler) (LEPIDOPTERA: TORTRICIDAE).(Tesis de maestría) 
+Universidad de Chile. Facultad de Ciencias Agronómicas, Chile.  
+https://bibliotecadigital.uchile.cl  
+Chaparro, D., & Molina, J. (2021). Evaluación mediante electroantenograma de la bilateralidad en la 
+respuesta antenal al amonio en adultos de Rhodnius prolixus  . Departamento de Ciencias 
+Biológicas, Universidad de los A ndes. Bogotá, Colombia  
+Charbonnier, Y., Papura, D, Touzot, o. , Rhouy, N., Sentenac, G., &  Rusch, A. (20210). Pest control  
+services provided by bats in vineyard landscapes . Agriculture, Ecosystems & Environment, 
+306, 107207 https://doi.org/10.1016/j.agee.2020.107207 Get rights and content  
+Dagatti, C. V. , & Becerra, V. C. ( 2015). Ajuste de modelo fenológico para predecir el comportamie nto 
+de Lobesia botrana  (Lepidoptera: Tortricidae) en un viñedo de Mendoza, Argentina.  Rev. Soc. 
+Entomol. Argent.  [online]. 2015, vol.74, n.3 -4, pp.117 -122. ISSN 0373 -5680. Revista de la  
+Socieda d Entomológica Argentina. V ersión impresa  ISSN 0373 -5680 versión On -line ISSN 
+1851 -7471  
+Faria, P., Nogueira, T., Ferreira, A., Carlos, C., & Rosado, L. (2021). AI powered mobile image 
+acquisition of vineyard insect traps with automatic quality and adequacy  assessment. 
+Agronomy (Basel), 11 (4), 731. https://doi.org/10.3390/agronomy11040731  
+Flores, C. A., & Azin, G. (2016). Modelos lineales para pro­nosticar la actividad de vuelo de  Lobesia 
+botrana (Denis & Schiffermüller) (Lepidoptera: Tortricidae)  en la loca lidad de Russel , Mendoza, 
+Argentina. XVI Reunión Argentina y VIII Latinoamericana de Agrometeorología (RALDA 
+2016). https://www.researchgate.net  
+Fundación para el Desarrollo Frutícola (FDF) (2015). Desarrollo de la técnica de insecto estéril (TIE) 
+mediante radiación ionizante, para el control de la plaga cuarentenaria Lobesia botrana , 
+técnica amigable y sustentable con el medio ambiente.  https://bibliotecadigi tal.flia.cl  
+Fundación para el Desarrollo Frutícola (FDF). (2016). FIA aprobó financiar actividades de liberación 
+de Lobesia.  http://www.fdf.cl  
+Forte, V., Angelini, E., Crestani, D., Patriarca, E., Ganzini, L., & Pavan,  F. (2014). Activity of 
+methoxyfenozide and spinetoram against grapevine moths in north -eastern Italy. Giornate 
+Fitopatologiche, 1 , 147 –156. 
+Gallardo, A.,  Ocete, R., López, M. A., Maistrello, L., Ortega, F., Semedo, A., & Soria, F. J. (2009). 
+Forecasting the flight activity of Lobesia botrana (Denis and Schiffermüller) (Lepidoptera, 
+Tortricidae) in Southwestern Spain. Journal of Applied Entomology, 133 (8), 626 –632. 
+https://doi.org/10.1111/j .1439 -0418.2009.01417.x  
+ 
+Gavara, A., Navarro ‐Llopis, V., Primo, J., & Vacas, S. (2022). Laboratory investigation of pheromone 
+pre exposure in Lobesia botrana males indicates minor role of desensitization in the field. 
+Physiological Entomology, 47 (2), 126 –135. https://doi.org/10.1111/phen.12382  
+González, M. (2010) Lobesia botrana : Polilla de la uva. Revista Enología , volumen 7, página 2. 
+ISBN/ISSN: 1668 -3889  
+Gilligan, T. M., J. Baixeras & J. W. Brown. 20 18. T@RTS: Catálogo mundial en línea de Tortricidae 
+(Ver. 4.0). http://www.tortricid.net/catalogue.asp  
+Gonzaléz, R.H. (2008). Biología, desarrollo, caracterización de daños y manejo fitosanitario de la  
+polilla Europea de la vid, Lobesia botrana  (D&S) (lep, Tortiicidae).Universidada de Chile, 
+Dirección de Extensión, Santiago de Chile. 25 pp. Entomological Society 30:287 -299 
+Herrera, M.E. (2019). Efectividad de insecticidas biorracionales sobre Lobesia bo trana Den. et Schiff. 
+(Lepidoptera: Tortricidae). Evaluación de efectos letales y subletales. (Tesis de maestría). 
+Universidad Nacional de La Plata. Facultad de Ciencias Agrarias y Forestales, Argentina  54 
+ Herrera, M.E., Dagatii, C.V. & Becerra, V.C (2016). M étodo práctico de cría masiva de  Lobesia 
+botrana Den. & Schiff. (Lepidoptera: Tortricidae) en condiciones de laboratorio. Revista de la  
+Sociedad Entomológica Argentina  75 (3 -4): 160 -164, 2016 ISSN 1851 -7471).  
+http://www.scielo.org.ar/pdf/rsea/v75n3 -4/v75n3 -4a08.pdf  
+Holgado, M. , Quiroga, V. , López Plantey, R. , Carpintero, D. , Riquelme, A. , Torres Echeverría. M. , 
+Segura, M. , Balloni, S. , Almonacid, A. , Llera, J. , & Mácola, G. 2018. M anejo integrado de 
+plagas emergentes, inducidas y cuarentenarias ( Lobesia botrana ) en viñedos de Mendoza III 
+etapa: servicios agroecosistémicos. Libro de Resúmenes XXV Jornadas de Investigación. 
+UNCuyo. Mendoza. Argentina . 
+Ioriatti, C., Anfora, G., Tasin, M., De Cristofaro, A., Witzgall, P., & Lucchi, A. (2011). Chemical ecology 
+and management of Lobesia botrana (Lepidoptera: Tortricidae). Journal of Economic 
+Entomology, 104 (4), 1125 –1137.  https://doi.org/10 .1603/EC10443   
+Larsson Herrera, S., Rikk, P., Köblös, G., Szelényi, M. O., Molnár,·B. P., Dekker, T., & Tasin, M. 
+(2020). Designing a species selective lure based on microbial volatiles to target Lobesia 
+botrana . Scientic Reports, 10(1), 1 –11. https://doi .org/10.1038/·        s41598 -020-63088 -3 
+Liguori, R., Correia, R., Thomas, C., Decaudin, B., Cisneros, J., & López, J. A. (2010). Emamectin 
+benzoate (Affirm). a mod­ern insecticide for the control of lepidoptera larvae on fruits, grapes 
+and vegetables crop s. Communications in Agricultural and Applied Biological Sciences, 75 (3), 
+247–253 
+Lima, M. C. F., de Almeida Leandro, M. E. D., Valero, C., Coronel, L. C. P., & Bazzo, C.O. G. (2020). 
+“Detección automática y monitoreo de plagas de insectos” . Agricultur a, 10(5), 161.  
+https://doi.org/10.3390/agriculture10050161  
+López Plantey, R., Torres Echeverría, M. l., Quiroga, V.N, Riquelme, A..E., Carpintero, D.I, Mácola, 
+G.S., & Holgado, M.G.  (2018 ). Heteró pteros predadores en un viñedo en Mendoza, Argentina. 
+X Congreso Argentino de Entomología 2018.  Facultad Ciencias Agrarias -UNCuyo, CONICET, 
+INTA.  
+López Plantey, P. R., Papura, D., Couture, C., Thiéry, D., Pizzuolo, P., Bertoldi, M. V., & Lucero, G. S. 
+(2019). Characterization of entomopathogenic fungi from vineyards in Argentina with potential 
+as biological control agents against the European grapevine moth Lobesia botrana. BioControl, 
+64(5), 501 –511. https://doi.org/10.1007/s10526 -01909955 -z 
+Lucchi, A.,  & Scaramozzino, P.L. (2018 a). Lobesia botrana  (European grapevine moth). CABI 
+Compendium.  https://www.cabidigi tallibrary.org/doi/10.1079/cabicompendium.42794  
+Lucchi, A., Sambado, P., Juan Royo, A. B., Bagnoli, B., & Benelli, G. (2018 b). Lobesia botrana males 
+mainly fly at dusk: Video camera -assisted pheromone traps and implications for mating 
+disruption. Journal of Pest Science, 91 (4), 1327 –1334. https://doi.org/10.1007/s10340 -018-
+1002 -0 
+Maher, N.,  &  Thiéry, D. (2006).  Daphne gnidium, a possible native host plant of the European 
+grapevine moth Lobesia b otrana ,stimulates its oviposition. Is a host shift relevant? . 
+Chemoecology.16(3) ,135-144. https://doi.org/10.1007/s00049 -006-0339 -7  
+Markheiser, A., Rid, M., Biancu, S., Gross, J., & Hoffmann, C. (2020). Tracking shortrange attraction 
+and oviposition of Eu ropean grapevine moths affected by volatile organic com­pounds in a 
+four-chamber olfactometer. Insects, 11 (1), 45.  https://doi.org/10.3390/insects11010045  
+Mendoza, G. (2011). Daños producidos por Lobesia botrana en los viñedos mendocinos. SAVE 2011, 
+Simposio Argentino de Viticultura y Enología, 2011, Mendoza. P. 125.  
+Mendoza, G, Sánchez J., Becerra, V. (2014).  Impacto ambiental de tres estrategias fitosanitarias para 
+el control de Lobesia botrana.  37th World Congress of Vine and Wine and 12th General 
+Assembly of the OIV , 05009 (2014).DOI: 10.1051/oivconf/201405009.  
+Navarro -Roldán, M. A., Amat, C., Bau, J., & Gemeno, C. (2019). Extremely low neonicotinoid doses 
+alter navigation of pest insects along p heromone plumes. Scientific Reports, 9 (1), 1 –9. 
+https://doi.org/10.1038/s41598 -019-44581 -w. 55 
+ North American Protection Plant Organization (NAPPO) (2016). APHIS declara la erradicación de la 
+palomilla del racimo de la vid ( Lobesia botrana ) y elimina todas la s áreas bajo cuarentena en 
+California. https://www.pestalerts.org/espanol/oprDetail.cfm?oprID=678  
+Pascuali, S., Soresina, C., & Marchesini, E. (2022). Mortality estimate driven by population abundance 
+field data in a strage -structured demographic model. T he case of Lobesia botrana . Ecological 
+Modeling 464 , 109842. https://doi.org/10.1016/j.ecolmodel.2021.109842  
+Pavan, F., Cargnus, E., Bigot, G., & Zandigiacomo, P. (2014). Residual activity of insecticides applied 
+against Lobesia botrana and its influence o n resistance management strategies. Bulletin of 
+Insectology, 67 (2), 273 –280. 
+Pérez Marín, J. L., Sáenz, C. O., Ruíz, E. P., Marcos, C. G. A (1995). Un nuevo método de control de 
+la polilla del racimo de la vid: la confusión sexual. Bol.San. Veg. Plagas , 21: 627 -640. 
+Reineke, A., & Thiéry, D. (2016). Grapevine insect pests and their natural enemies in the age of global 
+warming. Journal of Pest Science, 89 (2), 313 –328. https://doi.org/10.1007/s10340 -016-0761 -8 
+Rexhaj, F. & Shahini, Sh. (2017). Flying curve, incidence and severity of common grapevine moth, 
+lobesia botrana on native cultivar “shesh i zi” in coastal area of Albania.  European Journal of 
+Physical and Agricultural Sciences Vol. 5 No. 2, 2017 ISSN 2056 -5879  
+Roditakis, N.E.,  & Karandinos, M. G. (2001).  Effects of photoperiod and temperature on pupal 
+diapause induction of grape berry moth Lobesia botrana . Physiological Entomology, 26(4), 
+329–340. https://doi.org/10.1046/j.0307 -6962.2001.00253.x  
+Ruiz de Escudero, I., Estela, A., Escriche, B., & Caballero, P. (2006).  Potential of the Bacillus 
+thuringiensis  toxin reservoir  for the control of Lobesia botrana  (Lepidoptera: Tortricidae), a 
+major pest of grape plants. Appl Environ Microbiol. 2007 Jan;73(1):337 -40. doi: 
+10.1128/AEM.01511 -06. Epub 2006 Nov 3. PMID: 17085712; PMCID: PMC1797137  
+Rufus, I., Teixeira, L. A. F., Jenkin s, P. E., Botero -Garcés, N., Loeb, G. M., & Saunders, M. C. (2012). 
+Biology and management of grape berry moth in North American vineyard ecosystems. In J. B. 
+Noubar, V. Charles, & I. Rufus (Eds.), Arthropod management in vineyards: pests, approaches, 
+and future directions (pp. 361 –381). Dordrecht: Springer  
+Sáenz -de-Cabezón Irigaray, F. J., Marco, V., Zalom, F. G., & Pérez ‐Moreno, I. (2005). Effects of 
+methoxyfenozide on Lobesia botrana Den. & Schiff. (Lepidoptera: Tortricidae) egg, larval and 
+adult stages. Pest Management Science, 61 (11), 1133 –1137.  https://doi.org/10.1002/ ps.1082  
+Salgado Navarro, J. E. (2021). Uso de Campoplex capitator (Aubert) ( Hymenoptera: Lichneumonidae) 
+como alternativa sostenible para el control biológico de Lobesia botrana (Den. & Shiff.) 
+(Lepidoptera: Tortricidae), en áreas urbanas de Chillán. (Tes is de grado). Universidad Católica 
+del Maule. Facultad de Ciencias Agrarias y Forestales, Chile.  
+Savopoulou -Soultani, M., & Tzanakakis, M. E. (1979). Improved fecundity of laboratory -reared Lobesia 
+botrana  Schi. by changing the light and providing the moth s with fresh host plantparts. Scientic 
+Annals of the School of Agriculture and Forestry (Thessaloniki), 22, 78 –283. 
+Savopoulou -Soultani, M., Milonas, P. G., & Stavridis, D. G. (1998). Role of availability of food to the 
+adult Lobesia botrana  (Lepidoptera: Tortricidae) in its reproductive performance. Journal of 
+Economic Entomology, 91(6), 1341 –1348. https://doi.org/10.1093/jee/91.6.1341  
+Silva, S., Burgardt, M.E., Ohanian, G., San Blas, G., Bergas, V., Buran, M Y Musri, L. (2013, enero). 
+Aplicación del model o de Touzeau como herramienta para el control y manejo de la “polilla de 
+la vid” Lobesia botrana  (Denis & Schiffermüller) en Mendoza. [Conference paper]. Séptimo 
+Encuentro de Investigadores y Docentes de Ingeniería (EnIDI). San Rafael. Mendoza, 
+Argentina.  https://www.researchgate.net>publicación>282649704  
+Simmons, G.S.; Salazar Sepulveda, M.C.; Fuentes Barrios, E.A.; Idalsoaga Villegas, M.; Medina 
+Jimenez, R.E.; Garrido Jerez, A.R.; Henderson, R.; & Donoso Riffo, H. (2021a).Development 
+of Ster ile Insect Technique for Control of the European Grapevine Moth, Lobesia botrana, in 
+Urban Areas of Chile. Insects 2021, 12, 378.  https://doi.org/10.3390/insects12050378  
+Simmons, G. S., Varela, L.,  Daugherty, M., Cooper, M., Lance, D., Mastro, V., … Johnson, R. (2021 b). 
+Area -wide eradication of the invasive European grapevin e moth, Lobesia botrana in California, 56 
+ USA. In J. Hendrichs, R. Pereira, & M. J. B. Vreysen (Eds.), Area -wide integrated pest 
+management. Development and field application (pp. 581 –596). Boca Raton: CRC Press.  
+https://doi.org/10.1201/9781003169239 -31 
+Taret, G. A. A., Azin, G., & Vanin, M. (2021). Area -wide man­agement o f Lobesia botrana in Mendoza, 
+Argentina. In J. Hendrichs, R. Pereira, & M. J. B. Vreysen (Eds.), Area -wide integrated pest 
+management. Development and field appli­cation (pp. 597 –614). Boca Raton: CRC Press.  
+https://doi.org/10.1201/9781003169239 -32 
+Tasin, Marco. (2005). Sex, wine and chemical communication in grapevine moth Lobesia  
+botrana .Tesis de doctorado. Swedish University of Agricultural Sciences. Alnarp.30pp. ISSN 
+1652 -6880  
+Thiéry, D., Louâpre , P., Muneret, L., Rusch, A., Sentenac, G., Vogelweith, F., Iltis, F.,&  Moreau, J. 
+(2018). Biological pro­tection against grape berry moths: A review. Agronomy for Sustainable 
+Development, 38 (2), 1 –18. https://doi.org/10.1007/s13593 -018-0493 -7 
+Tirello, P., Pozzebon, A., & Duso, C. (2013). The effect of insecti­cides on the non -target predatory 
+mite Kampimodromus aber­rans : Laboratory studies. Chemosphere, 93 (6), 1139 –1144. 
+https://doi.org/10.1016 /j.chemosphere.2013.06.046  
+Torres, V. L. M. (1995 a). Un aniversario aciago: dos siglos de historia como plaga de la polilla del 
+racimo de la vid, Lobesia botrana Den. y Schiff. Sociedad Española de Entomología Aplicada.  
+http://www.seea.es/index.php/divulgacion/polilla -del-racimo -dela vid. 
+Torres -Vila, L. M., Stockel, J., & Roehrich, R. (1995 b). Le potentiel reproducteur et ses variables 
+biotiques associées chez le mâle de l’ eudémis de la vigne Lobesia botrana . Entomologia 
+Experimentalis et Applicata, 77(1), 105 –119. https://doi.org/ 10.1111/j.1570 -
+7458.1995.tb01991.x.  
+Torres, V.L.M. (1996 a). Efecto de la temperatura de desarrollo preimaginal sobre el potencial biótico 
+de la p olilla del racimo de la vid, Lobesia botrana  (Denis y Schiffermüller, [1775]) (Lepidoptera: 
+Tortricidae). SHILAP Revta. lepid ., 24: 197 -206. https:/ www.mapa.gob.es >BSVO -22-02-443-
+449 
+Torres -Vila, L.M., Stockel, J.,  & Lecharpentier P. (1996 b). A melanic form of the European grape vine 
+moth, Lobesia botrana  Den. and Schiff. (Lepidoptera, Tortricidae), and its genetic basis. 
+Agronomie , 16: 391 -397. https://doi.org/10.1051/agro:19960606  
+Torres -Vila, L.M., Stockel, J., &  Rodriguez -Molina, M.C.,(1997). Physiological factors regulating 
+polyandry in Lobesia botrana  (Lepidoptera: Tortricidae). Physiol. Entomol.,  22: 387 -393. 
+Torres -Vila, L. M., Gragera, J., Rodríguez -Molina, M. C., & Stockel, J. (2002). Heritable variation fo r 
+female remating in Lobesia botrana , a usually monandrous moth. Animal Behaviour, 64(6), 
+899–907. https://doi.org/10.1006/anbe.2003.2000  
+Torres -Vila, L. M., Rodríguez -Molina, M. C., McMinn, M., & Rodríguez -Molina, A. (2005). Larval food 
+source promotes cy clic seasonal variation in polyandry in the moth Lobesia botrana . 
+Behavioral Ecology, 16(1), 114 –122. https://doi.org/10.1093/beheco/arh138 . 
+Torres -Vila, L. M., Cruces -Caldera, E., & Rodríguez -Molina , M. C. (2012). Host plant selects for egg 
+size in the moth Lobesia botrana : integrating reproductive and ecological trade -os is not a 
+simple matter. In L. Cauteruccio (Ed.), Moths: types, ecological signicance and control 
+methods (pp. 145 –167). New York: Nova Science Publishers.  
+Torres -Vila, L. M., Mendiola -Díaz, F. J., Echave -Sanabria, A. C. (2019). Do male seminal donations 
+shape female post -mating receptivity in a usually monandrous moth? Behavioral Ecology and 
+Sociobiology, 73(12), 1 –9. https://doi.org /10.1007/s00265 -019-2776 -7. 
+Touzeau, J. (1981). Modélisation de l'évolution de l'Eudémis de la Vigne pour la région Midi Pyrénées. 
+Boll. Zool. Agr. Bachic ., Ser. II, 16: 26 -28. 
+Varela, L. G., Smith, R. J., Cooper, M. L., & Hoenisch, R. W. (2010). European +grapevine moth, 
+Lobesia botrana , in Napa Valley vineyards. Practical Winery & Vineyard, (March/April): 1 –5. 57 
+ Artículos y Sitios Web  
+AGROPRODUCTORES. (2021). Palomilla del racimo de la vid ( Lobesia botrana  Denis y 
+Schiffermüller).  https://agroproductores.com/palomilla -del-racimo -de-la-vid/. 
+ASOEX (2015). Asociación  de Exportadores de Frutas de Chile (26 de agosto) “Situación en chile de 
+la plaga Lobesia botrana  y su impacto en la fruta de carozo ”. Seminario Internacional de 
+Carozo de Chile . hhtps://www.asoe.cl.>finish>559 -situación -en  
+Animal and Plant Health Inspection Service (APHIS) -United States Department of Agriculture 
+(USDA).(2010). Economic impacts of the European grapevin e moth (Lobesia botrana) in 
+California . https://www.citeseerx.ist.psu.edu/   
+Azin, G, & Bartolucci, A. (s.f.). La polilla del racimo de la vid Lobesia botrana  Den. et Schiff. ISCAMEN.  
+https://www.iscamen. com.ar/pdf/lobesia/charlas.pdf  
+Canal Agrositio. (2012, 7 de septiembre). Disminuyó el efecto de la plaga Lobesia botrana en vid con 
+respecto al ciclo anterior . https://www.agrositio.com.ar>noticias  
+ 
+CIATI (2022, 17 de febrero). Prohibición de l indoxacarb en la Unión Europea 
+(UE).https://ciati.com.ar/%3Farticulos_seccion_3/cat_4/id_140/prohibicion -del-indoxacarb -en-
+la-union -europea - 
+Coagra (2022). Amenaza a raya: detección de Lobesia botrana disminuye 60% en tres temporadas . 
+https://coagra.cl>l obesia -amenaza -a-raya 
+Comisión de Sanidad Vegetal del Cono Sur (COSAVE). (2017). Plan Regional de Vigilancia y control 
+de la polilla del racimo de la vid ( Lobesia botrana ). Comité de Sanidad Vegetal del Conosur.  
+http://www.cosave.org  
+Comunidad Autónoma de La Rioja (2023). Curvas de vuelo de la polilla del racimo. Larioja.org.  
+https:/www.larioja.org>agricultura  
+European and Mediterranean Plant Protection (EPPO). (2022). Lobesia botrana (POLYBO). 
+PQREPPO, Global Databa se, European and Mediterranean Plant Protection Organization.  
+https://gd.eppo.int/taxon/POLYBO/distribution  
+Gobierno de Argentina. (2020, 2 de diciembre).  Control del segundo vuelo de Lobesia   botrana en la  
+provincia d Mendoza. [Comunicado de prensa] . htps://www.argentina.gob.ar/noticias/control -
+del-segundo -vuelo -de-lobesia -botrana -en-la-provincia -de-mendoza  
+Gobierno de Argentina. (2023, 10 de octubre). Mendoza: se lanzó el primer alerta para e l control de la 
+plaga Lobesia botrana . [Comunicado de prensa] 
+https://www.argentina.gob.ar/noticias/mendoza -se-lanzo -el-prime r-alerta -para-el-control -de-la-
+plaga -lobesia -botrana  
+Gobierno de España. (2024).  Lista comunitaria de sustancias activas aprobadas, excluidas y en 
+evaluación comunitaria, sustancias de bajo  riesgo, sustancias candidatas a la sustitución y 
+lista de sustanc ias básicas . https://www.mapa.gob.es/es/agricultura/temas/sanidad -
+vegetal/listasustanciasactivasaceptadasexcluidas   
+Gobierno de Mendoza. (2018 a, 15 de julio). Licitan la adquisición de feromonas de control para la 
+Lobesia botrana . [Comunicado de prensa]. h ppts://www.mendoza.gov.ar>prensa>lobesia > 
+Gobierno de Mendoza. (2018b, 18 de julio). Operativo Lobesia 18/19: avances para la próxima 
+campaña de control . [Comunicado de prensa]. 
+https://www.mendoza.gov.ar>Prensa>Operativo -lobesia  
+Gobierno de Mendoza. (2018 c, 13 de diciembre). En Mendoza se redujo un 95% la plaga Lobesia 
+botrana.  [Comunicado de prensa].  http://www.mendoza.gov.ar -prensa -iscamen  
+Gobierno de Mendoza. (2019, 21 de octubre). Evento cient ífico de nivel internacional sobre polilla de 
+la vid se desarrolla en Mendoza .[Comunicado de prensa]. 
+https://www.mendoza.gov.ar/prensa/evento -cientifico -de-nivel-internacional -sobre -polilla -de-la-
+vid-se-desarrolla -en-mendoza  58 
+ Gobierno de Mendoza. (2020, 16  de enero). Iscamen realizó la primera liberación de insectos 
+estériles de Lobesia botrana . [Comunicado de prensa].   
+Gobierno de Mendoza. (2021, 22 de diciembre). Exportaciones no convencionales: la Bioplanta del 
+Iscamen incrementó el envío de material bio lógico a diversos países . [Comunicado de 
+Prensa]. https://www.mendoza,gov,ar>prensa>exportaciones - 
+Gobierno de Mendoza. (2023, 2 de Febrero). Polilla de la vid: el opera tivo de control redujo 40% la 
+plaga en Mendoza . [Comunicado de prensa].  https://www.mendoza.gov.ar/prensa/polilla -de-la-
+vid-el-operativo -de-control -redujo -un-40-la-presencia -de-la-plaga -en-mendoza/  
+ 
+Gobierno de Perú. (2023).  ANEXO . Plaguicidas Químicos de Uso Agrícola registrados en noviembre 
+de 2023 . https://cdn.www.gob.pe/uploads/document/file/5556044/4938038 -plaguicidas -
+quimicos -de-uso-agricola -registrados -en-noviembre -de-2023  
+Gobierno de Salta (2021, 14 de julio).  Cafayate r ecuperó el estatus de área libre de “polilla de la vid” . 
+[Comunicado de prensa]. https://www.Salta.gov.ar  
+ 
+Instituto de Desarrollo Rural (IDR). (2023). Evolución Fenológica en Vid . https://www.idr.or.ar/wp -
+content/uploads/2023/Informe -Fenología -Vid-2022 -pdf 
+ 
+Instituto de Investigaciones Agropecuarias (INIA) -Servicio Agrícola Ganadero (SAG) 2008.INIA -SAG. 
+2008. Polilla del racimo de la vid (Lobesia botrana). 
+http://www.inia.cl/medios/intihuasi/documentos/entomologia/TripticoLobesia.pdf  
+Instituto Nacional de  Vitivinicultura (INV). (2022a). Informe anual de superficie 2022.  
+http://www.inv.gov.ar/inv.Vinos -informes estadísticos -mercado externo -pdf 
+Instituto Nac ional de Vitivinicultura (INV). (2022b). Informe mensual venta mercado externo -diciembre -
+2022.http://www.inv.gov.ar/inv.Vinos -Informes estadísticos -superficie -pdf 
+Instituto Nacional de Vitivinicultura (INV). 2022c). Informe anual de cosecha y elaboración 2 022. 
+http://www.inv.gov.ar/inv.Vinos -informes  estadísticos -elaboración -pdf 
+Instituto de Sanidad y Calidad Agropecuaria Mendoza (ISCAMEN) (2011). Memoria anual  2010/2011. 
+[Informe]. http://www.iscamen.com.ar   
+Instituto de Sanidad y Calidad Agropecuaria Mendoza (ISCAMEN) (2013 , 27 de julio ). Memoria anual  
+2011/2012-Iscamen . [Informe]. http://www.iscamen.com.ar  
+Instituto de Sanidad y Calidad Agropecuaria Me ndoza (ISCAMEN) (2014). Memoria anual  2013/2014 
+ISCAMEN . http://www.iscamen.com.ar  
+Instituto de Sanidad y Calidad Agropecuaria Mendoza (ISCAMEN) (2017). Memoria 2016/ 2017 . 
+[Informe].https://www.iscamen.com.ar  
+Instituto de Sanidad y Calidad Agropecuaria Mendoza (ISCAMEN) (2018). Memoria anual 2018 . 
+[Informe] http://www.iscamen.com.a r 
+Instituto de Sanidad y Calidad Agropecuaria Mendoza (ISCAMEN) (2021). Lobesia botrana -
+ISCAMEN -MENDOZA . [Informe]. http:// www.iscamen.com.ar -noticia  
+Instituto de Sanidad y Calidad Agropecuaria Mendoza (ISCAMEN) (2023). Control de Lobesia 
+botrana.  [Infor me]. http//www.iscamen.com.ar  
+Insecticide Resistance Action Committee Argentina (IRAC) (2023 ). Clasificación de modo de acción  
+de plaguicidas . https://irac -argentina.org/modos -de-acción  
+ 
+North American Prote ction Plant Organization (NAPPO) (2016). APHIS declara la erradicación de la 
+palomilla del racimo de la vid ( Lobesia botrana ) y elimina todas las áreas bajo cuarentena en 
+California. https://www.pestalerts.org/espanol/oprDetail.cfm?oprID=678  
+Organización Internacional de la Viña y el Vino (OIV) (2022). Actualidad de la coyuntura del sector 
+vitivinícola mundial en 2022.OIV Int. Recuperado de 
+https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd  59 
+ Organización de las Naciones Unidas para la Alimentació n y la Agricultura (FAO). (2009, 13 de 
+marzo). Detection of the European grapevine moth, Lobesia botrana, from California vineyard - 
+new US record. [Comunicado de prensa] . https://www.ippc.int>countries>pestreport>2009  
+Organización de las Naciones Unidas p ara la Alimentación y la Agricultura (FAO)/ Organismo 
+Internacional de Energía Atómica (IAEA) (2022). Manual de Control de Calidad del Producto 
+en la Cría masiva y Liberación de Moscas de la Fruta Estériles.  http:// www.iaea.org  
+Servicio Agrícola y Ganade ro (SAG). (2008). Plan de contingencia de polilla del racimo de la vid 
+(Lobesia  botrana ). 
+https://websag.azurewebsites.net/sites/default/files/plan_de_contingencia_lebesia_botrana.pdf  
+Servicio Agrícola y Ganadero (SAG). (2010). SAG lanza estrategia de cont rol para Lobesia botrana  en 
+huertos de vid para la temporada 2010 -2011.  http://www.sag.gob.cl  
+Servicio Agrícola y Ganadero (SAG). (2015 ). Programa Nacional de Control  de Lobesia botrana. 
+https://www.sag.gob.cl/sites/default/files/7203_2015.pdf  
+Servicio Agrícola Ganadero (SAG). (2019). SAG comienza la liberación de machos estériles de mosca 
+de la fruta para controlar plagas.  http://www.sag.gob.cl  
+Servicio Agrícola y Ganadero (SAG).  (2023).  Lobesia botrana . 
+https://www.sag.gob.cl/sites/default/files/plaguicidas_autorizados_lobesia_botrana_2023 -2024  
+Servicio Nacional de Sanidad y Calidad Agroalimentaria ( SENASA). (2009). Resolución -362-2009 -
+SENASA. http://www.senasa.gov.ar/  
+Servicio Nacional de Sanidad y Calidad Agroalimentaria (SENASA). (2010a). Resolución -122-2010 -
+SENASA. http://www.senasa.gov.ar  
+Servicio Nacional de Sanidad y Calidad Agroalimentaria (SE NASA) (2010b). Resolución -729-2010 -
+SENASA.  http://www.senasa.gov.ar/  
+Servicio Nacional de Sanidad y Calidad Agroalimentaria (SENASA). (2012). Lobesia botrana: 
+presentación de los lineamientos de la campaña  2012/ 2013. [Comunicado de prensa]. 
+http://www.senasa.gob.ar>senasa -comunica -noticias  
+Servicio Nacional de Sanidad y Calidad Agroalimentaria (SENASA) . (2015). Ley Nacional -27233 -
+2015 -Honorable congreso de la Nación.  http://www.senasa.gov.ar -Normativa -ley nacional  
+Servicio Nacional de Sanidad y Calidad Agroalimentaria (SENASA) (2021).Disposición 670/2021 -
+SENASA. Boletín Oficial de la República Argentina http://www.boletinoficial.gob.ar  
+Servicio Nacional d e Sanidad y Calidad Agroalimentaria (SENASA) (2023 ). Lobesia botrana .  
+http://www.senasa.gob.ar/cadena -vegetal/frutales/producci on-primaria/programas -
+fitosanitarios/lobesia -botrana  
+Servicio de Sanidad, Inocuidad  y Calidad Alimentaria (SENASICA). (2016). Ficha técnica  N°27  
+“Palomilla Europea de la Vid  (Lobesia botrana )”. http://prod.senas ica.gob.mx  
+Servicio de Sanidad, Inocuidad  y Calidad Alimentaria (SENASICA ). (2022). Ficha técnica “Palomilla 
+Europea de la Vid  (Lobesia botrana )”. http://prod.senasica.gob.mx  
+Speed Agro. (2020, Julio, 7).  Lobe sia botrana : experiencia del programa implementado en Mendoza. 
+Estado de situación actual.   https://www.youtube.com/watch  
+Unión Europea (UE). (2023). Reglamento (UE) 2023/1753 de la Comisión de 11  de septiembre de 
+2023 que modifica los anexos II y III del Reglamento (CE) n.o  396/2005 del Parlamento 
+Europeo y del Consejo por lo que respecta a los límites máximos de residuos de piriproxifeno 
+en determinad os productos (Texto pertinente a efectos del EEE). https://eur -
+lex.europa.eu/lega l-content/  
+Informes periodísticos  
+Carmona Torres, H. (2009, 14 de agosto). Argentina trabaja para que una plaga no ingrese al país. 
+Edición impresa Diario de Cuyo . Suplemento V erde pp. 4 y 5.  60 
+ Diario de Río Negro. (2022, 11 de noviembre). Preocipación en la región: hallan polilla de la vid en 
+una bodega de San Patricio Del Chañar. https://www.rionegro.com.ar/sociedad/preocupacion -
+en-la-region -hallan -la-polilla -de-la-vid-en-una-bodega -de-san-patricio -del-chanar - 
+Diario Los Andes. (2021, 13 de julio). ISCAMEN incorpora trampas con inteligencia artificial para el 
+control de plagas agrícolas.  http://www.losandes.com.ar -fincas  
+El Sol . (2023, 26 de julio). El Gobierno destinará 750 millones de pesos para combatir la “polilla de la 
+vid”.https://www.elsol.com.ar/mendoza/el -gobierno -destinara -750-millones -de-pesos -para-
+combatir -la-polilla -de-la-vid 
+Enolife. (2023, 1 de septiembre). El INT I ensaya producir feromona sintética contra la polilla de la vid 
+para no tener que importarla.  https://enolife.com.ar  el-inti-ensaya -producir -feromonas -
+sintética -contra -la-polilla - de-la-vid/ 
+Explícito. (2016, 28 de julio). El 80% de la vid de Mendoza está infectada con la polilla de la vid, 
+alertaron técnicos del ISCAMEN. Explícito . https://explicitoonline.com>blog  
+Flores, M.A. (2022, 25 de agosto). Lobesia : para no importar, prevén producir feromonas en 
+Mendoza. Sitio Andino . https://www.sitioandino.com.ar/economia/lobesia -no-importar -preven -
+producir -feromonas -mendoza -n5634322  
+Flores, M.A. (202 3, 10 de junio). Polilla de la Vid: sin ley, ni fondos asegurados para 2023. Sitio 
+Andino . https://www.sitioandino.com.ar/economia/polilla -la-vid-ley-ni-fondos -asegurados -2023 -
+n5654767  
+Fuentes, E. (2015, 20 de octubre). Preocupa la gran expansión de una pl aga en viñedos mendocinos. 
+Clarin . https://wwwclarín.com>Rural -Agricultura  
+Hernández, J. (2019, 18 de julio). Tras el exitoso control de Lobesia botrana  en Mendoza, técnicos 
+argentinos exponen en California. INFOCAMPO .  https://www.infocampo.com.ar/tras -el-
+exitoso -control -de-lobesia -botrana -en-mendoza -tecnicos -argentinos -exponen -en-california/  
+Infocampo. (2022, 17 de noviembre). La polilla de la vid apareció por primera vez en Neuquén y se 
+multiplican las tareas de prevención. https://www.infocampo.com.ar/la -polilla -de-la-vid-
+aparecio -por-primera -vez-en-neuquen -y-se-multiplican -las-tareas -de-prevencion  
+Manini, M. ( 2022, 12 de marzo ). Lobesia botrana : casi una de cada tres viñas de Mendoza tiene alta 
+población. Diario Los Andes . https://www.losandes.com.ar>fincas>lobesia botrana  
+MendoPost. (2019, 18 de julio). Técnicos de Mendoza exponen en EEUU sobre el control de la 
+Lobesia. https://www.mendozapost.com>lobesia  
+MendoVoz. (2023, 31 de agosto). Nuevo convenio para desarrollar tecnología contra la polilla de la 
+vid. https://www.mendovoz.com/actualidad/panorama -vitivinicola/2023/8/31/nuevo -convenio -
+para-desarrollar -tecnologia -contra -la-polilla -de-la-vid-132313  
+Phytoma -España . (2023, 23 de marzo). La técnica de confusión sexual se consolida en 
+Navarra.https://www.phytoma.com/noticias/noticias -de-actualidad/la -tecnica -de-confusion -
+sexual -se-consolida -en-navarra  
+Pérez, E. ( 2023, 9 de agosto). Arranca en San Juan la guerra a la enemiga de la uva. Tiempo de San 
+Juan .  https://www.tiempodesanjuan.com  
+Realidad Económica.  (2024, 6 de junio).  Senasa no detectó Lobesia botrana  en San Patricio del 
+Chañar .https://realidadeconomica.com.ar/senasa -no-detecto -lobesia -botrana -en-san-patricio -
+del-chanar  
+Sitio Andino. (2016, 11 de agosto).  ¿Por qué la Lobesia botrana  es un problema enorme para 
+Mendoza?. https:/www .sitioandino.com.ar>Economia  
+ 

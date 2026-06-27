@@ -1,0 +1,508 @@
+MÁSTER EN HORTICULTURA MEDITERRÁNEA BAJO INVERNADERO  
+ 
+TRABAJO FIN DE MÁSTER  
+ 
+“Técnicas sostenibles para la mejora del color en 
+uva de mesa 'Crimson Seedless' cultivada bajo 
+malla.”  
+ 
+ 
+ 
+ 
+Alumno: Enrique Romo Calderón  
+Tutor  UAL: Julián Cuevas González  
+Tutor  Cajamar:  Juan José Hueso Martín  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CURSO: 2016/2017  
+Almería, España  Técnicas sostenibles para la mejora del color en uva de 
+mesa 'Crimson Seedless' cultivada bajo malla.  
+Sustainable techniques for improving color in table grapes 
+'Crimson Seedless' cultivated under mesh.  
+ 
+Resumen  
+El color es el principal atributo de c alidad externo en la  uva  de mesa tinta  y es con ferido 
+por antocianinas, altamente influenciables por las condiciones ambientales. En este 
+estudio se evaluó el efecto del  aclareo de bayas en el cultivar de uva de mesa 'Crimson 
+Seedless' .  Los tratamientos consistieron en un control donde el racimo se desarrolló  sin 
+intervención de aclareo manual , un tratamiento d e aclareo ligero que  consistió en un 
+cincelado en e l interior del racimo, un tratamiento de aclareo medio realizá ndose 
+cincelado interior más corte de los hombros del racimo y un tratamiento de aclareo severo 
+donde se realizó cincelado interior más el corte de los hombros y cola del racimo . En 
+recolección, los racimos se clasificaron en función de la uniformidad del color del racimo , 
+diferenciándose aquellos con más d el 80 % de bayas coloreadas, aquellos con entre  60-
+80% de bayas con color y aquellos con <60% de bayas rojas  (no comerciales) . El aclareo 
+de ba yas redujo lógicamente la cosecha total, siendo may or la reducción cuanto mayor fue  
+la intensidad del aclareo. Por el contrario, el aclareo tuvo un efecto positivo sobre la 
+producción comercial. Así, a pesar de la ausencia de diferencias significativas, se  observ ó 
+que el tratamiento severo presentó mayor precocidad y mejoras en el  colo r, respecto a  los 
+tratamiento s de aclareo medio , ligero y control . En cuanto a otros parámetros de calidad 
+no se observaron diferencias significativas entre tratamientos , con valores de  sólidos 
+solubles totales  en todos los casos alrededor de 20°Brix . El índice de color CIRG  fue de  2,3 
+en los tratamientos de aclareo severo y medio , mientras que con el aclar eo ligero  y en los 
+racimos control  el CIRG fue menor,  en torno al 2 ,0. 
+Palabras clave:  antocianinas, aclareo de bayas, producción comercial, precocidad , color . 
+Abstract  
+Fruit skin c olor is the main attribute of external quality in red grapes and is conferred by 
+anthocyanins that are highly influenced by environmental conditions. This study 
+evaluated the effect of berry thinning on the red grape 'Crimson Seedless'.  The treatments 
+consisted of a control where the bunch was allowed to develop without additional hand 
+berry thinning , a light thinning treatment that consisted of a chiseling inside the bunch, a 
+medium thinning treatment being performed internal chiseling plus a cut of the shoulders 
+of the clusters  and a severe berry thinning treatment where inner chiseling was performed 
+plus shoulder and tail cut of the cluster s. At harvest, clusters were classified according to 
+the uniformity of cluster color, with those with more than 80% colored berries, those with 
+between 60 -80% colored berries and those with <60% red berries ( non -commercial ). The 
+thinning of berries logically reduced total yield , the reduction being greater as was the 
+intensity of thinning. On the contrary, thinning had a positive effect on commercial production. Thus, despite the absence of significant differences, it was observed that the 
+severe treatment presented higher preco city and better  color, compared to the treatments 
+of medium, light and control thinning.  This  is because the number of clusters collected 
+with good color was higher in this treatment of severe thinning.  As for the remaining 
+quality parameters measured, the re were  no significant differences between treatments . 
+All treatments allowed harvesting of berries with a total soluble solid  content of around  
+20 ° Brix . The CIRG , an index to measure red color,  was  2.3 in the treatments of severe and 
+medium thinning, while it was around 2.0 for light thinning treatment and control .  
+Key words:  anthocyanins,  berry thinning, commercial yield, fruit earliness , color . 
+Introducción  
+La uva de mesa es una fruta cuya calidad comercial está estrechamente relacionada con su 
+apariencia visual ( Carreño et al ., 1996).  'Crimson Seedless'  es u na uva de mesa tinta  tardía 
+desarroll ada en 1989, con un alto valor en el mercado y cada vez más cultivad a bajo ambientes 
+protegidos con la finalidad de  extender la disponibilidad de uvas de mesa sin semillas hacia 
+finales del otoño ( Shahidian et al ., 2016).  En la uva, la síntesis de antocianinas coincide con el 
+envero, periodo en el que la baya comienza a tomar color en el c aso de las variedades tintas  
+(Winkler et al ., 1974), variedades que puede n no desarrollar un color ade cuado en climas  cálidos  
+(Ovadia et al ., 2013). En parte, esto parece debe rse a las altas temperaturas nocturnas que inhiben 
+la acumulación de antocianinas (Spayd et al., 2002).  
+Las antocianinas en uva son básicamente cinco . Dos son di -hidroxiladas : cianidina (Cy: rojo) y 
+peonidina (Pn: rosado) ; y tres son tri -hidroxiladas : delfinidina (Dl: morado rosado), petunidina 
+(Pt: morado) y malvidina (Mv: morado rojizo).  Las a ntocianinas presentan diferencias notables 
+en su estabilidad. Las di -hidroxiladas (Cy, Pn) son más sensibles, particularmente a temperatura 
+y luminosidad. En concreto  la cianidina, la antocianina más básica, a temperatura y luminosidad 
+muy baja casi no se produce  y a temperatura y luminosidad muy alta baja su tasa de biosíntesis 
+(Peppi, 201 7). Las altas temperaturas nocturnas también inhiben la expresión génica de la 
+chalcona sintasa (CHS), flavanona 3 -hidroxilasa (F3H), dihidro flavonol 4 -reductasa (DFR), 
+leucoantocianidina di oxigenasa (LDOX) y UDP glucosa -flavonoides  3-O-glucosiltransferasa 
+(UFGT). L a inhibición de la biosíntesis de antocianinas en bayas de uva cultivadas bajo 
+condiciones de alta temperatura nocturna podría ser causada por menores niveles de expresión 
+de los genes biosintéticos de antocianinas en una etapa temprana de maduración y menores 
+actividades de las enzimas biosintéticas antocianinas, particularmente la UFGT (Mori et al ., 2005). 
+En la uva , las antocianinas se encuentran principalmen te en la hipodermis y en las semillas 
+(Cantos et al ., 2002).  
+La mejora del color en uvas tintas se puede promover mediante la aplicación de ácido abscísico 
+(ABA)  y derivados del etileno. El ABA es una hormona vegetal que aumenta en la  piel de la uva al 
+inicio de maduración y participa en la regulación de la acumulación de antocianinas (Peppi et al ., 
+2007; Lurie et al.,  2009) . Se sabe que la expresión de la s antocianina s depende de factores 
+internos tales como el ABA, que promueve el efecto de transmisión de la proteína MYB1A. Esta 
+proteína se encarga de regular los genes implicados en la ruta biosintética de la s antocianina s de 
+las uvas tintas  (Jeong et al ., 2004). Diferentes p ruebas señalan que las aplic aciones exógenas de 
+ABA mejoran  el color de la uva (Peppi et al.,  2007). El ácido abscísico provoca un aumento 
+significativo en el contenido de sólidos solubles y en la proporción de sólidos so lubles/ acidez. 
+También aumenta  las antocianina s y los compuestos fenólicos totales, esp ecialmente cuando se aplica dos veces, independ ientemente de la concentración (Neto et al.,  2017). Históricamente, el 
+coste de producción de l ABA ha sido  demasiado alto y su uso no se había justificado en  la 
+agricultura; Sin embargo, una  reciente mejora en  los métodos de producción del isómero (S) -cis-
+ácido abscísico (S -ABA), a través del hongo Botrytis sp p. (Cantín et al ., 2007;  Peppi et al ., 2007;  
+Koyama et al ., 2015)  abarata su uso . El estrés hídrico generado mediante estrategias de riego 
+deficitario controlado (RDC) permite también una cierta mejora del color en las bayas de uvas 
+tintas. E l déficit hídrico  activa la expresión de numerosas transcripciones asociadas con la 
+biosíntesis de glutamato, prolina y algunos pasos de la vía fenilpropanoide que aumentan las 
+concentraciones de antocianinas tal y como se ha probado en Cabernet Sauvignon (Deluc et al ., 
+2009). La implementación de RDC  durante el post -envero permite una recolección más temprana 
+sin ningún efecto negativo sobre el rendimiento, al mismo tiempo que se reduce el volumen de 
+riego y aumenta la eficiencia en el uso del agua (Pinillos et al ., 2016).  
+El uso de etileno y sus derivados permite también mejorar el color de uvas t intas.  El etileno está 
+directamente relacionado con el proceso de maduración de la fruta. Así, los frutos 
+fisiológicamente maduros de varias  especies sometidos a tratamientos utilizando etileno o sus 
+análogos aceleran y hacen  la maduración más uniforme (Si lva et al ., 2011). El compuesto más 
+utilizado es el ácido 2 -cloroetilfosfónico (Ethephon), un compuesto sintético descubierto en la 
+década de 1960 (Chitarra y Chitarra, 2005). Sin embargo, la reglamentación europea actual ha 
+reducido drásticamente los niveles máximos de residuos de ethephon en las frutas, lo que limita 
+su uso en uva de mesa ( Pinillos et al ., 2016).  Por otra parte, u na característica importante  de 
+calidad en uva de mesa es la firmeza  y se ha comprobado que el ethephon induce un 
+ablandami ento  indeseable de las bayas (Jensen et al ., 1975) . Diferentes investigaciones  señalan  
+que los efectos de l ethephon sobre la firm eza de la baya son similares a los causados por el ABA  
+(Peppi et al ., 2006).  
+Una estrategia diferente para la mejora del color adecuado es el aclareo. En numerosas especies   
+frutales  se producen anualmente demasiadas flores  y frutos  que repercuten negativamente en su 
+tamaño final ; bajo esta circunstancia, se hace necesario eliminar o ralear algunos d e ellos, para 
+que los que se dejan  puedan alcanzar un tamaño mayor (Reighard et al ., 2006). El objetivo del 
+raleo de flores y fruto s es maximizar el valor de la cosecha al obtener frutos más grandes, de mejor 
+color, forma y calid ad interna; así como disminuir la alternancia al promover un buen retorno de 
+floración (Jiménez y Díaz , 2002; Osborne y Robinson, 2008). Con la reducción de la carga de frut a 
+se max imiza el tamaño final del fruto. E sa efectividad va disminuyendo a medida que se retrasa  
+el raleo  (Osborne et al ., 2005). En uva para vinificación , el raleo aumenta el tamaño y mej ora la 
+calidad de la uva , incrementando la biosíntesis de polifenoles . Con un aclareo temprano e intenso 
+se mejora la concentración de antocianas, catequinas y proantocianidinas  (Matus et al ., 2006).  El 
+aclareo representa una disminución de cosecha rara vez aceptable en uva de vinificación y 
+disminuye la proporción de  taninos, aroma y color presente  en el hollejo, lo que con frecuencia 
+deriva en cald os de peor calidad. Diferente es el caso de la uva de mesa, donde un buen tamaño  y 
+color en  la baya es fundamental para su comercialización . En variedades  de uva de mesa  como 
+'Flame Seedless ', el color de la baya es el parámetro de composición más sensible al realizar un 
+aclareo , debido a que el color se ac entúa más rápidamen te en los racimos (Dokoozlian et al ., 
+1995).  El color de las bayas se determina por la cantidad y composición d e las antocianinas en la 
+epidermis . Las prácticas de deshoje  y aclareo aumentan  por un lado la iluminación y por otro la 
+concentración  de antocianas . Estos dos factores ayudan  al desarrollo del color  en uva de mesa 
+(Lurie et al ., 2009).  El objetivo del presente estudio es valorar la eficiencia de un aclareo de bayas dentro del racimo 
+para la mejora del color de las bayas en la uva de mesa 'Crimson Seedless'  en cultivo bajo malla 
+en las condiciones climáticas cálidas de Almería  que dificultan su coloreado homogéneo .  
+Materiales y Métodos.  
+El lugar  donde se realizó el trabajo fue en la Estación Experimental de Cajamar L as Palmerillas  
+(El Ejido, Almería)  (longitud: 2 ° 43'10 "W; 36 ° 47'40 "N, alt. 151 m).  Esta zona presenta un clima 
+semiárido subtropical mediterráneo según la clasificación de Papadakis . La temperatura media 
+anual está cerca de los 18.5 °C. Los meses más fríos son diciembre y enero, el más cálido es agosto. 
+La precipitación en el sitio es escasa, promediando sólo 250 mm por año. La humedad relativa 
+media oscila entre 67 y 73% a lo largo del año. Debido a la ubicación geográfica de Almería las 
+horas de luz del sol alcanzan un promedio de 3 273 h por año. El suelo de la plantación tiene una 
+textura franco -arcillosa -arenosa,  con una proporción de 49,6% de arena, 26,4% de limo y 24,0% 
+de arcil la. 
+Se utilizaron plantas  de la variedad ‘Crim son Seedless ’ injertadas sobre patrón 110 -Ritcher , 
+plantadas en 2004 a un marco de plantación de  3 × 4 m en parral  con una altura de 2,10 m  y con 
+una cubierta de malla de polietileno (6x6 hilos cm-2) dispuesta a dos aguas sobre cada línea de 
+cultivo.  La parra estaba formada con cuatro brazos principales que portan las varas productoras 
+de los racimos. La poda de invierno se llevó a  cabo dejando 12 varas de 10 yemas cada una y 
+pulgares para renovación  en cada par ra. Sobre estas parras s e realizaron aplicaciones de ácido 
+giberélico  (GA 3) en dos momentos:  en floración con una concentración de 0,5 ppm para aclareo 
+de flores  y una segunda aplicación en estado fenológico de uva con tamaño de guisante con una 
+concentración de  5 ppm con el fin de incrementar el tamaño de las bayas . Los abonos se aplicaron 
+mediante fertirrigación (100 -80-210 kg ha-1 anuales  de N, P 2O5 y K 2O, respectivamente). El riego 
+se aplicó a través de dos líneas por fila de goteros autocompensantes de 4 L h -1 (6 goteros /planta).  
+Sobre este material s e planteó un diseño en bloques al azar con seis bloques (parras) y cuatro 
+tratamientos. En cada bloque  (parra)  se realizó un ajuste de carga dejando 40 racimos, y se 
+marcaron 10 racimos por tratamiento de aclareo.  
+Los tratamientos de aclareo se aplicaron el 07/07/ 16 y  consistieron en:  
+- control : donde el racimo se dejó desarrollar sin intervención adicional,  
+- un tratamiento  de aclareo ligero , que consistió en un cincelad o en el interior  del racimo , 
+- un tratamiento de aclareo medio , realiz ando un  cincelado  interior más un corte de los hombros 
+del racimo  y, 
+- un tratamiento de aclareo severo , donde se realizó cinc elad o interior más el corte de los 
+hombros y cola del racimo  (Figura 1).   
+Figura 1. Racimo de uva de mesa indicando donde se encuentran los hombros y cola que serán removidos en el 
+tratamiento de aclareo medio y severo.   
+ 
+Una vez se alcanzó adecuada coloración en los primeros racimos se procedió a iniciar la cosecha. 
+La cosecha se realizó en dos  pasadas ; la primera , el 14 de septiembre del 2016 y la segunda , el 21  
+de septiembre. En recolección, l os racimos se clasificaron en función de la uniformidad del color 
+del racimo, diferenciándose aquellos con más del 80 % de bayas coloreadas  (comerciales ), y 
+aquellos con e ntre el 60-80% de bayas con buen color y  los que presentaron  <60% de bayas rojas 
+(no comerciales). La calidad de  la cosecha, definida por el color de la piel, el tamaño de la baya 
+(peso y diámetro) y su  contenido en sólidos solubles totales  (SST)  y acidez , se determinó sobre 
+una muestra de 40 bayas por tratamiento y bloque. El color de la piel se midió usando un 
+colorímetro digital (modelo CR -400, Konica Minolta Co., Osaka, Japan) y se representó usando el 
+espacio de color CIE 1976 L*a*b*. Posteriormente se calcularon l os parámetros  HUE (h °), Chroma 
+y CIRG (Carreño  et al ., 1995)  (Cuadro 1) .  
+ 
+                   Cuadro 1. Fórmulas de color para la determinación objetiva del color en uvas de mesa rojas.  
+ 
+ 
+ 
+ 
+El contenido de  solidos solubles totales  y la acidez se determin aron  a partir d el zumo de  las 40 
+bayas  de cada repetición. El contenido de SST se midió  utilizando un refractómetro digital 
+(modelo PAL -1, Atago Co., Tokyo Japan) y la acidez mediante titulación  con NaOH 0,1N, usando 
+fenolftaleína como indicador, expresándose  como g acido tartárico L -1. 
+Los datos se sometieron a un análisis de varianza (ANOVA) y las medias se separaron mediante 
+el test de Tukey usando el software Statistix 8.0.  
+  
+Parámetro  de color  Fórmula  para calcularlo  
+Hue H°= arctg  (b*/a*)  
+Chroma  C = [(a*)2 + (b*)2]0.5 
+Color Index for Red Grape  CIRG = (18O - H)/(L* + C)  Resultados  
+Efectos del aclareo de racimos sobre la pr oducción y pre cocidad  de la cosecha . 
+Una vez lo s racimos más avanzado s mostraron un nivel adecuado de coloración se inició la 
+recolección el 14 de septiembre del 2016 . En esta primera pasada se recolectaron los racimos 
+comerciales, es decir, aquello s con más del 80% de bayas coloreadas. En  la segunda recolección 
+realizada el 21 de septiembre del 2016, se recolectaron el resto de racimos , tanto los  comerciales  
+como los de  peor coloración, distinguiéndose aquellos con entre el 60 -80% de bayas coloreadas  
+y aquellos con menos del 60%.  
+El tratamiento de aclareo severo mostró una mayor precocidad ya que en la primera pasada se 
+recolectó el 36% de su producción . Este porcentaje fue claramente menor en los restantes 
+tratamientos  (21%)  (Cuadro 2 ). Los porcentajes se invirtieron en la segunda pasada, última, 
+realizada una semana más tarde.  
+Como cabía esperar, el tratamiento control sin aclareo y el aclareo ligero presentaron una mayor 
+producción total con diferencias signi ficativas con respecto al aclareo severo que presentó una 
+merma de la cosecha total de un 25%  (Cuadro 2) . El tratamiento de aclareo medio ocupó 
+posiciones intermedias,  con una reducción en la producción del 21%, mientras que el tratamiento 
+de aclareo ligero alcanzó una producción similar al control.  En la figura  2 se aprecia la 
+disminución progresiva de la producción total conforme se acentuó la intensidad del aclareo.  
+ 
+Cuadro 2. Efecto de los tratamientos de ac lareo sobre las fechas y niveles de cosecha total y comercial . 
+* Entre paréntesis porcentaje de la  producción total . 
+** Valores seguidos por distintas letras en la misma columna son significativamente diferentes (Test de Tukey para p<0,05).  
+*** Peso de los 10 racimos experimentales.  
+                                              
+Figura 2. Producción total (%) de los diferentes tratamientos de aclareo de racimos con respecto al control.   100% 99% 
+79%75%
+0102030405060708090100
+CONTROL LIGERO MEDIO SEVEROTratamiento de 
+aclareo  Primera pasada 
+(g) Segunda pasada 
+(g) Producción 
+total*** (g) Producción comercial 
+(g) 
+CONTROL  1116.5 (21%)* a** 4102.8 (79%) a   5219.3 a  2313.2 a  
+LIGERO    1083.7 (21%) a  4110.9 (79%) a  5194.6 a  2250.2 a  
+MEDIO  876.2 (21%) a  3253.2 (79%) a    4129.4 ab  1854.4 a  
+SEVERO    1398.3 (36%) a    2521.8 (64%) a  3920.1 b  2397.2 a  
+P  0.26 0.06 0.04 0.45 
+Tratamientos de aclareo  
+Producción Total (%)  Sin embargo,  no se observaron diferencias significativas  entre tratamientos para la producción 
+comercial , que osciló entre 2,2 -2,3 kg para el tratamiento control, aclareo ligero y severo, y  bajó 
+hasta 1,8 kg para el aclareo medio (producción para un total de 10 racimos  por planta) (Cuadro 
+2). El tratamiento de aclareo severo alcanzó un 61% de produc ción comercial fr ente al control 
+que solo llegó al 44% (Figura 3).    
+                                
+Figura 3. Efectos del aclareo sobre la producción comercial, tomando como referencia la producción total de cada 
+tratamiento . 
+Lógicamente, el aclareo, al eliminar bayas en los racimos, produjo diferencias entre tra tamientos 
+en el peso del racimo. Los tratamientos cont rol y de aclareo ligero produjeron  los racimos  más 
+grandes (541 y 533 g , respectivamente). El aclareo medio presen tó racimos con un tamaño 
+intermedio , en torno a los 440 g, mientras que el tratami ento de aclareo severo presentó los  
+racimos de peso significativamente menor , alrededor de los 400 g (Cuadro 3).   
+Cuadro 3. Componentes de la cosecha (producción total y come rcial) en respuesta a los diferentes tratamientos 
+de aclareo.  
+Tratamiento 
+de aclareo  Peso medio  
+del racimo (g)  Peso  medio 
+del racimo  
+comercial (g)  Número de racimos 
+comerciales** Peso medio 
+de la baya (g)  Número de b ayas   
+por racimo  
+CONTROL   540.6 a* 503.3 a  4.6 a  5.4 a  114.8 (100%) *** a 
+LIGERO  533.2 a  482.4 a  5.0 a  6.0 a  110.0 (96%)      a 
+MEDIO    437.9 ab    429.0 ab  4.8 a  5.4 a    97.7 (85%)      a 
+SEVERO  401.4 b  367.3 b  6.6 a  5.0 a    96.1 (84%)      a 
+P  0.01 0.04 0.10 0.16 0.10 
+* Valores seguidos por distintas letras en la misma columna son significativamente diferentes (Test de Tukey para p<0,05).  
+** El número de racimos por tratamiento en cada parra fue de 10.  
+*** Porcentajes tomando como valor de referencia (100%) el número de bayas del tratamiento control.  
+ 
+Con el tratamiento de aclareo más intenso aumentó el número de racimos comerciales (Cuadro 
+3). Estudiando la distribución de la producción entre clases de racimos según color  (Figura 4) , el 
+tratamiento severo presentó el 77%  de la producción con más del 80% de  las uvas con buen  color 
+y solo un 8% no superó el 60% de color (Figura 4). En cambio, e l control present ó solo un 49% 
+de la producción  con más del 80% de bayas con color, mientras que el 14% no alcanz ó el 60%. La 44% 43% 45%61%
+010203040506070
+CONTROL LIGERO MEDIO SEVERO
+Producción comercial  (%) 
+Tratamientos de aclareo  distri bución de la producción según la uniformidad del color de los tratamientos ligero y medio 
+fue similar al control (Figura 4 ).      
+ 
+               
+Figura 4. Distribución de l a producción  según la uniformidad de color  de los racimos .  
+En cuanto al número de bayas por racimo, el tratamiento control sin intervención contó con 115 
+bayas  por racimo (Cuadro 3). T omando como referencia un valor  100% para este  número de 
+bayas en el tratamiento control, las intervenciones de aclareo reduj eron  el número de bayas en 
+un 4 % en el ligero, un 15% en el medio y un 16 % en el aclareo más severo (Cuadro 3 ). Estas 
+diferencias en el número de bayas por racimo  fueron pequeñas , no significativas y  no 
+repercutieron po sitivamente en el peso de la baya . Al contrario de lo que cabía pensar, el 
+tratamiento de aclareo más severo  mostró bayas más pequeñas  (Cuadro 3).  El mismo efecto se 
+apreció sobre el calibre , aunque el promedio de todas las bayas estuvo por encima de los 1 7 mm 
+que es el adecuado para esta variedad (Cuadro 4).  
+En cuanto a los parámetros relacionados con la calidad de la cosecha no se encontraron 
+diferencias significativas entre tratamientos. El contenido de SST fue superior a los 20° Brix en 
+todos los  casos, con valores solo ligeramente superiores en el tratamiento de aclareo severo. Esta  
+ligera mejora confirma una maduración más avanzada en estas bayas. La acidez fue similar en 
+todos los tratamientos (Cuadro 4 ).  
+Cuadro 4. Calidad de la baya en respuesta a los tratamientos de aclareo.  
+* Valores seguidos por distintas letras en la misma columna son significativamente diferentes (Test de Tukey para p<0.05).  
+ 49 % 51% 52%77%
+37%40%36%
+15% 14%
+9%12%8%
+0102030405060708090
+Control Ligero Medio Severo
+>80 % Color 60 - 80 % Color <60% Color
+Tratamiento 
+de aclareo  Calibre (mm)  SST(°Brix)  TA (g L -1 ácido tartárico)  
+CONTROL  17.8 a* 20.0 a  5.4 a  
+LIGERO  18.6 a  20.2 a  5.8 a  
+MEDIO  18.1 a  20.4 a  5.0 a  
+SEVERO  17.4 a  20.8 a  5.4 a  
+P 0.18 0.19 0.16 
+Producción total de cada categoría de color (%)  Tampoco hubo diferencias debidas a los tratamientos en ninguno de los parámetros de color 
+medidos  o en los índices de color calculados . Sin em bargo, se pue de apreciar que los tratamientos 
+de aclareo severo y medio presenta ron un valor del índice CIRG  de 2,3, frente al valor de 2,0 
+observado en los tratamientos control y ligero  (Cuadro 5). Los  valores de CIRG cercanos a 0 
+corresponden a bayas de color verde y los próximos a 3 a bayas rojas.  La misma tendencia  se 
+observó para el ángulo hue (hº), que indica uvas más coloradas con valores más bajos (Cuadro 5).  
+ 
+Cuadro 5. Parámetros de color: luminosidad ( L*), c hroma (C*), hue (h °), color index for red grapes  (CIRG), 
+en respuesta a los tratamientos de aclareo.  
+Tratamiento 
+de aclareo  L* a* b* C* h° CIRG  
+CONTROL   39.5 a* 3.7 a  12.3 a  14.2 a  72.1 a  2.0 a  
+LIGERO  39.3 a  3.5 a  13.2 a  14.9 a  73.5 a  2.0 a  
+MEDIO  38.2 a  5.0 a  12.3 a 14.9 a  64.8 a  2.3 a  
+SEVERO  37.7 a  4.4 a  11.7 a  14.4 a  66.3 a  2.3 a  
+P  0.50 0.71 0.76 0.72 0.59 0.56 
+* Valores seguidos por distintas letras en la misma columna son significativamente dif erentes (Test de Tukey para p<0. 05).  
+ Por último, s e monitorearon las temperaturas durante  cuatro meses  (junio, julio, agosto y parte 
+de septiembre ) que comprenden desde el cuajado hasta la recolección del fruto. S e apreci ó 
+claramente que los meses de julio y agosto fueron los más calurosos  con una temperatura media 
+de las m áximas por encima de los 30°C  y mínimas que no baja ron de los 20 °C, y una oscilación 
+térmica de entre 9 y 11 °C (Cuadro  6). 
+Cuadro 6. Temperaturas medias  registradas en la estación meteorológica de las Palmerillas  en 2016 . 
+* Valores calculados hasta el 21 de septiembre fecha de la segunda recolección.  
+ 
+Discusió n  
+El aclareo de racimos mejoró  la calidad de la fruta ya que  se presentaron más  racimos comerciales 
+y además se adelantó la maduración  (Cuadro 2) . Este resultado tiene similitud con e l presentado 
+por El-Razek et al . (2010 ), en el que se puso de manifiesto que el aclareo  en la uva  de mesa 
+'Crimson Seedless'  aceleró en las bayas el proceso de maduración. Estudios  previos como el de 
+Guidoni et al . (2002) , menciona n que el raleo en el racimo aumenta las concentraciones de 
+cianidina, peonidina y en menor medida petunidina , antocianinas  también presentes en la uva de 
+mesa 'Crimson Seedless'  y encargadas de la coloración  de la epidermis del fruto . 
+Como consecuencia del aclareo s e produjo  una lógica merma en la producción total  conforme se 
+incrementó el nivel de aclareo . Así, en los tratamientos medio y severo los racimos fueron más 
+pequeños  obviamente por el aclareo más acusado . Sin embargo, no hay diferencias en la 
+producción comercial, es decir, teniendo racimos más pequeños, tenemos la misma producción 
+comercial porque tenemos una mayor proporción de racimos comerciales  y el aclareo mejor ó la Mes Media mensual 
+de temperatura 
+máxima (°C)  Media mensual de temperatura 
+media  (°C) Media  mensual  
+de temperatura 
+mínima  (°C) 
+JUNIO  28 22  17 
+JULIO  31 26 20 
+AGOSTO  30 25 21 
+SEPTIEMBRE* 29 24 19 uniformidad del racimo (Cuadro 2 y 3) . El estudio realizado por Franco (1996) sobre ‘Garnacha’  
+señala  que el raleo realizado en envero provoca una clara pérdida de  rendimiento, resultado 
+similar a l observado en  este estudio . Cheema et al . (1997) no reportaron efectos significativos de 
+los tratamientos de aclareo y control sobre el peso de los racimos, cuando se aplicó el raleo  en las 
+uvas 'Perlette'. Resultados similares son reportados por R oberto  et al . (2015) para  la uva sin 
+semillas 'B RS Vitória'.  
+En este estudio no  se observó  efecto positivo del aclareo sobre  el tamaño de la baya . Esto está 
+relacionado a que el aclareo fue muy tardío y no se realizó  tan oportunamente  para la ganancia 
+de tamaño en la baya (Cuadro 4) . Trabajos como el de Ben y DeJong (2006 ) mencionan la 
+importancia del aclareo realizado tempranamente ya que se reduce la competencia por 
+carbohidratos entre los frutos que permanecen en la planta; estos  disponen así de mayores 
+reservas para crecer, se prom ueve la división  y alargamiento c elular y se as egura un tamaño 
+comercial de l fruto .  
+En cuanto a l contenido en SST, todos los tratamientos presenta ron valores entorno a los 20 °Brix 
+parámetro adecuado a los índices de calidad de la variedad 'Crimson Seedless'  (Cuadro 4) .  
+Estudios como el de  Roberto et al . (2015 ) y El-Razek et al . (2010 ) mencionan que con el aclareo 
+se produce  un incremento en SST  respecto al control . Hueso (2012) menciona que la uva  
+‘Crimson’ alcanzan los 18 -19º Brix en recolección . En la acidez no se presentaron diferencias 
+significativas entre tratamientos lo que indica que los diferentes tipos de aclareo no influyeron 
+en est e parámetro (Cuadro 4) , similarmente a lo observado por Roberto et al . (2017) en la uva de 
+mesa ‘Black Star’.  
+Por último, n o hubo diferencias significativas en los parámetros de color medidos o los índices de 
+color calculados. Sin embargo, se puede apreciar que los tratamientos de aclareo severo y medio 
+presentaron un valor en el índice CIRG de 2,3 ,  esto está  acorde al CIRG que puede alcanzar la 
+variedad ‘Crimson’ que va desde los 2.0 a 4.0, siguiendo el criterio de Carreño et al . (1996)  valores 
+cercanos a 1 coloración amarillo -verde, cerca de 2 para variedades con coloración rosada, 4 
+variedades rojas, 5 en v ariedades con coloración roja a violeta oscuro, 5,7 es rojo oscuro , y más 
+alto que 6 variedades que tienen una coloración azul -negro.  Kliewer y Torres (1972) encontraron 
+que frutos de los cultivares ‘Cardinal’, ‘Pinot Noir’ y ‘Tokay’ madurados a temperatur a nocturna 
+y diurna constantes de 15 °C alcanzaron m ejor  coloración que los frutos madurados a 
+temperaturas diurnas altas de 35 °C y temperaturas nocturnas de 25 °C, o viceversa. Además, los 
+autores mencionan  que en uvas ‘Tokay’ la formación de pigmentos se inhib e a temperaturas de 
+25 °C, mientras que parece que en uvas ‘Kyoho’ las temperaturas nocturnas superiores a 15 °C 
+redu cen la síntesis de los pigmentos responsables del color, sin importar la temperatura  durante 
+el día (Mori et al ., 2005). En cambio, los racimos del presente estudio adquirieron color aún con 
+temperaturas diarias m áximas superior es a 30°C (Cuadro 6 ), lo cual podría haber sido promovido  
+por la disminución observada en las temperaturas noctu rnas ( Cuadro 6 ), ya que las oscilaciones 
+térmicas entre el día y la noche favorecen la coloración de los frutos (Steyn et al ., 2000).  En este 
+estudio, los valores más altos de CIRG se obtuvieron e n racimos con tratamiento de aclareo severo 
+y medio , mientras que los valores más bajos correspondieron al aclareo ligero y al control .  
+Conclusi ones   
+La realización de un aclareo de bayas en ‘Crimson seedless’ supuso una pérdida de cosecha  que 
+fue mayor conforme la intensidad del aclareo aumentó.  La realización del aclareo severo permitió una mayor producción comercial al favorecer el 
+número de racimos recolectados con buen color.  
+La realización de un aclareo  severo de bayas propició un a ligera precocidad en la recolección al 
+alcanzar estos racimos un a mejor coloración de un modo más temprano.   
+La realización de un aclareo severo o medio incrementó l igera, pero no significativa mente,  el 
+índice de color CIRG . 
+La realización de un aclareo de bayas no modificó significativamente otros parámetros de calidad, 
+como el tamaño de la baya, su dulzor o la ratio SST/acidez.  
+Referencia bibliográfica  
+Ben, M. M. y DeJong, T. M. (2006 ). Effect of fruit crop load on peach root growth. Acta Hort iculturae,  713:  169 -175 . 
+Cantos, E., Espín, J. C., y Tomás -Barberán, F. A. (2002). Varietal differences among the polyphenol profiles of seven table 
+grape cultivars studied by LC− DAD− MS− MS. Journal of Agricultural and Food Chemistry , 50: 5691 -5696.  
+Cantín, C., Fidelibus B.,  y Crisoto, CH. (2007). Application of abscisic acid (ABA) at veraison advanced red color 
+development and maintained postharvest quality of ‘Crimson Seedless’ grapes. Post harvest  Biol ogy and Technol ogy,  
+46: 237 -241.  
+Carreño, J., Martinez, A., Almela, L., y Fernández -López, J. A. (1995). Proposal of an index for the objective evaluation of 
+the colour of red table grapes. Food Research International, 28 : 373 -377.  
+Carreño, J., Martínez, A., Almela, L., y Fernández‐López, J. A. (1996). Measuring the color of ta ble grapes. Color Research 
+& Application , 21: 50-54. 
+Cheema, S., B indra, A. S., Dhaliwal, H. S., y  Dhillon, W. S. (1997). Effect of flower thinning, girdling and gibberellic acid 
+on fruit quality of Perlette grapes. J. Res. Pb. Agric. Univ, 34, 163 -167.  
+Chitarra, M.I.F.,  y Chitarra, A.B. (2005).  Pós-colheita de frutas e hortaliças: fisiologia e manuseio.  Lavras: UFLA, 785p.  
+Deluc, L. G., Quilici, D. R., Decendit, A., Grimplet, J., Wheatley, M. D., Schlauch, K. A., y Cramer, G. R. (2009). Water deficit 
+alters differentially metabolic pathways affecting important flavor and quality traits in grape berries of Cabernet 
+Sauvignon and Chardonnay. BMC genomics, 10 : 212.  
+Dokoozlian, N. K., y Hirschfelt, D. J. (1995). The influence of cluster thinn ing at various stages of fruit development on 
+Flame Seedless table grapes. American Journal of Enology and Viticulture, 46, 429 -436.  
+El-Razek, E. A., Treutter, D., Saleh, M. M. S., El -Shammaa, M., Fouad, A. A., Abdel -Hamid, N., y Abou -Rawash, M. (2010). 
+Effect of defoliation and fruit thinning on fruit quality of ‘Crimson Seedless’ grape. Research Journal of Agricultu re and 
+Biological S ciences, 6 , 289 -295.  
+Franco , E. (1996). Aclareo de racimos en Garnacha tinta. Control de la producción. Efecto sobre la fecha de vendimia y 
+calidad del vino. Viticultura Enología Profesional, 46, 25 -29. 
+Guidoni, S., Allara, P., y Schubert, A. (2002). Effect of cluster thinning on berry skin anthocyanin composition of Vitis 
+vinifera cv. Nebbiolo. American Journal of Enology and Viticulture, 53, 224 -226.  
+Hueso, M. (2012). Manejo y técnicas de cultivo en uva de mesa apirena. Edita: Fundación Cajamar. Espa ña. 
+Jensen, F. L., Kissler, J. J., Peacock, W. L.,  yLeavitt, G. M. (1975). Effect of ethephon on color and fruit characteristics of  
+‘Tokay  'and  'Emperor'  table grapes. American Journal of Enology and Viticulture , 26: 79-81.  
+Jeong, ST., Uoto, N .G., Kobayashi, S.,  y Esaka, M. (2004). Effects of plant hormones and shading on the accumulation of 
+anthocyanins and the expression of anthocyanin biosynthetic genes in grape berry skins. Plant Sci ence , 167: 247 -252.   
+Jiménez, C. M., y Díaz, J. B. R. (2002). Fruit distribution and early thinning intensity influence fruit quality and 
+productivity of peach and nectarine trees. Journal of the American Society for Horticultural Science, 127 : 892 -900.  Kliewer, W. M., y Torres, R. E. (1972). Effect of controlled day  and night temperatures on grape coloration. American 
+Journal of  Enology and Viticulture, 23:  71-77. 
+Koyama, R., Assis, A.M., Yamamoto, L.Y., Prudencio S.H ., y Roberto S.R. (2015). Análise sensorial do suco integral de uva 
+‘Isabel’ submetida à aplicação de ácido abscísico. Revista Bras ileira  de Frutic ultura,  37: 893 -901.   
+Lurie, S., Ovadia, R., Nissim -Levi, A., Oren -Shamir, M., Kaplunov, T., Zutahy, Y., y Lichter, A. (2009). Abscisi c acid 
+improves colour development in ‘Crimson Seedless’ grapes in the vineyard and on detached berries. The Journal of 
+Horticultural Science and Biotechnology , 84:639 -644.  
+Matus, M., Rodriguez, J. , y Ocvirk, M. (2006). Cluster thinning on Vitis vinifera  cv. Malbec. Effect on yield components 
+and berry phenolic composition. Revista de la Facultad de Ciencias Agrarias, Universidad nacional de Cuyo, 38, 105 -
+112.  
+Mori, K., Sugaya, S. , y Gemma, H. (2005). Decreased anthocyanin biosynthesis in grape berries grown under elevated 
+night temperature condition. Scientia Horticulturae , 105 :319 -330.  
+Neto, F. J. D., Tecchio, M. A., Junior, A. P., Thais, B., Vedoato, F., Lima, G. P. P., y Roberto, S. R. (2017). Effec t of ABA on 
+colour of berries, anthocyanin accumulation and total phenolic compounds of ‘Rubi’  table grape ( Vitis vinifera ). 
+Australian Journal of Crop Science 11 : 199 -205.  
+Osborne, J. L., Robinson, T. L. , y Parra -Quezada, R. (2005). Chemical blossom thinning agents reduce crop load of “Rising 
+Star” peach in New York. Acta Hort iculturae,  727:  423 -428.  
+Osborne, J. L. y Robinson, T. L. (2008). Chemical peach thinning: Understanding the relationship between cr op load and 
+crop value. New York Fruit Quarterly 16:19 -23. 
+Ovadia, R., Oren -Shamir, M., Kaplunov, T., Zutahy, Y., Lichter, A. , y Lurie, S. (2013). Effects of plant growth regulators 
+and high temperature on colour development in ‘Crimson Seedless’ grapes. The Journal of Horticultural Science and 
+Biotechnology , 88: 387 -392.  
+Peppi, M. C., y Fidelibus, M. W. (2006). Application, timing and concentration of abscisic acid or ethephon and their 
+effects on color of 'crimson seedless' table grapes. In XXVII Interna tional Horticultural Congress -IHC2006: 
+International Symposium on Endogenous and Exogenous Plant Bioregulators 774 : 173 -178.  
+Peppi, M. C., Fidelibus, M. W. , y Dokoozlian, N. K. (2007). Application timing and concentration of abscisic acid affect the 
+quality of ‘Redglobe’grapes. The Journal of Horticultural Science and Biotechnology , 82: 304 -310.  
+Peppi, Uchilecrea, Cecilia. (201 7). http://www.redagricola.pe/desarrollo -manejo -color -uva-mesa/   
+Pinillos, V., Chiamolera, F. M., Ortiz, J. F., Hueso, J. J., y Cuevas, J. (2016). Post -veraison regulated deficit irrigation in 
+‘Crimson Seedless’ table grape saves water and improves berry skin color. Agricultural Water Management , 165 : 181 -
+189.  
+Reighard, G. L.; Ouelette, D. R. , y Brock, K. H. (2006). Pre -bloom thinning  of peach flower buds with soybean Oil in South 
+Carolina. Acta Hort iculturae,  727:  345 -351.  
+Roberto, S. R., Borges, W. F. S., Colombo, R. C., Koyama, R., Hussain, I., y de Souza, R. T. (2015). Berry -cluster thinning to 
+prevent bunch compactness of ‘BRS Vitoria’, a new black seedless grape. Scientia Horticulturae, 197, 297 -303.  
+Roberto, S. R., Mas hima, C. H., Colombo, R. C., Assis, A. M. D., Koyama, R., Yamamoto, L. Y., y Souza, R. T. D. (2017). Berry -
+cluster thinning to reduce compactness of ‘Black Star’ta ble grapes. Ciência Rural, 47.  
+Shahidian, S., Valverde, P., Coelho, R., Santos, A., Vaz, M., Rato, A., y Rodrigues, S. (2016). Leaf water potential and sap 
+flow as indicators of water stress in Crimson ‘seedless’ grapevines under different irrigation strategies. Theoretical and 
+Experimental Plant Physiology , 28: 221 -239.  
+Silva, D. F. P. D., Salomão, L. C. C., Cecon, P. R., Siqueira, D. L., y Rocha, A. (2011). Anticipation of'  ’ubá'  mango ripening 
+with preharvest ethephon application. Ciência Rural, 41 :63-69. 
+Spayd, S. E., Tarara, J. M., Mee, D. L., y Ferguson, J. C. (2002). Separation of sunlight and temperature effects on the 
+composition of Vitis vinifera cv. Merlot berries. American Journal of Enology and Viticulture , 53: 171 -182.  Steyn , W. J., Holcroft, S . J., Wand, N . C., y Cooks, G. J.  (2000) Dating Rosemarie: How to make her blush? Proceedings of 
+the Cape Pomological Association Symposium. pp:  55-62. 
+Winkler, A. J., Cook, J. A., Kliewer, W. M., y Lider. L. A.  (1974). General Viticulture. University of California Press. 
+California. USA. 709 p.  
+ 
+ 
+ 
+ 

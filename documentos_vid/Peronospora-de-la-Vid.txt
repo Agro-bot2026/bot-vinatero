@@ -1,0 +1,2869 @@
+RESIS TEN CIA A 
+PERONÓSP ORA 
+EN VID
+OBSERV ATORIO VITIVINÍC OLA AR GENTINO
+2016       ÍndiceRESIS TENCIA A PER ONÓSPORA EN VID
+1PÁGINA
+Resumen ejecutivo 
+Introducción    
+Alcances y objetivos    
+Metodología 
+Peronospora de la Vid   
+Análisis de publicaciones encontradas 
+Análisis de patentes encontradas 
+Análisis de proyectos 
+Búsqueda y análisis de información a partir 
+de otras fuentes de información   
+Conclusiones      
+Bibliografía y fuentes de información utilizadas 
+Anexo I: Publicaciones encontradas     
+Anexo II: Patentes encontradas 2
+3
+4
+4
+6
+12
+16
+21
+26
+28
+32
+33
+59Resumen ejecutiv oRESIS TENCIA A PER ONÓSPORA EN VID
+2El presente trabajo corresponde a “Resistencia de peronóspor a en vid” y ha sido 
+desar rollado en el marco de la creación de la Unidad Territorial de Vigilancia Tecnológica 
+e Intelig encia Com petitiv a – Sect or Vitivinícola que es coordinada por el Obser vatorio 
+Vitivinícola Argentino (Cor poración Vitivínicola Argentina y Bolsa de Comer cio de 
+Mendoza) y cuent a con la colabor ación de distintos prof esionales que represent an a la 
+Universidad Nacional de Cuyo (UNCuyo), Asociación de Cooper ativas Vitivinícolas de 
+Argentina (ACOVI) ,Bodegas de Argentina, Conice t Mendoza, Asociación Ad-hoc de 
+Investigación y Desar rollo de la Corporación Vitivinícola Argentina, Institut o de Biología 
+Agrícola de Mendoza (IBAM), Institut o Nacional de Vitivinicultur a (INV), Trivento 
+Bodegas y Viñedos y  Catena Wine Institute.
+Cabe destacar la activ a participación y apor tes de: Germán Puga, Darío Erquicia y Micaela 
+Balbi (Obser vatorio Vitivinícola Argentino), María José Mescolatti (ACOVI), Laur a 
+Altur ria (Bodegas de Argentina), Feder ico Berli y Diana Segur a (IBAM), Pablo Pizzuolo 
+(UNCuyo) y Rodrigo Alonso (Catena WIne Institute).
+El obje tivo centr al de este informe consis te en descr ibir los principales avances y 
+tendencias locales e inter nacionales asociados al control de Peronóspor a a través de 
+vides resistentes. 
+El presente estudio panor ámico de vigilancia tecnológica e intelig encia com petitiv a 
+forma parte de una serie de estudios que buscan obtener una visión gener al y una 
+proyección futur a de las tecnologías relacionadas a vides resistentes al patógeno 
+Plasmopar a vitícola.
+Para ello se han utilizado técnicas de la disciplina de vigilancia e intelig encia 
+tecnológica, orient adas a la búsq ueda de publicaciones científ icas, por un lado, y de 
+patentes, por el otro, y analizar en forma estadís tica la evolución de la cantidad de 
+publicaciones o patentes de los últimos años; los países con mayor cantidad de 
+publicaciones o patentes; las organizaciones y autores/inv entores con mayor cantidad 
+de trabajos publicados o patentes.
+Finalmente se present a una serie de conclusiones que consider amos relevantes, 
+incluyendo el análisis de tendencias y la apar ición reciente de nuevas tecnologías que 
+ilustran los temas con mayor inter és actual o probable proyección futur a.
+Se esper a que esta información obtenida ínteg ramente sobr e la base del análisis obje tivo 
+y fundament ado de datos disponibles y com probables, pueda contr ibuir a guiar planes de 
+acción de los ámbit os públicos y privados.PÁGINA
+Resumen ejecutivo 
+Introducción    
+Alcances y objetivos    
+Metodología 
+Peronospora de la Vid   
+Análisis de publicaciones encontradas 
+Análisis de patentes encontradas 
+Análisis de proyectos 
+Búsqueda y análisis de información a partir 
+de otras fuentes de información   
+Conclusiones      
+Bibliografía y fuentes de información utilizadas 
+Anexo I: Publicaciones encontradas     
+Anexo II: Patentes encontradas 2
+3
+4
+4
+6
+12
+16
+21
+26
+28
+32
+33
+591. Intr oducción
+La peronóspor a es una de las enfermedades de la vid más importantes a nivel mundial. El 
+cultiv o en Argentina no escapa a ella y los daños producidos por la misma tienen un 
+impact o negativ o enor me, causando grandes daños en numerosas cam pañas. 
+El control de la enfermedad, si bien puede ser com plement ado con tratos cultur ales 
+específ icos, es realizado con fungicidas. Esto signif ica que deben realizar se aplicaciones 
+con product os químicos, lo cual prov oca problemas para el personal que aplica dichos 
+product os, además de aument ar los gastos de producción.
+El veloz y prome tedor avance de la genética en las últimas décadas ha permitido la 
+identif icación y el desar rollo de diferentes especies resistentes a diversas enfermedades. 
+La vid es una especie que ha sido muy estudiada. Y por la importancia de la peronóspor a 
+como enfermedad de la vid, result a inter esante investigar el estado de conocimient os 
+sobr e el tema. 
+Es así como surg e un inter rogante principal, mot or de esta investigación: ¿Cuál es el 
+estado de conocimient o y desar rollo sobr e variedades de vid resistentes a peronóspor a y 
+qué se puede concluir al respect o?
+La Vigilancia Tecnológica, como conjunt o de técnicas que utilizan herramient as claves 
+para la identif icación de avances en la ciencia, permite enfr entarse a este inter rogante. 
+De esta maner a puede redact arse un panor ama de conocimient os y avances sobr e el 
+tema, y elabor ar conclusiones. RESIS TENCIA A PER ONÓSPORA EN VID
+Imag en 1: 
+Parral severamente 
+afectado por 
+peronóspor a. 
+Foto gentileza 
+Huber to Lucero
+3
+http://jv enesem prendedores.blogspot.com.ar/20 14_02_0 1_archiv e.htmlEl alcance del presente estudio es el del estado de conocimient o y desar rollo sobr e vides 
+resistentes a Pernóspor a y forma parte de una serie de estudios de vigilancia e 
+intelig encia tecnológica en los que los desafíos fueron la obtención de la información 
+actualizada y relevante y el procesamient o efectiv o de la enor me cantidad de 
+información result ante.
+Para el estudio de vigilancia tecnológica realizado se ha seguido una serie de pasos que 
+pueden verse en el siguiente esquema:2. Alcances y objetiv os
+3.  Met odología
+GRÁFIC O 1: 
+Pasos seguidos
+en el estudio. 
+METODOLOGÍABúsqueda de 
+información en int ernet 
+y elaboración del 
+plan de trabajo.Búsqueda 
+de publicaciones en 
+SCOPUS y de pat entes 
+en P ATENT SCOPE.
+Análisis de la 
+información r ecopilada 
+y elaboración de 
+panorama 
+general.
+Conclusiones y 
+redacción del 
+informe f inal.RESIS TENCIA A PER ONÓSPORA EN VID
+Se han utilizado tres tipos de fuentes de información: inter net, habiéndose utilizando 
+entr e otras herramient as un software específ ico para vigilancia tecnológica 
+denominado VigTeg; publicaciones, buscadas en la base de datos SCOPUS; y patentes, 
+habiéndose usado la base de datos ESPACENET . La información recopilada fue 
+posteriormente analizada.
+4GRÁFIC O 2: 
+Informaciones analizadas. 
+INTERNETPUBLIC ACIONES
+PATENTESANÁLISIS
+En la búsq ueda de publicaciones en SCOPUS, la ecuación utilizada fue: (TITLE-ABS-
+KEY((Plasmopar a-viticola OR downy mildew) AND (vitis OR g rapevine) AND r esistan*)). 
+En la de patentes en ESPACENET la ecuación fue: ((Plasmopar a* OR downy*) and (vitis OR 
+grape*) AND resistan*).RESIS TENCIA A PER ONÓSPORA EN VID
+54. Peronóspora de la V id
+CARA CTERÍS TICAS DE L A ENFERMED AD*1
+La peronóspor a de la vid es una enfermedad que está entr e las que causan los mayores 
+perjuicios a la vitivinicultur a argentina. Prov oca graves daños cuando las condiciones 
+climáticas son predisponentes, debido a que ataca a todos los órganos verdes de la 
+plant a.
+Esta enfermedad se cree originar ia de Norteamér ica. Causó la tercera calamidad de la 
+viticultur a europea a partir de 1876, y contr ibuyó al éxodo de miles de europeos hacia 
+Amér ica. Una curiosidad es que ayudó al descubr imient o del caldo bordelés como 
+fungicida. En Argentina, diezmó la producción de vid en Entr e Ríos, obligando a 
+reem plazar la por cítricos. 
+Las pérdidas económicas pueden ser muy importantes. Si bien existe un avanzado 
+conocimient o de su biología y podría recur rise a variadas herramient as para un manejo 
+racional de la enfermedad,  los daños siguen siendo muy serios, tal es así que, en algunas 
+cam pañas ha sido la enfermedad que más problemática ha causado en los viñedos 
+argentinos.
+Entr e los daños más importantes puede mencionar se pérdida de la producción (puede  
+ser total), desv alor ización de la cosecha, retraso de la fecha de vendimia y predisposición 
+a pérdidas por podr edumbr e. El manejo no adecuado de la enfermedad puede tener 
+diversas consecuencias, entr e ellas: mediano plazo, puede ser responsable de una 
+disminución del rendimient o cuantit ativo en la cam paña siguiente, y a largo plazo, de un 
+debilit amient o prog resivo del vigor del viñedo situación ésta última, que puede 
+predisponer al cultiv o al ataque de otras enfermedades como aquellas que inter esan a la 
+mader a. RESIS TENCIA A PER ONÓSPORA EN VID
+Imag en 2: 
+Desar rollo de la 
+peronóspor a en 
+hoja de vid.
+http://www .grauhall.com/3863 101_Plasmopar a_viticola_on_g rape_xs_400x.jpg
+6El agente causal es un microorganismo denominado Plasmopar a viticola.  Durante el 
+invier no se conser va en el suelo, en las hojas secas de la vid, bajo la forma de oospor as 
+(element os de propagación y resistencia caracterís ticos de estos microorganismos). 
+Estos element os de propagación pueden permanecer vitales por varios años. En la 
+primavera, el patógeno se disper sará gracias a los zoospor angios. Element os éstos 
+últimos de propagación que serán transpor tados por las gotas de lluvia y/o corrientes de 
+aire hasta la canopia de las plant as, dónde, en presencia de agua libre, se resolv erán en 
+zoospor as. Estas nadar án hasta los estomas, lugar en el cual se enquistarán, 
+germinar án y pene traran al inter ior del tejido del órgano suscep tible. 
+Así, comienza el período de incubación de la infección primar ia. Este período, 
+com prendido entr e la infección y la apar ición de los síntomas puede variar a cam po, 
+según las condiciones ambient ales, entr e 7 y 18 días. En situaciones particular es puede 
+prolongar se mucho más tiem po. Transcur rido este lapso y con condiciones de humedad 
+relativ a elevada, mayor al 90 %, e inducidos por la oscur idad, se formarán los nuevos 
+zoospor angios q ue continuar án la disper sión del pat ógeno. En pr esencia de agua libr e 
+sobr e los órganos suscep tibles, se producir án las infecciones secundar ias. Éstas, podr án 
+repetirse varias veces durante el ciclo vegetativo de la vid dependiendo de las 
+condiciones ambient ales. 
+GRÁFIC O 3: Ciclo de vida de Plasmopar a vitícola.
+CICLO DE VID A DE 
+PLASMOP ARAVITÍC OLA
+CONDICIONES 
+FAVORABLES
+FASE DE REPR ODUCCIÓN
+ASEXU AL: ESPORA GIÓFOR OSFASE VEGET ATIVA:
+MICELIO DIPLOIDECONDICIONES 
+DESF AVORABLES
+R!
+K!FORMA CIÓN DE 
+OOGONIOS Y
+ANTERIDIOS (N)
+PLASMOGAMIA
+POR C ONTACTO
+GAMET ANGIAL
+FORMA CIÓN DE 
+OOSPERA DE
+RESIS TENCIA
+LATENCIAGERMINA CIÓN 
+DE LOS CIS TES
+ENCIS TAMIENTOCISTE
+GERMINA CIÓN 
+DE ESPORANGIOS
+SOBRE L AS HOJ AS
+DISPERSIÓN
+POR EL 
+VIENTO
+FORMA CIÓN
+Y LIBERA CIÓN
+DE ESPORANGIOS
+ESPORANGIÓFOROSGERMINA CIÓN 
+DE L A OOSPERA ZIGOTO (2N)
+© C. R OMER O ZAR CO, USE 200 1 - www .aloj.us.es/car romzar/Bo tanica_I/T emas_Bo tanica_I/T5_Ameboides.htmlRESIS TENCIA A PER ONÓSPORA EN VID
+7Al iniciar se el v erano comenzar an a f ormarse, en las hojas lesionadas, nue vas oospor as 
+que cons tituir án la nueva fuente de inóculo para el próximo período vegetativo.
+Las condiciones ambient ales influyen decisiv amente en el desar rollo de la enfermedad. 
+Son condiciones para:
+ La infección primar ia: humedad en el suelo mínima equivalente, a la alcanzada por una 
+lluvia de 10 mm, brotes de más de 10 cm de largo, y temperatur a mínima super iores a 
+10°C por al menos tres días. Esto es lo que se conoce en el medio como la regla de los tres 
+10. La condición de lluvias normalmente se cum ple con el riego, en aquellas zonas dónde 
+esta última práctica, es necesar ia para el cultiv o. Las otras dos se cum plen gener almente 
+desde octubr e en la mayoría de las regiones vitivinícolas. A estas condiciones se agrega la 
+necesidad de cont ar con agua libre sobr e los órganos suscep tibles.
+ La infección secundar ia: agua libre sobr e órganos suscep tibles por al menos 2 horas, 
+temperatur a óptima entr e 15 y 25ºC. 
+La temperatur a influye directamente sobr e el ciclo de la enfermedad, ésta última, puede 
+reducir o alargar el período incubación. Cuando la temperatur a es óptima, entr e 20-24ºC 
+el ciclo podría cum plirse en apro ximadamente una semana. Las temperatur as límites son 
+5ºC y 30ºC.
+DAÑOS
+La peronóspor a puede afectar a los órganos verdes de la vid siem pre y cuando los 
+estomas, que estas estructur as poseen, se encuentr en funcionales. Preferentemente los 
+ataques se obser van en: todos los órganos aéreos de la vid y durante todos los períodos 
+de su desar rollo, localizándose preferentemente en:RESIS TENCIA A PER ONÓSPORA EN VID
+Imag en 3: 
+Cara adaxial 
+de una hoja 
+de vid con 
+peronóspor a. 
+http://int a.gob.ar/noticias/inf orme-sanit ario-mildiu-o-peronospor a-en-vid
+8HOJ AS: se present a bajo la forma de “manchas de aceite” inicialmente, luego 
+evolucionan a cloróticas pudiendo alcanzar varios centíme tros de diáme tro, son visibles 
+en ambas caras de la hoja. Si las condiciones ambient ales son favorables apar ecer án, en 
+la cara inferior de las hojas, en coincidencia con las lesiones una eflorescencia 
+blanq uecina que cons tituyen los element os de reproducción del patógeno. Cuando las 
+hojas adult as son atacadas estas, manif iestan lesiones en forma de mosaico (manchas 
+poliédr icas en las cuales se alter nan distintos tonos de verde). Los ataques intensos 
+pueden producir desf oliación, la cual incidir á tanto en la cantidad y calidad de la 
+cosecha, como en el buen agos tamient o de los sarmient os y hasta en la brot ación del 
+próximo período vegetativo.
+RACIMO: Si la infección se produce entr e 
+floración y grano en arveja el racimo 
+entero se deshidr atará, oscur ecer á y 
+necrosar á. Durante este proceso el 
+racimo adquier e la forma de "S". Entr e el 
+estado de grano en arveja y envero sólo 
+serán afectadas bayas aisladas o algunas 
+de una misma raquilla. Estas bayas se 
+pardean, arrugan y pueden finalmente 
+caer . Si las condiciones ambient ales son 
+favorables se obser vará sobr e los 
+órganos afectados la eflorescencia 
+blanq uecina caracterís tica. Luego de 
+envero las bayas no son afectadas. 
+ RESIS TENCIA A PER ONÓSPORA EN VID
+Imag en 4: 
+Cara abaxial 
+de una hoja 
+de vid con 
+peronóspor a. 
+http://www .viar ural.com.ar/viar ural.com.ar/insumosag ropecuar ios/ag ricolas/ag roquimicos
+/cheminov a/especies/plasmopar a-viticola-0 1.htm
+http://www .diccionar iodelvino.com/inde x.php/mildiu-plasmopar a-viticola-/Imag en 5: 
+Racimo con peronóspor a.
+9RESIS TENCIA A PER ONÓSPORA EN VID
+RECOMEND ACIONES
+Las v ariedades q ue mues tran ma yor suscep tibilidad a peronóspor a son P edro Giménez, 
+Criollas, Almería, Moscatel Rosado, Ugni Blanc y Cereza.
+Las labor es que favorecen una mayor ventilación del viñedo disminuyen la intensidad del 
+ataque. El control de esta enfermedad debe ser siem pre preventiv o ya que una vez 
+producida la infección, el manejo es sumamente dificult oso aun, con la ayuda de los 
+diversos fungicidas de síntesis ofrecidos en el mercado y permitidos para el cultiv o de la 
+vid. Los moment os opor tunos para el control están relacionados con la presencia de agua 
+libre sobr e los órganos suscep tibles, humedad relativ a elevada y estado de desar rollo del 
+vegetal. Las hojas de los pám panos podr án ser afectadas a partir de que el brote tenga 
+más de 10 cm de largo. El período de mayor suscep tibilidad de los racimos es el 
+com prendido entr e floración y grano en arveja, luego, disminuye hasta envero; 
+posteriormente, las bayas no pueden ser afectadas. Siem pre deber á respe tarse el 
+período de carencia del product o empleado. El éxito de la protección consis te en efectuar 
+los tratamient os en forma opor tuna y adecuada para impedir o detener la germinación 
+de las oospor as. 
+Con product os de cont acto en base a cobr e o de síntesis regis trados para la enfermedad y 
+el cultiv o. Las aplicaciones deben efectuar se, antes o inmediat amente después de 
+producida una lluvia. Esto limit ará el establecimient o de nuevas infecciones. Los 
+tratamient os fungicidas podr án repetirse cada 12-15 días dependiendo de que las 
+condiciones favorables para el desar rollo de la enfermedad persistan y del fungicida 
+utilizado.TRATAMIENT OS
+Tratamient os pr eventiv os:
+Tabla 1: FUN GICID AS DE CONT ACTO PREVENTIV OS P ARA PER ONÓSPORA
+PRODUCTO Y FORMUL ACIÓN
+inta.gob.ar/no ticias/anticipar se-a-la-peronosporaDOSIS C/1 00 L DE A GUA
+1-1,5%
+180 g
+160 g
+160 g
+200 g
+250 g
+300-400 g
+200 g
+250 g
+250 gCaldo bordelés
+Captan 80% WP
+Folpe t 80% WP
+Hidróxido de Cobre 8 7,25% WP
+Mancozeb 80% WP
+Maneb 80% + Suf ato de Zinc 3% WP
+Oxiclor uro de Cobre 8 4 - 85 % WP
+Propineb 70% WP
+Zineb 70% WP
+Ziram 90% WP14
+25
+20
+14
+21
+14
+14
+7
+10
+7PC
+10
+15
+2
+10
+5
+-
+10
+5
+5
+5LMR (ppm)
+10RESIS TENCIA A PER ONÓSPORA EN VID
+TRATAMIENT OS CURA TIVOS O POS TERIORES A L A INFECCIÓN:
+Con product os sistémicos en base a fosetil aluminio, metalaxil u ofur ace mezclados con 
+otros product os de síntesis. Puede tener buena acción curativa el metalaxil aplicado 
+hasta un plazo no mayor de 3 días desde la infección. Estos product os además, al ser 
+absorbidos rápidamente, no necesit an ser aplicados nuevamente luego de una lluvia 
+intensa. La persistencia de estos puede alcanzar los 12 a 15 días dependiendo de que 
+hayan sido correctamente aplicados. Para evitar la apar ición de cepas resistentes no 
+debe abusar se del uso de los product os sistémicos, es recomendable inter cambiar los con 
+product os de cont acto.
+TABL A 2: FUN GICID AS SIS TÉMIC OS P ARA PER ONÓSPORA .
+PRODUCTO Y FORMUL ACIÓN
+inta.gob.ar/no ticias/anticipar se-a-la-peronosporaDOSIS C ADA 
+100 L DE A GUA
+250 g
+300 g
+250 gBenalaxil 8% + Mancozeb 65% WP
+Folpe t 25% + Fose til Al 50% WP
+Mancozeb 64 % WP + Me talaxil 4 %21
+40
+7PC
+0,2; 5
+2; 20
+5; 1LMR (ppm)
+Cabe aclar ar dos abreviatur as. PC signif ica periodo de carencia, y es el tiem po en días que 
+deben transcur rir desde el último tratamient o fitosanit ario hasta cosecha. LMR es el 
+límite máximo de residuos.
+Para lograr un apropiado manejo de los product os químicos se recomienda:
+ Utilizar siem pre product os regis trados para su uso en vid.
+ Respe tar el moment o de aplicación.
+ Utilizar la maq uinar ia adecuada y en perfectas condiciones de uso.
+*1: Adaptado de http://www .inv.gob.ar/in v_contenidos/pdf/f oro/20 14/9-INV-
+Enfer medadesdelaCanopia.pdf y de http://inta.gob.ar/sites/default/f iles/scr ipt-tm p-peronospor a.pdf. 
+Acceso al 12/12/20 16. 
+115. Análisis de publicaciones encontradas
+Debido a la natur aleza de la temática, la importancia del análisis de publicaciones es 
+enor me y al mismo tiem po esencial. Es por eso que se realizó un análisis detallado de las 
+publicaciones. 
+Al realizar una búsq ueda con la ecuación (TITLE-ABS-KEY((Plasmopar a-viticola OR 
+downy mildew) AND (vitis OR grapevine) AND resistan*)) en la base de datos SCOPUS, 
+221 result ados fueron obtenidos en diciembr e de 2016.
+La evolución de la cantidad de document os por año mues tra una tendencia al aument o. 
+Esto puede verse con claridad después del año 2000. El promedio de publicaciones desde 
+el año 2006 hasta 2016 (diciembr e) es de 20. RESIS TENCIA A PER ONÓSPORA EN VID
+DOCUMENTOS POR AÑO
+051015202530
+2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 201671722
+191819 19252728
+20
+Fuente: Elabor ación propia en base a SCOPUS
+Los artículos result antes de la búsq ueda pueden verse distribuidas en 88 fuentes. Cinco 
+revistas (Acta Horticultur ae, Vitis Jour nal Of Grapevine Resear ch, European Jour nal Of 
+Plant Pathology , Theor etical And Applied Gene tics, y Phyt opat hology) concentr an casi la 
+mitad de los result ados. 
+DOCUMENTOS POR FUENTE
+50 60 70 0 10 20 30 40ACTA HOR TICUL TURAEPHYTOP ATHOLOGY
+VITIS JOURNAL OF GRAPEVINE RESEARCHEUROPEAN JOURNAL OF PLANT P ATHOLOGYTHEORETICAL AND APPLIED GENETICS9
+10
+12
+18
+59
+Fuente: Elabor ación propia en base a SCOPUS
+12RESIS TENCIA A PER ONÓSPORA EN VID
+Los document os encontr ados están automáticamente categor izados en 12 temáticas 
+principales. La mayoría están incluidos en agricultur a y biología, o bioq uímica, genética 
+y biología molecular . 
+DOCUMENTOS POR TEMA
+0 50 100 150 200 250 300AGRICUL TURA Y BIOLOGÍABIOQUÍMICA, GENÉTICA 
+Y BIOLOGÍA MLECULARMEDICINAIMMUNOLOGÍA Y 
+MICROBIOLOGÍAQUÍMICA
+25 75 125 175 225 275
+Fuente: Elabor ación propia en base a SCOPUS5
+9
+29
+102
+247
+Casi el 80% de los document os son artículos, aunq ue también muchos son paper s de 
+conf erencias. Pocos result ados están vinculados con capítulos de libros, review s o 
+artículos de prensa.
+DOCUMENTOS SEGÚN TIPO
+ARTÍCULO
+PAPER DE CONFERENCIA
+CAPÍTULO DE LIBRO
+REVIEW
+ARTÍCULO DE PRENSA
+Fuente: Elabor ación propia en base a SCOPUS22040665
+13RESIS TENCIA A PER ONÓSPORA EN VID
+En cuant o al país de origen de las investigaciones y publicaciones, puede inducir se que 
+existe una importante colabor ación entr e investigador es de diferentes nacionalidades. 
+Los países con más document os son Italia, Alemania, Francia, Suiza y Estados Unidos. 
+También se destacan otros como China, España y Hung ría. Ningún result ado existe para 
+Argentina. 
+0 10 20 30 40 50 60ITALIAALEMANIAFRANCIASUIZAESTADOS 
+UNIDOS
+5 15 25 35 45 55DOCUMENTOS POR P AÍS
+Fuente: Elabor ación propia en base a SCOPUS32
+33
+49
+52
+57
+Los autores del total de publicaciones encontr adas son 158, con un mínimo de dos 
+publicaciones cada uno. Diez aut ores tienen más de 1 0 document os, y 45 más de 5. Los 
+principales son Merdinog lu, Topfer, Zypr ian, Pertot y Eibach. 
+0 5 10 15 20MERDINOGLU, D.TÖPFER, R.ZYPRIAN, E.PERTOT, I.EIBACH, R.DOCUMENTOS POR A UTOR
+Fuente: Elabor ación propia en base a SCOPUS14
+15
+16
+18
+18
+14RESIS TENCIA A PER ONÓSPORA EN VID
+Las afiliaciones result antes son 160. Las cinco que tienen más document os son INRA 
+Colmar , Universite de Strasbourg, Universita degli Studi di Udine, Istitut o Agrario San 
+Michele all'A dige, y CSIC - Mision Biologica de Galicia MBG. Le siguen Forschungsans talt 
+Agroscope Changins-Wadenswil, Eidgenossische Technische Hochschule Zurich, 
+Universita degli Studi di Verona, e INRA Bordeaux-A quitaine. El INRA en su conjunt o 
+cuent a con 34 document os publicados.
+0 5 10 15 20 25 30INRA COLMARUNIVERSITE DE STRASBOURGUNIVERSIT A DEGLI STUDI DI UDINEISTITUTO AGRARIO 
+SAN MICHELE ALL'ADIGECSIC - MISION BIOLOGICA 
+DE GALICIA MBGDOCUMENTOS POR AFILIA CIÓN
+Fuente: Elabor ación propia en base a SCOPUS14
+16
+16
+17
+24
+En el anexo I se present an los resúmenes (en inglés) de las 37 publicaciones que fueron 
+seleccionadas como las más relevantes para su análisis.
+Primero, se seleccionaron las publicaciones de SCOPUS que respondier an a la siguiente 
+ecuación:
+TITLE ( ( plasmopar a-
+viticola  OR  downy  mildew )  AND  ( vitis  OR  grapevine )  AND  resis tan* )  AND  ( LIMIT-
+TO ( PUBYEAR ,  2017 )  OR  LIMIT-T O ( PUBYEAR ,  2016 )  OR  LIMIT-
+TO ( PUBYEAR ,  2015 )  OR  LIMIT-T O ( PUBYEAR ,  2014 )  OR  LIMIT-
+TO ( PUBYEAR ,  2013 )  OR  LIMIT-T O ( PUBYEAR ,  2012 )  OR  LIMIT-
+TO ( PUBYEAR ,  2011 )  OR  LIMIT-T O ( PUBYEAR ,  2010 )  OR  LIMIT-
+TO ( PUBYEAR ,  2009 )  OR  LIMIT-T O ( PUBYEAR ,  2008 )  OR  LIMIT-
+TO ( PUBYEAR ,  2007 )  OR  LIMIT-T O ( PUBYEAR ,  2006 ) )  
+Scopus
+EXPOR T DATE:02 Dec 2016
+Segundo, se eliminó los document os que fuesen conf erence paper , book chap ter o 
+review . Dejando solo article o article in press. 
+Tercero, se deses timó a todo aquel artículo cuya revista figur ara en Scimago Jour nal and 
+Countr y Rank en el Q3 o Q4 según la temática del mismo. Los nombr es de revistas que 
+para la temática vinculada están en el Q1 se encuentr an en verde, y los que están en el Q2 
+en amar illo. 
+Y cuar to, se sacó aquellos que estuviesen citados menos de 5 veces, o 4 (si fuer an del 
+2012), 3 (si fuer an del 2013), 2 (si fuer an del 2014), 1 (si fuer an del 2015), o 0 (si fuer an 
+del 2016). 
+Finalmente, los artículos se encuentr an clasif icados en tres temas: relación patógeno-
+plant a, resistencia (cam po) y biología molecular . La clasif icación de cada uno de ellos 
+puede verse escr ita en rojo.
+15RESIS TENCIA A PER ONÓSPORA EN VID
+Al realizar la búsq ueda con la ecuación (ta all Plasmopar a* OR downy* and (vitis OR 
+grape*) AND resistan*  and pd="20 100101 20161231”) en el periodo com prendido entr e 
+los años 2006 y 2016 se obtuvieron 208 patentes relacionadas con el tema en la base de 
+ESPACENET .
+Realizando la misma búsq ueda en PatentInspir ation se obtuvieron 80 pantentes.
+Las patentes más importantes se pueden ver en Anexo II del presente trabajo,6. Análisis de pat entes encontradas
+EVOLUCIÓN DE P ATENTES POR AÑO
+051015202530
+2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016
+Fuente Patentinspir ation
+CANTID AD DE P ATENTES POR SOLICIT ANTE
+ 
+Fuente: Plat aforma VigTeg en base a datos de ESPACENET16
+14
+12
+10
+8
+6
+4
+2
+016
+9
+77
+66
+555
+444
+33316 - NANJING HUAZHOU PHARMA CEUTIC AL 
+9 - CIBA GEIG Y 
+7 - MONTEDISON SPA
+7 - LILL Y CO ELI
+6 - HOECHS T OG
+6 - ST DI GENOMIC A APPLIC ATA
+5 - SHAANXI SUNGER ROAD BIO-SCIENCE CO. LTD
+5 - UNIVERSIT À DEGLI STUDI DI UDINE
+5 - JIANGSU LVDUN PLANT PROT AGROCHEMIC AL EX CO LTD
+4 - BASF AG
+4 - HOECHS T OG
+4 - LILL Y CO ELI
+3 - LI SHIHUI
+3 - TIAN WENHU A
+3 - ZHEJIANG AGRICUL TURAL SCIENCE INST JIANGSU HILL Y AREAS
+16RESIS TENCIA A PER ONÓSPORA EN VID
+CANTID AD DE P ATENTES POR INVENTOR
+Fuente: Plat aforma VigTeg en base a datos de ESPACENET12
+10
+8
+6
+4
+2
+016
+9
+6 611 - GUO CHONG YOU
+7 - XING GANG
+6 - TESTOLIN RAFF AELE
+6 - MA QIANG
+6 - CHENG QING YUN
+6 - LI MINGFU
+6 - CIPRIANI GUIDO
+6 - ZHENG JINGMIN
+6 6 6 66 6 6 66 6 66 - ZHA O DONG YA
+6 - FENG JIANXIONG
+6 - WU XIAOYU
+6 - ZHANG CHONGBIN
+6 - PETERLUNGER ENRIC O
+6 - CASTELL ARIN SIMONE DIEGO
+6 - ZHANG XIAN 
+CANTID AD DE P ATENTES PRESENT ADAS POR P AÍS
+Fuente: Plat aforma VigTeg en base a datos de ESPACENET100
+90
+80
+70
+60
+50
+40
+30
+20
+10
+094
+28
+16
+61120
+33494 - CHINA
+28 - ALEMANIA
+20 - ESTADOS UNIDOS
+16 - FRANCIA
+11 - JAPÓN
+6 - WO
+4 - EUROP A
+4 - REINO UNIDO
+3 - SUIZA
+3 - CANAD Á
+4
+17RESIS TENCIA A PER ONÓSPORA EN VID
+18NUBE DE P ALABRAS SEGÚN INVENTOR
+Fuente: Plat aforma VigTeg en base a datos de ESPACENETGUO CHON GYOU
+SUN LIQU AN
+HUI JING
+MULHOLL AND DULCIE 
+ANTCLIFF ALLAN J 
+HONGNIAN WANG
+LIU QISHUN
+DING ZHENY ANG
+FAN KUN
+YANG CHEN
+DUAN YABING
+SHI ZHENG
+SU XIANY AN
+CHONGBIN ZHANG
+YING DUAN
+HUI WANG
+BO LI
+HOU YIPING
+ZENG SHENGHU A
+TANG RUI
+LI ZHENGNAN
+YUAN CHEN
+SHEN HONGMIA O
+LI GUOPING
+WANG LI
+MENG BO
+WANG JIANXIN
+XIUCHENG YI
+FENGWU YANG
+KRAFT-KL AUNZER PETRA 
+SHUBAI LI
+SURK OVA VALENT YNA MYK OLAIIVNA 
+AMBROSIO MICHELE D
+RUAN SONGLIN
+WEI BANGZHI
+MO LIFAN
+CHEN ZHI
+WU ZHANG
+WANG ZHONG YUE
+GE DAPENG
+WANG JIAN
+ZHA O XIAOMING
+ZHANG XUED AN
+GUO JINT ANG
+XIANG WU
+YE LONGJIANG
+MENZLER-HOKKANEN INGEBORG 
+MARIANNE 
+HAO YUMEI
+HU JIANFENG
+LUO CHANG YANYAN YIBO
+SHEN XUEFENG
+DUAN CHUNHU A
+YANG BOTAO
+ANTCLIFF JUDITH R 
+ZHANG DENGKE
+GUO DAN
+LI YINGWU
+YAN CHONGZE
+WANG JI
+MI ZHE
+LI XIUXIANG
+FU LI
+WU JUNJIE
+HOU HUI
+LIU YULING
+MA HUASHENG
+WANG LONGHU A
+STEFANO BORSELLI 
+MA YUMING
+PAN YUEMIN
+KONG FANFANG
+HUANG YUXI
+WANG GENHA O
+ZHU DAN
+ZHU FUQING
+XU XINAI
+YIN HENG
+LIGONG LIU
+GUO AN LI
+TUO DAISONG
+CHEN PENG
+CHA O GAO
+XIAOLEI SHI
+JIANXIONG FENG
+SCHAERER HANSJ ACOB 
+WANG WENXIA
+WANG ZHONGT ANG
+JINGMIN ZHENG
+HONG YU MEI
+CHEN YUAN
+ZHENG YUEJIE
+DI GASPERO GABRIELE 
+LIU SHU ANLIN
+BI QIUY AN
+WENQIA O WANG
+HOKKANEN HEIKKI MATTI TAPIO 
+LI XIAOYU
+LI PENG
+ZHANG QINGQIUF ANG ZHANG
+TAMM LUCIUS 
+DUAN XIANMING
+YE HONG
+REN CHENGC AI
+DAMBROSIO MICHELE
+MA RUIBIN
+TANG MANC ANG
+YANG JINGHUI
+ZHU ANG YIQING
+SONG TINGTING
+WU SHUKE
+PING ZHA O
+ZHOU ZENGQIANG
+XIAOMING LIU
+SI XIAOFAN
+LILI WANG
+HAN XIUYING
+ANTCLIFF PETER J 
+ZHANG XIAOFENG
+ZOU CHUNLEI
+TAN RENY AN
+DE ZHA O
+KORNIEIEVETS VOLODYMYR MYKHAIL 
+WANG SHIHENG
+KANG MIU
+RUI SUN
+LIANG XIAOWEN
+ZHANG BAODUN
+YANG HUA
+LI PEILONG
+LIU HUI
+DENG WANPING
+CLINGELEFFER PETER R 
+HAIJUN ZHA O
+GUO MIN
+FAN ZILIANG
+ZHU WEIDONG
+ZHANG QIAOMU
+ZHAN FUKANG
+FENG ZHANG
+WU YANFANG
+ZHANG HAO
+SHEN GUOZHENG
+RAN LONGXIAN
+BAI YUANJUN
+CHEN ZHIQIN
+ZENG QINGSHENG
+HUA RIMA O
+MOSES LANGA T CHEN SHA
+LI LE
+ZHOU MINGGUO
+FENG SHIMING
+CHEN WENYUE
+WEI ZHANG
+MA ZHIQIANG
+QIN WENT AO
+LIU WEI
+QU JIANLU
+ZUMAN ZHANG
+LUO JIANHUI
+GUIHU A ZHU ANG
+ZANG CHA OQUN
+CHEN CHANGJUN
+WILLIAMS GILLIAN M 
+WU HOUCHANG
+RITA MUSETTI 
+LIU XIAOJUN
+ZHA O LAICHENG
+WANG LUJUN
+DAI BAO
+HUANG SONGQI
+LI XIANLING
+HUANG XIAOQING
+LI MEIQIONG
+XIAOYU WU
+WANG DONGLIANG
+ZHA OYU NING
+DU YUGU ANG
+LI HUIPING
+ANTCLIFF SUSAN R 
+ZOU CHEN
+ANTCLIFF VERONIC A R 
+JAMES T BRIS TO
+LAICHENG ZHA O
+ZHA O DA
+ZHANG QIONG
+ZHA O BINGXIAN
+LI QUANYONG
+KONG XUEHU A
+XIN YA
+LIU BAOYOU
+XIAO WENFEI
+BEI SU
+LU DEPENG
+AIHU A HE
+KLAUNZER NORMAN 11
+MUSETTI RITA
+LIU XINGHONG
+LI BAOYAN
+WU HUALONG
+WILHELM RONALD 
+ZHANG SHUJING
+CHEN HONGZHOU
+WU HAOTIANLINGLING JI
+YU SHUYI
+ZHANG WEI
+WANG PEISONG
+BURGERS JAN WILLEM 
+MIAO KANG
+WANG WENQIA O
+FEI ZIHU AGEWEHR MARKUS 
+BORSELLI STEFANO
+LIU CHANG YUAN
+LIANG CHUNHA O
+XU LITING
+CHENG XIANGDI
+WANG YINGZI
+LI BAIHONGWANG QINGHAI
+GUAN TIANSHU
+LIU LI
+YU XIAOLI
+WANG ZHENWEI
+WANG HUIZHANG CHONGBIN
+MA QIANG
+CIPRIANI GUIDO 
+WU XIAOYU
+CHENG QING YUN
+FENG JIANXIONG6
+2XING GANG 7
+CASTELL ARIN 
+SIMONE DIEGO 
+TESTOLIN RAFF AELE 
+ZHENG JINGMIN
+MOR GANTE MICHELE CHEN YEQING
+PETERLUNGER ENRIC O
+ZHANG XIAN
+WAN WEIXIA O
+ZHA O DONG YA 
+LI MINGFU
+5 GAO RUIHU A
+SUN HUIJIE
+SHI ZHENLONG
+BAI JIE
+PENG YONGQIANG
+GASPER O GABRIELE DI4YANG QIN
+JI MUXIANG
+WANG LILI
+XIA XIAOYUN
+WU XIANG
+ZHANG BAOJUN3ZHU CHENGGANG
+MUSETTI RITA 
+TIAN WENHU A
+LI SHIHUI
+YAO KEBING
+TIAN TIAN
+ZANG WEIGONG
+BORSELLI STEFANO 
+D AMBROSIO MICHELE 
+NIU SHANGU ANG
+CHI ZONGLEI
+1RESIS TENCIA A PER ONÓSPORA EN VID
+Fuente: Plat aforma VigTeg en base a datos de ESPACENETMILDEW
+ALTERNARIA
+STERILIZING
+ACCORDING
+COMPOSITE
+WHEREIN
+GRAPEVINE
+FUNGIZOXAMIDE
+CYAZOF AMID
+FRUIT
+PYRA CLOS TROBIN
+LATE
+BACTERIAL
+PATHOGENICEFFECTS
+FOLLOWING
+VEGET ABLES
+SPECTR UM127
+GRAPE
+RESIS TANCE
+CONTAINING
+BACTERICID AL
+APPLIC ATION
+DISEASES
+DRUG
+POWDER Y
+FUNGICIDE
+AGENT
+STRAIN
+SYNERGIS TIC
+EFFECTIVE
+COSTBACTERICIDE
+CONTROL
+PLASMOP ARA
+PESTICIDE
+CONTROLLING
+METHOD
+VITIC OLA89
+76
+73
+69
+67
+6458
+49
+47
+46
+44
+44
+43NUBE DE P ALABRAS DE TÉRMIN OS USADOS C ON MA YOR FRECUEN CIA
+DOWNY 104
+PREVENTING
+PREVENTION
+STERILIZA TION
+BLIGHT
+DISEASE
+CUCUMBER38
+37
+35
+35
+33
+32
+27
+26
+26
+26
+25
+25
+25
+25DISCLOSES
+LEAF
+CROPS
+COMPRISES
+INGREDIENTS
+BIOLOGIC AL
+BACILLUS
+COMPOUND25
+24
+24
+24
+24
+24
+24
+23LOW
+REDUCED
+WHICH
+CAUSED
+WATER
+ANTHRA CNOSE
+SPOT21
+21
+20
+20
+20
+20
+2019
+18
+18
+18
+17
+17
+1717
+16
+16
+16
+16
+15
+1515
+15
+15
+15
+19Fuente: Plat aforma VigTeg en base a datos de ESPACENETNANJIN G HUAZHOUPHARMA CEUTIC AL
+SHAANXI SUNGER BIOTECHNOLOG Y C
+KLAUNZER NORMAN 
+BEIJING ACAD AGRIC & FORES TRY
+QUANZHOU LYUBANG TRADE CO LTD
+FORSCH BIOLOG LANDBA U FIBL 
+YUNNAN TIANZHI NETWORK SCIENCE & TECHNOLOG Y CO LTD
+ANHUI HEZHONG AGRICUL TURAL TECHNOLOG Y CO LTD
+SHANXI BIAOZHENG CORP SCIENCE
+ZHEJIANG SEGA SCIENCE AND TECHNOLOG Y CO LTD
+JINAN CAVIN BIOLOG SCIENCE & TECHNOLOG Y CO LTD
+ANTCLIFF ALLAN J 
+DALIAN CHEMIC AL PHYSICS INST
+INST PLANT PROTECTION IPP CAAS
+D AMBROSIO MICHELE 
+TRENTINO SVILUPPO SPA 
+UNIV DEGLI STUDI DI UDINE 
+QUANZHOU LYUBANG TRADING CO LTD
+ANHUI BOFA CULTURE AND ECOLOG Y PARK CO LTD
+WEIF ANG WANSHENG BIOLOG PESTICIDE CO LTD
+ANHUI HEZHONG AGRICUL TURAL SCIENCE AND TECHNOLOG Y CO LTD
+NIU SHANGU ANG
+ANTCLIFF PETER J TANG RUI
+ZHEJIANG HETIAN CHEMIC AL CO LTD
+QINGD AO STAR CROPSCIENCE CO LT
+PAPANNA BEIJING TECHNOLOG Y CO LTD
+SHAANXI SUNGER ROAD BIO SCI CO
+HEBEI SHU ANGJI CHEMIC AL CO LTD
+LIANYUNGANG HETIAN CHEMIC AL CO LTD
+SHANDONG RUPONT CHEMIC AL CO LTD
+UNI DEGLIS TUDI DI UDINE 
+ZHENGZHOU FRUIT RES INST CHINESE ACAD OF AGRICUL TURAL 
+SCIENCES
+HUNAN JINXIN AGRICUL TURAL SCIENCE AND TECHNOLOG Y CO LTD
+KRAFT-KL AUNZER PETRA 
+WILLIAMS GILLIAN M 
+COMMW SCIENT IND RES ORG 
+JIANGSU LITTORAL AGRICUL TURE SCIENCE RES INST
+JIANGSU LUYE AGROCHEMIC ALS CO LTD
+AGROKHIMINVES T PRIV ATE ENTPR 
+SHANGDONG TENOV PESTICIDES CO LTD
+ANTCLIFF SUSAN R 
+UNIV NANJING AGRICUL TURAL
+HAILIR PESTCIDES AND CHEMIC ALS GROUP CO LTDANTCLIFF VERONIC A R 
+QINGD AO HANSEN BIOLOG SCIENCE
+BORSELLI STEFANO 
+SHANDONG INST POMOLOG Y
+LIUZHOU SHENGXINLONG FLOWER CULTIVATION SPECIAL TY 
+COOPERA TIVES
+HANGZHOU ACAD AGRICUL TURAL SCI
+UNIV ANHUI AGRICUL TURAL
+CLINGELEFFER PETER R 
+UNIV SURREY 
+SHAANXI HENTIAN CHEM TECH CO LTD
+JIANGSU ROTAM CHEMIS TRY CO LTD
+ZHU WEIDONG
+ZHANG QIAOMU
+ANTCLIFF JUDITH R 
+MUSETTI RITA 
+GUZHEN HUAFENG AGRICUL TURE CO LTD
+GAUNGXI TIANYU AN BIOCHEMIS TRY
+CHEN ZHIQIN
+UNIV HEBEI AGRICUL TURE
+UNI DEGLIS TUDI DI UDINE16
+ST DI GENOMIC A APPLIC ATA LI SHIHUI
+ZHENJIANG AGRICUL TURAL SCIENCE INST JIANGSU HILL Y AREAS
+TIAN WENHU A
+ISAGRO SPA 
+JINAN CAVIN BIOTECHNOLOG Y CO
+UNIV DEGLI STUDI UDINE 
+HANGZHOU UDRA GON CHEMIC AL CO LTD
+SHANDONG YANTAI AGRICUL TURAL SCI & TECH INST
+PLANT PROT INST PPI HEBEI ACADEMY AGRICUL TURAL & FORES TRY SCIENCES
+QINGD AO STAR CROPSCIENCE CO
+SHAANXI WEIERQI CROP PROT CO
+LIAONING ACADEMY OF AGRICUL TURAL SCIENCES
+SHAANXI TANGPUSEN BIOTECH COJIANGSU LVDUN PLANT PROT AGROCHEMIC AL EX CO LTD
+UNIVERSIT À DEGLI STUDI DI UDINE 
+SHAANXI SUNGER ROAD BIO-SCIENCE CO LTD6
+32
+1NUBE DE P ALABRAS POR SOLICIT ANTESRESIS TENCIA A PER ONÓSPORA EN VID
+PERFILES DE L AS EMPRESAS SOLICIT ANTES DE P ATENTES
+ NANJING PHARMA CEUTIC AL CO. LTD.
+Fundada en el Año 1935 es uno de los principales fabricantes de la indus tria 
+farmacéutica de China. La empresa se dedica principalmente al I+D de nuevos 
+fármacos y product os químicos.
+ INTITUTE OF APPLIED GENOMICS
+Es un centro privado, sin fines de lucro para la investigación en genética, 
+genómica y bioinf ormatica, con sede en Undine, Italia.
+Dedicados a la mejor a de los cultiv os para el avance de la agricultur a, la 
+silvicultur a y la indus tria aliment aria, desar rollo de biotecnologías v erdes y 
+sensibilizar al público sobre la segur idad y la inocuidad de los aliment os.
+JIANGSU LVDUN PLANT PROTECTION PESTICIDE EXPERIMENT ATION CO., LTD.
+Com pañia estatal China dedicada a la fabricación de pesticidas y product os 
+químicos.
+La univ ersidad de Udine fue fundada en el año 1978 como parte de la 
+recons trucción de la región del Friule luego del terremot o de 1976, su 
+obje tivo es proporcionar a la comunidad fruiliana un centro independiente 
+para la formación avanzada en estudios cultur ales y científ icos. Cuent a 
+actualmente con prog ramas de grado sobre Agricultur a, Economía, 
+ingeniería, medicina entre otros.
+20RESIS TENCIA A PER ONÓSPORA EN VID
+Se analizaron que proyect os se encuentr an en ejecución en distintos países, para ello se 
+consult aron diferentes fuentes de información:
+CORDIS.
+AWRI. The Australian Wine Resear ch Institute.
+INRA . 
+CSIR O.
+USD A (United States Depar tement of Agricultur e).
+IMIDRA (Ins titut o Madr ileño de Investigación y Desar rollo Rural, Agrario y Aliment ario).
+Entr e los principales proyect os encontr ados podemos destacar los siguientes:
+VIGIL ANCE IN THE VINES: CAN GRAPEVINE DOWNY MILDEW ADAPT TO RESIS TANT GRAPE 
+VARIETIES?
+(INRA) Francia.
+http://presse.inra.fr/en/Press-releases/grapevine-downy-mildew-and-resistant-
+grape-v arieties
+Este proyect o intent a ver la durabilidad de la resistencia de las nuevas variedades debido 
+a que existe la posibilidad de que surjan patógenos con la capacidad de adap tarse  a las 
+nuevas condiciones.
+INNO VINE (Combining innov ation in vine yard manag ement and genetic diversity for a 
+sustainable European viticultur e)
+http://cordis.europa.eu/r esult/r cn/1 75827_en.html
+http://www .innovine.eu/project/wp3.html
+El proyect o combina enfoques de corto, mediano y largo plazo para concebir sistemas 
+vitivinícolas innov ador es, diseñar y probar nuevas prácticas agronómicas y sistemas de 
+apoyo a la toma de decisiones y aprov echar la diversidad genética de la vid a través de la 
+selección. En conjunt o, estos avances garantizar án un prog reso hacia una viticultur a 
+sostenible.
+PROECOWINE (Development of a process to gener ate a novel plant protection product 
+enriched with micronutr ients to replace copper in organic viticultur e)
+http://cordis.europa.eu/r esult/r cn/1 6420 1_en.html
+http://www .proecowine.eu/7.Análisis de pr oyectos 
+21RESIS TENCIA A PER ONÓSPORA EN VID
+El obje tivo del proyect o es desar rollar un nuevo product o de protección biológica para el 
+tratamient o de enfermedades fúngicas comunes de la vid y reem plazar así los fungicidas 
+de cobr e en la viticultur a orgánica y conv encional. Para lograr esto, se cultiv aron dos 
+cepas de microalgas que inhiben fiablemente las propiedades fúngicas y así obtener un 
+product o fitosanit ario.
+FORES TSPECS (Wood Bark and Peat Based Bioactiv e Com pounds, Speciality Chemicals, 
+and Remediation Mater ials: from Innov ations to Applications)
+http://cordis.europa.eu/r esult/r cn/1 49969_en.html
+El proyect o consis tió en el análisis cualit ativo y cuantit ativo de extractos de la corteza de 
+una serie de especies arbór eas de importancia indus trial y además se analizaron y 
+estudiaron las sustancias húmicas de la turba para fines médicos, cosméticos y 
+fitosanit arios par a aplicaciones indus triales. T ambién se inv estigó el uso de la biomasa 
+total o restante en la producción de sustratos de crecimient o, fertilizantes orgánicos y 
+mater iales de bior remediación
+ECTOPATH (Pioneer ing post-genomic approaches for studying algal host-pat hogen 
+inter actions: char acter isation of the Ectocar pus-Eur ychasma model)
+http://cordis.europa.eu/r esult/r cn/49 119_en.html
+El proyect o aspir a a largo plazo a dilucidar los mecanismos de la enfermedad causada por 
+Eurychasma en algas marrones para com prender mejor cómo los oomyce tes logran 
+infectar a sus huéspedes, como parte de la búsq ueda cons tante de tratamient os nuevos o 
+mejor ados contr a la Enf ermedades q ue causan. T ambién apoy a el es tudio de la biología 
+Eurychasma en el cam po, y de su impact o en el funcionamient o de los ecosis temas 
+costeros mar inos.
+SUPERVISED CONTR OL TRIAL S AGAINS T GRAPE DOWNY MILDEW (PLASMOP ARA VITIC OLA) 
+USING ELECTR ONIC APPARA TUS AND TRADITIONAL METEOR OLOGIC AL INSTRUMENT S
+http://cordis.europa.eu/publication/r cn/1 98912802053 7_en.html
+PROLARIX (Bot anical plant Protection agent from Larix by-products)
+http://cordis.europa.eu/r esult/r cn/1 8683 1_en.html
+El obje tivo gener al del proyect o es facilit ar la introducción en el mercado de un product o 
+innov ador para la protección de las plant as a patógenos a partir de subproduct os de la 
+indus tria forestal europea. También se van a desar rollar y explot ar las opor tunidades de 
+negocio para las PYME relacionadas con la protección de plant as en Europa y propor cionar 
+una opor tunidad para la indus tria forestal de transf ormar el bajo valor de los 
+subproduct os en extractos bioactiv os de alto valor añadido. Improving Fruit Quality , 
+Disease Resistance, and Toler ance to Abiotic Stress in Grape
+https://www .ars.usda.gov/r esear ch/project/?accnNo=4250 16
+22RESIS TENCIA A PER ONÓSPORA EN VID
+Tiene como obje tivo mejor ar la calidad de los frutos, la resistencia a las enfermedades y 
+la toler ancia al estrés abiótico en la uva.
+Evaluation of resistance to downy mildew in grape varieties grown in a Spanish 
+collection
+https://www.researchgate.net/publication/283051611_Evaluation_of_resistance_to
+_downy_mildew_in_g rape_v arieties_g rown_in_a_Spanish_collection
+Se evaluó la resistencia al moho (Plasmopar a viticola) de la mayoría de las principales y 
+las menor es variedades de vid cultiv adas en España. 
+VitisGen
+http://vitisg en.org/inde x.html
+Es un gran proyect o multidisciplinar io y colabor ativo enfocado en disminuir el tiem po, 
+esfuer zos y costos involucr ados en el desar rollo de la próxima gener ación de uvas. 
+Incor pora tecnología de vanguardia genómica y la investigación socioeconómica en el 
+proceso de selección y evaluación de uva tradicional, que aceler ará la capacidad de 
+identif icar genes importantes relacionados con los rasgos valor ados por los 
+consumidor es, la resistencia a las enfermedades, toler ancia a baja temperatur a y la 
+mejor a de la calidad de la fruta. La identif icación de estos genes ayudar á a los prog ramas 
+de mejor amient o de uva de todo el mundo a desar rollar más rápidamente nuevas 
+variedades de uva que atraerán a una amplia gama de consumidor es, al mismo tiem po 
+que atender án las necesidades de los product ores. Adicionalmente, Los recur sos 
+científ icos desar rollados durante el proyect o permitir án a los científ icos y obtent ores 
+abordar otras cues tiones y necesidades que tienen importancia regional, como la 
+salinidad o la toler ancia a la sequía. 
+ENDURE is the European Networ k for the Durable Exploit ation of Crop Protection 
+Strategies.
+www .endur e-ne twor k.eu
+23Primer institut o de investigación agronómica de Europa y segundo del 
+mundo, lleva a cabo trabajos de investigación orient ada con miras a una 
+aliment ación sana y de calidad, una agricultur a com petitiv a y sostenible y un 
+medio ambiente preser vado y valor izado.
+ 
+InnoV ine es un proyect o de colabor ación europeo financiado a través del 
+prog rama basada en el conocimient o Bio-Economía (KBBE), pues to en 
+marcha en enero de 2013. Durante 4 años, implicar á 27 socios diferentes de 7 
+países europeos (Bulgar ia, Francia, Alemania, Hung ría, Italia, Portugal y 
+España). Combina innov ación en el manejo del viñedo y genética para una 
+Viticultur a Europea sostenible.
+ 
+Es una asociación transeuropea de 6 PYME de 5 estados miembros de la UE que 
+planean desar rollar un nuevo fungicida biológico para tratar las 
+enfermedades fúngicas comunes de la vid.
+ 
+Fores tSpeCs es un prog rama de la CE financiado por el 7PM coordinado por la 
+Universidad de Helsinki.  Otros socios incluyen Centro de Investigaciones 
+Técnicas de Finlandia, Academia Médica Estatal de San Petersburgo (Rusia), 
+Universidad de Surrey (Reino Unido), Institut o de Investigación del Norte de 
+Silvicultur a (Rusia), FGU Institut o de Investigación Fores tal del Lejano 
+Oriente (Rusia), Institut o de Investigación para la Agricultur a Orgánica 
+(Suiza), Trifolio-M (Alemania) y Oy Granula Ab Ltd (Finlandia).
+La Universidad de Columbia Británica es un centro mundial para la 
+investigación y la enseñanza, consis tentemente clasif icada entre las 40 
+mejores univ ersidades del mundo.
+ 
+El Institut o de Investigación de Agricultur a Orgánica fue fundada en 1973 
+como una fundación privada y es uno de los centros orgánicos más 
+importantes del mundo de investigación agrícola y de transf erencia de 
+tecnología dedicadas a la agricultur a sostenible.
+ 
+Trifolio-M GmbH se ha com prome tido en el control biológico de plagas desde 
+1985. A ctualmente 25 em pleados es tán tr abajando par a la com pañía con su 
+ubicación en el centro de Alemania, Lahnau. En este sentido, la investigación 
+y el desar rollo de biopes ticidas innov ador as y estrategias de protección de 
+plant as es uno de nuetros principales focos.
+GAB Consulting es un prov eedor de servicios líder en el regis tro de product os 
+fitosanit arios, biocidas, product os químicos, aditiv os para raciones y 
+medicament os veterinar ios en la UE y en otras regiones de todo el mundo. 
+Desde el inicio de actividades de la empresa en 1998, el regis tro de extractos 
+de plant as y microorganismos como ingredientes activ os en product os 
+fitosanit arios y regis tro de dichos product os es una parte centr al de la obra. 
+ RESIS TENCIA A PER ONÓSPORA EN VID
+PERFILES DE L AS EMPRESAS EJECUT ORAS DE PR OYECT OS
+CENTRE FOR DRUG 
+RESEARC H FACULTY 
+OF PHARMA CY
+24RESIS TENCIA A PER ONÓSPORA EN VID
+La Universidad de Surrey es un miembro del Grupo de investigación intensiv a 
+univ ersidades del Reino Unido de 1994 y tiene exper iencia tanto en lider ar y 
+participar en la investigación financiado por la CE.
+ Depar tament o de agricultur a de los Estados Unidos
+Servicio de Investigación Agrícola
+El Servicio de Investigación Agrícola (ARS) es la  principal agencia de 
+investigación científ ica del Depar tament o de Agricultur a de los Estados 
+Unidos . Su trabajo consis te en encontr ar soluciones a los problemas 
+agrícolas que afectan a los estadounidenses todos los días de toda la cadena 
+productiv a.
+ 
+El Institut o Nacional de Aliment ación y Agricultur a (NIF A) proporciona 
+lider azgo y financiamient o para prog ramas que promue ven las ciencias 
+relacionadas con la agricultur a. Invier ten y apoy an iniciativ as que garanticen 
+la viabilidad a largo plazo de la agricultur a. NIFA aplica un enfoque integ rado 
+para asegur ar que los descubr imient os innov adores en las ciencias y 
+tecnologías relacionadas con la agricultur a lleguen a las personas que 
+pueden poner las en práctica.
+ 
+ENDURE reúne a algunos de los principales institut os europeos de 
+investigación agrícola, enseñanza y extensión con especial interés en el 
+Manejo Integ rado de Plagas (MIP) dentro del conte xto gener al de la 
+agricultur a ecológica y sostenible.
+25RESIS TENCIA A PER ONÓSPORA EN VID
+8.Búsq ueda y análisis de inf ormación a 
+partir de o tras fuent es de inf ormación
+Como com plement o al análisis de publicaciones científ icas, patentes y proyect os 
+relacionados con el tema, también es importante cont ar con información sobr e 
+normativ as legales y técnicas, mercados, eventos y noticias. Capturar y utilizar 
+eficientemente esta información disponible requier e el conocer fuentes de información 
+oficiales a fin de respaldar concep tos con información valida, conf iable y útil.
+Con el apoyo de la plat aforma de vigilancia Tecnológica desar rollada en el Obser vatorio 
+Vitivinicola Argentino (VigTeg),  se analizan más de 300 fuentes de información, tanto de 
+fuentes científ icas, de patentes, mercados, legación, proyect os, entr e otras.
+A continuación se detallas algunas de las novedades más relevantes que han sido 
+capturadas en los últimos años de acuerdo a la temática actual del presente estudio.
+31/05/1 7
+Downy Mildew en los viñedos de Calif ornia
+https://www .winesandvines.com/tem plate.cfm?section=new s&content=1 8505 1
+25/0 4/17
+Examen de la eficacia de los product os biológicos contr a la peronósper a.
+http://www.growingproduce.com/fruits/grapes/examining-the-effectiveness-of-
+biologicals-agains t-downy-mildew-in-g rapes/
+ 
+06/03/1 7
+Estudio de bastones de vid como una fuente fungicida natur al contr a la peronósper a.
+http://oeno-one.eu/ar ticle/view/1 178
+16/11/16
+Investigación a la resistencia de fungicidas en Vid.
+http://research.wineaustralia.com/research-finds-some-red-warning-flags-in-the-
+vine yard/
+10/10/16
+Tras la producción de vinos superorgánicos.
+http://www.decanter.com/wine-news/opinion/jefford-on-monday/jefford-monday-
+2-2-3340 78/
+2607/10/16
+El renov ado inter és en el desar rollo de vides resistentes a enfermedades.
+http://research.wineaustralia.com/renewed-interest-in-breeding-disease-resistant-
+vines/
+10/11/15
+Primer a detección de peronósper a en un viñedo mediante un método basado en 
+fluor escencia.
+http://pubs.r sc.org/en/Content/Ar ticleLanding/20 15/PP/c5pp00 121h#!divA bstract
+18/09/1 5
+Se necesit an otras opciones al uso del fungicida “Cap tan”
+http://wine titles.com.au/dwn/de tails.asp?ID=1 8169
+21/05/1 5
+Desar rollo para gener ar un novedoso product o fitosanit ario enriquecido con 
+micronutr ientes para sustituir el uso de cobr e en la vitivinicultur a orgánica.
+http://cordis.europa.eu/r esult/r cn/1 6420 1_en.html
+http://www .proecowine.eu/
+23/0 4/14
+Cong reso sobr e los avances contr a plagas de la vid.
+http://www.tecnovino.com/un-congreso-que-se-centro-en-los-avances-contra-el-
+mildiu-y-oidio-de-la-vid/
+279. Conclusiones
+La peronóspor a de la vid causada por el Oomyce te Plasmopar a viticola, es una de las 1
+enfermedades más graves que afectan a la vid a nivel mundial . Sólo puede ser controlada 
+mediante intensiv os tratamient os con fungicidas de síntesis. El uso inadecuado y 
+repetitiv o de este tipo de product os puede, por una parte, afectar negativ amente al 
+medio ambiente y a los seres humanos y por otra, seleccionar cepas resistentes del 
+patógeno. De hecho, existen cepas de P. vitícola resistentes al fungicida Quinona outside 2
+inhibiting (Qol) .
+A partir de las publicaciones seleccionadas se identif ican diversas estrategias de manejo 
+de la enfermedad que están siendo estudiadas en la actualidad en otros países, entr e 3
+ellas, result an particular mente prome tedor as el empleo de variedades resistentes , 4
+sustancias induct oras de los mecanismos de resistencia  y el empleo de biocontrolador es 
+como Trichoder ma spp.
+Las diversas variedades de Vitis vinífer a mayormente cultiv adas en nues tro país y en el 
+mundo son altamente suscep tibles a la enfermedad. Se repor tan como especies 5
+mayormente resistentes a la enfermedad Vitis ciner ea, Vitis labrusca, Vitis x cham pinii , 6 7
+Vitis ripar ia, Muscadinea rotundif olia , Vitis piasezkii  Liuba-8 -originar ia de China  y 8 9
+algunos cultiv ares de reciente introducción como Bianca , Regent , Mgaloblishvili N – 10 11
+originar ia del Cáucaso -, 'Wilcox 321 1. A pesar de que el uso de variedades resistentes, 
+como estrategia de manejo de la enfermedad, result aría un método amigable con el 
+medio ambiente, su empleo se encuentr a actualmente restringido como portainjer to ya 
+que sólo está permitido en nues tro país el uso de V. vinifer a para la elabor ación de vino. 
+Estudios regionales mencionan variedades de V. vinífer a “muy sensibles” como lo son 
+Pedro Giménez, Criolla Grande, Criolla Chica, Almería, Moscatel Rosado y Ugni Blanc´, 
+variedades “toler antes” como Alphonse Lavallée, Barber a de Asti, Caber net, Malbeck y 
+Pinot y “muy toler antes” como lo son algunos híbr idos de Vitis europea por vides de 
+origen amer icano.
+El análisis de los transcr iptomas (conjunt o de genes que se están expresando en un 
+moment o dado en una célula) en plant as resistentes y suscep tibles mos traron que ambas 
+especies cambian su transcr iptoma entr e 24 y 48 horas después de la infección con 
+Plasmopar a vitícola. Pero en V. ripar ia cambia en mayor cantidad, aument ando la 
+transcr ipción de genes en cascada que desencadenan la respues ta hiper sensible 
+(máxima expresión de resistencia de las plant as al ataque por patógenos donde las 
+células que rodean el sitio donde pene tró el patógeno muer en con la intención de 
+detener su avance e infección) y la biosíntesis de jasmonat os, mientr as que en V. vinífer a 12
+la respues ta es en menor cantidad . 
+Estudios recientes han permitido obser var que, en gener al, los cultiv ares de vid 
+resistentes a Peronóspor a no sólo poseen caracterís ticas mor fológicas diferenciales en 
+los órganos suscep tibles sino también present an una mayor acumulación, respect o a 
+1 - Banani et al., 20 14; Perazzolli et al., 20 11; 
+2 - Chen, 200 7
+3 - P eresso tti et al., 20 10; Liu et al., 20 14
+4 - Har m et al., 20 11
+5 - Cadle-Davidson et al., 2008
+6 - Chen et al., 200 77 - Liu et al., 20 14
+8 - P eresso tti et al., 20 10
+9 - P eresso tti et al., 2009
+10 - Toffolatti et al., 20 16
+11 - Pra jongjai et al., 2008
+12 - P olesani, 20 10
+28aquellos suscep tibles, de sustancias químicas que se correlacionan con el grado de 13
+resistencia como lo son glucósido 3-O-q uercitina, derivados del trans-f eruloy l, ácido 3-
+hidro xibut anoico; isómero del ácido 2,3,4-tr ihidro xigut anoico, ácido hexadeconico, 14
+ácido 3-hidro xihe xanoico y mio-inosilt ol.
+Además, de diferencias a nivel de hospedante, en cuant o respect a a variedades o 
+especies resistentes o suscep tibles, han sido repor tadas variaciones a nivel del 
+patógeno. En gener al los aislados más agresivos de Plasmopar a viticola  present an una 15
+gran capacidad de espor ulación, menor período de latencia, entr e otras. Algunos 
+trabajos han demos trado que nuevas poblaciones del patógeno emerg en en los 
+agroecosis temas en los cuales se han empleado plant as con resistencia parcial al mismo. 
+Esta plas ticidad adap tativa del patógeno implica la necesidad de utilizar métodos de 
+manejo que incluy an diversas herramient as de control de modo de asegur ar la 16sustent abilidad del sistema en el tiem po. Algunas publicaciones sugerirían que, en 
+ 17realidad, la resistencia no estaría ligada a la virulencia del patógeno.
+Según se ha repor tado en los últimos años en diversos artículos, la resistencia de la vid a 18
+la Peronóspor a se explica fundament almente por expresión de genes mayores. 
+Asimismo se ha citado que la respues ta de las plant as mediados por distintos genes, 19
+puede diferir entr e cultiv ares y los diversos induct ores involucr ados . La activ ación de 
+los genes mayores se expresa a través de la síntesis de más de 800 proteínas, algunas de 
+las cuales se encuentr an involucr adas en procesos oxidativ os y en el metabolismo 20
+energ ético . En los casos en los cuales la resistencia ha sido asociada a la presencia de un 
+único gen, se obser vó que el patógeno era capaz de super ar rápidamente la barrera 21
+defensiv a asociada a la expresión de ese gen.
+22
+Estudios realizados con plant as hospedantes y no hospedantes del patógeno  han 
+permitido identif icar el instante en el cual se desencadenaría la activ ación del 
+mecanismo defensiv o del vegetal. Se vinculó al moment o de formación del haus torio del 23
+patógeno como dispar ador de la respues ta defensiv a. En la reacción de defensa estaría 24
+involucr ada la pared celular y se vería impedida la formación de futuros haus torios . 
+Entr e los mecanismos de defensa activ os empleados por la vid se señalan en diversos 25
+estudios, la producción de fitoale xinas, especialmente aquellas estilbénicas , las cuales 
+han sido ligadas a especies o cultiv ares menos suscep tibles al patógeno. Exis ten diversas 
+sustancias que podrían ser empleadas como induct ores de las respues tas de defensas de 
+vegetal. Estas permitirían aler tar a las plant as antes de producir se el cont acto con el 
+patógeno. La mejor a de la eficacia del sistema defensiv o a través del empleo de este tipo 
+de sustancias podría emplear se como otra herramient a de manejo de la enfermedad 26
+com plement aria al control químico clásico . La eficacia de los activ ador es suele estar 27
+ligada a diversos factores abióticos que participan a nivel de cam po. Exis ten diversos 
+ejem plos de estas sustancias tales como los quitosanos aplicados junt o al caldo bordelés 
+que result an fuer tes induct ores de la acumulación de fitoale xinas. Algunos β-1,3-
+glucanos y par cularmen te el sulfato de laminarina, el S-me l ester del ácido 
+carbotioico 7-benzot hiadiazol (BTH), se repor taron como activ ador es de las defensas. El 
+13 -  K ashif et al., 2009
+14 -  Bato vska et al., 2009
+15 -  Delmas et al., 20 16; Delmo tte et al., 20 14
+16 -  Delmo tte et al., 20 14
+17 -  P eresso tti et al., 20 10
+18 -  P eresso tti et al., 20 10
+19 -  Delmo tte et al., 20 14
+20 - N ascimento-Gavioli et al., 20 16 21 - P eresso tti et al., 20 10
+22 -  P eresso tti et al., 20 10
+23 - Chen et al., 200 7 
+24 - Chen et al., 200 7
+25 - P aolocci et al., 20 14; Van Leeuw en et al., 20 13
+26 - R oatti et al., 20 13
+27 - R oatti et al., 20 13
+29ácido 3-dl- β-aminobu ric o (BABA) se mencion ó como el involucr ado en la acumulación 
+de proteínas relacionadas con la patogenicidad (PR).
+Result a inter esante el hecho de que algunas cepas del hongo Trichoder ma harzianum 
+están involucr adas en la modulación de los genes relacionados al mecanismo de 28
+reconocimient o de microorganismos  y a la mejor a de la expresión de los procesos 29
+defensiv os luego de la llegada del patógeno a su hospedante . Las vías metabólicas 
+involucr adas en la traducción de la señal inducida por T. harzianum son las del ácido 30
+jasmónico y la del etileno . Esto contr asta con la de otros activ ador es, como el BTH, en la 31
+cual inter viene la vía del ácido salicílico . 
+Otras líneas de investigación plantean métodos alter nativ os de control a través del 32
+empleo de e xtractos de plant as. Los e xtractos de r aíces de Rheum palmatum  y cor teza 33
+de Frangula alnus  fueron capaces de proteg er a las hojas de vid del ataque de P. viticola . 
+Éstos result aron no solamente t óxicos par a el pat ógeno, sino q ue también indujeron la 
+acumulación de fitoale xinas, al aument o de la actividad pero xidásica y a la manif estación 34
+de la reacción de hiper sensibilidad . La toxicidad manif estada por los extractos pudo 
+asociar se a la presencia de com pues tos fenólicos como la emodina.
+En cuant o a la ejecución de proyect os figur a sobr e todo Europa como centro. Las 
+investigaciones tienen como fin común la combinación de la innov ación en la gestión del 
+viñedo y la diversidad genética cuidando la sostenibilidad de la viticultur a en el tiem po. 
+Hay varios proyect os que parten del análisis de los recur sos genéticos de la vid para 
+seleccionar genotipos que mues tren alta resistencia contr a factores bióticos (hongos, 
+insect os) y abióticos (seq uía, altas temperatur as). Estos estudios demues tran que es 
+necesar io una gestión integ rada del viñedo que permita la durabilidad de las variedades 
+resistentes. El obje tivo de muchos proyect os llevados a cabo es lograr determinar o 
+desar rollar nuevas variedades viníf eras resistentes a las enfermedades causadas por la 
+humedad en exceso, sin que estos clones afecten a la calidad del product o.
+También se encuentr an estudios sobr e el desar rollo de un nuevo product o para combatir 
+enfermedades fúngicas de la vid y así reem plazar fungicidas a base de cobr e, el cual está 
+siendo limit ado por diversas normas, por afectar la salubr idad del suelo y afectar 
+potencialmente a quienes consumen product os que lo han utilizado en su producción. 
+Para lograr esto, se ha trabajado sobr e cepas de microalgas cultiv adas y procesadas 
+obteniendo así un product o fitosanit ario con micronutr ientes.
+La búsq ueda de com pues tos bioactiv os, como los que se han encontr ado en cortezas de 
+pinos, en turba y en e xtractos de plant as como Larix sp. , par a ser utilizados t anto como 
+fungicidas o elicit ores. 
+Se puede concluir a partir de la información analizada que se ha avanzado bastante en 
+cómo reacciona la plant a a partir del cont acto con el patógeno, en como inducir 
+mecanismos de resistencia en vides, sobr e el empleo de biocontrolador es y también en el 
+desar rollo de sistemas de gestión de viñedos entr e otros pero se tiene que hacer mayor 
+énfasis en lograr elabor ar un product o comer cial que disminuy a las pérdidas producidas 
+por este patógeno pero que sea amigable con el ambiente. Hoy en día el mejor amient o 
+genético se realiza en su mayoría a través de una selección sobr e variedades tradicionales 
+28 -  P erazzoll et al., 20 12
+29 -  P erazzoll et al., 20 12; Banani et al., 20 14
+30 -  P erazzolli et al., 20 11
+31 - P erazzolli et al., 20 11 32 -  Godard et al., 2009
+33 -  Godard et al., 2009
+34 -  Godard et al., 2009
+ 30o a través de una selección clonal y sanit aria. Es notable y muy positiv o la conciencia que 
+se ha adquirido en Europa sobr e la importancia de desar rollar product os amigables con 
+el ambiente y con el ser humano que se están tratando de implement ar pero todavía falta 
+que esa conciencia llegue a Amér ica Latina donde las publicaciones y proyect os acer ca 
+de vides resisitentes a Plasmopar a vitícola son escasos.
+3110. Bibliog rafía y fuent es de 
+información utilizadas
+Las fuentes de información utilizadas son:
+Ÿ§ SCOPUS
+Ÿ§ ESPACENET
+Ÿ§ Plat aforma de Vigilancia Tecnológica “VigTeg”
+Ÿ§ CORDIS
+Ÿ§ CSIR O (Common wealt h Scientif ic and Indus trial Resear ch Organisation – 
+Australia).
+Ÿ§ INRA (Ins titut o Nacional de la investigación Agronómica de Francia).
+Ÿ§ Catena Institute.
+Ÿ§ The Australian Wine Resear ch institute.
+Ÿ§ USD A (United States Depar tement of Agricultur e).
+Ÿ§ IMIDRA (Ins titut o Madr ileño de Investigación y Desar rollo Rural, Agrario y 
+Aliment ario).
+La bibliog rafía se encuentr a citada en los anexos I y II, exceptuando otras fuentes que 
+se detallan a continuación:
+Enfermedades de la canopia, INV. 
+http://www .inv.gob.ar/inv_contenidos/pdf/f oro/20 14/9-INV-
+EnfermedadesdelaCanopia.pdf. Acceso al 12/12/20 16.
+Peronóspor a, INTA. http://int a.gob.ar/sites/def ault/f iles/scr ipt-tm p-
+peronospor a.pdf. Acceso al 12/12/20 16.
+Anticipar se a la peronóspor a, INTA. http://int a.gob.ar/noticias/anticipar se-a-la-
+peronospor a. Acceso al 8/12/20 16.
+La peronóspor a de la vid. Serie de enfermedades de los cultiv os de Mendoza, Lucero H. 
+y Lucero C. 2000. 26pp.
+3211. Ane xo I: Publicaciones encontradas
+REL ACIÓN PATÓGENO-PL ANTA
+Delmas, C.E.L.a  b , Fabre, F.a  b , Joliv et, J.a  b , Maze t, I.D.a  b , Richar t Cervera, S.a  b , Delière, L.a  b , 
+Delmotte, F.a  b 
+Adaptation of a plant pathogen to partial host resis tance: Selection for greater aggressiv eness in 
+grapevine downy mildew
+(2016) Evolutionar y Applications, 9 (5), pp. 709-7 25. Cited 1 time.
+https://www .scopus.com/in ward/record.ur i?eid=2-s2.0-
+849594 19496&par tnerID=40&md5=6cd8 4ff1f43a7 1c883 10fbf7 6aebce8b
+DOI: 10.1111/eva.12368
+AFFILIA TIONS: UMR 1065 Santé et Agroécologie du Vignoble, INRA, Villena ve d'Or non, France; 
+Bordeaux Science Agro, UMR 1065 SAVE, ISVV, Université de Bordeaux, Villena ve d'Or non, France
+ABS TRACT: An under standing of the evolution of pathogen quantit ative traits in response to host selectiv e 
+pressures is essential for the development of durable management strategies for resis tant crops. 
+Howe ver, we still lack exper iment al data on the effects of partial host resis tance on multiple phenotypic 
+traits (agg ressiv eness) and evolutionar y strategies in pathogens. We performed a cross-inoculation 
+exper iment with four grapevine hosts and 103 isolates of grapevine downy mildew (Plasmopar a viticola) 
+sam pled from suscep tible and partially resis tant grapevine varieties. We analy sed the neutr al and 
+adap tive gene tic differentiation of five quantit ative traits relating to pathogen transmission. Isolates 
+from resis tant hosts were more aggressiv e than isolates from suscep tible hosts, as they had a shor ter 
+latency period and higher levels of spore production. This patter n of adap tation contr asted with the lack 
+of neutr al gene tic differentiation, providing evidence for directional selection. No specif icity for a 
+particular host variety was detected. Adapted isolates had traits that were advantageous on all resis tant 
+varieties. There was no fitness cost associated with this gene tic adap tation, but several trade-of fs 
+between pathogen traits were obser ved. These results should improv e the accur acy of prediction of 
+fitness traject ories for this biotrophic pathogen, an essential element for the modelling of durable 
+deployment strategies for resis tant varieties. © 2016 John Wiley & Sons Ltd.
+AUTHOR KEYW ORDS: Erosion;  Evolvability;  Fitness cost;  Host specif icity;  Obligate plant pathogen;  
+Quantit ative resis tance;  Virulence;  Vitis vinif era
+DOCUMENT TYPE: Article
+SOUR CE: Scopus
+INDUCCIÓN DE RESIS TENCIA (CAMPO)
+Paris, F.a  b  c , Krzyzaniak, Y.c , Gauvr it, C.c , Jamois, F.d , Domergue, F.e  f , Joubès, J.e  f , Ferrières, V.a  
+b , Adrian, M.g , Legentil, L.a  b , Daire, X.c , Trouv elot, S.g 
+An ethoxylated surfactant enhances the pene tration of the sulfated laminar in through leaf cuticle and 
+stomat a, leading to increased induced resis tance agains t grapevine downy mildew
+(2016) Physiologia Plant arum, 156 (3), pp. 338-350. 
+https://www .scopus.com/in ward/record.ur i?eid=2-s2.0-
+84948 155098&par tnerID=40&md5=0 1a446fccb22 18a93a9 7fb3 12ac8 170b
+DOI: 10.1111/ppl. 12394
+AFFILIA TIONS: Ecole Nationale Supér ieure de Chimie de Rennes, CNRS, UMR 6226, Rennes, France; 
+Université européenne de Bretagne, Rennes, France; 
+INRA, UMR 1347 Agroécologie, ERL CNRS 6300, Dijon, France; 
+33Labor atoires Goëmar , S.A.S.-P arc technopolit ain Atalante, Saint-Malo, France; 
+Université de Bordeaux, Labor atoire de Biogenèse Membr anaire, UMR 5200, Bordeaux, France; 
+CNRS, UMR 5200, Labor atoire de Biogenèse Membr anaire, Bordeaux, France; 
+Université de Bourgogne, UMR 1347 Agroécologie, ERL CNRS 6300, Dijon, France
+ABS TRACT: Some β-1,3-glucans and particular ly sulfated laminar in (PS3) are known as resis tance 
+inducer s (RIs) in grapevine agains t the downy mildew . Howe ver, their efficacy in vine yard is still often too 
+low, which might be caused by a limited pene tration through the leaf cuticle following spray application. 
+We used 14C-sucrose uptake exper iments with grapevine leaves in order to select a surfactant as 
+sacchar ide pene tration enhancer . Our results showed that although sucrose foliar uptake was low, it was 
+strongly enhanced by Dehscof ix CO125 (DE), a highly ethoxylated surfactant. Fluorescent sacchar ides 
+were then produced and laser scanning microscopy was used to analyze their foliar diffusion patter n in 
+Arabidopsis thaliana and grapevine. Interes tingly , sucrose and PS3 were seemingly able to pene trate the 
+leaf cuticle only when formulated with DE. Diffusion could pref erentially occur via stomat a, anticlinal cell 
+walls and trichomes. In grapevine, PS3 pene tration rate was much higher on the stomateous abaxial 
+surface of the leaf than on the adaxial surface. Finally , using DE allowed a higher level of downy mildew 
+control by PS3, which corrobor ated diffusion obser vations. Our results have practical consequences for 
+the improv ement of treatments with sacchar idic inducer s on grape. That is, formulation of such RIs plays 
+a critical role for their cuticular diffusion and consequently their efficacy . Also, spray application should 
+pref erentially targe t the abaxial surface of the leaves in order to maximize their pene tration. © 2016 
+Scandina vian Plant Physiology Socie ty.
+DOCUMENT TYPE: Article
+SOUR CE: Scopus
+REL ACIÓN PATÓGENO-PL ANTA
+Toffolatti, S.L.a , Maddalena, G.a , Salomoni, D.a , Maghr adze, D.b , Bianco, P.A.a , Failla, O.a 
+Evidence of resis tance to the downy mildew agent Plasmopar a viticola in the Georgian Vitis vinif era 
+germplasm
+(2016) Vitis - Jour nal of Grapevine Research, 55 (3), pp. 121-128. 
+https://www .scopus.com/in ward/record.ur i?eid=2-s2.0-
+849812494 74&par tnerID=40&md5=3cb1 4209652 712c0d3e3486a203bca2e
+DOI: 10.50 73/vitis.20 16.55. 121-128
+AFFILIA TIONS: Dipar timent o di Scienze Agrarie e Ambient ali, Università degli Studi di Milano, Via 
+Giov anni Celor ia 2, I-Milano, Italy; 
+Scientif ic - Research Center of Agriculture, Tbilisi, Georgia
+ABS TRACT: Grapevine downy mildew , caused by Plasmopar a viticola, is one of the mos t important diseases 
+at the inter national level. The mainly cultiv ated Vitis vinif era varieties are gener ally fully suscep tible to P. 
+viticola, but little information is available on the less common germplasm. The V. vinif era germplasm of 
+Georgia (Caucasus) is char acter ized by a high gene tic diversity and it is different from the main European 
+cultiv ars. Aim of the study is finding possible sources of resis tance in the Georgian autocht honous 
+varieties available in a field collection in northern Italy. The resis tance levels to P. viticola were estimated 
+both by exper iment al inoculations and by disease assessment in field conditions in a multi-year activity . 
+Of the 93 tested accessions, 'Mgaloblishvili N' showed a cons tant resis tant beha viour , by reducing the 
+disease severity and the pathogen spor ulation. High levels of leaf hair density did not always associate 
+with reduced disease gravity in exper iment al inoculations, conf irming that this kind of pref ormed barrier 
+is not com pletely efficient in preventing pathogen infections. © The author(s).
+AUTHOR KEYW ORDS: Disease incidence;  Disease resis tance;  Grapevine
+DOCUMENT TYPE: Article
+SOUR CE: Scopus
+34BIOLOGÍA MOLECUL AR
+Nasciment o-Ga violi, M.C.A .a , Agapit o-Tenfen, S.Z.b , Nodar i, R.O.a , Welter , L.J.c , Sanchez Mora, F.D.a , 
+Saifert, L.a , da Silva, A.L.a , Guer ra, M.P.a 
+Proteome of Plasmopar a viticola-inf ected Vitis vinif era provides insights into grapevine Rpv1/Rpv3 
+pyramided resis tance to downy mildew
+(2016) Jour nal of Proteomics, . Article in Press. 
+https://www .scopus.com/in ward/record.ur i?eid=2-s2.0-
+849735458 15&par tnerID=40&md5=f8b099ebed22d95e2 7842d23928 4fb09
+DOI: 10.1016/j.jprot.20 16.05.024
+AFFILIA TIONS: CropScience Depar tment, Feder al University of Sant a Catarina, Rod. Admar Gonzaga 1346, 
+Flor ianópolis 88034-000, Brazil; 
+Genøk, Center for Biosaf ety, The Science Park, P.O. Box 6418, Tromsø 9294, Norway; 
+Agronomy Depar tment, Feder al University of Sant a Catarina, Rod. Ulysses Gaboardi, Km 3, Curitibanos 
+89520-000, Brazil
+ABS TRACT: Grapevine is one of the major fruit crops worldwide and requires phyt ochemical use due to 
+suscep tibility to numerous pests, including downy mildew . The pyramiding of previous identif ied QTL 
+resis tance regions allow s selection of genotypes with combined resis tance loci in order to build up 
+sustainable resis tance. This study investigates resis tance response of pyramided plants cont aining Rpv1 
+and Rpv3 loci to Plasmopar a viticola infection process. Phenotypic char acter ization showed com plete 
+resis tance and lack of necrotic hyper sensitiv e response spots. Principal Com ponent Analy sis revealed 
+infected 96. hpi (hour s post-inoculation) sam ples with the mos t distant proteomes of the entire dataset, 
+followed by the proteome of infected 48. hpi sam ples. Quantit ative and qualit ative protein differences 
+obser ved using 2-DE gels coupled to nanoHPLC-ESI-MS/MS analy sis showed a lack of transient breakdown 
+in defense responses (biphasic modulation) accom panying the onse t of disease. Forty-one proteins were 
+identif ied, which were mainly included into functional categor ies of redo x and energy metabolism. l-
+ascorbate degradation pathway was the major altered pathway and sugges ts up-regulation of anti-o xidant 
+metabolism in response to apoplas tic oxidativ e burst after infection. Overall, these data provide new 
+insights into molecular basis of this incom patible inter action and sugges ts several targe ts that could 
+potentially be exploited to develop new protection strategies agains t this pathogen. Biological 
+signif icance: This study provide new insights into the molecular basis of incom patible inter action between 
+Plasmopar a viticola and pyramided Rpv1/. Rpv3 grapevine and sugges ts several targe ts that could 
+potentially be exploited to develop new protection strategies agains t this pathogen. This is the first 
+proteomic char acter ization of resis tant grapevine available in the liter ature and it presents contr asting 
+proteomic prof iles of that of suscep tible plants. The resis tance agains t downy mildew in grapevine has 
+been a long sought and the availability of resis tance loci is of major importance. This is the first molecular 
+char acter ization of resis tance provided by Rpv1 and Rpv3 genes. © 2016 Else vier B.V.
+AUTHOR KEYW ORDS: Defense response;  Hyper sensitiv e response;  Incom patible inter action;  Oomyce te;  
+Plant-pat hogen inter action;  Proteomic
+DOCUMENT TYPE: Article in Press
+SOUR CE: Scopus
+REL ACIÓN PATÓGENO-PL ANTA
+Delmotte, F.a  b , Mestre, P.c  d , Schneider , C.c  d , Kasseme yer, H.-H.e , Kozma, P.f , Richar t-Cer vera, S.a  b 
+, Rouxel, M.a  b , Delière, L.a  b 
+Rapid and multiregional adap tation to host partial resis tance in a plant pathogenic oomyce te: Evidence 
+from European populations of Plasmopar a viticola, the causal agent of grapevine downy mildew
+(2014) Infection, Gene tics and Evolution, 27, pp. 500-508. Cited 13 times.
+https://www .scopus.com/in ward/record.ur i?eid=2-s2.0-
+84951906194&par tnerID=40&md5=9854 7ca69d533b60 1f63f9f600c0c2bf
+35DOI: 10.1016/j.meegid.20 13.10.017
+AFFILIA TIONS: INRA, Institut des Sciences de la Vigne et du Vin, UMR1 065 Santé et Agroécologie du 
+Vignoble, Villena ve d'Or non, France; 
+Université de Bordeaux, ISVV, UMR1 065 SAVE, Villena ve d'Or non, France; 
+INRA, UMR 1131 Santé de la Vigne et Qualité du Vin, Colmar , France; 
+Université de Strasbourg, UMR 1131 Santé de la Vigne et Qualité du Vin, Colmar , France; 
+Staatliches Weinbauins titut, Merzhauser Strasse 119, Freiburg, Germany; 
+University of Pécs, Research Institute for Viticulture and Oenology , Pázmány Péter u.4, Pécs, Hungar y
+ABS TRACT: Crop pathogens evolve rapidly to adap t to their hosts. The use of crops with quantit ative 
+disease resis tance is expected to alter selection of pathogen life-his tory traits. This may result in 
+differential adap tation of the pathogen to host cultiv ars and, some times, to the erosion of quantit ative 
+resis tance. Here, we assessed the level of host adap tation in an oomyce te plant pathogenic species. We 
+analy sed the phenotypic and gene tic variability of 17 Plasmopar a viticola isolates collected on Vitis 
+vinif era and 35 isolates from partially resis tant varieties (Regent and genotypes carrying the Rpv1 gene). 
+Cross-inoculation exper iments assessed two com ponents of aggressiv eness and a life-his tory trait of the 
+pathogen: disease severity, spor angial production and spor angia size. The results contr ibute evidence to 
+the emergence of P. viticola aggressiv e isolates presenting a high level of spor ulation on the partially 
+resis tant Regent. By contr ast, no adap tation to the Rpv1 gene was found in this study . The erosion of 
+Regent resis tance may have occur red in less than 5. year s and at leas t three times independently in three 
+distant wine-producing areas. Populations from resis tant varieties showed a signif icant increase in 
+spor angia production capacity , indicating an absence of fitness costs for this adap tation. The increase in 
+the number of spor angia was correlated with a reduction in spor angia size, a result which illus trates how 
+partial plant disease resis tance can impact selection of the pathogen's life-his tory traits. This case study 
+on grapevine downy mildew show s how new plant pathogen populations emerge in agro-ecosy stems by 
+adap ting to partial host resis tance. This adap tive patter n highlights the need for wise management of 
+plant partial disease resis tance to ensure its sustainability over time. © 2013 Else vier B.V.
+AUTHOR KEYW ORDS: Aggressiv eness;  Erosion of quantit ative host resis tance;  Fungal plant pathogen;  
+Life-his tory traits;  Regent grape cultiv ar;  Vitis vinif era
+DOCUMENT TYPE: Article
+SOUR CE: Scopus
+INDUCCIÓN DE RESIS TENCIA (CAMPO)
+Banani, H.a  b  d , Roatti, B.a  c , Ezzahi, B.a  b , Giov annini, O.a , Gessler , G.c , Pertot, I.a , Perazzolli, M.a 
+Char acter ization of resis tance mechanisms activ ated by Trichoder ma harzianum T39 and 
+benzot hiadiazole to downy mildew in different grapevine cultiv ars
+(2014) Plant Pathology , 63 (2), pp. 334-343. Cited 5 times.
+https://www .scopus.com/in ward/record.ur i?eid=2-s2.0-
+84900356524&par tnerID=40&md5=c0d232 76c628ced22 7d0608e0eda6db3
+DOI: 10.1111/ppa. 12089
+AFFILIA TIONS: Depar tment of Sustainable Agro-ecosy stems and Bioresources, Research and Innov ation 
+Centre, Fondazione Edmund Mach (FEM), Via E. Mach 1, 38010 San Michele all'A dige, Italy; 
+Mediter ranean Agronomic Institute of Bari, Via Ceglie 9, Valenzano, 70010, Italy; 
+Institute of Integ rative Biology , ETH Zürich, Zürich, 8092, Switzer land; 
+Depar tment of Agricultur al Fores try and Food Sciences, University of Torino, Grugliasco, 10095, Italy
+ABS TRACT: Downy mildew , caused by Plasmopar a viticola, is one of the mos t destructiv e diseases of 
+grapevine and is controlled with intense application of chemical fungicides. Treatment with Trichoder ma 
+harzianum T39 (T39) or benzot hiadiazole-7-carbot hioic acid S-me thyl ester (BTH) has been previously 
+36shown to activ ate grapevine resis tance to downy mildew and reduce disease symptoms in the Pinot noir 
+cultiv ar. Howe ver, enhancement of plant resis tance can be affected by several factors, including plant 
+genotype. In order to further extend the use of resis tance inducer s agains t downy mildew , the 
+physiological and molecular proper ties of T39- and BTH-activ ated resis tance in different cultiv ars of table 
+and wine grapes were char acter ized under greenhouse conditions. T39 treatment reduced downy mildew 
+symptoms, but the degree of efficacy differed signif icantly among grapevine cultiv ars. Howe ver, efficacy 
+of BTH-activ ated resis tance was consis tently high in the different cultiv ars. Expression prof iles of defence-
+related genes differed among cultiv ars in response to resis tance inducer s and to pathogen inoculation. T39 
+treatment enhanced the expression of defence-related genes in the responsiv e cultiv ars, before and after 
+P. viticola inoculation. A positiv e correlation between the efficacy of T39 and the expression level of 
+defence-related genes was found in Primitiv o and Pinot noir plants, while different genes or more com plex 
+processes were probably activ ated in Sugraone and Negroamaro. The data repor ted here sugges t that the 
+use of a responsiv e cultiv ar is particular ly important to maximize the efficacy of resis tance inducer s and 
+new natur al inducer s should be explored for the less responsiv e cultiv ars. © 2013 British Socie ty for Plant 
+Pathology .
+AUTHOR KEYW ORDS: Biocontrol;  Cultiv ar;  Defence-related genes;  Genotype;  Induced systemic 
+resis tance;  Vitis vinif era
+DOCUMENT TYPE: Article
+SOUR CE: Scopus
+RESIS TENCIA (CAMPO)
+Prajongjai, T., Poolsa wat, O., Pombungk erd, P., Wongk aew, S., Tantasawat, P.A.
+Evaluation of grapevines for resis tance to Downy Mildew (Plasmopar a viticola) under labor atory and field 
+conditions
+(2014) Sout h African Jour nal of Enology and Viticulture, 35 (1), pp. 43-50. Cited 2 times.
+https://www .scopus.com/in ward/record.ur i?eid=2-s2.0-
+84924850920&par tnerID=40&md5=d669df83 1884a829d92c1 1cb53ac308 1
+AFFILIA TIONS: Suranaree University of Technology , 111 University Avenue, Muang District, Nakhon 
+Ratchasima, Thailand
+ABS TRACT: Downy mildew of grapevine (Vitis vinif era L.), caused by the oomyce te Plasmopar a viticola, can 
+seriously devastate grapevine production in tropical countr ies, such as Thailand. Four suscep tible 
+grapevine cultiv ars, four potentially resis tant lines and 18 F 1 hybr ids, propagated by air layering and chip 
+budding, were evaluated for resis tance to downy mildew at labor atory (using a detached leaf assa y) and 
+field (natur al infection in 2011 and 2013) levels. Signif icant differences in the disease scores among 
+grapevine genotypes, ranging from 0.54 (resis tant) to 4.83 (suscep tible) and 3.30 (resis tant) to 7.70 
+(suscep tible), were obser ved under the labor atory and field conditions respectiv ely. No signif icant 
+difference in disease severity was obser ved between the two propagation methods or between the two 
+different year s of field evaluations. Resistance evaluations under both conditions consis tently classif ied 
+'NY88.05 17.01' and 'NY65.0550.0 4' as resis tant lines what would be useful as parents for future breeding 
+prog rammes. Moreov er, one F 1 hybr id, '5UT0 403.09 1, was repor ted to have consider able resis tance to 
+downy mildew under both labor atory and field conditions for the first time. The field resis tance level of 
+this hybr id was almos t com parable to its highly resis tant parent 'Wilcox 321 1, sugges ting its potential for 
+the future development of resis tant cultiv ars in Thailand. Although the ranking of genotypes varied 
+between screening methods, the resis tance levels of the 26 grapevine genotypes evaluated under 
+labor atory and field conditions were com parable based on the Spear man's rank correlation coef ficients of 
+0.73 (p ≤ 0.01). These results sugges t that the labor atory screening assa y is efficient for the rapid, reliable 
+and economical identif ication of resis tant hybr ids in grapevine breeding prog rammes.
+AUTHOR KEYW ORDS: Correlation;  Disease resis tance;  Disease screening method;  Grape;  Hybr id;  
+Propagation method;  Vitis spp
+DOCUMENT TYPE: Article
+SOUR CE: Scopus
+37REL ACIÓN PATÓGENO-PL ANTA
+Paolocci, M.a , Muganu, M.a , Alonso-V illaverde, V.b , Gindro, K.c 
+Leaf mor phological char acter istics and stilbene production differently affect downy mildew resis tance of 
+Vitis vinif era varieties grown in Italy
+(2014) Vitis - Jour nal of Grapevine Research, 53 (3), pp. 155-1 61. Cited 2 times.
+https://www .scopus.com/in ward/record.ur i?eid=2-s2.0-
+0585 7962&par tnerID=40&md5=0bc2 196ab1 7d3ba98 4b1c1bf fd63a7 52
+AFFILIA TIONS: Depar tment of Agriculture, Fores ts, Nature and Energy (DAFNE), University of Tuscia, via S. 
+Camillo de Lellis sne, 01100 Viterbo, Italy; 
+Misión Biológica de Galicia (CSIC), Ponte vedra, Spain; 
+Swiss Feder al Research Station Agroscope Changins-Wädenswil ACW, Nyon, Switzer land
+ABS TRACT: The degree of resis tance to downy mildew of grape varieties belonging to the oenological 
+tradition of Centr al Italy was evaluated by the analy sis of plant responses to pathogen infections carried 
+out in natur al and controlled environments. Leaf mor phological traits, such as hair and stornata! density , 
+were determined for each variety, and the percent age of infected stornata and pathogen colonization of 
+host mesophy ll at 24, 48, and 72 hour s post inoculation were assessed by epif luorescence microscopy . 
+Furthermore, stilbene production at the site of Plasmopar a viticola infection was analyzed at 72 hour s 
+post inoculation. Results indicate differences in resis tance to downy mildew among selected varieties. 
+Different signif icant values were detected among grapevines in the percent age of infected stornata and 
+average number of successfully pene trated zoospores per stornata and per leaf surface unit. Differences 
+also emerged in the rate of pathogen growt h and stilbene production, signifying that defence mechanisms 
+involved or induced during pathogen infection could be differentially effectiv e among grapevine cultiv ars 
+in limiting disease prog ression.
+AUTHOR KEYW ORDS: Grapevine;  Plasmopar a viticola;  Stilbenes;  Stornata;  Sustainable viticulture
+DOCUMENT TYPE: Article
+SOUR CE: Scopus
+REL ACIÓN PATÓGENO-PL ANTA
+Liu, R.a  b  c , Wang, L.a  b  c , Zhu, J.a  b  c , Chen, T.a  b  c , Wang, Y.a  b  c , Xu, Y.a  b  c 
+Histological responses to downy mildew in resis tant and suscep tible grapevines
+(2014) Prot oplasma, 252 (1), pp. 259-2 70. Cited 4 times.
+https://www .scopus.com/in ward/record.ur i?eid=2-s2.0-
+849398 78465&par tnerID=40&md5=88639bb3e285f8 77cdac28c5acf1 1ad5
+DOI: 10.1007/s00 709-0 14-06 77-1
+AFFILIA TIONS: State Key Labor atory of Crop Stress Biology in Arid Areas, Northwes t A&F University, 
+Shaanxi, Yangling, China; 
+College of Horticulture, Northwes t A&F University, Shaanxi, Yangling, China; 
+Key Labor atory of Horticultur al Plant Biology and Germplasm Innov ation in Northwes t China, Minis try of 
+Agriculture, Shaanxi, Yangling, China
+ABS TRACT: Downy mildew in grapevines, caused by Plasmopar a viticola, is a very serious disease 
+throughout the grape-producing nations, especially in more humid climates. Downy mildew mainly affects 
+the cultiv ated varieties of Vitis vinif era. A promising way to minimize or eliminate P. viticola infections is 
+by the adop tion of resis tant cultiv ars. Chinese wild grapevines are repor ted to possess resis tance to many 
+fungal diseases. In this study , three Chinese wild grapevines (Vitis pseudore ticulat a Baihe-35-1 , Vitis 
+davidii var. cyanocar pa Langao-5, and Vitis piasezkii Liuba-8) and a European cultiv ated variety (V. 
+vinif era cv. Pinot noir) were inoculated with P. viticola, and a histological survey was under taken. 
+38Macroscopic obser vations revealed no spor ulation in V. piasezkii Liuba-8, little spor ulation in V. 
+pseudore ticulat a Baihe-35-1 and V. davidii var. cyanocar pa Langao-5, but serious spor ulation in V. 
+vinif era cv. Pinot noir . Aniline blue staining indicated callose deposition in V. pseudore ticulat a Baihe-35-
+1, V. davidii var. cyanocar pa Langao-5, and V. piasezkii Liuba-8. Cells with distinctiv e fluorescence were 
+also obser ved in V. pseudore ticulat a Baihe-35-1 . After staining with 3,3-diaminobenzidine, production of 
+H<inf>2</inf>O<inf>2</inf> was obser ved early on, after infection in V. davidii var. cyanocar pa Langao-5 
+and V. piasezkii Liuba-8. No H<inf>2</inf>O<inf>2</inf> accumulation was obser ved in V. vinif era cv. 
+Pinot noir . It is concluded that V. piasezkii Liuba-8 should be classif ied as “highly resis tant” to downy 
+mildew , V. pseudore ticulat a Baihe-35-1 and V. davidii var. cyanocar pa Langao-5 as “resis tant, ” and V. 
+vinif era Pinot noir as “suscep tible. ” The possible roles of stomat al callose deposition in the defense 
+r6eactions of the mildew-resis tant grapevines are discussed. © 2014, Springer-V erlag Wien.
+AUTHOR KEYW ORDS: Downy mildew ;  Histological responses;  Plasmopar a viticola;  Resistant grapevines;  
+Suscep tible grapevines
+DOCUMENT TYPE: Article
+SOUR CE: Scopus
+RESIS TENCIA (CAMPO)
+Roatti, B.a  b , Perazzolli, M.a , Gessler , C.b , Pertot, I.a 
+Abiotic stresses affect trichoder ma harzianum T39-Induced resis tance to downy mildew in grapevine
+(2013) Phyt opat hology , 103 (12), pp. 1227-1234. Cited 4 times.
+https://www .scopus.com/in ward/record.ur i?eid=2-s2.0-
+84890905 111&par tnerID=40&md5=acb4cf1 889f688 42df3ef8d943 1b41c8
+DOI: 10.1094/PHY TO-02-1 3-00 40-R
+AFFILIA TIONS: Depar tment of Sustainable Agro-Ecosy stems and Bioresources, Research and Innov ation 
+Centre, Fondazione Edmund Mach (FEM), Via E. Mach 1, 38010 S. Michele All'adige, Italy; 
+Institute of Integ rative Biology , ETH Zürich, 8092 Zürich, Switzer land
+ABS TRACT: Enhancement of plant defense through the application of resis tance inducer s seems a 
+promising alter nativ e to chemical fungicides for controlling crop diseases but the efficacy can be affected 
+by abiotic factors in the field. Plants respond to abiotic stresses with hormonal signals that may inter fere 
+with the mechanisms of induced systemic resis tance (ISR) to pathogens. In this study , we exposed 
+grapevines to heat, drought, or both to investigate the effects of abiotic stresses on grapevine resis tance 
+induced by Trichoder ma harzianum T39 (T39) to downy mildew . Whereas the efficacy of T39-induced 
+resis tance was not affected by exposure to heat or drought, it was signif icantly reduced by combined 
+abiotic stresses. Decrease of leaf water potential and upregulation of heat-s tress markers conf irmed that 
+plants reacted to abiotic stresses. Basal expression of defense-related genes and their upregulation 
+during T39-induced resis tance were attenuated by abiotic stresses, in agreement with the reduced 
+efficacy of T39. The evidence repor ted here sugges ts that exposure of crops to abiotic stress should be 
+carefully considered to optimize the use of resis tance inducer s, especially in view of future global climate 
+changes. Expression analy sis of ISR marker genes could be helpful to identify when plants are responding 
+to abiotic stresses, in order to optimize treatments with resis tance inducer s in field. © 2013 The Amer ican 
+Phyt opat hological Socie ty.
+DOCUMENT TYPE: Article
+SOUR CE: Scopus
+BIOLOGÍA MOLECUL AR
+Monteiro, F., Sebas tiana, M., Pais, M.S., Figueiredo, A.
+Reference Gene Selection and Validation for the Early Responses to Downy Mildew Infection in Suscep tible 
+and Resistant Vitis vinif era Cultiv ars
+39(2013) PLoS ONE, 8 (9), art. no. e72998, . Cited 22 times.
+https://www .scopus.com/in ward/record.ur i?eid=2-s2.0-
+848833398 76&par tnerID=40&md5=2a88 44fff0de6a0 1cb2f00bb79f1 7da1
+DOI: 10.1371/jour nal.pone.00 72998
+AFFILIA TIONS: Plant Systems Biology Lab, Center of Biodiv ersity, Functional and Integ rative Genomics 
+(BioFIG), Science Faculty of Lisbon University, Lisboa, Portugal
+ABS TRACT: The pivotal role of cultiv ated grapevine (Vitis vinif era L.) in many countr ies economy is 
+com promised by its high suscep tibility to Plasmopar a viticola, the causal agent of downy mildew disease. 
+Recent research has identif ied a set of genes related to resis tance which may be used to track downy 
+mildew infection. Quantif ication of the expression of these resis tance genes requires normalizing qPCR 
+data using reference genes with stable expression in the system studied. In this study , a set of eleven 
+genes (VATP16, 60 S, UQCC, SMD3, EF1α, UBQ, SAND, GAPDH, ACT, PsaB, PTB2) was evaluated to identify 
+reference genes during the first hour s of inter action (6, 12, 18 and 24 hpi) between two V. vinif era 
+genotypes and P. viticola. Two analy ses were used for the selection of reference genes: direct com parison 
+of suscep tible, Trincadeir a, and resis tant, Regent, V. vinif era cultiv ars at 0 h, 6, 12, 18 and 24 hour s post 
+inoculation with P. viticola (genotype effect); and com parison of each genotype with mock inoculated 
+sam ples during inoculation time-cour se (biotic stress effect). Three statistical methods were used, 
+GeNor m, NormFinder , and BestKeeper , allowing to identify UBQ, EF1α and GAPDH as the mos t stable genes 
+for the genotype effect. For the biotic stress effect, EF1α, SAND and SMD3 were the mos t cons tant for the 
+suscep tible cultiv ar Trincadeir a and EF1α, GAPDH, UBQ for the resis tant cultiv ar Regent. In addition, the 
+expression of three defense-related transcr ipts, encoding for subtilisin-lik e protein, CYP and PR10, was 
+analy sed, for both datasets, during inoculation time-cour se. Taken together, our results provide 
+guidelines for reference gene(s) selection towards a more accur ate and widespread use of qPCR to study 
+the first hour s of inter action between different grapevine cultiv ars and P. viticola. © 2013 Monteiro et al.
+DOCUMENT TYPE: Article
+SOUR CE: Scopus
+RESIS TENCIA (CAMPO)
+Calonnec, A.a  b , Wiedemann-Merdinoglu, S.c  d , Delière, L.a  b , Cartolaro, P.a  b , Schneider , C.c  d , 
+Delmotte, F.a  b 
+The reliability of leaf bioassa ys for predicting disease resis tance on fruit: A case study on grapevine 
+resis tance to downy and powder y mildew
+(2013) Plant Pathology , 62 (3), pp. 533-54 4. Cited 5 times.
+https://www .scopus.com/in ward/record.ur i?eid=2-s2.0-
+84876803 799&par tnerID=40&md5=e3dca29ce1b3 1d48a0c23dc3aca3 1b15
+DOI: 10.1111/j.1365-3059.20 12.0266 7.x
+AFFILIA TIONS: INRA, UMR1 065 SAVE, F-33883 Villena ve d'Or non, France; 
+Université de Bordeaux, ISVV, UMR1 065 SAVE, F-33883 Villena ve d'Or non, France; 
+INRA, UMR1 131 SVQV, F6802 Colmar , France; 
+Université de Strasbourg, UMR1 131 SVQV, F-6802 Colmar , France
+ABS TRACT: This study was designed to assess the reliability of grapevine leaf bioassa ys for predicting 
+disease resis tance on fruit in the field. The efficacy of various grapevine quantit ative trait loci (QTLs) for 
+conf erring resis tance to downy and powder y mildew was evaluated in bioassa ys and in a 2-year field 
+exper iment for downy mildew . The resis tance genes studied were inher ited from Muscadinia rotundif olia 
+(Rpv1 and Run1) and from Amer ican Vitis species through cv. Regent (QTLRgP and QTLRgD). In bioassa ys, 
+genotypes carrying Run1 block ed powder y mildew development at early stages. Genotypes combining 
+Run1 with QTLRgP displa yed no greater level of resis tance. For downy mildew , genotypes carrying Rpv1 
+and/or QTLRgD were more resis tant than the suscep tible cv. Merlot, and showed a high level of leaf 
+40resis tance in the field (<10% severity). Disease levels on bunches were much higher than those on leaves, 
+with a high variability between Rpv1 genotypes (1-48%). A Bayesian decision theor y framewor k predicted 
+that an OIV-452 threshold of 5 in leaf bioassa ys allowed accur ate selection of grapevine genotypes 
+(P=0·83) with satisf actory disease severity on bunches. Theref ore, this study validates that the use of 
+early bioassa ys on leaves, as currently performed by grapevine breeder s, ensures a satisf actory level of 
+resis tance to downy mildew of bunches in the field. © 2012 BSPP .
+AUTHOR KEYW ORDS: Erysiphe necat or;  Marker-assis ted selection;  Perennial plant ;  Plasmopar a viticola;  
+Receiv er oper ating char acter istic
+DOCUMENT TYPE: Article
+SOUR CE: Scopus
+BIOLOGÍA MOLECUL AR
+Venuti, S.a , Cope tti, D.b  f , Foria, S.a , Falginella, L.a , Hoffmann, S.c , Bellin, D.a  e , Cindr i , P.d , 
+Kozma, P.c , Scalabr in, S.b , Morgante, M.a  b , Testolin, R.a  b , Di Gaspero, G.a  b 
+Historical Introg ression of the Downy Mildew Resistance Gene Rpv1 2 from the Asian Species Vitis 
+amurensis into Grapevine Varieties
+(2013) PLoS ONE, 8 (4), art. no. e61228, . Cited 15 times.
+https://www .scopus.com/in ward/record.ur i?eid=2-s2.0-
+84876080648&par tnerID=40&md5=6c7bed30e838c49a29a4 7d03f86 17008
+DOI: 10.1371/jour nal.pone.006 1228
+AFFILIA TIONS: Dipar timent o di Scienze Agrarie e Ambient ali, University of Udine, Udine, Italy; 
+Istitut o di Genomica Applicat a, Parco Scientif ico e Tecnologico Luigi Danieli, Udine, Italy; 
+Research Institute of Viticulture and Enology , University of Pécs, Pécs, Hungar y; 
+Faculty of Agriculture, University of Novi Sad, Novi Sad, Serbia; 
+Dipar timent o di Biotecnologie, University of Verona, Verona, Italy; 
+Arizona Genomics Institute, University of Arizona, Tucson, AZ, United States
+ABS TRACT: The Amur grape (Vitis amurensis Rupr.) thrives natur ally in cool climates of Northeas t Asia. 
+Resistance agains t the introduced pathogen Plasmopar a viticola is common among wild ecotypes that 
+were propagated from Manchur ia into Chinese vine yards or collected by Sovie t botanis ts in Siber ia, and 
+used for the introg ression of resis tance into wine grapes (Vitis vinif era L.). A QTL analy sis revealed a 
+dominant gene Rpv1 2 that explained 79% of the phenotypic variance for downy mildew resis tance and 
+was inher ited independently of other resis tance genes. A Mendelian com ponent of resis tance-a 
+hyper sensitiv e response in leaves challenged with P. viticola-w as mapped in an inter val of 0.2 cM 
+cont aining an array of coiled-coil NB-LRR genes on chromosome 14. We sequenced 10-kb genic regions in 
+the Rpv1 2+ haplotype and identif ied polymor phisms in 12 varieties of V. vinif era using next-gener ation 
+sequencing. The combination of two SNPs in single-copy genes flanking the NB-LRR clus ter distinguished 
+the resis tant haplotype from all others found in 200 accessions of V. vinif era, V. amurensis, and V. 
+amurensis x V. vinif era crosses. The Rpv1 2+ haplotype is shared by 15 varieties, the mos t ances tral of 
+which are the centur y-old 'Zar ja severa' and 'Michur inets'. Before this knowledge, the chromosome 
+segment around Rpv1 2+ became introg ressed, shor tened, and pyramided with anot her downy mildew 
+resis tance gene from North Amer ican grapevines (Rpv3) only by phenotypic selection. Rpv1 2+ has an 
+additiv e effect with Rpv3+ to protect vines agains t natur al infections, and conf ers foliar resis tance to 
+strains that are virulent on Rpv3+ plants. © 2013 Venuti et al.
+DOCUMENT TYPE: Article
+SOUR CE: Scopus
+41BIOLOGÍA MOLECUL AR
+Wang, P.a  b , Liu, C.b , Wang, D.a , Liang, C.a  b , Zhao, K.b , Fan, J.a 
+Isolation of resis tance gene analogs from grapevine resis tant to downy mildew
+(2013) Scientia Horticultur ae, 150, pp. 326-333. Cited 6 times.
+https://www .scopus.com/in ward/record.ur i?eid=2-s2.0-
+84871659329&par tnerID=40&md5=8 1c21aa40 47aa1 74f5ea0 1742212fbc4
+DOI: 10.1016/j.scient a.20 12.11.035
+AFFILIA TIONS: Depar tment of Plant Protection, Sheny ang Agricultur al University, Sheny ang 110161, 
+China; 
+Institute of Plant Protection, Liaoning Academy of Agricultur al Sciences, Sheny ang 110161, China
+ABS TRACT: Downy mildew caused by Plasmopar a viticola is a devastating disease that results in 
+consider able economic losses as well as environment al damage through the repeated application of 
+fungicides in cultiv ated grapevine (Vitis spp.). In this study , degener ate primer s that were designed 
+based on the conser ved motif s in the NBS domain of resis tance proteins were used to isolate NBS-type 
+sequences. A total of 10 RGA fragments were identif ied, and their predicted amino acid sequences 
+com pared to each other and to the amino acid sequences of known R-genes revealed signif icant sequence 
+similar ity. Phylogene tic analy sis demons trated that 10 RGAs disper sed along the phylogram on the two 
+major branches of either TIR or non-TIR type of the NBS-LRR proteins. Quantit ative real-time polymer ase 
+chain reaction (qRT-PCR) analy sis showed that transcr ipts of RGA1 , RGA2, RGA5 and RGA23 were 
+specif ically induced after infection with P. viticola. These results sugges t that RGA1 , RGA2, RGA5 and 
+RGA23 may play roles in defense mechanisms that conf er resis tance to downy mildew in grapevine. © 
+2012 Else vier B.V.
+AUTHOR KEYW ORDS: Downy mildew ;  NBS-LRR;  QRT-PCR;  Resistance gene analogs;  Vitis spp.
+DOCUMENT TYPE: Article
+SOUR CE: Scopus
+RESIS TENCIA (CAMPO)
+Van Leeuwen, C.a  b , Roby, J.-P.a  b , Alonso-V illaverde, V.c , Gindro, K.d 
+Impact of clonal variability in Vitis vinif era caber net franc on grape com position, wine quality , leaf blade 
+stilbene content, and downy mildew resis tance
+(2013) Jour nal of Agricultur al and Food Chemis try, 61 (1), pp. 19-24. Cited 14 times.
+https://www .scopus.com/in ward/record.ur i?eid=2-s2.0-
+84872118612&par tnerID=40&md5=5 16681723ef a2603c7fce3e82f8650e5
+DOI: 10.1021/jf30 4687c
+AFFILIA TIONS: Univ. Bordeaux, ISVV, Ecophy siology and Functional Genomics of Grapevines, UMR 1287, F-
+33140 Villena ve d'Or non, France; 
+Bordeaux Sciences Agro, ISVV, Ecophy siology and Functional Genomics of Grapevines, UMR 1287, F-33 140 
+Villena ve d'Or non, France; 
+Misión Biológica de Galicia (CSIC), P.O. Box 28, 36080 Ponte vedra, Spain; 
+Station de Recherche Agroscope Changins-Wädenswil ACW, Route de Duiller 50, CP 1012, 1260 Nyon 1, 
+Switzer land
+ABS TRACT: In this study , 10 clones of Vitis vinif era Caber net franc (not yet commercial) have been 
+phenotyped on precocity , grape com position, and assessment of wine quality made by microvinif ication 
+in 2008-20 10. Additionally , two original criteria have been considered: concentr ation of 3-isobuty l-2- 
+methoxypyr azine (IBMP) in grapes and wines (the green bell pepper flavor) and resis tance of grapevines 
+to downy mildew (Plasmopar a viticola) by stilbene quantif ication upon infection. Precocity of veraison 
+varied up to four days at veraison. Berry size and yield were highly variable among clones. Howe ver, 
+these variables were not correlated. Tanins and anthocy anins varied among clones in grapes and wines. 
+42Variations in grape and wine IBMP were not signif icant. Some clones showed lower suscep tibility for downy 
+mildew on leaves. Lower suscep tibility was linked to a higher production of stilbenic phyt oale xins involved 
+in downy mildew resis tance mechanisms. © 2012 Amer ican Chemical Socie ty.
+DOCUMENT TYPE: Article
+SOUR CE: Scopus
+RESIS TENCIA (CAMPO)
+Pint o, K.M.S.a , do Nasciment o, L.C.a , de Souza Gomes, E.C.b , da Silva, H.F.c , dos Reis Miranda, J.a 
+Efficiency of resis tance elicit ors in the management of grapevine downy mildew Plasmopar a viticola: 
+Epidemiological, biochemical and economic aspects
+(2012) European Jour nal of Plant Pathology , 134 (4), pp. 745-7 54. Cited 6 times.
+https://www .scopus.com/in ward/record.ur i?eid=2-s2.0-
+84868 444430&par tnerID=40&md5=28c54 478fd42d25d9e1e59 7a9c93b858
+DOI: 10.1007/s1 0658-0 12-0050-1
+AFFILIA TIONS: Prog rama de Pós-Gr aduação em Agronomia, Universidade Feder al da Paraíba, CCA/UFPB, 
+Cam pus II, Rodovia PB 079, Km 12, CEP 5839 7-000 Areia, PB, Brazil; 
+Institut o Feder al do Sertão Pernambucano, Petrolina, PE, Brazil; 
+Labor atório de Fitopat ologia CCA/UFPB, Cam pus II, Rodovia PB 079, Km 12, CEP 5839 7-000 Areia, PB, 
+Brazil
+ABS TRACT: This paper aimed to evaluate the efficiency of resis tance elicit ors in the management of 
+grapevine downy mildew (Plasmopar a viticola), identify the action of the elicit ors on host metabolism, 
+and determine their economic viability . The exper iments were performed in a commercial vine yard variety 
+'Isabel' (Vitis labr usca) at Vale do Sirijí [Natuba, Paraiba State in Brazil, in the period of September 2009 
+to Januar y 2010 (first season) and Febr uary to June 2010 (second season)]. The statistical design of 
+randomized block s consis ted of eight treatments (untreated control, fungicide (pyr aclos trobin+me tiram), 
+potassium phosphite, Agro-Mos®, Fungicide+pot assium phosphite, Fungicide+A gro-Mos®, potassium 
+phosphite+A groMós® and Fungicide+pot assium phosphite+A gro-Mos®) with four replications, with the 
+exper iment al unit consis ting of 45 leaves. Applications were made every 7 days, starting 20 days after 
+pruning (DAP) with a total of 12 sprays. The evaluations were carried out biweekly , analyzing the following 
+variables: incubation period, disease incidence and severity, area under the disease prog ress curve, and 
+efficiency of control. The enzymatic determination was performed using pulp extracts from three fruits 
+harvested at 45, 60, 90 and 120 DAP for each treatment. The resis tance elicit ors were able to reduce the 
+disease incidence under different climatic conditions, indicating their viability as an alter nativ e for the 
+management of Plasmopar a viticola. © 2012 KNPV .
+AUTHOR KEYW ORDS: Mildew ;  Resistance induction;  Vitis labr usca L.
+DOCUMENT TYPE: Article
+SOUR CE: Scopus
+BIOLOGÍA MOLECUL AR Y RESIS TENCIA (CAMPO)
+Perazzolli, M.a , More tto, M.a , Font ana, P.a , Ferrarini, A.b , Velasco, R.a , Moser , C.a , Delledonne, M.b , 
+Pertot, I.a 
+Downy mildew resis tance induced by Trichoder ma harzianum T39 in suscep tible grapevines partially 
+mimics transcr iptional changes of resis tant genotypes
+(2012) BMC Genomics, 13 (1), art. no. 660, . Cited 38 times.
+https://www .scopus.com/in ward/record.ur i?eid=2-s2.0-
+8486986 1785&par tnerID=40&md5=7 1d8c1e6b32032cea4ebecb533546908DOI: 10.1186/1 471-2164-1 3-660
+AFFILIA TIONS: IASMA Research and Innov ation Centre, Fondazione Edmund Mach, Via E. Mach 1, 38010, 
+San Michele all'A dige (TN), Italy; 
+Dipar timent o di Biotecnologie, Università degli Studi di Verona, Strada Le Grazie 15, 37134, Verona, Italy
+ABS TRACT: Back ground: Downy mildew , caused by Plasmopar a viticola, is one of the mos t severe diseases 
+of grapevine and is commonly controlled by fungicide treatments. The benef icial microorganism 
+Trichoder ma harzianum T39 (T39) can induce resis tance to downy mildew , although the molecular events 
+associated with this process have not yet been elucidated in grapevine. A next gener ation RNA 
+sequencing (RNA-Seq) approach was used to study global transcr iptional changes associated with 
+resis tance induced by T39 in Vitis vinif era Pinot Noir leaves. The long-ter m aim was to develop strategies 
+to optimize the use of this agent for downy mildew control.R esults: More than 14.8 million paired-end 
+reads were obtained for each biological replicate of T39-treated and control leaf sam ples collected before 
+and 24 h after P. viticola inoculation. RNA-Seq analy sis resulted in the identif ication of 7,024 
+differentially expressed genes, highlighting the com plex transcr iptional reprog ramming of grapevine 
+leaves during resis tance induction and in response to pathogen inoculation. Our data show that T39 has a 
+dual effect: it directly modulates genes related to the microbial recognition machiner y, and it enhances 
+the expression of defence-related processes after pathogen inoculation. Whereas several genes were 
+commonly affected by P. viticola in control and T39-treated plants, opposing modulation of genes related 
+to responses to stress and protein metabolism was found. T39-induced resis tance partially inhibited some 
+disease-related processes and specif ically activ ated defence responses after P. viticola inoculation, 
+causing a signif icant reduction of downy mildew symptoms.Conclusions: The global transcr iptional 
+analy sis revealed that defence processes known to be implicated in the reaction of resis tant genotypes to 
+downy mildew were partially activ ated by T39-induced resis tance in suscep tible grapevines. Genes 
+identif ied in this work are an important source of markers for selecting novel resis tance inducer s and for 
+the analy sis of environment al conditions that might affect induced resis tance mechanisms. © 2012 
+Perazzolli et al.; licensee BioMed Centr al Ltd.
+AUTHOR KEYW ORDS: Gene expression;  Induced resis tance;  Next gener ation sequencing;  Plant-pat hogen 
+inter actions;  RNA-Seq;  Transcr iptomics;  Vitis vinif era
+DOCUMENT TYPE: Article
+SOUR CE: Scopus
+BIOLOGÍA MOLECUL AR
+Palmier i, M.C.a , Perazzolli, M.a , Matafora, V.b , More tto, M.a , Bachi, A.b , Pertot, I.a 
+Proteomic analy sis of grapevine resis tance induced by Trichoder ma harzianum T39 reveals specif ic 
+defence pathways activ ated agains t downy mildew
+(2012) Jour nal of Exper iment al Botany, 63 (17), pp. 6237-625 1. Cited 33 times.
+https://www .scopus.com/in ward/record.ur i?eid=2-s2.0-
+84868029990&par tnerID=40&md5=340a055b0 7e8bd494b7 3b8a1ad2402cd
+DOI: 10.1093/jxb/er s279
+AFFILIA TIONS: IASMA Research and Innov ation Centre, Fondazione Edmund Mach, via E. Mach 1, 38010 
+San Michele all'A dige, Trent o, Italy; 
+Biological Mass Spectrome try Unit DIBIT , San Raffaele Scientif ic Institute, via Olge ttina 58, 20132 
+Milano, Italy
+ABS TRACT: Downy mildew is caused by the oomyce te Plasmopar a viticola and is one of the mos t serious 
+diseases of grapevine. The benef icial microorganism Trichoder ma harzianum T39 (T39) has previously 
+been shown to induce plant-mediated resis tance and to reduce the severity of downy mildew in 
+suscep tible grapevines. In order to better under stand the cellular processes associated with T39-induced 
+resis tance, the proteomic and histochemical changes activ ated by T39 in grapevine were investigated 
+before and 1 day after P. viticola inoculation. A com prehensiv e proteomic analy sis of T39-induced 
+resis tance in grapevine was performed using an eight-ple x iTRAQ prot ocol, resulting in the identif ication 
+44and quantif ication of a total of 800 proteins. Mos t of the proteins directly affected by T39 were found to 
+be involved in signal transduction, indicating activ ation of a com plete microbial recognition machiner y. 
+Moreov er, T39-induced resis tance was associated with rapid accumulation of reactiv e oxygen species and 
+callose at infection sites, as well as changes in abundance of proteins involved in response to stress and 
+redo x balance, indicating an activ e defence response to downy mildew . On the other hand, proteins 
+affected by P. viticola in control plants mainly decreased in abundance, possibly reflecting the 
+establishment of a com patible inter action. Finally , the high-t hroughput iTRAQ prot ocol allowed de novo 
+peptide sequencing, which will be used to improv e annot ation of the Vitis vinif era cv. Pinot Noir 
+proteome. © 2012 The Author.
+AUTHOR KEYW ORDS: biocontrol agent ;  induced resis tance;  Plasmopar a viticola;  quantit ative proteomics;  
+reactiv e oxygen species;  tripar tite inter action;  Vitis vinif era
+DOCUMENT TYPE: Article
+SOUR CE: Scopus
+BIOLOGÍA MOLECUL AR
+Schw ander , F., Eibach, R., Fechter , I., Hausmann, L., Zypr ian, E., Töpf er, R.
+Rpv1 0: A new locus from the Asian Vitis gene pool for pyramiding downy mildew resis tance loci in 
+grapevine
+(2012) Theore tical and Applied Gene tics, 124 (1), pp. 163-1 76. Cited 32 times.
+https://www .scopus.com/in ward/record.ur i?eid=2-s2.0-
+8485606628 7&par tnerID=40&md5=d8eae4 4f0476c7bac0 7ef0b05e4de3 10
+DOI: 10.1007/s00 122-0 11-1695-4
+AFFILIA TIONS: JKI Institute for Grapevine Breeding Geilweiler hof, 76833 Siebeldingen, Germany
+ABS TRACT: A population derived from a cross between grapevine breeding strain Gf. Ga-52-42 and cultiv ar 
+'Solar is' consis ting of 265 F1-individuals was gene tically mapped using SSR markers and screened for 
+downy mildew resis tance. Quantit ative trait locus (QTL) analy sis revealed two strong QTLs on linkage 
+groups (LGs) 18 and 09. The locus on LG 18 was found to be identical with the previously descr ibed locus 
+Rpv3 and is transmitted by Gf. Ga-52-42. 'Solar is' transmitted the resis tance-related locus on LG 09 
+explaining up to 50% of the phenotypic variation in the population. This downy mildew resis tance locus is 
+named Rpv1 0 for resis tance to Plasmopar a viticola. Rpv1 0 was initially introg ressed from Vitis amurensis, 
+a wild species of the Asian Vitis gene pool. The one-LOD suppor ted conf idence inter val of the QTL spans a 
+section of 2.1 centi Morgan (cM) corresponding to 314 kb in the reference genome PN40024 (12x). Eight 
+resis tance gene analogues (RGAs) of the NBS-LRR type and additional resis tance-link ed genes are located 
+in this region of PN40024. The F1 sub-population which cont ains the Rpv3 as well as the Rpv1 0 locus 
+showed a signif icantly higher degree of resis tance, indicating additiv e effects by pyramiding of resis tance 
+loci. Possibilities for using the resis tance locus Rpv1 0 in a grapevine breeding prog ramme are discussed. 
+Furthermore, the marker data revealed 'Severnyi' × 'Muscat Ottonel' as the true parent age for the male 
+parent of 'Solar is'. © 2011 Springer-V erlag.
+DOCUMENT TYPE: Article
+SOUR CE: Scopus
+BIOLOGÍA MOLECUL AR
+Di Gaspero, G.a  b , Cope tti, D.a  b , Coleman, C.c  d , Castellar in, S.D.a , Eibach, R.e , Kozma, P.f , Lacombe, 
+T.g , Gambe tta, G.h , Zvyagin, A.i , Cindr i , P.j , Kovács, L.c , Morgante, M.a  b , Testolin, R.a  b 
+Selectiv e sweep at the Rpv3 locus during grapevine breeding for downy mildew resis tance
+(2012) Theore tical and Applied Gene tics, 124 (2), pp. 277-286. Cited 20 times.
+https://www .scopus.com/in ward/record.ur i?eid=2-s2.0-
+8486033 7941&par tnerID=40&md5=9a9a99 12acc4f0bea20 7f9f1 223c2a32
+45DOI: 10.1007/s00 122-0 11-1703-8
+AFFILIA TIONS: Dipar timent o di Scienze Agrarie e Ambient ali, University of Udine, via delle scienze 208, 
+33100 Udine, Italy; 
+Istitut o di Genomica Applicat a, Parco Scientif ico e Tecnologico Luigi Danieli, 33100 Udine, Italy; 
+Depar tment of Biology , Missour i State University, Springf ield, MO 6589 7, United States; 
+Division of Plant Sciences and CS Bond Life Sciences Center , University of Missour i, Columbia, MO 65211, 
+United States; 
+Julius Kühn-Ins titut, Institute for Grapevine Breeding Geilweiler hof, 76833 Siebeldingen, Germany; 
+University of Pécs, Institute of Viticulture and Enology , 7634 Pécs, Hungar y; 
+INRA UMR 1334 AGAP, Equipe Diversité and Adaptation Vigne and Espèces Méditer ranéennes, 34060 
+Montpellier , France; 
+Depar tment of Viticulture and Enology , University of Calif ornia, Davis, CA 95616, United States; 
+Kuban State Agrarian University, Krasnodar , Russian Feder ation; 
+Faculty of Agriculture, University of Novi Sad, 21000 Novi Sad, Serbia
+ABS TRACT: The Rpv3 locus is a major determinant of downy mildew resis tance in grapevine (Vitis spp.). A 
+selectiv e sweep at this locus was revealed by the DNA genotyping of 580 grapevines, which include a highly 
+diverse set of 265 European varieties that predated the spread of North Amer ican mildew s, 82 accessions 
+of wild species, and 233 regis tered breeding lines with North Amer ican ances try produced in the past 150 
+year s. Artificial hybr idisation and subsequent phenotypic selection favoured a few Rpv3 haplotypes that 
+were introg ressed from wild vines and retained in released varieties. Seven conser ved haplotypes in Wve 
+descent groups of resis tant varieties were traced back to their founder s: (1) 'Munson', a cross between 
+two of Hermann Jaeger's selections of V. rupes tris and V. lincecumii made in the early 1880s in Missour i, 
+(2) V. rupes tris 'Ganzin', Wrst utilised for breeding in 1879 by Victor Ganzin in France, (3) 'Noah', selected 
+in 1869 from inter mingled accessions of V. ripar ia and V. labr usca by Otto Wasser zieher in Illinois, (4) 
+'Bayard', a V. rupes tris × V. labr usca oVspr ing gener ated in 1882 by George Couderc in France, and (5) a 
+wild form closely related to V. rupes tris accessions in the Midwes tern United States and introg ressed into 
+'Seibel 4614' in the 1880s by Alber t Seibel in France. Persistence of these Rpv3 haplotypes across many of 
+the varieties gener ated by human inter vention indicates that a handful of vines with prominent resis tance 
+have laid the foundation for moder n grape breeding. A rampant hot spot of NB-LRR genes at the Rpv3 
+locus has provided a distinctiv e advantage for the adap tation of nativ e North Amer ican grapevines to 
+withstand downy mildew . The coexistence of multiple resis tance alleles or paralogues in the same 
+chromosomal region but in diVerent haplotypes counter acts eVorts to pyramidise them in a diploid 
+individual via conv entional breeding. © Springer-V erlag 2011.
+DOCUMENT TYPE: Article
+SOUR CE: Scopus
+BIOLOGÍA MOLECUL AR
+Casag rande, K.a , Falginella, L.a , Castellar in, S.D.a , Testolin, R.a  b , Di Gaspero, G.a  b 
+Defence responses in Rpv3-dependent resis tance to grapevine downy mildew
+(2011) Plant a, 234 (6), pp. 1097-1109. Cited 25 times.
+https://www .scopus.com/in ward/record.ur i?eid=2-s2.0-
+81955163011&par tnerID=40&md5=8af9b7bd835 79ee66549cfb4 1c27abd1
+DOI: 10.1007/s00 425-0 11-1461-5
+AFFILIA TIONS: Dipar timent o di Scienze Agrarie e Ambient ali, University of Udine, via delle scienze 208, 
+33100 Udine, Italy; 
+Parco Scientif ico e Tecnologico Luigi Danieli, Istitut o di Genomica Applicat a, 33100 Udine, Italy
+46ABS TRACT: The Rpv3 locus determines the ability to oper ate an isolate-specif ic hyper sensitiv e response (HR) 
+agains t Plasmopar a viticola in grapevines that carry a resis tant Rpv3+ haplotype. Artificial infection was 
+performed on leaf discs of Rpv3+ and Rpv3- grapevines with two distinct isolates of the pathogen (avrRpv3+ 
+and avrRpv3-). The plant response, including the establishment of HR and changes in expression of 33 genes, 
+was com pared to the development of the pathogen. HR was induced exclusiv ely in the Rpv3+ host upon 
+inoculation with the avrRpv3+ isolate of the pathogen, which is assumed to use avrRpv3+ effectors that are 
+recognised by/t hrough the plant Rpv3+ gene product. The limit ation imposed on pathogen growt h was the 
+result of inducible responses elicited by the Rpv3+-a vrRpv3+ inter action. This host reaction relied on 
+transcr iptional induction of the HR-associated gene HSR1 and salicy lic acid-induced pathogenesis-related 
+(PR) genes PR-1 and PR-2 during the initial 24-48 h post-inoculation. These events had no parallel in the 
+Rpv3- host or upon infection with the avrRpv3- isolate. The emerging model for Rpv3-mediated defence, 
+which is dependent upon race-specif ic recognition, associated with up-regulation of PR-1 and PR-2 genes, 
+and enforced by localised HR-type necrosis, is com patible with the cascade of events initiated by the products 
+of NB-LRR and LRR-kinase recep tor-lik e genes, such as those residing in the Rpv3 locus. © 2011 Springer-
+Verlag.
+AUTHOR KEYW ORDS: Pathogenesis-related proteins;  Plasmopar a viticola;  Signal transduction;  Vitis vinif era
+DOCUMENT TYPE: Article
+SOUR CE: Scopus
+RESIS TENCIA (CAMPO)
+Perazzolli, M.a , Roatti, B.a  b , Bozza, E.a , Pertot, I.a 
+Trichoder ma harzianum T39 induces resis tance agains t downy mildew by priming for defense without costs 
+for grapevine
+(2011) Biological Control, 58 (1), pp. 74-82. Cited 36 times.
+https://www .scopus.com/in ward/record.ur i?eid=2-s2.0-
+79956 102076&par tnerID=40&md5=22d64 7b626580c2f fc5c8a489554a0a9
+DOI: 10.1016/j.biocontrol.20 11.04.006
+AFFILIA TIONS: IASMA Research and Innov ation Centre, Fondazione Edmund Mach, Via E. Mach 1, S. Michele 
+all'A dige 38010, Trent o, Italy; 
+Institute of Integ rative Biology , ETH Zürich, Zürich 8092, Switzer land
+ABS TRACT: Downy mildew caused by Plasmopar a viticola is one of the mos t destructiv e grapevine diseases 
+worldwide. The biocontrol agent Trichoder ma harzianum T39 (T39) has previously been shown to be an 
+inducer of grapevine resis tance, and we aimed at char acter izing the molecular mechanisms activ ated by T39 
+and the energy costs of the induced resis tance in terms of plant growt h. Here, we showed that T39 reduced 
+downy mildew severity on suscep tible grapevines under controlled greenhouse conditions by a direct 
+modulation of defense-related genes and the activ ation of priming for enhanced expression of these genes 
+after pathogen inoculation. The stronger local than systemic modulation of defense-related genes 
+corresponded to an higher local than systemic disease control in T39-treated plants. The activ ation of a 
+priming state was conf irmed by the absence of any negativ e effect of T39 on grapevine growt h, shoot and 
+root weight, leaf dimension and chlorophy ll content, in contr ast to benzot hiadiazole (BTH) applications. 
+Priming of defense gene expression was greater in T. harzianum T39- than in BTH-treated plants. The 
+modulation of marker genes sugges ted the involvement of jasmonic acid and ethylene signals in the defense 
+processes induced by T39, in contr ast to the salicy lic acid pathway activ ated by BTH. These results offer a 
+greater under standing of the mechanisms under lying the grapevine induced resis tance and indicate that T. 
+harzianum T39 can be used to control downy mildew without apparent costs for grapevine growt h. © 2011 
+Else vier Inc.
+AUTHOR KEYW ORDS: Benzot hiadiazole;  Energy cost;  Gene expression;  Induced systemic resis tance (ISR);  
+Plant-pat hogen inter action;  Trichoder ma harzianum T39;  Vitis vinif era
+DOCUMENT TYPE: Article
+SOUR CE: Scopus
+47RESIS TENCIA (CAMPO)
+Harm, A.a , Kasseme yer, H.-H.b , Seibick e, T.b , Regner , F.a 
+Evaluation of chemical and natur al resis tance inducer s agains t downy mildew (Plasmopar a viticola) in 
+grapevine
+(2011) Amer ican Jour nal of Enology and Viticulture, 62 (2), pp. 184-192. Cited 15 times.
+https://www .scopus.com/in ward/record.ur i?eid=2-s2.0-
+7995805063 1&par tnerID=40&md5=88b1d1f52e3489acab3255 7fbd8ea664
+DOI: 10.534 4/aje v.2011.09054
+AFFILIA TIONS: Höhere Bundeslehr anstalt und Bundesamt für Wein- und Obstbau, Klos terneuburg, 
+Wiener strasse 74, A-3400 Klos terneuburg, Austria; 
+Staatliches Weinbauins titut, Abteilung Biologie, Merzhauser Strasse 119, D-79 100 Freiburg im Breisgau, 
+Germany
+ABS TRACT: Chemical and natur al resis tance-inducing subs tances may be used to decrease the 
+suscep tibility of plants to various pathogens, thus reducing the application of pesticides in agriculture. 
+This study evaluated the potential of biocontrol products and of plant extracts. The invoked mode of 
+induced resis tance was verified to control downy mildew on grapevine plants using leaf discs and potted 
+vines. Induced resis tance was determined by the increase of pathogenesis-related (PR) proteins, 
+including pero xidase, polyphenol oxidase, β-1,3-glucanase, pheny lalanine ammonia-ly ase, stilbene 
+synt hase, β-1,3-glucanase, PR-1 protein, and caffeoyl-coenzyme A 3-O-me thyltransf erase. Candidate 
+resis tance inducer s, including Solidago canadensis (CanG) extract, mycelium extract of Penicillium 
+crysogenum (PEN), linoleic acid (LIN), and biocontrol agent Aureobasidium pullulans (Aureo), and 
+chemical elicit ors 3-dl- β-aminobutyr ic acid (BABA) and benzot hiadiazole (BTH) were tested agains t 
+Plasmopar a viticola in potted vines grown outdoor s. BABA, BTH, and CanG provided a protection of more 
+than 80%, whereas PEN, LIN, and Aureo provided minimal protection. BABA and Aureo were not able to 
+inhibit zoospores, whereas a concentr ation-dependent inhibition of zoospore mobility was obser ved for 
+all other tested subs tances. BTH, CanG, PEN, and LIN induced the production of a broad spectr um of 
+resis tance-related metabolites, whereas Aureo did not cause any response. BABA prov oked formation of 
+necrotic spots and PR proteins immediately after inoculation. These results indicate the potential to 
+partly induce natur al resis tance metabolites to enhance toler ance of grapevine plants to P. viticola, thus 
+offering a synergis tic effect when used with fungicides and aiding in reducing their ecological burden, 
+even if they are not effectiv e enough to replace them fully . © 2011 by the Amer ican Socie ty for Enology 
+and Viticulture. All rights reser ved.
+AUTHOR KEYW ORDS: Elicit ors;  Induced resis tance;  Plasmopar a viticola;  Vitis
+DOCUMENT TYPE: Article
+SOUR CE: Scopus
+BIOLOGÍA MOLECUL AR
+Blasi, P.a  b , Blanc, S.a  b , Wiedemann-Merdinoglu, S.a  b , Prado, E.a  b , Rühl, E.H.c , Mestre, P.a  b , 
+Merdinoglu, D.a  b 
+Cons truction of a reference linkage map of Vitis amurensis and gene tic mapping of Rpv8, a locus 
+conf erring resis tance to grapevine downy mildew
+(2011) Theore tical and Applied Gene tics, 123 (1), pp. 43-53. Cited 41 times.
+https://www .scopus.com/in ward/record.ur i?eid=2-s2.0-
+79958099685&par tnerID=40&md5=34 7aa1 6545 79b4a2 1fcfefd3c8f8d7a2
+DOI: 10.1007/s00 122-0 11-1565-0
+AFFILIA TIONS: UMR 1131 Santé de la Vigne et Qualité du Vin, Institut National de la Recherche 
+Agronomique, 28 rue de Herrlisheim, BP 2050 7, 6802 1 Colmar Cede x, France; 
+48UMR 1131 Santé de la Vigne et Qualité du Vin, Université de Strasbourg, 28 rue de Herrlisheim, BP 2050 7, 
+6802 1 Colmar , France; 
+Hochschule RheinMain, Geisenheim Research Center , von-Lade-S tr. 1, 65366 Geisenheim, Germany
+ABS TRACT: Downy mildew , caused by the oomyce te Plasmopar a viticola, is one of the major threats to 
+grapevine. All traditional cultiv ars of grapevine (Vitis vinif era) are suscep tible to downy mildew , the control 
+of which requires regular application of fungicides. In contr ast, many sources of resis tance to P. viticola have 
+been descr ibed in the Vitis wild species, among which is V. amurensis Rupr. (Vitaceae), a species originating 
+from East Asia. A gene tic linkage map of V. amurensis, based on 122 simple sequence repeat and 6 resis tance 
+gene analogue markers, was established using S1 progeny . This map covers 975 cM on 19 linkage groups, 
+which represent 82% of the physical coverage of the V. vinif era reference gene tic map. To measure the 
+gener al level of resis tance, the spor ulation of P. viticola and the necrosis produced in response to infection, 
+five quantit ative and semi-quantit ative parame ters were scored 6 days post-inoculation on the S1 progeny . 
+A quantit ative trait locus (QTL) analy sis allowed us to identify on linkage group 14 a major QTL controlling 
+the resis tance to downy mildew found in V. amurensis, which explained up to 86.3% of the total phenotypic 
+variance. This QTL was named 'Resistance to Plasmopar a viticola 8' (Rpv8). © 2011 Springer-V erlag.
+DOCUMENT TYPE: Article
+SOUR CE: Scopus
+BIOLOGÍA MOLECUL AR
+Seehalak, W.a , Moonsom, S.a  c , Metheenukul, P.b , Tantasawat, P.a 
+Isolation of resis tance gene analogs from grapevine resis tant and suscep tible to downy mildew and 
+anthracnose
+(2011) Scientia Horticultur ae, 128 (3), pp. 357-363. Cited 8 times.
+https://www .scopus.com/in ward/record.ur i?eid=2-s2.0-
+799524 49103&par tnerID=40&md5=b2bbe25 7b3f5ef6d4e4 75d298 7636e93
+DOI: 10.1016/j.scient a.20 11.01.003
+AFFILIA TIONS: School of Crop Production Technology , Suranaree University of Technology , 111 University 
+Ave., Muang District, Nakhon Ratchasima 30000, Thailand; 
+Faculty of Veterinar y Technology , Kasetsar t University, Chatuchak, Bangk ok 10900, Thailand; 
+Depar tment of Prot ozoology , Faculty of Tropical Medicine, Mahidol University, Bangk ok 10400, Thailand
+ABS TRACT: Downy mildew and anthracnose are major diseases of the grapevine (Vitis spp.) cultiv ars grown in 
+Thailand. Due to the dele terious effects of fungicides frequently used for disease management in grapevine, 
+disease resis tance genes have been sought after with the ultimate goal of developing new cultiv ars with 
+improv ed disease resis tance levels. In this study , nucleotide-binding site (NBS)-leucine rich repeat (LRR) 
+class of resis tance gene analogs (RGAs) were cloned by PCR amplification using degener ate primer s specif ic 
+to P-loop and GLPL, conser ved regions of NBS. Nine ty-one clones cont aining putative RGA sequences were 
+obtained from a downy mildew and anthracnose resis tant hybr id 'NY88.050 7.01' and a suscep tible cultiv ar 
+'Black Queen'. These cloned sequences were subdivided into 14 groups based on their nucleotide sequence 
+similar ity of 90% or greater . BLASTx of fourteen selected clones showed the highes t amino acid sequence 
+similar ity with known NBS-LRR proteins or putative resis tance (R) protein candidates. Multiple alignments 
+of these represent ative RGAs with 5 known R proteins revealed conser ved P-loop, kinase-2, RNBS and GLPL 
+motif s which are typical com ponents of the NBS-LRR proteins. Four RGAs had at leas t 40% identity with 
+known R proteins. Phylogene tic analy sis demons trated that the represent ative RGAs from both resis tant and 
+suscep tible grapevines disper sed along the phylogram on the two major branches of either TIR (Drosophila 
+Toll and mammalian Inter leukin-1 Recep tor) or non-TIR type of the NBS-LRR proteins. © 2011 Else vier B.V.
+AUTHOR KEYW ORDS: Anthracnose;  Downy mildew ;  NBS-LRR;  Resistance gene analogs;  Vitis spp.
+DOCUMENT TYPE: Article
+SOUR CE: Scopus
+49RESIS TENCIA (CAMPO)
+Deglène-Benbr ahim, L.a , Wiedemann-Merdinoglu, S.b , Merdinoglu, D.b , Walter , B.a 
+Evaluation of downy mildew resis tance in grapevine by leaf disc bioassa y with in vitro- and greenhouse-
+grown plants
+(2010) Amer ican Jour nal of Enology and Viticulture, 61 (4), pp. 521-528. Cited 5 times.
+https://www .scopus.com/in ward/record.ur i?eid=2-s2.0-
+786499 19659&par tnerID=40&md5=399c8 1dec4e39e8fb6d2e1 47d5b4dadb
+DOI: 10.534 4/aje v.2010.10009
+AFFILIA TIONS: Université de Haute Alsace, Labor atoire Vigne Biotechnologies et Environ-nement, EA 
+3991, 33 Rue de Herrlisheim, BP 50568, 68008 Colmar , France; 
+Institut National de la Recherche Agronomique, UMR1 131 Santé de la Vigne et Qualité du Vin, 28 Rue de 
+Herrlisheim, 6802 1 Colmar , France
+ABS TRACT: Gene tic improv ement of grapevine for resis tance agains t downy mildew (Plasmopar a viticola) 
+by biotechnological techniques requires reliable procedures to screen large populations of plants. In 
+com parison with greenhouse-g rown plants, in vitro plantle ts are not often used in screening procedures, 
+although they present some advantages such as com pact size, the availability of a high number of 
+replicates per genotype, and the potential to screen improv ed genotypes directly from in vitro plants. Leaf 
+disc inoculation bioassa y was used to evaluate grapevine resis tance to downy mildew on Vitis vinif era 
+Chardonna y, hybr id Seyval, and Vitis ripar ia Gloire de Montpellier (suscep tible, moder ately suscep tible, 
+and highly resis tant, respectiv ely) with both in vitro plantle ts and greenhouse-g rown plants. Disease 
+symptoms and resis tance reaction were evaluated for spor ula-tion and necrosis in two independent 
+exper iments. For all parame ters, leaves from in vitro plantle ts appeared more resis tant than leaves from 
+greenhouse-g rown plants, in particular for the inter mediate and the suscep tible genotypes. Necroses were 
+not obser ved on leaf discs of the suscep tible genotype, whereas necrotic spots appeared on leaf discs of 
+both inter mediate and resis tant genotypes regardless of how the plants were grown. Based on spor ulation 
+and necrosis symptoms, ranking of genotypes differed according to growing conditions. Although the 
+method based on in vitro grown plants is less reliable than that based on greenhouse plants, it can be used 
+as a preliminar y assa y to eliminate the mos t suscep tible plantle ts obtained by biotechnology . © 2010 by 
+the Amer ican Socie ty for Enology and Viticulture. All rights reser ved.
+AUTHOR KEYW ORDS: Disease resis tance;  Downy mildew ;  Greenhouse plants;  In vitro-g rown plants;  Leaf 
+discs;  Oomyce te;  Screening assa y;  Vitis
+DOCUMENT TYPE: Article
+SOUR CE: Scopus
+RESIS TENCIA (CAMPO)
+Peressotti, E., Wiedemann-Merdinoglu, S., Delmotte, F., Bellin, D., Di Gaspero, G., Testolin, R., 
+Merdinoglu, D., Mestre, P.
+Breakdown of resis tance to grapevine downy mildew upon limited deployment of a resis tant variety.
+(2010) BMC plant biology , 10, p. 147. Cited 36 times.
+https://www .scopus.com/in ward/record.ur i?eid=2-s2.0-
+779548 45613&par tnerID=40&md5=34db7bea63 72895e23d2028fbec26fdc
+DOI: 10.1186/1 471-2229-1 0-147
+AFFILIA TIONS: INRA, UMR Santé de la Vigne et Qualité du Vin, Colmar , France.
+ABS TRACT: BACKGROUND: Natur al disease resis tance is a cost-effectiv e and environment ally friendly way 
+of controlling plant disease. Breeding prog rammes need to mak e sure that the resis tance deployed is 
+effectiv e and durable. Grapevine downy mildew , caused by the Oomyce te Plasmopar a viticola, affects 
+viticulture and it is controlled with pesticides. Downy mildew resis tant grapevine varieties are a promising 
+strategy to control the disease, but their use is currently restricted to very limited acreages. The arising of 
+50resis tance-breaking isolates under such restricted deployment of resis tant varieties would provide 
+valuable information to design breeding strategies for the deployment of resis tance genes over large 
+acreages whils t reducing the risks of the resis tance being defeated. The obser vation of heavy downy 
+mildew symptoms on a plant of the resis tant variety Bianca, whose resis tance is conf erred by a major gene, 
+provided us with a putative example of emergence of a resis tance-breaking isolate in the inter action 
+between grapevine and P. viticola. RESUL TS: In this paper we descr ibe the emergence of a P. viticola isolate 
+(isolate SL) that specif ically overcomes Rpv3, the major resis tance gene carried by Bianca at chromosome 
+18. We show that isolate SL has the same beha viour as two P. viticola isolates avirulent on Bianca (isolates 
+SC and SU) when inoculated on suscep tible plants or on resis tant plants carrying resis tances derived from 
+other sources, sugges ting there is no fitness cost associated to the virulence. Molecular analy sis show s 
+that all three isolates are gene tically closely related. CONCLUSIONS: Our results are the first descr iption of 
+a resis tance-breaking isolate in the grapevine/P . viticola inter action, and show that, despite the reduced 
+gene tic variability of P. viticola in Europe com pared to its basin of origin and the restricted use of natur al 
+resis tance in European viticulture, resis tance-breaking isolates overcoming monogenic resis tances may 
+arise even in cases where deployment of the resis tant varieties is limited to small acreages. Our findings 
+represent a warning call for the use of resis tant varieties and an incentiv e to design breeding prog rammes 
+aiming to optimize durability of the resis tances.
+DOCUMENT TYPE: Article
+SOUR CE: Scopus
+RESIS TENCIA (CAMPO)
+Peressotti, E.a  d , Wiedemann-Merdinoglu, S.a  b , Delmotte, F.c , Bellin, D.d  f , Di Gaspero, G.d  e , 
+Testolin, R.d  e , Merdinoglu, D.a  b , Mestre, P.a  b 
+Breakdown of resis tance to grapevine downy mildew upon limited deployment of a resis tant variety
+(2010) BMC Plant Biology , 10, art. no. 147, . Cited 6 times.
+https://www .scopus.com/in ward/record.ur i?eid=2-s2.0-
+7995990290 7&par tnerID=40&md5=0e7 4320e532b5d0 49a3 7dfbb4943dc9d
+DOI: 10.1186/1 471-2229-1 0-147
+AFFILIA TIONS: INRA, UMR1 131 Santé de la Vigne et Qualité du Vin, F-68000 Colmar , France; 
+Université de Strasbourg, UMR1 131 Santé de la Vigne et Qualité du Vin, F-68000 Colmar , France; 
+INRA, UMR1 065 Santé Végétale, Institut des Sciences de la Vigne et du Vin - Bordeaux Aquit aine, BP 81, F- 
+33883 Villena ve d'Or non, France; 
+Dipar timent o di Scienze Agrarie e Ambient ali, University of Udine, via delle Scienze 208, 33100 Udine, 
+Italy; 
+Istitut o di Genomica Applicat a, Parco Scientif ico e Tecnologico Luigi Danieli, via Jacopo Linussio 51, 33100 
+Udine, Italy; 
+Dipar timent o di Biotecnologie, University of Verona, Strada le Grazie 15, 37134 Verona, Italy
+ABS TRACT: Back ground: Natur al disease resis tance is a cost-effectiv e and environment ally friendly way of 
+controlling plant disease. Breeding prog rammes need to mak e sure that the resis tance deployed is 
+effectiv e and durable. Grapevine downy mildew , caused by the Oomyce te Plasmopar a viticola, affects 
+viticulture and it is controlled with pesticides. Downy mildew resis tant grapevine varieties are a promising 
+strategy to control the disease, but their use is currently restricted to very limited acreages. The arising of 
+resis tance-breaking isolates under such restricted deployment of resis tant varieties would provide 
+valuable information to design breeding strategies for the deployment of resis tance genes over large 
+acreages whils t reducing the risks of the resis tance being defeated. The obser vation of heavy downy 
+mildew symptoms on a plant of the resis tant variety Bianca, whose resis tance is conf erred by a major gene, 
+provided us with a putative example of emergence of a resis tance-breaking isolate in the inter action 
+between grapevine and P. viticola.R esults: In this paper we descr ibe the emergence of a P. viticola isolate 
+(isolate SL) that specif ically overcomes Rpv3, the major resis tance gene carried by Bianca at chromosome 
+5118. We show that isolate SL has the same beha viour as two P. viticola isolates avirulent on Bianca (isolates 
+SC and SU) when inoculated on suscep tible plants or on resis tant plants carrying resis tances derived from 
+other sources, sugges ting there is no fitness cost associated to the virulence. Molecular analy sis show s 
+that all three isolates are gene tically closely related.Conclusions: Our results are the first descr iption of a 
+resis tance-breaking isolate in the grapevine/P . viticola inter action, and show that, despite the reduced 
+gene tic variability of P. viticola in Europe com pared to its basin of origin and the restricted use of natur al 
+resis tance in European viticulture, resis tance-breaking isolates overcoming monogenic resis tances may 
+arise even in cases where deployment of the resis tant varieties is limited to small acreages. Our findings 
+represent a warning call for the use of resis tant varieties and an incentiv e to design breeding prog rammes 
+aiming to optimize durability of the resis tances. © 2010 Peressotti et al; licensee BioMed Centr al Ltd.
+DOCUMENT TYPE: Article
+SOUR CE: Scopus
+BIOLOGÍA MOLECUL AR
+Polesani, M.a , Bortesi, L.a , Ferrarini, A.a , Zamboni, A.a , Fasoli, M.a , Zadr a, C.b , Lovato, A.a , Pezzotti, 
+M.a , Delledonne, M.a , Polverari, A.a 
+Gener al and species-specif ic transcr iptional responses to downy mildew infection in a suscep tible (Vitis 
+vinif era) and a resis tant (V. Ripar ia) grapevine species
+(2010) BMC Genomics, 11 (1), art. no. 117, . Cited 64 times.
+https://www .scopus.com/in ward/record.ur i?eid=2-s2.0-
+77949439 770&par tnerID=40&md5=92036e62 7da9e92b7e3 126c98a1 7ddc8
+DOI: 10.1186/1 471-2164-1 1-117
+AFFILIA TIONS: Depar tment of Biotechnology , University of Verona, Strada le Grazie 15, 37134 Verona, 
+Italy; 
+Depar tment of Agricultur al and Environment al Science, University of Perugia, B.go XX Giugno 72, 06121 
+Perugia, Italy
+ABS TRACT: Back ground: Downy mildew is a destructiv e grapevine disease caused by Plasmopar a viticola 
+(Ber k. and Curt.) Berl. and de Toni, which can only be controlled by intensiv e fungicide treatments. 
+Natur al sources of resis tance from wild grapevine (Vitis) species are used in conv entional breeding 
+approaches, but the signals and effectors involved in resis tance in this important crop species are not well 
+under stood.R esults: Early transcr iptional changes associated with P. viticola infection in suscep tible V. 
+vinif era and resis tant V. ripar ia plants were analyzed using the Combimatr ix microar ray platf orm. 
+Transcr ipt levels were measured 12 and 24 h post-inoculation, reflecting the time points immediately 
+preceding the onse t of resis tance in V. ripar ia, as determined by microscopic analy sis. Our data indicate 
+that resis tance in V. ripar ia is induced after infection, and is not based on differences in basal gene 
+expression between the two species. The strong and rapid transcr iptional reprog ramming involves the 
+induction of pathogenesis-related proteins and enzymes required for the synt hesis of pheny lpropanoid-
+derived com pounds, many of which are also induced, albeit to a lesser extent, in V. vinif era. More 
+interes tingly , resis tance in V. ripar ia also involves the specif ic modulation of numerous transcr ipts 
+encoding com ponents of signal transduction cascades, hyper sensitiv e reaction markers and genes 
+involved in jasmonate biosynt hesis. The limited transcr iptional modulation in V. vinif era represents a 
+weak attem pted defense response rather than the activ ation of com patibility-specif ic 
+pathways.Conclusions: Several candidate resis tance genes were identif ied that could be exploited in 
+future biotechnological approaches to increase disease resis tance in suscep tible grapevine species. 
+Measurements of jasmonic acid and methyl jasmonate in infected leaves sugges t that this hormone may 
+also be involved in V. ripar ia resis tance to P. viticola. © 2010 Polesani et al; licensee BioMed Centr al Ltd.
+DOCUMENT TYPE: Article
+SOUR CE: Scopus
+52RESIS TENCIA (CAMPO) QUIMIC A ORGÁNIC A!!!
+Kashif, A.a , Feder ica, M.a , Eva, Z.b , Martina, R.b , Young, H.C.a , Rober t, V.a 
+NMR metabolic finger printing based identif ication of grapevine metabolites associated with downy 
+mildew resis tance
+(2009) Jour nal of Agricultur al and Food Chemis try, 57 (20), pp. 9599-9606. Cited 40 times.
+https://www .scopus.com/in ward/record.ur i?eid=2-s2.0-
+7035032 1013&par tnerID=40&md5=06afc986f e995deadf ec67b9f68c5068
+DOI: 10.1021/jf902069f
+AFFILIA TIONS: Division of Phar macognosy , Section Metabolomics, Institute of Biology , Leiden University, 
+2333 CC, Leiden, Netherlands; 
+Julius Kuehn Institute, Feder al Research Centre for Cultiv ated Plants, Institute for Grapevine Breeding 
+Geilweiler hof, D-76833 Siebeldingen, Germany
+ABS TRACT: Grapevine (Vitis vinif era ssp. vinif era L.) and grapes have been extensiv ely studied due to their 
+numerous nutr itional benef its and healt h affecting activities. In this study , metabolite finger printing of 
+crude leaf extracts, based on 1H nuclear magne tic resonance (NMR) spectroscopy and multiv ariate data 
+analy ses, has been used for the metabolic char acter ization of six different grapevine cultiv ars including 
+downy and powder y mildew resis tant 'Regent' and suscep tible 'Lemberger' among others. Several two-
+dimensional (2D)-NMR techniques were also employed leading to the identif ication of a number of 
+different types of com pounds. Principal com ponent analy sis (PCA), hier archical clus ter analy sis (HCA), 
+and partial leas t-squares-discr iminant analy sis (PLS-DA) of the processed 1H NMR data revealed clear 
+differences among the cultiv ars. Metabolites responsible for the discr imination in different grapevine 
+cultiv ars belong to major classes, that is, organic acids, amino acids, carbohydr ates, pheny lpropanoids 
+and flavonoids. A differentiation of the cultiv ars based on their resis tance to downy mildew infection was 
+also achie ved, and metabolites associated with this trait, namely , querce tin-3-O-glucoside and a trans-
+feruloy l derivative, were identif ied. On the basis of these results, the distribution of different plant 
+metabolites among the different grapevine cultiv ars is presented. ©2009 Amer ican Chemical Socie ty.
+AUTHOR KEYW ORDS: Cultiv ars;  Downy mildew ;  Leaf metabolites;  Multiv ariate data analy ses;  NMR;  
+Resistance;  Vitis vinif era
+DOCUMENT TYPE: Article
+SOUR CE: Scopus
+RESIS TENCIA (CAMPO)
+Godard, S.a , Slacanin, I.b , Viret, O.a , Gindro, K.a 
+Induction of defence mechanisms in grapevine leaves by emodin- and anthraquinone-r ich plant extracts 
+and their conf erred resis tance to downy mildew
+(2009) Plant Physiology and Biochemis try, 47 (9), pp. 827-83 7. Cited 27 times.
+https://www .scopus.com/in ward/record.ur i?eid=2-s2.0-
+676498 19383&par tnerID=40&md5=8eb6fbba9cee3e38 1f60988e68f5d85a
+DOI: 10.1016/j.plaphy .2009.0 4.003
+AFFILIA TIONS: Swiss Feder al Research Station Agroscope Changins-Wädenswil, Route de Duillier , CH-1260 
+Nyon, Switzer land; 
+ILIS, Chemin de la Passerelle 17, CH-2503 Bienne, Switzer land
+ABS TRACT: The ability of two plant extracts, Rheum palmatum root extract (RPRE) and Frangula alnus bark 
+extract (FABE), to protect Vitis vinif era leaves from Plasmopar a viticola infection was evaluated. These 
+natur al products are toxic to the pathogen and induce defence reactions in a suscep tible cultiv ar of V. 
+vinif era (V. vinif era cv. Chasselas), including stilbenic phyt oale xin accumulation, enhanced pero xidase 
+(EC 1.11.1.7) activity , and a hyper sensitiv e reaction. Inhibition of the first stage of biotrophic hyphal 
+53development of P. Viticola by the two plant extracts was obser ved. HPLC-D AD-MS analy sis showed that 
+these two natur al extracts cont ain many phenolic com pounds belonging to the anthraquinone family , 
+such as rhein, frangulin A, emodin, aloe-emodin, chrysophanol, and physcion. Emodin alone is able to 
+impair P. viticola development and to stimulate vinif erins and the accumulation of pteros tilbene. © 2009 
+Else vier Masson SAS. All rights reser ved.
+AUTHOR KEYW ORDS: Anthraquinone;  Emodin;  Frangula alnus;  Plasmopar a viticola;  Resveratrol;  Rheum 
+palmatum;  Stilbenes
+DOCUMENT TYPE: Article
+SOUR CE: Scopus
+BIOLOGÍA MOLECUL AR
+Marguer it, E.a  c , Bour y, C.b  c , Manicki, A.b  c , Donnar t, M.b  c , Butter lin, G.d , Némor in, A.b  c , 
+Wiedemann-Merdinoglu, S.d , Merdinoglu, D.d , Ollat, N.b  c , Decroocq, S.b  c 
+Gene tic dissection of sex determinism, inflorescence mor phology and downy mildew resis tance in 
+grapevine
+(2009) Theore tical and Applied Gene tics, 118 (7), pp. 1261-1278. Cited 65 times.
+https://www .scopus.com/in ward/record.ur i?eid=2-s2.0-
+67349181299&par tnerID=40&md5=f0 199c0abb36fdb2 7ef9 1a3ca1 4a3f4c
+DOI: 10.1007/s00 122-009-09 79-4
+AFFILIA TIONS: Université de Bordeaux, UMR 1287, Ecophy siologie et Génomique Fonctionelle de la Vigne 
+(EGFV), 33175 Gradignan, France; 
+INRA, UMR 1287, Ecophy siologie et Génomique Fonctionelle de la Vigne (EGFV), 210 Chemin de Leysotte, 
+33882 Villena ve d'Or non Cede x, France; 
+Institut des Sciences de la Vigne et du Vin (ISVV), UMR 1287, Ecophy siologie et Génomique Fonctionelle 
+de la Vigne, 33882 Villena ve d'Or non, France; 
+INRA, UMR 1131, Santé de la Vigne et Qualité du Vin, 6802 1 Colmar , France
+ABS TRACT: A gene tic linkage map of grapevine was cons tructed using a pseudo-tes tcross strategy based 
+upon 138 individuals derived from a cross of Vitis vinif era Caber net Sauvignon × Vitis ripar ia Gloire de 
+Montpellier . A total of 212 DNA markers including 199 single sequence repeats (SSRs), 11 single strand 
+conf ormation polymor phisms (SSCPs) and two mor phological markers were mapped onto 19 linkage 
+groups (LG) which covered 1,249 cM with an average of 6.7 cM between markers. The position of SSR loci 
+in the maps presented here is consis tent with the genome sequence. Quantit ative traits loci (QTLs) for 
+several traits of inflorescence and flower mor phology , and downy mildew resis tance were investigated. 
+Two novel QTLs for downy mildew resis tance were mapped on linkage groups 9 and 12, they explain 26.0-
+34.4 and 28.9-3 1.5% of total variance, respectiv ely. QTLs for inflorescence mor phology with a large 
+effect (14-70% of total variance explained) were detected close to the Sex locus on LG 2. The gene of the 
+enzyme 1-aminocyclopropane-1-carbo xylic acid synt hase, involved in melon male organ development 
+and located in the conf idence inter val of all QTLs detected on the LG 2, could be considered as a putative 
+candidate gene for the control of sexual traits in grapevine. Co-localisations were found between four 
+QTLs, detected on linkage groups 1, 14, 17 and 18, and the position of the floral organ development 
+genes GIBBERELLIN INSENSITIVE1 , FRUITFULL, LEAFY and AGAMOUS. Our results demons trate that the sex 
+determinism locus also determines both flower and inflorescence mor phological traits. © 2009 Springer-
+Verlag.
+DOCUMENT TYPE: Article
+SOUR CE: Scopus
+54RESIS TENCIA (CAMPO)
+Batovska, D.I.a , Todorov a, I.T.a , Parushe v, S.P.a , Nedelche va, D.V.a , Bank ova, V.S.a , Popov , S.S.a , 
+Ivanov a, I.I.b , Batovski, S.A.a 
+Biomar kers for the prediction of the resis tance and suscep tibility of grapevine leaves to downy mildew
+(2009) Jour nal of Plant Physiology , 166 (7), pp. 781-785. Cited 9 times.
+https://www .scopus.com/in ward/record.ur i?eid=2-s2.0-
+63649 128432&par tnerID=40&md5=a3 1b64 710adac4664a60e1d468 75ab4 4
+DOI: 10.1016/j.jplph.2008.08.008
+AFFILIA TIONS: Institute of Organic Chemis try with Centre of Phyt ochemis try, Bulgar ian Academy of 
+Sciences, Acad. G. Bonche v Str., Bl. 9, Sofia 1113, Bulgar ia; 
+Institute of Agriculture and Seed Science, National Centre of Agricultur al Science, Prof. I. Ivanov Str. 1, 
+Rousse, 7007, Bulgar ia
+ABS TRACT: We examined metabolic prof iles of acetone and butanol extracts obtained from the leaves of 
+18 seedlings of the Bulgar ian wine-making cultiv ar Storgozia. The acetone extracts cont ained the 
+com ponents from the leaf surface, while the butanol extracts were enriched with polar com ponents from 
+inside the leaf tissue. The leaves displa yed different degrees of resis tance and suscep tibility to the 
+etiological agent downy mildew , Plasmopar a viticola. Based on the statistically signif icant correlations 
+(P<0.05) between the GC-MS data of the identif ied metabolites and the estimated leaf resis tances, 10 
+individual com ponents were proposed as possible biomar kers for the downy mildew resis tance and 
+suscep tibility in grapevine. All were found in the butanol extracts, and can be considered to form two 
+groups: com pounds with high correlations (r=±0.50 to ±1.00) - 3-hydro xybut anoic acid, 2,3,4-
+trihydro xybut anoic acid, 2,3,4-tr ihydro xybut anoic acid (isomer), hexadecanoic acid, 3-hydro xyhe xanoic 
+acid and myo-inosit ol, and com pounds with moder ate correlations (r=±0.30 to ±0.49) 
+hydro xybut anedioic acid, alanine, glut amine, arabinoic acid and aldohe xoses. Among them, the more 
+polar com pounds were related to sensitivity , and only hexadecanoic and the monohydro xycarbo xylic acids 
+were related to resis tance in grapevine. © 2008 Else vier GmbH. All rights reser ved.
+AUTHOR KEYW ORDS: Fungal resis tance biomar kers;  GC-MS;  Metabolite prof iling;  Plasmopar a viticola;  
+Vitis vinif era leaves
+DOCUMENT TYPE: Article
+SOUR CE: Scopus 
+RESIS TENCIA (CAMPO)
+Cadle-Da vidson, L.
+Variation within and between Vitis spp. for foliar resis tance to the downy mildew pathogen Plasmopar a 
+viticola
+(2008) Plant Disease, 92 (11), pp. 1577-1584. Cited 30 times.
+https://www .scopus.com/in ward/record.ur i?eid=2-s2.0-
+5584913558 1&par tnerID=40&md5=f695b59c033366 7c2b2ce4 7b36d432 72
+DOI: 10.1094/PDIS-92-1 1-1577
+AFFILIA TIONS: United States Depar tment of Agriculture-A gricultur al Research Service, Grape Gene tics 
+Research Unit, Gene va, NY 14456, United States
+ABS TRACT: To com plement existing control strategies, grape grower s in humid climates desire cultiv ars 
+with resis tance to downy mildew caused by Plasmopar a viticola. Numerous disease resis tance screens of 
+diverse Vitis germplasm have been conducted previously to identify downy mildew resis tance; howe ver, 
+ratings of named cultiv ars were inconsis tent and identities of resis tant individuals in wild species were 
+not typically provided. Inconsis tencies among previous studies could be due to race-specif ic resis tance. 
+In the current study , controlled inoculations of two single isolates onto two leaf ages of 883 Vitis 
+55accessions were used and these results com pared with natur al infection in a fivefold replicated vine yard of 
+80 Vitis accessions in 2006 and 2007. Of the accessions rated in both assa ys, 16.2% were resis tant to a 
+single isolate but suscep tible in the vine yard. Otherwise, there was good correlation of ratings between 
+the field assa y and the rating of older leaves (r = 0.62 to 0.71). Five accessions from Vitis cinerea, V. 
+labr usca, and Vitis x cham pinii averaged zero severity in both vine yard year s, yet some individuals of V. 
+cinerea and V. labr usca were moder ately or highly suscep tible in the field. Similar ly, although signif icant 
+differences in mean severity separ ated V. vinif era, Vitis hybr id, V. ripar ia, and V. labr usca for single-
+isolate inoculations (from suscep tible to resis tant), notable intraspecies variation was identif ied for all 
+well-represented species. Resistant individuals were identif ied in mos t species with the prominent 
+exceptions of V. vinif era and V. acer ifolia. Single-isolate, detached-leaf resis tance ratings in 2006 
+corresponded well (94.6%) to 2007 ratings using a separ ate isolate collected from the same vine yard. 
+Categor izing the ratings for this and previous studies, ratings infrequently corresponded among previous 
+studies (31.9%) as well as between previous studies and 
+the current single-isolate (34.9%) or vine yard (46.4%) ratings. These results highlight important factors 
+for downy mildew resis tance screens: leaf age, pathogen genotype, and host species and accession. The 
+results further under score the importance to breeder s of unif orm testing in multiple environments.
+DOCUMENT TYPE: Article
+SOUR CE: Scopus
+REL ACIÓN PATÓGENO-PL ANTA
+Díez-Na vajas, A.M.a  b , Wiedemann-Merdinoglu, S.a , Greif, C.a , Merdinoglu, D.a 
+Nonhos t versus host resis tance to the grapevine downy mildew , Plasmopar a viticola, studied at the tissue 
+level
+(2008) Phyt opat hology , 98 (7), pp. 776-780. Cited 38 times.
+https://www .scopus.com/in ward/record.ur i?eid=2-s2.0-
+47649095686&par tnerID=40&md5=d1ae09665bd9435 1185588 4827d5c2 7d
+DOI: 10.1094/PHY TO-98-7-0 776
+AFFILIA TIONS: Unité Mixte de Recherche 1131, INRA-ULP Santé de la Vigne et Qualité du Vin, 28 rue de 
+Herrlisheim, F-6802 1 Colmar Cede x, France; 
+NEIKER-T ecnalia, Granja Modelo Arkaute, E-01080 Vitoria-Gazteiz, Spain
+ABS TRACT: Following inoculation of host and nonhos t plants with Plasmopar a viticola, the grapevine 
+downy mildew , a histological survey was under taken to identify the stage where its development is 
+cont ained in nonhos ts and in resis tant host plants. Three herbaceous nonhos t species, Beta vulgar is, 
+Lactuca sativ a, and Capsicum annuum, and three grapevine species displa ying different level of resis tance 
+(Vitis vinif era [suscep tible], Vitis ripar ia [par tially resis tant] and Muscadinia rotundif olia [totally 
+resis tant]) where inoculated by P. viticola using a controlled leaf disk inoculation bioassa y. During the 
+early steps of infection, defined as ency stment of zoospores on stomat a, pene tration of the germ tube, 
+and production of the vesicle with the primar y hypha, there was no evidence of a clear-cut pref erence to 
+grapevine tissues that could attes t to host specif icity . The main difference between host grapevine 
+species and nonhos ts was obser ved during the haus torium formation stage. In nonhos t tissues, the 
+infection was stopped by cell wall-associated defense responses before any mature haus torium could 
+appear . Defense responses in resis tant grapevines were triggered when haus toria were fully visible and 
+corresponded to hyper sensitiv e responses. These obser vations illus trate that, for P. viticola, haus torium 
+formation is not only a key stage for the establishment of biotrophy but also for the host specif icity and 
+the recognition by grapevine resis tance factors. © 2008 The Amer ican Phyt opat hological Socie ty.
+AUTHOR KEYW ORDS: Biotrophism;  Cytology;  Oomyce te
+DOCUMENT TYPE: Article
+SOUR CE: Scopus
+56BIOLOGÍA MOLECUL AR
+Chen, W.-J.a , Delmotte, F.a , Richard-Cer vera, S.a , Douence, L.a , Greif, C.b , Corio-Cos tet, M.-F .a  c 
+At leas t two origins of fungicide resis tance in grapevine downy mildew populations
+(200 7) Applied and Environment al Microbiology , 73 (16), pp. 5162-5 172. Cited 63 times.
+https://www .scopus.com/in ward/record.ur i?eid=2-s2.0-
+3454822 7331&par tnerID=40&md5=7 283d8b98 46f7baddb2b025f3bf22923
+DOI: 10.1128/AEM.0050 7-07
+AFFILIA TIONS: Institut National de la Recherche Agronomique, UMR Sante Vegetale (INRA-ENIT AB), 
+Institut des Sciences de la Vigne et du Vin, BP 81, 33883 Villena ve d'Or non Cede x, France; 
+Institut National de la Recherche Agronomique, UMR Santé de la Vigne et Qualité du Vin (INRA-ULP), BP 
+2050 7, 6802 1 Colmar Cede x, France; 
+Institut National de la Recherche Agronomique, INRA-Bordeaux, UMR Santé Végétale, Domaine de la 
+Grande Ferrade, Villena ve d'Or non Cede x, France
+ABS TRACT: Quinone outside inhibiting (QoI) fungicides represent one of the mos t widely used groups of 
+fungicides used to control agricultur ally important fungal pathogens. They inhibit the cytochrome bc1 
+com plex of mitochondr ial respir ation. Soon after their introduction onto the market in 1996, QoI 
+fungicide-resis tant isolates were detected in field plant pathogen populations of a large range of species. 
+Howe ver, there is still little under standing of the processes driving the development of QoI fungicide 
+resis tance in plant pathogens. In particular , it is unknown whe ther fungicide resis tance occur s 
+independently in isolated populations or if it appear s once and then spreads globally by migration. Here, 
+we provide the first case study of the evolutionar y processes that lead to the emergence of QoI fungicide 
+resis tance in the plant pathogen Plasmopar a viticola. Sequence analy sis of the com plete cytochrome b 
+gene showed that all resis tant isolates carried a mut ation resulting in the replacement of glycine by 
+alanine at codon 143 (G143A). Phylogene tic analy sis of a large mitochondr ial DNA fragment including the 
+cytochrome b gene (2,28 1 bp) across a wide range of European P. viticola isolates allowed the detection of 
+four major haplotypes belonging to two distinct clades, each of which cont ains a different QoI fungicide 
+resis tance allele. This is the first demons tration that a selected subs titution conf erring resis tance to a 
+fungicide has occur red several times in a plant-pat hogen system. Finally , a high population structure was 
+found when the frequency of QoI fungicide resis tance haplotypes was assessed in 17 French vine yards, 
+indicating that pathogen populations might be under strong directional selection for local adap tation to 
+fungicide pressure. Copyr ight © 2007, Amer ican Socie ty for Microbiology . All Rights Reser ved.
+DOCUMENT TYPE: Article
+SOUR CE: Scopus
+RESIS TENCIA CAMPO
+Aziz, A.a  d , Trotel-Aziz, P.a  d , Dhuicq, L.b , Jeande t, P.c , Couderche t, M.a  d , Vernet, G.a 
+Chit osan oligomer s and copper sulfate induce grapevine defense reactions and resis tance to gray mold 
+and downy mildew
+(2006) Phyt opat hology , 96 (11), pp. 1188-1 194. Cited 86 times.
+https://www .scopus.com/in ward/record.ur i?eid=2-s2.0-
+33750293009&par tnerID=40&md5=d823fbec5d9 7668720ab7e4bf2b2da4a
+DOI: 10.1094/PHY TO-96-1 188
+AFFILIA TIONS: Eco-T oxicologie, URVV C-EA 2069, Université de Reims, B.P. 1039, F-51687 Reims Cede x 2, 
+France; 
+Agrolor , CA Le Cahn, 17, rue Laurent Bonne vay, 54100 Nancy , France; 
+ŒNologie and Chimie Appliquée, URVVC-EA 2069, Univ ersité de Reims, B.P. 1039, F-51687 Reims Cede x 
+2, France ; 
+57Plantes-P esticides and Développement Durable, URVV C-EA 2069, Université de Reims, B.P. 1039, F-51687 
+Reims Cede x 2, France
+ABS TRACT: Chit osan (CHN), a deace tylated derivative of chitin, was shown to be efficient in promoting 
+plant defense reactions. CHN oligomer s of different molecular weight (MW) and degree of acetylation 
+(DA) triggered an accumulation of phyt oale xins, trans- and cis-resv eratrol and their derivatives ε-
+vinif erin and piceid, in grapevine leaves. Highes t phyt oale xin production was achie ved within 48 h of 
+incubation with CHN at 200 μg/ml with an MW of 1,500 and a DA of 20% (CHN 1.5/20), while oligomer s 
+with greater MW were less efficient, indicating that a specif ic MW threshold could be required for 
+phyt oale xin response. Treatment of grape-vine leaves by highly activ e CHN 1.5/20 also led to marked 
+induction of chitinase and β-1,3-glucanase activities. CHN 1.5/20 applied together with copper sulfate 
+(CuSO4) strongly induced phyt oale xin accumulation. CuSO4 alone, especially at low concentr ations also 
+elicited a subs tantial production of phyt oale xins in grapevine leaves. Evidence is also provided that CHN 
+1.5/20 signif icantly reduced the infection of grapevine leaves by Botr ytis cinerea and Plasmopar a 
+viticola, and in combination with CuSO4 conf erred protection agains t both pathogens. © 2006 The 
+Amer ican Phyt opat hological Socie ty.
+AUTHOR KEYW ORDS: Elicit or;  Vitis vinif era
+DOCUMENT TYPE: Article
+SOUR CE: Scopus
+5812. Ane xo II: P atentes encontradas
+ANEX O II: P ATENTES EN CONTRAD AS
+METHOD FOR C ONTR OLLING PL ASMOP ARA VITIC OLA
+ANHUI HEZHONG 
+AGRICUL TURAL 
+TECHNOLOG Y CO LTDA01G17/02 
+ A01G7/06
+ A01N65/42
+(+1)Cn105123419 (A)
+ 1
+INVENTOR APPLIC ANT CPC IPC PUBLIC ATION INFO PRIORIT Y DATE
+CHENG XIANGDI 26/06/20 15
+09/1 2/20 15 
+STERILIZING C OMPOSITION C ONT AINING PYRA CLOS TROBIN AND ZO XAMIDE 2
+HANGZHOU 
+UDRA GON 
+CHEMIC AL C O LTDA01N37/20
+A01N47/24
+A01P3/00Cn104663689 (A)INVENTOR APPLIC ANT CPC IPC PUBLIC ATION INFO PRIORIT Y DATE
+WU HU ALONG
+XU LITING
+(+1)16/02/20 15
+03/06/20 15
+STERILIZA TION C OMPOSITION C ONT AINING DIA CETONE AMINE C OPPER O XAL ATE 3
+SHAANXI SUNGER 
+ROAD BIO SCI C OA01N37/46
+A01N43/50
+A01N43/7 6
+(+6)Cn10443049 1 (A)INVENTOR APPLIC ANT CPC IPC PUBLIC ATION INFO PRIORIT Y DATE
+ZHENG JINGMIN
+MA QIANG
+(+5)12/11/20 14
+25/03/20 15
+COMPOUND C OMPOSITION C ONT AINING 2-(P-FLUOR OPHENYL)-5-METHANESULFONYL-1 ,3,4-O XADIAZOLE 
+AND C OPPER(SUCCINA TE+GLUT ARA TE+ADIP ATE) AND PREP ARA TION4
+GAUNGXI TIANYU AN 
+BIOCHEMIS TRYA01N37/04
+A01N43/824
+A01P1/00
+(+2)Cn10452 1988 (A)
+2015-04-22 
+CN10452 1988 (B)INVENTOR APPLIC ANT CPC IPC PUBLIC ATION INFO PRIORIT Y DATE
+WEI BANGZHI
+LIU YULING
+(+3)18/12/20 14
+24/08/20 16 
+BACTERICIDE C OMPOSITION C ONT AINING AR TEMISIA C APILL ARIS THUNB EXTRA CTIVE 
+AND PR OPAMOC ARB HYDR OCHLORIDE AS WELL AS APPLIC ATION OF B ACTERICIDE C OMPOSITION5
+SHAANXI HENTIAN 
+CHEM TECH C O LTDA01N47/12
+A01N65/1 2
+A01P3/00Cn10439 7040 (A)INVENTOR APPLIC ANT CPC IPC PUBLIC ATION INFO PRIORIT Y DATE
+TANG MANC ANG
+MA YUMING
+(+2)17/11/20 14
+11/03/20 15
+METHOD RAPIDL Y IDENTIFYING CUCUMBER BREEDING MA TERIAL WITH HEA T RESIS TANCE 
+AND MOIS TURE RESIS TANCE WITHOUT D AMA GING SEEDLING S TAGE6
+BEIJING A CAD 
+AGRIC & FORES TRYA01G1/00
+A01G7/06Cn102523854 (A)
+2012-07-04 
+CN102523854 (B)INVENTOR APPLIC ANT CPC IPC PUBLIC ATION INFO PRIORIT Y DATE
+FENG ZHANG
+LIGONG LIU10/12/20 10
+31/07/20 13
+DERIV ATIVES OF AMINO A CID AMIDES, METHOD OF THEIR S YNTHESIS 
+AND FUNGICIDE FOR A GRICUL TURE AND G ARDENING7
+KUMIAJ KEMIKAL 
+INDASTRI K O
+LTD
+(+1)A01N47/12
+C07C2101/08
+C07C2101/14
+(+20)A01N37/46
+A01N47/12
+A01N47/24
+(+25)INVENTOR APPLIC ANT CPC IPC PUBLIC ATION INFO PRIORIT Y DATE
+MASAR U SIBA TA
+KAZUKHIK O SUGIJ AMA
+(+4)Ru94046335 (A)
+1996-1 0-27 
+RU2128186 (C1)28/04/1 993
+27/03/1 999 
+BACTERICIDE C OMPOSITION FOR A GRICUL TURE AND HOR TICUL TURE 8
+KUMIAI CHEMIC AL 
+INDUS TRY COA01N37/32
+A01N37/34
+A01N37/44
+(+20)INVENTOR APPLIC ANT CPC IPC PUBLIC ATION INFO PRIORIT Y DATE
+SAKAI MITSUYOSHI
+KOJIMA YOSHIYUKI
+(+1)JPH09 183703 (A)
+1997-07-15 
+JP3775841 (B2)28/1 2/1995
+17/05/2006
+59151413ANEX O II: P ATENTES EN CONTRAD AS
+SYSTEMIC FUNGICIDES C ONTG. C OPPER CHEL ATES - WITH ZINEB OR MANEB AND AN IR ON FERRA TE C OMPLEX
+PETI 
+NITROGENMUEVEK?
+[HU]A01N47/12
+(IPC1-7): A0 1N9/02Fr2295699 (A1)
+1976-07-23 
+FR2295699 (B1)9
+INVENTOR APPLIC ANT CPC IPC PUBLIC ATION INFO PRIORIT Y DATE
+SZAVA JENO 24/1 2/1974
+05/03/1 982
+METHOD FOR ENHAN CING THE DISEASE RESIS TANCE IN PL ANT S 
+BY AL TERING TREHALOSE-6-PHOSPHA TE LEVEL S10
+STICHTING TECH 
+WETENSCHAPP?[NL]
+SMEEKENS JOSEPHUS 
+CHRIS TIANUS?[NL]C12N1 5/82
+C12N9/90
+(IPC1-7): A0 1H5/00
+(+1)Ep1375669 (A1)INVENTOR APPLIC ANT CPC IPC PUBLIC ATION INFO PRIORIT Y DATE
+SCHLUEPMANN
+HENRIETTE?[NL]13/06/2002
+02/0 1/2004
+NEW AMMONIO:ALKANOIC A CID TRI:PHENYL-TIN ES TER(S)S - USED AS BR OAD-SPECTR UM 
+PLANT FUNGICIDES, PREPD. FR OM HALO:ALKANOIC ES TER AND TRI:ALKYL AMINE11
+BANASIAK LOTHAR 
+DR RER NA T?[DE]
+SEIDEL PETRA DR?[DE]
+(+1)A01N55/04
+C07F7/22
+(IPC1-7): A0 1N55/04
+(+1)De42 14592 (A1)INVENTOR APPLIC ANT CPC IPC PUBLIC ATION INFO PRIORIT Y DATE
+BANASIAK LOTHAR 
+DR RER NA T?[DE]
+SEIDEL PETRA DR?[DE]
+(+1)02/05/1 992
+04/1 1/1993
+PYRID YL-PYRIMIDINE DERIV S.
+FUNGICIDES USEFUL AS PL ANT PR OTECT ANT S AND AS PRESERV ATIVES IN P AINT S OR OIL S12
+HOECHS T AG?[DE] A01N43/54
+C07D40 1/04
+(IPC1-7): A0 1N43/54
+(+2)De403 1798 (A1)INVENTOR APPLIC ANT CPC IPC PUBLIC ATION INFO PRIORIT Y DATE
+HOFFMANN MICHAEL 
+DR?[DE]
+BRA UN PETER DR?[DE]
+(+2)08/1 0/1990
+09/04/1 992
+PLANT TREA TMENT C OMPSN. FOR C ONTR OLLING SPECIFIC FUNGI
+CONTG. AMINO OR C ARB OXYLIC A CID, NUCLEOSIDE AND VIT AMINS
+BTC BIOTECH INT?[DE] A01N61/00
+A01N65/00
+C05F9/04
+(+3)De394350 1 (A1)INVENTOR APPLIC ANT CPC IPC PUBLIC ATION INFO PRIORIT Y DATE
+WEL TZIEN HEINRICH 
+PROF DR?[DE]
+TEINER KL AUS?[DE]28/03/1 989
+18/10/1990
+PHOSPHORIC A CID DERIV S. OF 1 ,2,4-TRIAZOLE AND IMID AZOLE
+FUNGICIDES FOR PR OTECTING PL ANT S, ESP . EFFECTIVE A GAINS T MILDEW
+HOECHS T AG?[DE] A01N57/24
+A01N57/36
+C07D233/60
+(+5)De3046329 (A1)INVENTOR APPLIC ANT CPC IPC PUBLIC ATION INFO PRIORIT Y DATE
+KOCUR JEAN DR?[DE]
+MILDENBERGER HILMAR 
+DR?[DE]
+(+1)09/1 2/1980
+15/07/1982
+DI:ARYL 1-A CYLO XY-2,2,2-TRI:CHLOR OETHYL-PHOSPHONA TE ES TER(S)
+USEFUL AS A GRICUL TURAL FUNGICIDES
+VNII FITOP ATOLOGII A01N57/22
+C07F9/4006
+C07F9/408 4A01N57/22
+C07F9/40
+(IPC1-7): A0 1N9/36
+(+1)INVENTOR APPLIC ANT CPC IPC PUBLIC ATION INFO PRIORIT Y DATE
+BLIZNJUK NIK OLAJ 
+KIRILLO VITSCH?[SU]
+PROT ASO VA LJUDMIL A 
+DMITRIEVNA?[SU]
+(+20)De2839828 (A1)
+1980-04-24 
+DE2839828 (C2)13/09/1 978
+15/09/1 983 
+SYSTEMIC FUNGICIDES C ONTG. C OPPER CHEL ATES - WITH ZINEB OR MANEB AND AN IR ON FERRA TE C OMPLEX 16
+PETI 
+NITROGENMUEVEKA01N41/04
+A01N41/08
+(IPC1-7): A0 1N9/02INVENTOR APPLIC ANT CPC IPC PUBLIC ATION INFO PRIORIT Y DATE
+SZAVA JENOE DIPL 
+ING DRDe255 1282 (A1)
+1977-05-26 
+DE255 1282 (B2)
+1977-09-22 
+DE255 1282 (C3)14/1 1/1975
+18/05/1 978A01N47/12
+C12N1 5/82 79
+C12N1 5/8282
+C12N9/90
+A01N55/04
+C07F7/224 4
+A01N43/54
+C07D40 1/04
+A01N2300/00
+(+19)
+A01N57/24
+A01N57/36
+C07F9/6506 1
+(+1)
+A01N41/04
+A01N41/08
+60

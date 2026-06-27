@@ -1,0 +1,2167 @@
+Manual Básico de Viticultura
+Tacoronte - AAcentejo
+FRANCISCO ÁLVAREZ DE LA PAZ, Ingeniero Agrónomo.
+LORENA REYES JORDÁN, Ingeniero Agrónomo.
+ARSENIO GÓMEZ GONZÁLEZ, Ingeniero Técnico Agrícola.
+FINANCIA
+Tacoronte, 2005
+05242 Manual v5  18/10/2005  14:51  PÆgina 105242 Manual v5  18/10/2005  14:51  PÆgina 2ÍNDICE:
+A. INTRODUCCIÓN
+B. PRINCIPALES TAREAS DEL CULTIVO DE LA VIÑAB.1. Labores de suelo
+B.1.1. Tipos de aperos para el laboreo
+B.2. Fundamentos de la Poda.
+B.2.1. Objetivos fundamentales de la podaB.2.2. Principios generales de podaB.2.3. Tipos de poda, según épocaB.2.4. Determinación de la cargaB.2.5. Elección de los sarmientos para pulga-res y varasB.2.6. Forma de Ejecutar los CortesB.2.7. Tipos o Sistemas de Poda en Seco
+B.3. Defensa del cultivo
+B.3.1. EnfermedadesB.3.2. Plagas.
+B.4. OPERACIONES EN VERDE
+B.4.1. Despampanado y esperguradoB.4.2. El DespunteB.4.3. El Deshojado
+B.4.4. El aclareo o cincelado05242 Manual v5  18/10/2005  14:51  PÆgina 3B.5. RIEGO Y FERTILIZACIÓN
+B.6. VENDIMIA
+B.7. PERIODICIDAD DE LAS LABORES VITÍCOLASC. MODERNIZACIÓN DEL VIÑEDOC.1. OPERACIONES PREVIAS
+C.1.1. Movimientos de tierra y nivelación del terrenoC.1.2. Toma de muestra de tierraC.1.3. Análisis de la muestra, parámetros a determinar e interpretación de 
+los análisis
+C.2. DESFONDE Y PREPARACIÓN DEL SUELO
+C.2.1. Desfonde del suelo, maquinaria y aperosC.2.2. Distribución e incorporación de las enmiendasC.2.3. Labores superficiales
+C.3. SISTEMAS DE CONDUCCIÓN
+C.3.1. Tradicional o rastras
+C.3.1.1. Descripción
+C.3.2. Espaldera sencilla
+C.3.2.1. DescripciónC.3.2.2. Requerimientos para mecanizar
+C.3.3. Lira abierta (dobles cortinas)
+C.3.3.1. Descripción
+C.3.4. Parral bajo
+C.3.4.1. DescripciónC.3.4.2. Requerimientos para mecanizar
+C.3.5. Parral alto05242 Manual v5  18/10/2005  14:51  PÆgina 4C.3.5.1. Descripción
+C.3.5.2. Requerimientos para mecanizar
+C.3.6. Ventajas e inconvenientes de los sistemas de conducciónC.3.7. Tabla de marcos de diseño y plantación
+C.4. ORIENTACIÓN DE LAS LÍNEAS DE CULTIVO
+C.4.1. ImportanciaC.4.2. CondicionantesC.4.3. Terrenos llanosC.4.4. Terrenos en pendiente
+C.5. MATERIALES A EMPLEAR
+C.5.1. Postes
+C.5.1.1. GalvanizadoC.5.1.2. Madera
+C.5.2. AnclajesC.5.3. Alambres
+C.5.3.1. MetálicosC.5.3.2. Sintéticos
+C.5.4. Tensores
+C.5.4.1. Tipo “carraca”C.5.4.2. Tipo gripple
+C.5.5. Protección contra conejos
+C.5.5.1. ValladoC.5.5.2. Protectores individuales
+C.6. INSTALACIÓN
+C.6.1. DiseñoC.6.2. ReplanteoC.6.3. Ejecución05242 Manual v5  18/10/2005  14:51  PÆgina 5C.7. LAS PLANTAS
+C.7.1. Tipos de planta
+C.7.1.1. Estacas o varasC.7.1.2. Planta vivaC.7.1.3. BarbadosC.7.1.4. Ventajas e inconvenientes de los tipos de plantas
+C.7.2. Procedencia
+C.7.2.1. Material propio, forma de elecciónC.7.2.2. Compra a vivero
+C.7.3. Variedades de vid
+C.8. EL RIEGO
+C.8.1. Consideraciones previasC.8.2. Elementos principales del sistema de riegoC.8.3. Tipo de emisorC.8.4. InstalaciónC.8.5. Control de uniformidad
+D. ANEXOS
+ANEXO 1. PARTES DE LA VIDANEXO 2. DICCIONARIO VITÍCOLAANEXO 3. ESTADOS FENOLÓGICOSANEXO 4. ESTUDIO DE VARIEDADESANEXO 5. BIBLIOGRAFÍA Y PUBLICACIONES DE INTERÉSANEXO 6. DIRECCIONES Y TELÉFONOS DE INTERÉS05242 Manual v5  18/10/2005  14:51  PÆgina 6A. INTRODUCCIÓN:
+El viñedo es el primer cultivo por extensión en el Archipiélago Canario y el más
+emblemático en la Comarca Tacoronte-Acentejo. Si bien en Tacoronte-Acentejo laenología ha avanzado considerablemente durante los últimos años no podemos decirlo mismo del cultivo de la vid, en muchas explotaciones se sigue trabajando de formaparecida a como se hacía a principios del siglo pasado y lo que es más preocupante,con los mismos criterios.
+Lograr vinos de alta calidad y
+con personalidad propia es indis-pensable para tener éxito. Los vinosque se abren hueco en los merca-dos son los de producciones esca-sas, de alta calidad y marcada per-sonalidad. Es una realidad consta-tada que cada vez se bebe menosvino pero de mejor calidad. Unaadecuada elección de variedades yun cultivo orientado hacia la calidades el único sistema para producirbuena uva que nos permita elaborargrandes vinos. En este orden decosas, la posibilidad de contar con un viñedo donde se puedan mecanizar las diferen-tes labores culturales que conlleva el cultivo de la vid se constituye como uno de losprincipales requisitos para lograr el éxito en nuestra plantación.
+Al mismo tiempo, el cultivo de la viña tiene que responder a un claro compromiso
+medioambiental: mejora del paisaje, mínimo consumo de recursos y respeto a la biodi-versidad tienen que formar parte de los objetivos de una moderna explotación.
+7
+05242 Manual v5  18/10/2005  14:52  PÆgina 7En el presente manual
+los autores hemos intentadoplasmar de forma somera, ybasándonos en nuestraexperiencia profesional, loscriterios y pautas a seguirpara lograr los objetivos ante-riormente expuestos. Se hantratado todas las facetas delcultivo, desde el diseño de laplantación a la vendimia,pasando por todas las labo-res culturales. No obstantecada parcela tiene unascaracterísticas intrínsecasque la hacen única; por ello es necesario solicitar asesoramiento técnico cualificado,tanto para dirigir el cultivo, como antes de acometer cualquier reconversión.
+En definitiva, este manual de viticultura responde a una demanda del propio sec-
+tor vitivinícola de la zona y tiene como finalidad contribuir a elevar la calidad final de lauva cultivada para el beneficio global del sector vitivinícola en la comarca. Es por lotanto un instrumento de consulta básico que se pone a disposición de todos los viticul-tores de Tacoronte-Acentejo. 
+8Manual Básico de Viticultura en
+Tacoronte -Acentejo
+05242 Manual v5  18/10/2005  14:52  PÆgina 8B.
+Principales tareas del cultivo de la Viña05242 Manual v5  18/10/2005  14:52  PÆgina 905242 Manual v5  18/10/2005  14:52  PÆgina 10B. PRINCIPALES TAREAS DEL CULTIVO DE LA VIÑA
+B.1. LABORES DE SUELO
+Esta es una de las prácticas culturales que más influye sobre la fertilidad del
+suelo, ya que ésta depende, entre otros factores, de la porosidad y la estructura. Estosdos factores son modificados a lo largo del tiempo, por la lluvia, la temperatura y el restode operaciones de cultivo, que van compactando el suelo, y por consiguiente disminu-yendo su porosidad. Los principales objetivos del laboreo son:
+• Esponjar el terreno, aumentando la aireación y capacidad de retención de agua.• Voltear la tierra, con lo que las semillas de las malas hierbas se entierran en profundi-
+dad, quedando inutilizadas. Además se entierran los abonos poco móviles.
+• Eliminar las malas hierbas que compiten con el cultivo.• Romper horizontes, tanto superficiales como profundos, permitiendo que el agua
+se infiltre, y se constituya una reserva, permitiendo el desarrollo de las plantas enlos meses secos.
+• Disminuir la evaporación del agua al romper la continuidad capilar.• Fomentar la actividad microbiana, sobre todo la aerobia, al aumentar la porosidad
+y la aireación del suelo.
+1105242 Manual v5  18/10/2005  14:52  PÆgina 11B.1.1. Tipos de aperos para el laboreo
+Rotavator:
+Tienen un uso interesante
+para destruir las malas hierbas,sobre todo cuando son abundantesy tienen una altura importante, yaque otros aperos no realizan unabuena labor en estas condiciones.También facilitan la incorporaciónde las enmiendas, al mezclar lascapas superficiales. Como incon-veniente presenta el crear una“suela de labor” importante y rompelos agregados del suelo
+1, la cual dis-
+minuye la capacidad de infiltración del agua, del aire y aumenta el riesgo de escorren-tía en invierno.
+Cavadora o azada mecánica:
+Es un apero que realiza una labor muy parecida al rotavator, pero con la ventaja
+de no crear “suela de labor”, ni romper los agregados del suelo.
+Cultivadores:
+Son aperos que van arrastrados por el tractor, y realizan diferentes labores,
+según el diseño de las rejas:
+12Manual Básico de Viticultura en
+Tacoronte -Acentejo
+1 Conjunto de pequeñas partículas (arcillas, limos y arena) unidas que forman estructuras de mayor tamaño.05242 Manual v5  18/10/2005  14:52  PÆgina 12•Escarificadores: son púas
+largas y estrechas, que tienenla misión de mullir el terreno enprofundidad, y de forma acce-soria destruir las malas hier-bas.
+•Extirpadores: son púas que
+tienen por objetivo el destruirlas malas hierbas, de formaque la púa es más ancha quelas anteriores, y trabaja en unaposición más horizontal.Estas púas son conocidascomo “colas de golondrina”. 
+Las púas pueden ser rígidas, que se encuentran en desuso al sufrir con los gol-
+pes, o flexibles, con lo que sufren menos con los golpes al tener la capacidad de flexio-nar y evitarlos en cierta medida.
+Arado de vertedera:
+Este es un arado que actúa hasta una profundidad de 25 a 30 cm. Su acción con-
+siste en voltear el terreno por la acción de la vertedera, de forma que las capas superfi-ciales quedan enterradas, incorporando en profundidad los abonos poco móviles y lassemillas de las malas hierbas, las cuales a tanta profundidad no podrán germinar. Alactuar en profundidad permite romper la suela de labor que realizan los arados super-ficiales del tipo de rotavator.
+Subsolador:
+Se trata de un apero que consta de uno o más brazos planos de una longitud entre
+80 y 100 cm., que realiza una labor en profundidad.
+13
+05242 Manual v5  18/10/2005  14:52  PÆgina 13Es conveniente pasarlo
+antes de realizar la plantación,para romper los horizontes profun-dos y facilitar la infiltración del aguay el establecimiento del sistemaradicular en profundidad.
+Además, durante el cultivo
+también es interesante dar unapasada de subsolador en callesalternas para realizar un rejuvene-cimiento del sistema radicular. Alaño siguiente se debe realizar enlas calles contrarias. Esta labor hayque realizarla en invierno, de formaque la planta pueda ir formando lasnuevas raíces en los períodos enque la masa foliar es menor, y por latanto la demanda en agua tambiénlo es. Con estas labores además se
+consigue romper la suela de labor que se pueda haber creado con las distintas laboresque se hayan realizado.
+Desbrozadora:
+La mayor parte de las labores que se realizan en la finca son destinadas a destruir
+las malas hierbas, con lo que el efecto sobre la estructura del suelo puede llegar a serperjudicial. Por este motivo han aparecido en el mercado unos aperos que cortan lahierba muy cerca del suelo. Son máquinas formadas por una serie de discos giratorioscon cuchillas en su periferia.
+14Manual Básico de Viticultura en
+Tacoronte -Acentejo
+05242 Manual v5  18/10/2005  14:52  PÆgina 14Intercepas:
+Son arados de diferentes
+modelos (raseta, girovator, verte-deras, etc.), cuya finalidad es elimi-nar las hierbas que se desarrollanentre las plantas. Para ello lleva unsensor palpador, que puede sermecánico o electro-hidráulico, elcual cuando toca el tronco de unaplanta hace que el apero se despla-ce hacia detrás, no afectando deesta forma a las plantas, ni a los pos-tes del sistema de conducción.
+B.2. FUNDAMENTOS DE LA PODA
+La poda consiste en la supresión de órganos de la vid (sarmientos, pámpanos,
+hojas). Es una de las tareas que más influyen en la calidad y cantidad de fruto a reco-lectar.
+B.2.1. Objetivos fundamentales de la poda
+Son principalmente tres:
+•Limitar el crecimiento incontrolado de la cepa y hacerlo compatible con las
+prácticas de cultivo.
+•Limitar el número de yemas adaptándolo a la capacidad de crecimiento de la
+cepa y a las posibilidades ofrecidas por el medio en que ésta se desarrolla.
+•Adecuar la cosecha a las posibilidades de maduración con el fin de conseguir
+una calidad adecuada.
+15
+05242 Manual v5  18/10/2005  14:52  PÆgina 15Dentro de los anteriores podemos definir otros fines:
+• Dar a la vid una forma determinada.
+• Conseguir una producción regular, evitar la "vecería".
+• Buscar una buena distribución de racimos y vegetación a lo largo de la cepa.
+•Armonizar el potencial vegetativo y administrarlo correctamente, evitando pér-
+didas por heridas o recorridos muy largos.
+Consecuencias de no podar:Un viñedo puede ser mantenido sin podar, o con una poda mínima, en este caso
+el resultado sería el siguiente:
+16Manual Básico de Viticultura en
+Tacoronte -Acentejo
+05242 Manual v5  18/10/2005  14:52  PÆgina 16• Cepas de gran desarrollo.
+• Brotación irregular.• Brotes de menor vigor.• La vegetación se aleja del
+tronco.
+• La cosecha se reparte en
+mayor número de racimos demenor tamaño.
+• La vendimia sería más cos-
+tosa.
+B.2.2. Principios generales de poda
+1.- Conocimiento de la fertilidad de las yemas
+Se denomina fertilidad al número de racimos que es
+capaz de dar una yema. 
+• Las yemas de madera vieja no son fértiles
+.
+• Las yemas basilares (las de la unión del sarmiento
+con el brazo) son poco fértiles.
+•Las yemas axilares o latentes son fértiles , son
+las que producen cosecha.
+La fertilidad de las yemas aumenta según se alejan
+de la base hasta la mitad del sarmiento aproximadamen-te, luego vuelve a disminuir. El inicio de la fertilidad de-pende de la variedad. Las variedades muy fértiles lo sondesde la primera yema (Pedro Ximenez), por lo que admi-ten podas cortas.
+17
+05242 Manual v5  18/10/2005  14:52  PÆgina 172.- Carga
+Se entiende por tal la cantidad de yemas fértiles o francas dejadas en una cepa.
+De ello dependerá la producción.
+3.- Vigor
+El desarrollo los brotes es inversamente proporcional al número de yemas deja-
+do en una vid.
+4.- Actividad vegetativa
+La actividad de un brote o pámpano depende de su posición, las yemas más pró-
+ximas a la punta son las que primero y más se desarrollan. También crece ésta con laverticalidad, por ello es conveniente arquear las varas largas dejadas en la cepa.
+5. - Tamaño de racimos y bayas
+El tamaño de los racimos y de las bayas (granos de uva) para una misma varie-
+dad es tanto mayor cuanto menos sea su número en una cepa.
+6. - Microclima del racimo
+Se debe tender a que los racimos disfruten de un microclima adecuado, esto es,
+buena iluminación, aireación e insolación.
+7.- Prolongación de un brazo
+Para este fin se elegirá el brote más cercano a la base. En el caso de brazos hori-
+zontales, con uveros, para prolongarlo se podará sobre una yema que “mire” haciaabajo.
+18Manual Básico de Viticultura en
+Tacoronte -Acentejo05242 Manual v5  18/10/2005  14:52  PÆgina 188.- Armonización
+La poda debe buscar una armonía entre la vocación de la vid, el vigor de la cepa y
+las posibilidades del medio.
+B.2.3. Tipos de poda, según época
+Según la época en que se realice podemos clasifi-car las podas en:• Poda en seco o poda de invierno
+19
+05242 Manual v5  18/10/2005  14:52  PÆgina 19Se realiza durante el período de reposo de la cepa, desde la caída de la hoja hasta
+la brotación. En esta época es cuando se afecta menos el vigor de la cepa. Las podasmuy adelantadas o muy atrasadas hacen perder vigor a la planta. La primera no permi-te que la planta acumule reservas. La segunda hace que la cepa pierda sustancias queya han sido puestas en movimiento, ambas retrasan la brotación.
+• Poda en verdeEs la poda realizada después de la brotación de la vid. Denominamos así la
+supresión de brotes, despuntes, eliminación de hojas, etc.  Se realizan estas operacio-nes buscando diversos fines: mejorar la aireación e insolación del racimo, eliminar bro-tes innecesarios y también para facilitar el resto de las labores en la viña.
+B.2.4. Determinación de la carga
+Como se ha dicho se entiende por carga el número de yemas fértiles dejados a
+una cepa. De manera aproximada se puede decir que se pueden dejar tantas yemas
+fértiles como sarmientos de un metro o más tenga una cepa .
+B.2.5. Elección de los sarmientos para
+pulgares y varas
+Se realiza la elección atendiendo a su
+posición en la cepa, a su inserción. Se debenelegir los de vigor medio y de tal forma que lacarga quede repartida uniformemente a lo largode la cepa.
+B.2.6. Forma de ejecutar los cortes
+Se realizará con tijeras bien afiladas y sin
+holguras de tal forma que resulte un corte limpio.
+20Manual Básico de Viticultura en
+Tacoronte -Acentejo
+05242 Manual v5  18/10/2005  14:52  PÆgina 20Se puede ejecutar en el entrenudo siguiente a la última yema dejada, inclinado sobre el
+lado contrario a la yema. En el caso de entrenudos no demasiado largos se efectuará elcorte por el nudo superior a la última yema respetada, el diafragma del nudo es unaexcelente barrera para la penetración de microorganismos y humedades.
+B.2.7. Tipos o sistemas de poda en seco
+Según la cantidad de yemas dejadas en el sarmiento las podas se clasifican en:•Podas cortas: Se dejan sólo pulgares, con 2 yemas.
+•Podas largas: Sólo se dejan varas, con 3, 4 o más yemas.
+•Podas mixtas: Se combinan pulgares y varas
+Durante los primeros años, con el fin de que la cepa tome la forma deseada, se
+realiza en la cepa la poda de formación. Puede durar hasta los tres o cuatro años.Luego se ejecuta anualmente la poda de mantenimiento con el fin de mantener la for-mación de la cepa y equilibrar su vigor y producción.
+B.3. DEFENSA DEL CULTIVO
+La defensa del cultivo consiste en realizar todas aquellas labores destinadas a
+proteger a las plantas de los ataques de las plagas y las enfermedades. Un capítulomuy importante dentro de este apartado son los tratamientos fitosanitarios, los cualestratan de prevenir la aparición de las enfermedades criptogámicas y de controlar lasplagas que se pueden establecer en el viñedo.
+Las condiciones meteorológicas que predominan en la Comarca Tacoronte –
+Acentejo, limitan considerablemente las posibilidades del cultivo ecológico, ya que setrata de una comarca orientada a barlovento, siendo afectada por los vientos alisiosdurante la primevara y el verano, lo que proporciona una elevada humedad relativa(superior al 80%), que junto con las temperaturas moderadas que predominan enestos períodos, provocan unas condiciones muy favorables para el desarrollo de lasprincipales enfermedades de la vid. Pese a estas condiciones climatológicas desfavo-
+2105242 Manual v5  18/10/2005  14:52  PÆgina 21rables existen experiencias que han obtenido buenos resultados, de tal forma que en
+la actualidad en la comarca sólo existe una bodega que oferta un vino ecológico, ubi-cada en la zona de Anaga.
+B.3.1. Enfermedades
+•Mildiu de la Vid ( Plasmopara vitícola Berl. & De Toni)
+Es una enfermedad que se produce en regiones en las que el clima es cálido y
+húmedo durante el período de crecimiento vegetativo.
+Síntomas:
+El ataque que este patógeno realiza se puede observar en todas las partes ver-
+des de la cepa, preferentemente:
+En hojas: aparecen las típicas "manchas de aceite" en el haz, que se corres-
+ponden en el envés con una pelusilla blanquecina si el tiempo es húmedo. Al final de lavegetación estas manchas adquieren la forma de mosaico.
+22Manual Básico de Viticultura en
+Tacoronte -Acentejo
+05242 Manual v5  18/10/2005  14:52  PÆgina 22Los ataques fuertes producen una desecación parcial o total de las hojas que
+pueden llegar a ocasionar la caída de la hoja, lo cual repercutirá tanto en la cantidadcomo en la calidad de la uva, así como en el buen agostamiento de los sarmientos.
+En racimo: los síntomas se manifiestan por curvaturas en forma de S y oscure-
+cimiento del raquis o raspajo de color achocolatado en la etapa de floración, que mástarde se recubren de una pelusilla blanquecina si el tiempo es húmedo.
+Lo mismo sucede con las flores y
+granos recién cuajados, y cuando los gra-nos ya han superado el tamaño de un gui-sante, se arrugan y finalmente se dese-can, conociéndose a este daño por "Mildiularvado".
+Es en el periodo de floración-cuaja-
+do cuando se puede ocasionar la pérdida
+total del racimo por ataque de este hongo,mientras que los más tardíos suelen afec-tar solamente a una parte del mismo. Apartir del envero el hongo no ataca al raci-mo.
+Estrategia de lucha:
+La mejor estrategia para controlar a este patógeno consiste en tratar en el
+momento oportuno para impedir o detener la germinación de las zoosporas; es decir,la lucha puede ser preventiva y/o curativa según se utilicen productos de contacto osistémicos/penetrantes.
+Normalmente el viticultor no tiene medios para saber el momento oportuno de
+tratamiento, por lo cual, en los casos donde las haya, debe guiarse por las indicacionesque proporciona la Estación de Avisos Agrícolas más cercana, la cual debe dar el aviso
+23
+05242 Manual v5  18/10/2005  14:52  PÆgina 23cuando el hongo haya alcanzado un 70-80% de desarrollo para que el viticultor lo
+tenga en su poder antes de cumplirse el 100%.
+Aunque la evolución del hongo nos indique que no existe peligro de ataque, se
+debe realizar un tratamiento al iniciarse la floración ya que el período floración -cuaja-
+do es el más sensible, y si se produce un ataque, aunque sea leve, las consecuencias
+pueden ser graves pues el hongo afectará directamente al racimo.
+Después del envero los ataques generalmente revisten poca importancia, aun-
+que en algún año excepcional las condiciones climáticas favorables podrán indicar laconveniencia de controlar los ataques tardíos en hojas.
+El único "medio de lucha" eficaz actualmente es el químico, existiendo diversos
+productos con características diferentes que condicionan la estrategia de lucha:
+•Productos de contacto (a base de Cobre, Orgánicos o la mezcla de ambos):
+Los tratamientos deben realizarse de forma preventiva antes de que se produz-
+can lluvias para impedir la germinación de las zoosporas, debiendo repetir el trata-miento, siempre que las condiciones de desarrollo continúen siendo favorables, cada10-12 días o después de una lluvia tormentosa de 10-12 l/m
+2o una lluvia normal de 20-
+22 l/m2ya que se produce el lavado del producto que se aplicó.
+Estos productos, principalmente los que lleven cobre, son muy recomendables
+para aplicar en los últimos tratamientos, ya que a partir del estado grano de tamaño gui-sante el crecimiento de la vid se ralentiza y la mayor persistencia del cobre adquieretodo su valor, con las ventajas de ser frenantes del "oídio" y de la “podredumbre gris".
+•Productos sistémicos o penetrantes (a base de Benalaxil, Fosetil-Al,
+Metalaxil, Cimoxanilo mezclados con productos orgánicos):
+Los tratamientos pueden realizarse antes de las lluvias o en un plazo de 2-6 días
+después de éstas según el producto empleado, debido al poder que poseen de deten-
+24Manual Básico de Viticultura en
+Tacoronte -Acentejo05242 Manual v5  18/10/2005  14:52  PÆgina 24ción del desarrollo del micelio. Además, como son absorbidos rápidamente por la plan-
+ta (1 hora) no es necesario repetir el tratamiento (por lavado) si llueve después deltiempo indicado. 
+La persistencia de los productos sistémicos es de unos 15 días y la de los pene-
+trantes de unos 12 días. Los productos sistémicos deben utilizarse desde la apariciónde los primeros síntomas hasta el estado fenológico de tamaño guisante.
+Aunque las ventajas de los productos sistémicos o penetrantes frente a los de
+contacto son muchas, no debe abusarse de su empleo para no facilitar la aparición decepas resistentes.
+•Oídio de la Vid ( Uncinula necator Burr.)
+Enfermedad conocida como la “Ceniza”, y se encuentra en la mayoría de las
+regiones vitícolas del mundo. Causa daños de poca importancia a las vides nativasamericanas, sin embargo los daños sobre las vides europeas son devastadores, lle-gando a reducir la cosecha en Francia hasta un 80 %, hasta que en 1854 se descubreque el azufre en polvo puede controlar en cierta medida la enfermedad.
+Síntomas:
+El oídio puede atacar todos los órganos verdes de la vid.Enhojas: Los síntomas pueden aparecer tanto en el haz como en el envés; en
+ambos casos suele observarse un polvillo blanco ceniciento que puede limitarse aalgunas zonas o bien ocupar toda la superficie de la hoja; debajo del polvillo se apre-cian puntitos necrosados.
+A veces los comienzos del ataque se manifiestan como manchas de aceite en el
+haz, que recuerdan a las del “Mildiu”, pero que suelen ser más pequeñas y nuncamuestran la típica pelusilla blanca en el envés, apreciándose en cambio punteaduraspardas.
+2505242 Manual v5  18/10/2005  14:52  PÆgina 25En los casos de ataque intenso, las hojas aparecen crispadas o abarquilladas y
+recubiertas del polvillo por el haz y el envés.
+Enbrotes y sarmientos: Los síntomas se manifiestan por manchas difusas de
+color verde oscuro, que van creciendo, definiéndose y pasando a tonos achocolatadosal avanzar la vegetación, y a negruzcos al endurecerse el brote.
+Enracimos: Al principio los granitos aparecen con un cierto tinte plomizo, recu-
+briéndose en poco tiempo del polvillo ceniciento, que si se limpia deja ver puntitos par-dos sobre el hollejo.
+26Manual Básico de Viticultura en
+Tacoronte -Acentejo
+05242 Manual v5  18/10/2005  14:53  PÆgina 26Los daños importantes se localizan en los racimos, ya que los ataques fuertes
+ocasionan la detención del crecimiento de la piel, por lo que es frecuente que ésta seagriete y lleguen a rajarse algunos granos; así se producen unos daños directos en lacantidad y calidad de la cosecha y otros indirectos al favorecerse la penetración delhongo Botrytis cinerea Pers. y de la Pudrición Ácida. Los ataques fuertes también ori-ginan un mal agostado de los sarmientos, con la consiguiente disminución de la acu-mulación de reservas en las yemas.
+Estrategia de lucha:
+Los momentos oportunos de tratamientos en variedades sensibles, y en años
+normales son los siguientes:
+1) Cuando los racimos se hacen visibles (estado fenológico F), teniendo la mayo-
+ría de los  brotes entre 5 y 10 cm.
+2) Al comienzo de la floración (inicio del estado fenológico I).3) Con granos de tamaño guisante-garbanzo.4) Al principio del envero: 5-10% de granos cambiando de color.
+No obstante, en variedades muy sensibles y en zonas o años muy propicios,
+puede ser necesario realizar tratamientos adicionales, en particular entre el primero ysegundo, y/o entre el segundo y tercero. En variedades menos sensibles y años pocofavorables, podrían ser necesarios menos tratamientos de los indicados.
+El único medio de protección actualmente eficaz es el químico, pudiendo
+emplear alguno de los siguientes productos: Azufre (en espolvoreo, polvo mojable oflow), Azufre + Nuarimol, Ciproconazol, Ciproconazol + Azufre, Diniconazol, Dinocap,Fenarimol, Flusilazol, Hexaconazol, Myclobutanil, Myclobutanil + Dinocap, Nuarimol,Penconazol, Permanganato Potásico, Triadimenol.
+2705242 Manual v5  18/10/2005  14:53  PÆgina 27De estos productos, algunos como el Azufre, Dinocap yPermanganato
+Potásico, son de contacto por lo que su acción es esencialmente preventiva. Otros
+como los Inhibidores de la Biosíntesis del Ergosterol (I.B.E.), además de ser preven-
+tivos, pueden tener cierta acción curativa, debido a su acción sistémica, aunque losmejores resultados se obtienen cuando se emplean con carácter preventivo, teniendoque repetir la aplicación como máximo 15 días más tarde. Los últimos en aparecer en elmercado son las estrobilurinas, con la Azoxixtrobina y el Kresoxim-Methyl, que ade-
+más el primero posee acción antimildiu, y tiene efecto penetrante, lo que hace que nosean lavados por la lluvia, y una buena persistencia. Mientras que el Quinoxifen es unproducto específico anti-oídio, y actúa inhibiendo la germinación de las esporas,posee una acción vapor interesante.
+El azufre en espolvoreo tiene a su favor la eficacia, -siempre que los ataques no
+sean de-masiado fuertes- el bajo coste, sus efectos frenantes de eriófidos y ácaros engeneral y el favorecer el cuajado si se emplea en floración.
+Como inconveniente el que puede producir quemaduras, si se utiliza con tempe-
+raturas superiores a los 30 ºC, que pueden alcanzarse a partir del tercer tratamientorecomendado.
+El Permanganato Potásico es de acción muy rápida, pero de poca persistencia,
+pudiendo producir fitotoxicidades.
+Como ventajas de los Inhibidores de la Biosíntesis del Ergosterol (I.B.E.) se pue-
+den citar: su rápida penetración en la planta que hace que no sean lavados por las llu-vias, si estas se producen una hora después del tratamiento, y su persistencia deacción que permite distanciar más las aplicaciones. También son productos que actú-an con temperaturas relativamente bajas, hecho importante en zonas frías sobre todoen las primeras aplicaciones. Como inconveniente -y no pequeño- tienen la facilidadde crear resistencias (ya comprobadas), por lo que no debe abusarse de los mismos.
+28Manual Básico de Viticultura en
+Tacoronte -Acentejo05242 Manual v5  18/10/2005  14:53  PÆgina 28De acuerdo con lo expuesto, para una protección eficaz es aconsejable:
+• Iniciar las aplicaciones con productos sistémicos con el fin de paralizar o no dejar
+que se instale la enfermedad. Los siguientes tratamientos pueden realizarse conproductos sistémicos o con azufre o alternando unos con otros. En algunaszonas puede ser aconsejable iniciar la protección con azufre, hasta pasada la flo-ración.
+• Limitar el número de tratamientos con productos I.B.E. a 3-4 aplicaciones por
+año.
+• Efectuar los tratamientos con maquinaria adecuada, cubriendo bien toda la vege-
+tación y en especial los racimos.
+•Botritis ( Botrytis cinerea Pers.)
+Se trata de un hongo que se encuentra en todos los viñedos del mundo, también
+conocido como “podredumbre gris”. Al principio era considerada una enfermedadsecundaria, pero los daños han adquirido tal importancia, ya que no sólo disminuye lacantidad de la cosecha, sino la calidad de la misma, que ahora es considerada comouna de las principales enfermedades.
+Síntomas:
+La podredumbre gris puede afectar a todos los órganos verdes de la cepa, pero
+principalmente a los racimos.
+Enhojas:
+• Los síntomas se manifiestan frecuentemente en el borde del limbo en forma de
+amplias necrosis que tienen el aspecto de quemaduras; si el tiempo es húmedoaparece sobre el borde de las manchas un polvillo gris.
+2905242 Manual v5  18/10/2005  14:53  PÆgina 29• Los ataques en hojas no suelen tener
+importancia económica, ya que en laComarca Tacoronte - Acentejo sue-len aparecer a comienzos de la pri-mavera, en los meses de Marzo –Abril.
+En brotes jóvenes y sarmientos:
+Los primeros síntomas se manifies-
+tan por la presencia de manchas alarga-das de color achocolatado, que se recu-bren de una pelusilla gris si el tiempo eshúmedo. Al final de la vegetación apare-cen unas manchas negruzcas y alargadassobre un fondo blanquecino a lo largo delsarmiento y principalmente en su extremo,que agosta mal y tiene poca consistencia.
+Los ataques fuertes pueden ocasio-
+nar la pérdida de algunos brotes jóvenes, con la consiguiente disminución de cosecha,y posteriormente la de algunas yemas de la base de los sarmientos, que no brotan alaño siguiente.
+Enracimos:
+Los síntomas durante el período floración - cuajado se manifiestan sobre las
+inflorescencias y en el raspón del racimo en forma de manchas achocolatadas.Durante el período envero-recolección, los granos presentan el aspecto característico
+de "podridos" y sobre su superficie se desarrolla un moho de color grisáceo típico; tam-bién pueden manifestarse sobre el raspón del racimo y las inflorescencias con los sín-tomas descritos anteriormente.
+30Manual Básico de Viticultura en
+Tacoronte -Acentejo
+05242 Manual v5  18/10/2005  14:53  PÆgina 30Los ataques en ambos períodos pueden
+ocasionar una disminución importante de cose-cha. Además, en el período envero-recolecciónocasionan una disminución de calidad en losfuturos vinos debido a: la degradación de lasmaterias colorantes, la destrucción de la películaque contiene las sustancias aromáticas, lareducción del grado alcohólico, el aumento defijación de sulfuroso en los vinos y el aumento dela acidez volátil.
+En el caso particular de la uva de mesa la
+pérdida cualitativa puede ser especialmenteimportante, pues obliga a la eliminación manualde los granos atacados para dejar el racimo pre-sentable para su comercialización, e incluso si el ataque es importante impide sucomercialización como uva de mesa, teniendo que destinarla a vinificación.
+Estrategia de lucha:
+La estrategia a seguir es diferente para cada zona y
+cada variedad, y debe ser el propio viticultor el que la lleve acabo.
+Hay que tener en cuenta que el mejor control del hongo
+se obtiene aplicando el método standard, pero tiene el incon-veniente de que, a veces, se realizan tratamientos indiscri-minados sin tener en cuenta si existe o no riesgo de ataque,con lo cual se aumenta el coste de producción de maneraimportante ya que los productos químicos utilizados soncaros, y además se acelera la aparición de cepas resisten-tes.
+31
+05242 Manual v5  18/10/2005  14:53  PÆgina 31No obstante, según los ensayos realizados en algunas zonas de nuestro país y
+considerando las condiciones climáticas y variedades existentes, la estrategia másracional a seguir es aplicar las técnicas culturales (véase punto B.4.) y realizar un trata-miento al inicio del envero. Las variedades sensibles durante el período floración-cua-jado, como la Listán Negro, deben recibir otro tratamiento al inicio de floración, sobretodo si existe humedad.
+Losmedios de protección
+existentes son diversos:
+Culturales
+• No abusar de los abonos nitrogenados.• Realizar una poda equilibrada y un desnietado o deshojado para facilitar la
+aireación de los racimos.
+• No utilizar, sin causa justificada, portainjertos muy vigorosos ni marcos de
+plantación demasiado estrechos.
+• Evitar, si es posible, las variedades de racimos compactos.• Quemar los restos de poda.• Evitar los ataques de "oídio" y "polillas del racimo", causantes de heridas en
+los granos.
+Biológicos
+• Utilización del hongo Trichoderma spp, antagonista de Botrytis cinerea,
+siguiendo el método estándar. Los resultados obtenidos son prometedores.
+Químicos
+• Siendo muy común utilizar el método estándar que consiste en aplicar trata-
+mientos en cuatro períodos críticos:
+• Al inicio del cuajado.
+• Al cierre del racimo.• Inicio del envero.• 15 días después del anterior.
+32Manual Básico de Viticultura en
+Tacoronte -Acentejo05242 Manual v5  18/10/2005  14:53  PÆgina 32Entre los productos que tenemos en el mercado destacan:
+•Bencimidazoles: son fungicidas sistémicos con acción preventiva. En el
+mercado se encuentran las siguientes materias activas: Carbendazima,
+Metil Tiofanato.
+•Imidas Cíclicas o Dicarboximidas: en este grupo se encuentran fungici-
+das específicos con acción preventiva y curativa, que presentan buena efi-cacia, pero se han presentado razas de Botrytis resistentes a ellos. Lasmaterias activas que podemos encontrar en el mercado son: Iprodiona,
+Procimidona y Vinclozalina.
+• Además hay un amplio grupo de productos específicos entre los que des-
+tacan las siguientes materias activas: Pirimetanil, Fludioxinil, Ciprodinil.
+Todos los productos utilizados contra la Botritis deben alternarse en cada
+tratamiento para no provocar la aparición de cepas resistentes, y en cual-quier caso, el último tratamiento debe realizarse entre 30 y 45 días antes dela recolección, para evitar alteraciones en la fermentación de los mostos.
+B.3.2. Plagas
+•Melazo, Cochinilla, Tiñuela ( Pseudococcus citri, Risso)
+Se trata de una plaga polífaga que también afecta a los cítricos y plantas orna-
+mentales.
+Síntomas:
+Los efectos de la plaga se observan principalmente en los meses de julio y agos-
+to. Las hojas, brotes y sobre todo los racimos se cubren de melaza, sobre la que se des-arrolla en ambientes húmedos la "negrilla". La producción de melaza puede ser tanintensa que en ocasiones gotea al suelo.
+3305242 Manual v5  18/10/2005  14:53  PÆgina 33Sus daños originan una pérdida de calidad, sobre todo en uva de mesa, e impiden el
+normal funcionamiento de hojas y sarmientos, lo que se traduce en brotes más cortos,ligero arrepollamiento y disminución de cosecha en el año siguiente.
+Estrategia de lucha:
+En uva de mesa y dada su repercusión
+sobre la calidad, la sola presencia de formasvivas en invierno o primavera es suficientepara decidir un tratamiento específico contraesta plaga. Mientras que en uva de vinifica-ción, en las parcelas donde todos los añosafecta al cultivo, resulta más eficaz realizaruna estrategia de lucha preventiva: aplicandoun tratamiento de invierno con un aceite deinvierno con insecticida, y luego aplicar un tra-tamiento con un insecticida específico contracochinilla cuando comiencen a movilizarse losadultos desde los troncos hacia los brotesjóvenes.
+En aquellos casos en que los ataques son muy graves, es conveniente realizar
+un descortezado, al menos de aquellas cepas que se presentan más negras, ya quelos adultos se protegen durante el invierno bajo la corteza, y al aplicar el tratamientocon aceite de invierno, la eficacia no es buena, debido a que el aceite no llega bien aestos insectos.
+Los insecticidas más empleados para controlar esta plaga:
+• Clorpirifos:
+insecticida organofosforado, con un amplio campo de actividad
+y buena persistencia.
+34Manual Básico de Viticultura en
+Tacoronte -Acentejo
+05242 Manual v5  18/10/2005  14:53  PÆgina 34• Diazinon: insecticida organofosforado, con acción tanto por ingestión, con-
+tacto e inhalación.
+• Fenitrotion: Insecticida organofosforado, con actividad por ingestión y con-
+tacto. Posee buena persistencia y efecto de choque.
+• Deltametrin: Piretroide sintético cuyo poder insecticida es muy superior al
+de las piretrinas naturales. Actúa por ingestión y contacto, resulta repelentepara los insectos.
+•Mosca del Vinagre ( Drosophila melanogaster Meigen).
+Es una de las plagas que mayor preocupación está provocando ente los agricul-
+tores en los últimos años, ya que actúa como vector de la “podredumbre ácida de losracimos”.
+Síntomas:
+Drosophila transmite diversos microor-
+ganis-mos, en particular levaduras de losgéneros Kloeckera ySaccharomyces,
+capaces de provo-car una podredumbreácida de la uva caracterizada por su fuerteolor ácido parecido al del vinagre. Los raci-mos de uvas blancas afectados presentancoloración marrón y en ellos apare-cen gra-nos que se rompen y vacían su jugo al exte-rior. Está comprobada la correlación entreestos daños y la presencia de D. melanogas-
+ter, así como la  capacidad de ésta, tanto en
+estado adulto como de larva, de transmitir einocular  los gérmenes patógenos sobre lasbayas. El insecto hace la puesta en los gra-nos, sobre las pequeñas heridas.
+35
+05242 Manual v5  18/10/2005  14:53  PÆgina 35Se suele hablar del complejo Drosophila-levaduras como el responsable de la
+podredumbre ácida.
+Condiciones de Desarrollo:
+Como en el caso de la mayoría de los dípteros, la temperatura es el factor físico
+más importante, si bien, y habida cuenta de su modo de reproducción, su multiplica-ción está condicionada especialmente por la existencia de medios líquidos azucara-dos o acéticos, más o menos descompuestos, en los que hacer su puesta y de los quealimentarse.
+En los últimos años, la intensificación del cultivo con riegos y abonados nitroge-
+nados en exceso, racimos compactos y bayas gruesas aumentan el riesgo de roturade granos y formación de estrías de crecimiento, a veces invisibles a simple vista.Estas heridas constituyen un atractivo para la alimentación y puesta de esta mosca.
+Estrategia de lucha:
+A) Protección química.Los tratamientos químicos con productos específicos contra dípteros dan sólo
+una eficacia relativa y temporal ya que no tienen acción sobre las pupas y larvas quesuelen estar dentro de las bayas.
+Las aplicaciones que se realizan contra "la mosca de la fruta" y "la polilla del raci-
+mo" reducen en muchos casos las poblaciones, pero tampoco resuelven el problemadefinitivamente.
+Los piretroides resultan muy eficaces, aunque precisarían tratamientos repeti-
+dos a pequeños intervalos y debe de tenerse en cuenta el posible efecto favorecedorde la proliferación de ácaros.
+36Manual Básico de Viticultura en
+Tacoronte -Acentejo05242 Manual v5  18/10/2005  14:53  PÆgina 36B) Medidas complementarias:
+• Localización de los primeros daños en ciertos racimos de determinadas
+cepas o parras, y, en uva de mesa, limpieza manual de estos primerosfocos, acompañado de la destrucción de las bayas afectadas. En esta lim-pieza deben extremarse las precauciones para no producir heridas en elracimo, que favorecerían la propagación de la enfermedad. En caso deracimos se aconseja la eliminación y destrucción total de aquellos que pre-sentan más de un 10-15% de podredumbre ácida.
+• Evitar la presencia en el suelo de racimos en proceso de pudrición y vigilar
+la existencia en el entorno de árboles que tengan frutos en descomposición(higueras, perales, etc.), pues pueden servir de foco continuo de infesta-ción.
+B.4. OPERACIONES EN VERDE
+B.4.1. Despampanado y espergurado
+Objetivos:Con la eliminación de los pámpanos inútiles que brotan en el tronco y los brazos o
+que salen del patrón, se buscan los efectos siguientes:
+•Eliminar órganos vegetativos no fructíferos;
+•Reducir los riesgos de contaminaciones primarias de mildiu;
+•Limitar el riesgo de fitotoxicidad de los herbicidas sistémicos;
+•Preparar las operaciones de la poda de invierno.
+Realización práctica:Tradicionalmente se realizan a mano, pero como resulta caro y es muy lento, es por
+lo que se tiende a utilizar medios mecánicos o, más recientemente, químicos.
+3705242 Manual v5  18/10/2005  14:53  PÆgina 37Eldespampanado manual se realiza entre el desborre y la floración en una o dos
+pasadas sobre pámpanos herbáceos, fáciles de desprender, antes de que comienceel endurecimiento de la base. Si se realiza demasiado pronto es preciso volver a pasarpara suprimir los que brotan más tarde, y si se realiza demasiado tarde el trabajo esmás difícil y más largo. El despampanado manual es exigente en mano de obra (de 17a 50 h/ha, según la variedad y la densidad de plantación) y se interviene poco antes deuna época punta de trabajo (despunte, recogida de vegetación, tratamientos).
+Eldespampanado mecánico se practica con ayuda de «cepillos» rotativos de
+correas o dedos flexibles, pero no da una respuesta completamente satisfactoria,especialmente en cepas jóvenes o en la eliminación de chupones brotados muy bajos.
+Eldespampanado químico, experimentado por primera vez en 1978, utiliza el
+efecto desecante de ciertos productos utilizados habitualmente como herbicidas, elDiquat y el Paraquat. La aplicación se hace sobre pámpanos herbáceos, aproximada-mente entre mediados de mayo y principios de junio, cuando los brotes tienen 30-40cm. de longitud, con una concentración de 1% (1 litro de producto por 100 litros deagua) y la adición de un mojante. Se puede utilizar también el Glufósinato de amonio ala concentración del 1,3% pero la desecación de los pámpanos es más lenta, este pro-ducto tiene un efecto acaricida.
+Se han inventado numerosos aparatos para esta operación. Constan de un pórti-
+co zancudo que va por encima de la línea de cepas, de forma que pulveriza el productosimultáneamente sobre los dos lados del tronco, que están provistos de boquillas conchorros planos.
+B.4.2. El Despunte
+Objetivos del despunte:El despunte o pinzamiento consiste en suprimir la extremidad de los pámpanos
+en crecimiento buscando los efectos siguientes:
+38Manual Básico de Viticultura en
+Tacoronte -Acentejo05242 Manual v5  18/10/2005  14:53  PÆgina 38•Efectos fisiológicos : limitar el corrimiento de las variedades que tienen ten-
+dencia a presentar este problema, o favorecer el llenado y aumentar la can-tidad de carbohidratos en los racimos. 
+•Efectos prácticos : facilitar el paso de las máquinas de cultivo y de trata-
+mientos suprimiendo una vegetación excesiva.
+•Efectos sobre el microclima : mejorar la insolación y la aireación de los raci-
+mos reduciendo la sombra proyectada por una fila sobre otra.
+•Efectos sobre la sensibilidad a las enfermedades : supresión de órganos
+jóvenes sensibles a los ataques de hongos (Mildiu).
+•Efectos sobre la morfología de la planta : mantener el porte erguido de los
+pámpanos reduciendo su longitud antes de que adquieran un porte péndulo.
+Práctica del despunteÉpocaEl despunte se realiza después de la recogida de los pámpanos en los viñedos
+empalizados. La frecuencia de las intervenciones es variable según el vigor de lasviñas, la variedad y las condiciones del medio. El número de despuntes será funcióndel vigor de las plantas, de la variedad y de las condiciones propias de cada parcela.
+El primer despunte es el más importante. Debe hacerse en el momento adecua-
+do. En efecto, los productos de la fotosíntesis elaborados por las hojas adultas emi-gran durante el crecimiento hacia los órganos jóvenes, las flores y las extremidades delos pámpanos, que están, pues, en competencia para la utilización de estos metaboli-tos. El objetivo de este primer despunte es desviar las corrientes de savia elaborada en
+beneficio de las inflorescencias en el momento en que tienen una necesidad importante,
+3905242 Manual v5  18/10/2005  14:53  PÆgina 39es decir, en la época de la fecundación, al menos en aquellas variedades que presen-
+tan problemas de corrimiento. Mientras que si lo que pretendemos es favorecer el lle-nado y la graduación de la uva, el momento ideal es el envero (cambio de color).
+Cuando se practica en la floración se reduce el corrimiento y el porcentaje de cua-
+jado se mejora:
+•Practicado demasiado pronto, tiene un efecto contrario, provocando una
+reacción de la planta que incrementa el crecimiento de los entrenudos y enconsecuencia aumenta el efecto de competencia (ya sea con el cuajadocomo con el llenado de los racimos).
+•Practicado demasiado tarde, después de la floración, o pasado el envero,
+no consigue ejercer efecto alguno sobre nuestro objetivo.
+•El mejor período se sitúa en plena floración o a finales de floración, para
+favorecer el cuajado. Mientras que para favorecer el llenado y graduaciónde los racimos habría que ejecutarlo al comienzo del envero.
+Los despuntes siguientes son realizados en función del crecimiento de los pám-
+panos y de los efectos buscados.
+IntensidadLos despuntes tienen efectos favorables sobre el cuajado, la maduración y la
+fisiología de la vid cuando no son severos. Por el contrario, cuando son demasiadointensos reducen el vigor, el rendimiento y la calidad.
+Numerosos ensayos han demostrado este efecto depresivo del despunte, que se
+traduce en una reducción de la superficie total del follaje, a pesar de la salida de nietos,tanto más importante cuanto más severo es el despunte. Las hojas adultas restantes serejuvenecen, su resistencia estomática disminuye, su actividad fotosintética aumenta,
+40Manual Básico de Viticultura en
+Tacoronte -Acentejo05242 Manual v5  18/10/2005  14:53  PÆgina 40así como su transpiración, pero la producción total de materia seca es menor que en las
+viñas no pinzadas. El microclima inducido por el despunte favorece temporalmente lainsolación de las hojas adultas y de los racimos, pero en seguida se hace menos favora-ble a causa del desarrollo de los nietos.
+El rendimiento se ve poco modificado por la intensidad del despunte practicado
+después del cuajado, pero, por el contrario, los estados fenológicos se retrasan y loselementos de la calidad son más débiles (grado, color, polifenoles totales).
+Otros ensayos muestran que el despunte tal como se realiza en la práctica
+corriente, la mayoría de las veces tiene un marcado efecto depresivo y que un despun-te menos severo permite aumentar el vigor de las plantas, la calidad y, al final, el rendi-miento.
+En consecuencia, el despunte no debe ser demasiado severo, pero en viñas
+estrechas es una operación necesaria para facilitar el paso, para limitar la sombra pro-ducida, así como el desarrollo de la “podredumbre gris”.
+Tipos de despuntadorasEl despunte manual realizado con hoz o con tijeras es exigente en mano de obra.
+La mecanización de esta operación se ha hecho corriente y se ofrecen varios tipos dedespuntadoras (con barra de corte, con sierras rotativas, etc.) montadas sobre tractoro arrastradas sobre patines.
+B.4.3. El Deshojado
+Es una práctica que, como el despunte, es susceptible de modificar la calidad de
+la cosecha. El deshojado es de uso corriente en los viñedos que producen vinos blan-cos licorosos y en climas húmedos para mejorar la aireación del racimo.
+4105242 Manual v5  18/10/2005  14:53  PÆgina 41Objetivos
+El deshojado consiste en suprimir las hojas a nivel de los racimos durante el perí-
+odo de maduración con vistas a buscar los efectos siguientes:
+•Aumentar la temperatura, la insolación y la aireación al nivel de los racimos;
+•Mejorar la coloración y la maduración de las bayas;
+•Reducir la podredumbre gris al proporcionar una mejor aireación durante el
+período de maduración; 
+•Reducir el tiempo de vendimia manual; por el contrario, el deshojado ape-
+nas presenta interés para la vendimia mecánica; 
+•Favorecer el acceso a los racimos de los tratamientos tardíos.
+•Favorecer el desarrollo de la “podredumbre noble” durante el período de
+sobremaduración para la producción de vinos licorosos (Tokay,Sauternes, etc.).
+PrácticaEl deshojado se practica al nivel de los racimos sobre la cara de la fila expuesta al
+sol saliente, bien sea a partir del envero para buscar una mejora del microclima, o enlas vísperas de la vendimia para reducir la duración de la recolección manual.
+Los efectos benéficos del deshojado no se consiguen más que cuando afecta a
+las hojas viejas, cuya actividad fotosintética es débil. Realizado demasiado pronto odemasiado severamente disminuye la superficie foliar en plena actividad, provocandoun descenso de calidad y de rendimiento. Puede ser combinado con un despuntemenos severo para compensar esta disminución de superficie foliar.
+42Manual Básico de Viticultura en
+Tacoronte -Acentejo05242 Manual v5  18/10/2005  14:53  PÆgina 42Se realiza a mano en ciertos
+viñedos (Sauternes), pero es unaoperación exigente en mano de obra(160 h/ha). También existen desho-
+jadoras neumáticas para realizar un
+deshojado mucho más rápido y eco-nómico, con un tiempo de 6 a 10horas/ha. Para el uso de estasmáquinas es muy importante el esta-do fenológico, siendo el momentoideal que se haga entre el cierre del
+racimo y antes del envero. Eldes-
+hojado químico ha sido objeto de
+ensayos, especialmente con clorato de magnesio y Etephon, pero estas sustancias nose han empleado mucho en razón de sus efectos secundarios nefastos para la cose-cha.
+B.4.4. El aclareo o cincelado
+Esta operación es realizada sobre todo para mejorar la presentación de las uvas
+de mesa (forma de los racimos y grosor de los granos) y excepcionalmente para redu-cir la producción de las uvas de vinificación cuando se anuncia excesiva. Consiste ensuprimir ya sean bayas (cincelado) o bien porciones de racimo (pinzamiento), o unaproporción bastante importante de racimos (caso de las uvas de vinificación).
+En las variedades de vinificación
+,el aclareo consiste en suprimir como míni-
+mo el 30% de los racimos justo antes del comienzo del envero.
+Época del aclareo: practicado demasiado pronto antes del envero, favorece el
+vigor de las cepas, la fertilidad de las yemas y provoca un riesgo de superproducción alaño siguiente; practicado después del envero es menos interesante porque, aunquedisminuye el rendimiento, no mejora la calidad.
+43
+05242 Manual v5  18/10/2005  14:54  PÆgina 43Intensidad del aclareo: debe ser al menos del 30%; por encima de este límite, la
+caída del rendimiento es función evidentemente de la intensidad, pero se produce unfenómeno de recuperación (caída del 35% de la producción para un aclareo del 50%).Paralelamente, se asiste a una mejora del grado y del color, y a un descenso de la acidez.
+Este aclareo se realiza manualmente con tijera, pero es exigente en mano de
+obra y no presenta interés más que cuando la cosecha se prevé demasiado abundan-te. El aclareo químico, con etephon a la dosis de 600 mg/l, tiene los mismos efectosbenéficos, pero necesita intervenciones precoces (una semana después del cuajado)es una operación delicada de empleo, pues es difícil de controlar el porcentaje dereducción de cosecha buscado.
+B.5. RIEGO Y FERTILIZACIÓN
+El cultivo de la vid se considera un cultivo poco exigente en riego, según algunos
+autores, con una dotación anual entre 300 y 800 l./planta es suficiente para que puedacompletar su ciclo y producir una cosecha en buenas condiciones. Se considera queesta dotación en agua se debe ajustar al siguiente reparto:
+• Período invernal: 2%.• Brotación - cuajado: 10%.• Cuajado – envero: 43%.• Postvendimia – caída de las hojas: 45%.
+Mientras que las épocas fundamentales en las que se debería aportar los princi-
+pales nutrientes de la vid, son las siguientes:
+44Manual Básico de Viticultura en
+Tacoronte -Acentejo05242 Manual v5  18/10/2005  14:54  PÆgina 44•Requerimientos en Nitrógeno (N): juega un papel fundamental en el
+crecimiento de la planta. Tal es así que un exceso de abonado nitrogenadoproduce unas plantas muy exuberantes pero muy sensibles a plagas yenfermedades. Se estima que con un aporte de 60 Unidades Fertilizantes(U.F.) de N por hectárea y año, es suficiente para conseguir un buen des-arrollo y una buena cosecha. La época ideal para aportar el Nitrógeno esdespués de la vendimia, momento en el que se sintetizan las reservas quese usarán en la brotación de la siguiente campaña. 
+•Requerimientos en Fósforo
+(P2O5): juega un papel importante en los
+procesos energéticos que se producen en las plantas. Siendo indispensa-bles tanto en los procesos de floración y fructificación, como en el agostadode la madera. Normalmente se estima que con 30 U.F. de P2O5 por hectá-rea y año se puede obtener un resultado satisfactorio, y el momento idóneode aportarlo es la época de floración – cuajado.
+•Requerimientos en Pot
+asio (K2O): es un elemento básico para el trans-
+porte de los carbohidratos dentro de la planta, siendo el principal responsa-ble de la migración de los azúcares hacia los racimos, teniendo un efectocrucial en la maduración de la fruta. Para obtener una buena traslocaciónde los carbohidratos se estima que con un aporte de 70 U.F. de K2O porhectárea y año se obtienen unos resultados satisfactorios. La época deaportarlo coincide con la del Fósforo (floración – cuajado).
+B.6. VENDIMIA
+Para determinar la fecha óptima de corte se realiza un control de maduración. La
+forma de realizar un buen muestreo consiste en tomar un mínimo de 100 uvas elegidasal azar, procurando coger la misma cantidad de uvas de la parte más soleada de losracimos que las de la parte sombreada, de la zona superior de los racimos, de la partecentral y de la parte baja.
+4505242 Manual v5  18/10/2005  14:54  PÆgina 45El análisis realizado a esta muestra nos permite conocer el momento óptimo de
+maduración fénolica. Los análisis de grado probable, grado Baumé o densidad, permi-ten determinar el azúcar contenido en la uva, que será transformado en alcohol duran-te la fermentación, (una concentración de los azúcares muy elevada puede originarproblemas al quedar azúcares residuales que originan un ligero dulzor (vino abocado)y problemas de refermentación), y los análisis de taninos-antocianos, permiten deter-minar el equilibrio y estabilidad posterior del color de los vinos tintos. Cuando estosparámetros son los adecuados para la recolección es el momento de fijar la fecha de lavendimia. También se examina la evolución del pH y la acidez total. Los parámetrosóptimos son muy difíciles de conseguir al mismo tiempo, pero haciendo un seguimien-to exhaustivo podremos determinar con gran exactitud el momento adecuado de reco-lección en nuestro viñedo.
+De forma general, las graduaciones óptimas de vendimia son las que se exponen
+en el siguiente cuadro, aunque cada bodega según su elaboración tradicional, puedetener sus preferencias:
+Tipo de Vino Graduación
+mínima recomendada
+Blanco Joven 10 10,5Rosado 10 11Tinto Joven 12 12,5Barrica 13 13,5Crianza 13,5 14
+Ejecución de la vendimia:
+Para potenciar la calidad de los vinos, la vendimia debe realizarse lo más rápido
+posible, procurando que los racimos lleguen casi intactos a la bodega, para evitar
+46Manual Básico de Viticultura en
+Tacoronte -Acentejo05242 Manual v5  18/10/2005  14:54  PÆgina 46maceraciones incontroladas e inicios de
+fermentaciones. Se debe evitar realizarla vendimia durante las horas de máscalor. Lo ideal es colocar las uvas encajas pláticas de 20 Kg. con aberturassegún se vayan cortando los racimos.
+La forma que hay de ejecutar la
+vendimia ofrece una serie de ventajas ydesventajas según se realice de formamanual o mecanizada:
+•Manual
+Ventajas:
+• Buen trato de la vendimia 
+• La uva llega en buenas condiciones a la bodega
+Desventajas:
+• Es más cara que la mecánica
+• Dificultad para formar equipos de vendimia• Dificultad para vendimiar rápido
+Esta es la única posibilidad que tenemos en Canarias, debido principalmente al
+pequeño tamaño de las parcelas y la imposibilidad de mecanizar que hay en la mayoríade las parcelas.
+47
+05242 Manual v5  18/10/2005  14:54  PÆgina 47•Mecanizada
+Ventajas:
+• Económico (siempre que la exten-
+sión sea lo suficientemente grande)
+• Vendimia más rápida y en el momen-
+to que se desee
+• Es posible vendimiar incluso de
+noche
+Desventajas:
+• Maltrato a la uva, produciendo que
+se rompan las bayas, y puedacomenzar la fermentación antes dellegar a la bodega.
+• Con variedades blancas se deben
+de transportar rápidamente a labodega para evitar que se oxide elmosto.
+• Presencia de hojas, sarmientos, etc.
+junto con la uva.
+• Disminuye la acidez del mosto
+B.7. PERIODICIDAD DE LAS TAREAS VITÍCOLAS
+A continuación se expone un cuadro resumen de las labores que se realizan
+anualmente en la viña, distribuidas en función a la época adecuada para llevarlas acabo:
+48Manual Básico de Viticultura en
+Tacoronte -Acentejo
+05242 Manual v5  18/10/2005  14:54  PÆgina 48Las labores relacionadas anteriormente tienen carácter meramente orientativo,
+ya que pueden variar según la climatología del año, la ubicación de la parcela, la varie-dad y sistema de conducción.
+Los recuadros que están marcados con (*) significan, que esa labor en concreto
+se realiza en un momento puntual, en alguno de los meses señalados.
+49/MT82/MT69/MT76/MT65/MT67/MT73/MT211/MT78/MT32/MT77/MT69/MT78/MT83/MT85/MT65/MT76/MT32/MT68/MT69/MT32/MT84/MT65/MT82/MT69/MT65/MT83/MT32/MT86/MT73/MT84/MT205/MT67/MT79/MT76/MT65/MT83
+/MT77/MT101/MT115/MT101/MT115
+/MT69/MT110/MT101/MT114/MT46/MT32/MT70/MT101/MT98/MT114/MT46/MT32/MT77/MT97/MT114/MT122/MT46/MT32/MT65/MT98/MT114/MT46/MT32/MT77/MT97/MT121/MT46/MT32/MT74/MT117/MT110/MT46/MT32/MT74/MT117/MT108/MT46/MT32/MT65/MT103/MT111/MT115/MT46/MT32/MT83/MT101/MT112/MT116/MT46/MT32/MT79/MT99/MT116/MT46/MT32/MT78/MT111/MT118/MT46/MT32/MT68/MT105/MT99/MT46
+/MT76/MT97/MT98/MT111/MT114/MT101/MT115/MT32/MT99/MT111/MT110/MT32/MT116/MT114/MT97/MT99/MT116/MT111/MT114
+/MT67/MT111/MT110/MT116/MT114/MT111/MT108/MT32/MT100/MT101/MT32/MT109/MT97/MT108/MT97/MT115
+/MT104/MT105/MT101/MT114/MT98/MT97/MT115
+/MT80/MT111/MT100/MT97/MT114/MT65/MT112/MT108/MT105/MT99/MT97/MT99/MT105/MT243/MT110/MT32/MT100/MT101
+/MT102/MT105/MT116/MT111/MT115/MT97/MT110/MT105/MT116/MT97/MT114/MT105/MT111/MT115
+/MT65/MT122/MT117/MT102/MT114/MT97/MT114/MT68/MT101/MT115/MT104/MT111/MT106/MT97/MT114/MT65/MT116/MT97/MT114/MT32/MT118/MT97/MT114/MT97/MT115/MT32/MT121/MT32/MT114/MT101/MT99/MT111/MT103/MT101/MT114
+/MT118/MT101/MT103/MT101/MT116/MT97/MT99/MT105/MT243/MT110
+/MT80/MT111/MT100/MT97/MT32/MT101/MT110/MT32/MT118/MT101/MT114/MT100/MT101/MT82/MT105/MT101/MT103/MT111/MT70/MT101/MT114/MT116/MT105/MT108/MT105/MT122/MT97/MT99/MT105/MT243/MT110/MT86/MT101/MT110/MT100/MT105/MT109/MT105/MT97/MT84/MT97/MT114/MT101/MT97/MT115/MT32/MT86/MT105/MT116/MT237/MT99/MT111/MT108/MT97/MT115
+/MT42/MT42/MT42
+/MT42/MT42
+/MT42/MT42/MT42
+/MT42/MT42
+/MT42/MT42
+/MT42/MT4205242 Manual v5  18/10/2005  14:54  PÆgina 4905242 Manual v5  18/10/2005  14:54  PÆgina 50C.
+Modernización del viñedo05242 Manual v5  18/10/2005  14:54  PÆgina 5105242 Manual v5  18/10/2005  14:54  PÆgina 52C. MODERNIZACIÓN DEL VIÑEDO
+C.1. OPERACIONES PREVIAS
+Decidida la plantación de un viñedo se deben acometer una serie de operaciones
+previas a la plantación que son las siguientes:
+• Eliminación de todo resto de vegetación anterior (viñas, malezas, anterior
+cultivo, etc).
+• Supresión de masas rocosas, si fuese necesario.• Nivelación ó explanación del terreno, si fuese preciso.• Mejora del perfil cultural por desfonde o subsolado.• Mejorar la fertilidad mediante enmiendas y abonadas de fondo.• Realización de las labores complementarias finales antes del replanteo y
+plantación.
+C.1.1. Movimientos de tierra y nivelación del terreno
+Dentro de las operaciones previas más importantes se encuentra la de nivela-
+ción del terreno.
+En terrenos irregulares se aconseja proceder a su nivelación, realizada con
+máquinas apropiadas para este fin.
+Lo que se pretende con esta labor es la de reducir las irregularidades de la super-
+ficie y aumentar el volumen de suelo útil para ser explotado. Con la nivelación, ademásde suprimir irregularidades del terreno, se debe dar al terreno un perfil de forma que lasaguas de escorrentía sean evacuadas y que todas las zonas posibles dispongan deuna profundidad suficiente de suelo.
+El terreno debe quedar lo más homogéneo y llano posible, para facilitar las labo-
+res de cultivo, ya que la mecanización de los mismos se verá limitada por la pendiente
+5305242 Manual v5  18/10/2005  14:54  PÆgina 53transversal.  En caso de terrenos con pendientes muy acusadas, es necesario realizar
+terrazas para permitir el cultivo de la vid. En otros casos los movimientos de tierra tie-nen la finalidad de eliminar pequeñas paredes o taludes de tierra y dejar el terreno conuna pendiente uniforme. Otras veces el movimiento de tierra  pretende eliminar masasrocosas y formar unidades de cultivo más extensas y mejorar así la mecanización de laplantación, disminuyendo los costes de cultivo. 
+A la hora de realizar movimientos de tierra hay que tener en cuenta que al
+comienzo se debe retirar la tierra fértil (también denominada tierra vegetal o capasuperficial) evitando que se mezcle con el resto de materiales; y una vez nivelado elsubsuelo volver a extenderla, de tal forma que siempre quede la tierra vegetal en lasuperficie.
+Una vez finalizada esta operación se realiza la limpieza de hierbas y restos de
+cultivo existente en el terreno, bien de forma mecánica, bien de forma química oambas.
+Si es necesario se procede a la limpieza de piedras. El despedregado se lleva a
+cabo mediante repetidos pases de tractor con despedregadora y cultivador. El cultiva-dor hace aflorar la piedra y la despedregadora la retira del terreno. La profundidadmínima de trabajo será de 20 cm., siendo la ideal en suelos que lo permitan de 40 cm.Deben retirarse las piedras que tengan más de 10 cm. de diámetro.
+C.1.2. Toma de muestra de tierra
+Antes de comenzar los trabajos de instalación
+del sistema de conducción y de la plantación se debetomar, en primer lugar, una muestra de tierra.
+La muestra estará compuesta por submues-
+tras (Sn), para ello se recorrerá la parcela haciendozig-zag, de forma que la muestra sea lo más repre-sentativa posible.
+54Manual Básico de Viticultura en
+Tacoronte -Acentejo/MT83/MT49/MT83/MT51
+/MT83/MT50/MT83/MT5205242 Manual v5  18/10/2005  14:54  PÆgina 54La toma de muestra se podrá hacer con una barrena específica o bien con la
+ayuda de una azada.
+Cómo proceder:
+• Separar la capa superficial (1-2 cm.) eliminando restos vegetales.
+• Profundizar de 15 a 50 cm., en caso de azada, cavar un hoyo de 50 cm. de profun-
+didad.
+• Con una espátula o la propia azada
+raspar en sentido ascendente a lapared del hoyo.
+• Verter la tierra extraída en una bolsa o
+cubo.
+• Proceder de igual manera en los dis-
+tintos puntos de la parcela.
+• Se mezcla la tierra procedente de
+todas las submuestras, se toma apro-ximadamente 1 Kg. de tierra y se poneen una bolsa limpia.
+• Identificar la muestra.• Remitirla al laboratorio.
+C.1.3. Análisis de la muestra, parámetros a determinar e interpretación de
+análisis
+Las muestras de cada finca se remitirán identificadas a analizar a laboratorios ofi-
+ciales o privados que puedan realizar las determinaciones que se le soliciten.
+•Análisis químicos
+:
+Las determinaciones químicas sirven para prever un plan de fertilización o
+enmienda situando, poco a poco, el suelo en niveles óptimos.
+55/MT82/MT97/MT115/MT112/MT97/MT114/MT32/MT118/MT101/MT114/MT116/MT105/MT99/MT97/MT108/MT109/MT101/MT110/MT116/MT101/MT53/MT48/MT32/MT99/MT109/MT4605242 Manual v5  18/10/2005  14:54  PÆgina 55Los parámetros químicos solicitados con los valores entre los que deben oscilar,
+son los siguientes:
+Un parámetro a tener en cuenta para la correcta interpretación de los análisis de
+tierra es la C.I.C. (Capacidad de Intercambio Catiónico), expresada en miliequivalen-tes por 100 g. (meq/100 g); éste determina la cantidad de cationes (bases) que el sueloes capaz de absorber y permite conocer la tasa de saturación del complejo arcillo-húmico.
+56Manual Básico de Viticultura en
+Tacoronte -Acentejo/MT80/MT97/MT114/MT225/MT109/MT101/MT116/MT114/MT111/MT115/MT32/MT32/MT32/MT32/MT32/MT32/MT68/MT101/MT102/MT105/MT110/MT105/MT99/MT105/MT243/MT110 /MT32/MT32/MT32/MT32/MT32/MT32/MT32/MT32/MT32/MT86/MT97/MT108/MT111/MT114/MT101/MT115 /MT32/MT243/MT112/MT116/MT105/MT109/MT111/MT115
+/MT112/MT72
+/MT78/MT97/MT32/MT40/MT37/MT67/MT46/MT73/MT46/MT67/MT41
+/MT75/MT32/MT40/MT37/MT67/MT46/MT73/MT46/MT67/MT41/MT67/MT97/MT32/MT40/MT37/MT67/MT46/MT73/MT46/MT67/MT41/MT77/MT103/MT32/MT40/MT37/MT32/MT67/MT46/MT73/MT46/MT67/MT41/MT80/MT32/MT79/MT108/MT115/MT101/MT110/MT32/MT40/MT112/MT112/MT109/MT41
+/MT77/MT46/MT79/MT46
+/MT67/MT46/MT69/MT46/MT32/MT40/MT109/MT115/MT47/MT99/MT109/MT46/MT41/MT73/MT110/MT100/MT105/MT99/MT97/MT100/MT111/MT114/MT32/MT100/MT101/MT32/MT108/MT111/MT115/MT32/MT110/MT105/MT118/MT101/MT108/MT101/MT115/MT32/MT100/MT101
+/MT97/MT99/MT105/MT100/MT101/MT122/MT46
+/MT83/MT111/MT100/MT105/MT111/MT32/MT40/MT99/MT97/MT116/MT105/MT243/MT110/MT32/MT100/MT101/MT32/MT99/MT97/MT109/MT98/MT105/MT111/MT41/MT80/MT111/MT116/MT97/MT115/MT105/MT111/MT32/MT40/MT99/MT97/MT116/MT105/MT243/MT110/MT32/MT100/MT101/MT32/MT99/MT97/MT109/MT98/MT105/MT111/MT41
+/MT67/MT97/MT108/MT99/MT105/MT111/MT32/MT40/MT99/MT97/MT116/MT105/MT243/MT110/MT32/MT100/MT101/MT32/MT99/MT97/MT109/MT98/MT105/MT111/MT41
+/MT77/MT97/MT103/MT110/MT101/MT115/MT105/MT111/MT32/MT40/MT99/MT97/MT116/MT105/MT243/MT110/MT32/MT100/MT101/MT32/MT99/MT97/MT109/MT98/MT105/MT111/MT41
+/MT77/MT97/MT116/MT101/MT114/MT105/MT97/MT32/MT111/MT114/MT103/MT225/MT110/MT105/MT99/MT97
+/MT67/MT111/MT110/MT100/MT117/MT99/MT116/MT105/MT118/MT105/MT100/MT97/MT100/MT32/MT101/MT108/MT233/MT99/MT116/MT114/MT105/MT99/MT97/MT54/MT45/MT55
+/MT60/MT51
+/MT50/MT45/MT49/MT50
+/MT54/MT48/MT45/MT56/MT48/MT49/MT48/MT45/MT51/MT48
+/MT62/MT50/MT53
+/MT50/MT45/MT50/MT44/MT53
+/MT60/MT50/MT44/MT53/MT70/MT243/MT115/MT102/MT111/MT114/MT111/MT44/MT32/MT101/MT120/MT112/MT114/MT101/MT115/MT97/MT100/MT111/MT32/MT101/MT110/MT32/MT112/MT97/MT114/MT116/MT101/MT115
+/MT112/MT111/MT114/MT32/MT109/MT105/MT108/MT108/MT243/MT110/MT32/MT40/MT112/MT112/MT109/MT41/MT32/MT121/MT100/MT101/MT116/MT101/MT114/MT109/MT105/MT110/MT97/MT100/MT111/MT32/MT112/MT111/MT114/MT32/MT101/MT108/MT32/MT109/MT233/MT116/MT111/MT100/MT111/MT97/MT112/MT114/MT111/MT112/MT105/MT97/MT100/MT111/MT32/MT115/MT101/MT103/MT250/MT110/MT32/MT108/MT97/MT32/MT97/MT99/MT105/MT100/MT101/MT122/MT32/MT100/MT101/MT108/MT116/MT101/MT114/MT114/MT101/MT110/MT111/MT59/MT32/MT117/MT115/MT97/MT110/MT100/MT111/MT32/MT109/MT225/MT115/MT102/MT114/MT101/MT99/MT117/MT101/MT110/MT116/MT101/MT109/MT101/MT110/MT116/MT101/MT32/MT101/MT108/MT32/MT109/MT233/MT116/MT111/MT100/MT111/MT79/MT108/MT115/MT101/MT110/MT4605242 Manual v5  18/10/2005  14:54  PÆgina 56Además de los parámetros que se analizan normalmente, una vez tenemos los
+resultados deberemos tener en cuenta las relaciones entre diversos cationes como losque exponemos en la siguiente tabla: 
+Valores óptimos de las relaciones entre los distintos cationes.
+•Análisis físicos
+:
+Las determinaciones de las propiedades físicas de los suelos tienen como finali-
+dad ajustar de forma óptima las dosis de riego, y en su caso, las de lavado en el caso desuelos salinos. Bien es verdad que este tipo de análisis plantea dificultades debido aque el suelo tiene unas propiedades físicas en origen, que se ven alteradas tras elmuestreo para el análisis en el laboratorio, pero no por esto deja de tener utilidad.
+Dentro de las determinaciones físicas están las siguientes:• Textura o granulometría.
+• Densidad y porosidad.• Curva de retención de humedad (pF).• Conductividad hidráulica.
+De los parámetros anteriores los que normalmente nos suelen aportar en los
+análisis son los de textura y estructura del suelo.
+La granulometría proporciona los porcentajes de partículas clasificados por
+categorías (arcilla, limo, arena fina, arena gruesa); las proporciones respectivas deestos elementos determinan la textura del suelo que es una de las características fun-damentales del suelo y que influye sobre sus propiedades.
+57/MT75/MT47/MT77/MT103
+/MT48/MT44/MT51/MT45/MT48/MT44/MT56/MT75/MT47/MT67/MT97
+/MT48/MT44/MT52/MT50/MT45/MT48/MT44/MT52/MT56/MT75/MT47/MT67/MT97/MT43/MT77/MT103
+/MT48/MT44/MT51/MT45/MT48/MT44/MT52/MT67/MT97/MT47/MT77/MT103
+/MT5305242 Manual v5  18/10/2005  14:54  PÆgina 57La estructura de un  suelo en un momento dado define el modo de agrupamiento
+de los constituyentes sólidos, y el estado de división y de agregación del suelo.
+C.2. DESFONDE Y PREPARACIÓN DEL SUELO
+C.2.1. Desfonde del suelo, máquinas y aperos
+El desfonde del terreno se realiza tanto en terrenos vírgenes, como también en
+los que tuvieron antes otros cultivos. Las finalidades de esta labor son las siguientes:
+• Permitir y facilitar el desarrollo del sistema radicular, pudiendo éste explorar
+mayor volumen de suelo.
+• Mejorar la permeabilidad del terreno al agua y al aire.• Limpiar la tierra de raíces, piedras, etc.• Mejorar o activar la actividad microbiana del suelo.• Movilizar las reservas de fertilizantes.• Incorporar las posibles enmiendas y abonadas de fondo.
+Existen distintos tipos de desfonde, dentro de los cuales se encuentran:•Desfonde con volteo
+:
+Esta operación se realiza en los terrenos donde la capa arable del suelo y del sub-
+suelo tienen una composición similar o cuando la capa profunda puede mejorar lasuperficial.
+También se hace cuando se tiene que incorporar al terreno enmiendas o abona-
+das de fondo, o cuando anteriormente existió un cultivo leñoso y hay que eliminar susraíces porque pueden ser portadoras de parásitos o enfermedades.
+Para esta labor se emplean arados de vertedera que profundizan más de un
+metro, arrastrados por un potente tractor. Es conveniente aprovechar la labor parasacar de los surcos las piedras grandes y raíces de cultivos anteriores.
+58Manual Básico de Viticultura en
+Tacoronte -Acentejo05242 Manual v5  18/10/2005  14:54  PÆgina 58•Desfonde por subsolado :
+Cuando no nos encontramos en la situación anterior, que es lo más frecuente,
+esta operación se puede hacer sin volteo, por subsolado. Para ello se usa un apero deuna o varias púas, que penetran en profundidad y también son arrastradas por unpotente tractor.
+Es suficiente con dos pases en diferentes sentidos (cruzados) del tractor con
+subsolador. La profundidad mínima de trabajo será de 50 cm., siendo conveniente lle-gar a los 75-80 cm.
+El subsolado se debe realizar después de los trabajos de movimiento de tierra y
+nivelación, preferentemente en verano o comienzos de otoño, cuando los suelosestán secos y su disgregación se hace con más facilidad y más completa.
+Esta labor consigue una eficaz rotura de las capas del suelo y subsuelo, muy con-
+veniente para el cultivo de raíces profundas como es el de la viña.
+Una vez realizado el subsolado pueden aflorar piedras; si es así habría que des-
+pedregar.
+C.2.2. Distribución e incorporación de las enmiendas
+Establecido el plan de abono, se procede al reparto de las enmiendas necesarias
+en la finca y a su posterior incorporación al suelo mediante labor sencilla de tractor concavadora o cultivador rotativo.
+Las cantidades de abonado calculadas para la corrección del terreno se reparti-
+rán uniformemente en toda la superficie de la parcela.
+Habrá que poner especial cuidado en la distribución uniforme de las enmiendas a
+incorporar. De forma manual es difícil hacerlo. La mejor forma de realizar la distribu-ción es mediante una abonadora que permita dosificar exactamente los distintos ele-mentos en la superficie del terreno.
+5905242 Manual v5  18/10/2005  14:54  PÆgina 59C.2.3. Labores superficiales
+Las enmiendas también se pueden incorporar después del subsolado, una vez
+realizada esta labor se dará un pase de cavadora o cultivador logrando así que el terre-no quede mullido para recibir las plantas y los materiales en caso de instalar un nuevosistema de conducción. Para esta labor será suficiente con profundizar 20-30 cm.,siempre y cuando se haya subsolado y despedregado previamente. 
+La época más conveniente para realizarlas es después de la vendimia, puesto
+que no suele llover normalmente y se puede manejar el terreno seco. 
+C.3. SISTEMAS DE CONDUCCIÓN
+A la hora de elegir un nuevo sistema de conducción hay que tener como objetivo
+el conseguir una buena iluminación dentro de la masa vegetativa y facilitar el cultivo.Hay que tener en cuenta que los sistemas de conducción se deben adaptar a las condi-ciones de clima y ambiente que existen en cada zona.
+Para elegir un determinado sistema de conducción, se deben tener en cuenta
+una serie de aspectos técnicos y económicos.
+Dentro de los aspectos técnicos podemos mencionar los siguientes:• Variedad de uva.
+• Disponibilidad de agua y fertilidad del suelo.• Grado de insolación, humedad ambiental, etc.• Posibilidad de mecanizar• Configuración de la parcela.
+Y en los aspectos económicos:• Tipo de explotación: Explotación asalariada, trabajo propio, huerto de recreo, etc.
+60Manual Básico de Viticultura en
+Tacoronte -Acentejo05242 Manual v5  18/10/2005  14:54  PÆgina 60Con sistema de conducción nos referiremos fundamentalmente a formas empa-
+rradas o tutoradas. Según el espesor  y la disposición de la vegetación podemos agru-par los sistemas de conducción en varios tipos:
+• Cortina de vegetación sencilla
+: Espalderas convencionales con diferentes tipos
+de poda (pulgar y vara, cordón doble, etc.)
+• Cortina de vegetación doble : Sistemas en los que las cepas son formadas en dos
+alambres paralelos colocados a la misma altura, separados entre sí como míni-mo unos 40 cm. (Cordón cuádruple, lira, y variantes de ambos).
+• Vegetación en planos horizontales
+: Parral bajo o alto. En los sistemas de conduc-
+ción no apoyados tenemos:
+• Sistema tradicional : en el que las plantas se encuentran parte del año sobre el
+suelo, y cuando se acerca el envero se levantan con la ayudas de estacas demadera (“horquetas”).
+En cuanto a los parámetros que definen el sistema de conducción podemos
+destacar:
+• Altura del tronco
+: Cuanto más alto mas sensibilidad a la sequía (mayor demanda
+de agua) y generalmente menos riesgos de enfermedades.
+• Sistemas de poda : Corta, (o poda a pulgares, tres o menos yemas fértiles por
+vara), larga (más de tres yemas), mixta (combina varas largas con pulgares cor-tos). En el apartado B.2. de este manual se aportan más detalles de las distintaspodas.
+C.3.1. Tradicional o rastras
+C.3.1.1. DescripciónEl paisaje vitícola de la comarca se ha caracterizado por tener un viñedo cultiva-
+do en rastras; es un sistema de conducción tradicional apoyado en horquetas, las cua-les permiten que el viñedo quede en un plano horizontal a unos 60 cm. del suelo hasta
+6105242 Manual v5  18/10/2005  14:54  PÆgina 61finalizar la vendimia. Tras la misma, la viña queda tendida sobre el terreno hasta el
+siguiente año.
+C.3.2. Espaldera sencilla
+C.3.2.1. Descripción
+La cepa tiene un sólo tronco, recto. A una altura entre 50-70 cm. del suelo y una
+vez llega al primer alambre se conduce horizontalmente a lo largo de un sólo alambre,formando uno o dos brazos.
+Las distintas podas que se emplean
+para la formación de la cepa en este sistemade conducción son los siguientes:
+1.- Pulgar y Vara, conocido también
+por Guyot.
+Para la formación de la cepa utilizare-
+mos combinadamente podas en seco y enverde, según desarrollo de la cepa.
+2.- Cordón Hori-zontal:
+Se elegirá una u otra según el vigor de
+la planta. En la práctica se suelen combi-narambos.
+62Manual Básico de Viticultura en
+Tacoronte -Acentejo
+05242 Manual v5  18/10/2005  14:54  PÆgina 62C.3.2.2. Requerimientos para mecanizar
+Para conseguir una correcta mecanización de la parcela, el diseño de la espalde-
+ra en el momento de la instalación debe ser correcto, de tal manera que se debe evitarlo siguiente:
+• Falta de espacio para las maniobras de la maquinaria.
+• Calles poco anchas, ya que dificultan la entrada de tractores, se entrelaza la
+vegetación de las filas contiguas impidiendo la entrada de luz, la de los opera-rios y obligando a intervenciones frecuentes de poda en verde, las cuales retra-san considerablemente la maduración. 
+• Marco de plantación irregular.• Troncos curvados• Vegetación mal repartida.• Alineación inadecuada.
+C.3.3. Lira abierta (dobles cortinas)
+C.3.3.1. DescripciónLa vegetación es conducida en una especie de "V". Las vides se plantan muy pró-
+ximas entre sí (1 - 1,2 m.); y se conducen en un sólo tronco recto hasta la altura de losalambres, luego se sacan dos brazos, uno para cada lado. Cada brazo se desarrolla enuno de los dos alambres paralelos colocados al efecto. 
+La poda de formación de la lira es la siguiente:• Podar la vara, después de plantada a dos yemas.
+• Elegir el mejor brote y conducirlo vertical-mente al centro de los dos alambres
+(utilizar tutores o un alambre central para atar los brotes).
+• En junio, o cuando el vigor lo permita, despuntar por encima del alambre, elimi-
+nar todos los nietos, excepto  dos bien situados para formar los brazos.
+• En la poda  siguiente cortar por los alambres y atar los brazos a los mismos.
+6305242 Manual v5  18/10/2005  14:54  PÆgina 63También podemos hacerlo en verde si
+el desarrollo de la planta lo aconseja.
+• En la brotación eliminar todos los
+brotes que se encuentren en mediode los alambres. Dejar un sólo broteen cada brazo que se conducirá cadauno en un alambre, en sentidosopuestos, (uno para la derecha y otropara la izquierda).
+• Despuntar los brotes a la distancia
+adecuada para provocar la apariciónde nietos, dejando los que puedanser útiles para formar los uveros.
+• Si fuésemos a podar a pulgares (2
+yemas) los dejaríamos separadosentre sí unos 15 cm.
+• Si tratásemos de hacerlo a pulgares
+y varas dejar los uveros separadosunos 20 cm.
+El tutorado de la lira puede realizarse con postes inclinados
+o mediante postes
+verticales y crucetas .
+En el primero de los casos la separa-ción de los alambres es de unos 60-70 cm. y
+en la parte alta la "V" se separa unos 120 cm.
+En caso de emplear postes y crucetas, la separación entre los alambres va desde
+60 cm., 80 cm. y en lo más alto 100 cm.
+El cultivo con crucetas es difícil de manejar, por lo que se aconseja el sistema de
+postes inclinados.
+64Manual Básico de Viticultura en
+Tacoronte -Acentejo
+05242 Manual v5  18/10/2005  14:54  PÆgina 64Los sistemas de doble
+cortina sólo son viables en
+suelos férti-les, con agua deriego o suficiente humedad.Tienden a disminuir el vigorde las cepas, canalizando elexceso del vigor hacia la uva.
+C.3.4. Parral bajo
+C.3.4.1. DescripciónSe conduce un único tronco hasta un metro de altura. Luego la vegetación se dis-
+tribuye horizontalmente sobre un tendido de alambres. El ancho de la franja con vege-tación se aproxima a 1 metro.
+65
+05242 Manual v5  18/10/2005  14:55  PÆgina 65Es un sistema compatible con la forma tradicional de poda.
+Se ha intentado adaptar los sistemas que se emplean para otras conducciones
+(cordón doble y cordón cuádruple); en este caso los uveros se forman horizontalmente.
+C.3.4.2. Requerimientos para mecanizarEl ancho del pasillo (espacio libre entre crucetas) no debe ser inferior a 2,5 m.,
+para permitir el tránsito por el terreno durante el cultivo. Los postes se separarán entresí 3 m. como máximo.
+C.3.5. Parral alto
+C.3.5.1. DescripciónLa vid es formada a una altura próxima a los 2 m. Los postes del parral se dispo-
+nen a marco real 4 x 4 m. Sobre los mismos se teje una malla de alambre trenzado quesoportará la vegetación del cultivo. 
+La formación es diferente a lo que se conoce en Canarias como emparrado y con-
+siste en lo siguiente:
+• Podar a dos yemas y atar el brote a un tutor vertical.
+• Formar un tronco alto, 2-2,2 m., erecto y sin heridas.• Si el brote llega a la altura despuntar. Dejar dos o cuatro nietos, según el marco
+de plantación. Estos nietos darán lugar a los brazos.
+• En el invierno siguiente podar los nietos  formados a dos yemas, una yema dará
+lugar a un uvero o brazo de segundo orden y el otro para prolongar el brazoprincipal.
+66Manual Básico de Viticultura en
+Tacoronte -Acentejo05242 Manual v5  18/10/2005  14:55  PÆgina 66En este sistema se utilizan podas largas (vara sobre vara) o podas mixtas (pulgar
+y vara).
+C.3.5.2. Requerimientos para mecanizar
+Los requerimientos básicos para poder conseguir una mecanización media son
+respetar los marcos de plantación. Las plantas se disponen a 2 m. entre filas y 1,5 –2 m.entre cepas.
+C.3.6. Ventajas e inconvenientes de los sistemas de conducción
+67
+05242 Manual v5  18/10/2005  14:55  PÆgina 6768Manual Básico de Viticultura en
+Tacoronte -Acentejo/MT83/MT73/MT83/MT84/MT69/MT77/MT65/MT83/MT32/MT68/MT69
+/MT67/MT79/MT78/MT68/MT85/MT67/MT67/MT73/MT211/MT78/MT86/MT69/MT78/MT84/MT65/MT74/MT65/MT83 /MT73/MT78/MT67/MT79/MT78/MT86/MT69/MT78/MT73/MT69/MT78/MT84/MT69/MT83/MT78/MT186/MT32/MT100/MT101/MT32/MT104/MT111/MT114/MT97/MT115
+/MT32/MT116/MT114/MT97/MT98/MT97/MT106/MT97/MT100/MT97/MT115
+/MT32/MT40/MT65/MT32/MT108/MT111/MT32/MT108/MT97/MT114/MT103/MT111/MT32/MT100/MT101
+/MT53/MT32/MT97/MT241/MT111/MT115/MT32/MT100/MT101
+/MT112/MT108/MT97/MT110/MT116/MT97/MT100/MT97/MT41
+/MT69/MT115/MT112/MT97/MT108/MT100/MT101/MT114/MT97
+/MT83/MT101/MT110/MT99/MT105/MT108/MT108/MT97/MT45/MT83/MT105/MT32/MT101/MT115/MT116/MT225/MT32/MT98/MT105/MT101/MT110/MT32/MT100/MT105/MT115/MT101/MT241/MT97/MT100/MT111/MT32/MT112/MT101/MT114/MT109/MT105/MT116/MT101/MT32/MT108/MT97
+/MT116/MT111/MT116/MT97/MT108/MT32/MT109/MT101/MT99/MT97/MT110/MT105/MT122/MT97/MT99/MT105/MT243/MT106/MT110/MT32/MT100/MT101/MT108/MT32/MT99/MT117/MT108/MT116/MT105/MT118/MT111/MT46
+/MT45/MT65/MT104/MT111/MT114/MT114/MT111/MT32/MT101/MT110/MT32/MT109/MT97/MT110/MT111/MT32/MT100/MT101/MT32/MT111/MT98/MT114/MT97/MT46/MT84/MT114/MT97/MT98/MT97/MT106/MT111
+/MT109/MT225/MT115/MT32/MT99/MT243/MT109/MT111/MT100/MT111/MT46
+/MT45/MT77/MT101/MT110/MT111/MT114/MT32 /MT114/MT105/MT101/MT115/MT103/MT111/MT32 /MT100/MT101
+/MT101/MT110/MT102/MT101/MT114/MT109/MT101/MT100/MT97/MT100/MT101/MT115/MT46/MT77/MT97/MT121/MT111/MT101/MT32/MT101/MT102/MT105/MT99/MT97/MT99/MT105/MT97/MT32/MT101/MT110/MT32/MT108/MT97
+/MT108/MT117/MT99/MT104/MT97/MT32/MT99/MT111/MT110/MT116/MT114/MT97/MT32/MT108/MT97/MT115/MT32/MT109/MT105/MT115/MT109/MT97/MT115/MT46
+/MT45/MT70/MT97/MT99/MT105/MT108/MT105/MT116/MT97/MT32/MT101/MT108/MT32/MT97/MT98/MT111/MT110/MT97/MT100/MT111/MT32/MT101/MT110/MT32/MT122/MT97/MT110/MT106/MT97/MT115/MT46
+/MT45/MT80/MT101/MT114/MT109/MT105/MT116/MT101/MT32/MT101/MT108/MT32/MT101/MT109/MT112/MT108/MT101/MT111/MT32/MT100/MT101/MT32/MT104/MT101/MT114/MT98/MT105/MT99/MT105/MT100/MT97/MT115/MT46/MT45/MT80/MT101/MT114/MT109/MT105/MT116/MT101/MT32/MT108/MT111/MT115/MT32/MT99/MT117/MT108/MT116/MT105/MT118/MT111/MT115/MT32/MT97/MT115/MT111/MT99/MT105/MT97/MT100/MT111/MT115/MT58
+/MT112/MT97/MT112/MT97/MT115/MT44/MT32/MT101/MT116/MT99/MT46
+/MT45/MT68/MT105/MT115/MT109/MT105/MT110/MT117/MT121/MT101/MT110/MT32/MT108/MT111/MT115/MT32/MT103/MT97/MT115/MT116/MT111/MT115/MT32/MT100/MT101/MT32/MT99/MT117/MT108/MT116/MT105/MT118/MT111
+/MT45/MT67/MT111/MT110/MT32/MT101/MT115/MT116/MT101/MT32/MT115/MT105/MT115/MT116/MT101/MT109/MT97/MT32/MT115/MT101/MT32/MT112/MT114/MT101/MT116/MT101/MT110/MT100/MT101
+/MT109/MT101/MT106/MT111/MT114/MT97/MT114/MT32/MT108/MT97/MT32/MT105/MT108/MT117/MT109/MT105/MT110/MT97/MT99/MT105/MT243/MT110/MT32/MT105/MT110/MT116/MT101/MT114/MT105/MT111/MT114/MT32/MT100/MT101/MT32/MT108/MT97
+/MT118/MT101/MT103/MT101/MT116/MT97/MT99/MT105/MT243/MT110/MT32/MT121/MT32/MT101/MT108/MT32/MT114/MT97/MT99/MT105/MT109/MT111/MT46/MT45/MT65/MT117/MT109/MT101/MT110/MT116/MT97/MT32/MT108/MT97/MT32/MT99/MT111/MT109/MT112/MT101/MT116/MT101/MT110/MT99/MT105/MT97/MT32/MT114/MT97/MT100/MT105/MT99/MT117/MT108/MT97/MT114/MT44
+/MT100/MT105/MT115/MT109/MT105/MT110/MT117/MT121/MT101/MT110/MT100/MT111/MT32/MT101/MT108/MT32/MT118/MT105/MT103/MT111/MT114/MT32/MT105/MT110/MT100/MT105/MT118/MT105/MT100/MT117/MT97/MT108/MT32/MT100/MT101
+/MT99/MT97/MT100/MT97/MT32/MT99/MT101/MT112/MT97/MT32/MT121/MT32/MT109/MT101/MT106/MT111/MT114/MT97/MT32/MT108/MT97/MT32/MT99/MT97/MT108/MT105/MT100/MT97/MT100/MT32/MT100/MT101/MT32/MT108/MT97
+/MT117/MT118/MT97/MT46
+/MT45/MT69/MT115/MT32/MT114/MT101/MT99/MT111/MT109/MT101/MT110/MT100/MT97/MT98/MT108/MT101/MT32/MT112/MT97/MT114/MT97/MT32/MT122/MT111/MT110/MT97/MT115/MT32/MT99/MT111/MT110
+/MT112/MT111/MT99/MT97/MT32/MT105/MT110/MT115/MT111/MT108/MT97/MT99/MT105/MT243/MT110/MT32/MT121/MT32/MT115/MT101/MT32/MT97/MT99/MT111/MT110/MT115/MT101/MT106/MT97/MT32/MT112/MT97/MT114/MT97
+/MT118/MT97/MT114/MT105/MT101/MT100/MT97/MT100/MT101/MT115/MT32/MT99/MT111/MT110/MT32/MT109/MT117/MT99/MT104/MT111/MT32/MT118/MT105/MT103/MT111/MT114/MT46
+/MT45/MT65/MT117/MT109/MT101/MT110/MT116/MT97/MT32 /MT108/MT97/MT32 /MT115/MT117/MT112/MT101/MT114/MT102/MT105/MT99/MT105/MT101/MT32 /MT102/MT111/MT108/MT105/MT97/MT114
+/MT101/MT120/MT112/MT117/MT101/MT115/MT116/MT97/MT32/MT112/MT111/MT114/MT32/MT104/MT101/MT99/MT116/MT225/MT114/MT101/MT97/MT44/MT32/MT108/MT97/MT32/MT99/MT97/MT110/MT116/MT105/MT100/MT97/MT100/MT100/MT101/MT32/MT104/MT111/MT106/MT97/MT115/MT32/MT113/MT117/MT101/MT32/MT114/MT101/MT99/MT105/MT98/MT101/MT110/MT32/MT115/MT111/MT108/MT44/MT32/MT112/MT111/MT114/MT32/MT116/MT97/MT110/MT116/MT111/MT44
+/MT108/MT97/MT32/MT112/MT108/MT97/MT110/MT116/MT97/MT32/MT112/MT117/MT101/MT100/MT101/MT32/MT101/MT108/MT97/MT98/MT111/MT114/MT97/MT114/MT32/MT109/MT225/MT115
+/MT97/MT122/MT117/MT99/MT97/MT114/MT101/MT115/MT32/MT109/MT225/MT115/MT32/MT97/MT122/MT250/MT99/MT97/MT114/MT101/MT115/MT32/MT121/MT32/MT109/MT97/MT100/MT117/MT114/MT97
+/MT109/MT101/MT106/MT111/MT114/MT32/MT108/MT111/MT115/MT32/MT114/MT97/MT99/MT105/MT109/MT111/MT115/MT46
+/MT45/MT83/MT101/MT32/MT109/MT101/MT106/MT111/MT114/MT97/MT32/MT108/MT97/MT32/MT99/MT111/MT108/MT97/MT98/MT111/MT114/MT97/MT99/MT105/MT243/MT110/MT32/MT100/MT101/MT32/MT108/MT97
+/MT117/MT118/MT97/MT44/MT32/MT121/MT97/MT32/MT113/MT117/MT101/MT32/MT108/MT111/MT115/MT32/MT114/MT97/MT99/MT105/MT109/MT111/MT115/MT32/MT114/MT101/MT99/MT105/MT98/MT101/MT110
+/MT116/MT111/MT100/MT111/MT115/MT32/MT115/MT111/MT108/MT46/MT45/MT32/MT73/MT110/MT118/MT101/MT114/MT115/MT105/MT243/MT110/MT32/MT105/MT110/MT105/MT99/MT105/MT97/MT108/MT32/MT99/MT111/MT110/MT115/MT105/MT100/MT101/MT114/MT97/MT98/MT108/MT101/MT46
+/MT45/MT74/MT117/MT110/MT116/MT111/MT32/MT99/MT111/MT110/MT32/MT101/MT108/MT32/MT112/MT97/MT114/MT114/MT97/MT108/MT32/MT98/MT97/MT106/MT111/MT44/MT32/MT101/MT115/MT32/MT101/MT108
+/MT109/MT111/MT100/MT101/MT108/MT111/MT32/MT109/MT225/MT115/MT32/MT99/MT97/MT114/MT111/MT32/MT100/MT101/MT32/MT105/MT110/MT115/MT116/MT97/MT108/MT97/MT99/MT105/MT243/MT110/MT44
+/MT100/MT101/MT98/MT105/MT100/MT111/MT32/MT97/MT32/MT113/MT117/MT101/MT32/MT108/MT108/MT101/MT118/MT97/MT32/MT109/MT225/MT115/MT32/MT109/MT97/MT116/MT101/MT114/MT105/MT97/MT108
+/MT113/MT117/MT101/MT32/MT117/MT110/MT97/MT32/MT101/MT115/MT112/MT97/MT108/MT100/MT101/MT114/MT97/MT32/MT115/MT101/MT110/MT99/MT105/MT108/MT108/MT97/MT46
+/MT45/MT83/MT111/MT108/MT111/MT32/MT97/MT100/MT109/MT105/MT116/MT101/MT32/MT109/MT101/MT99/MT97/MT110/MT105/MT122/MT97/MT99/MT105/MT243/MT110
+/MT109/MT101/MT100/MT105/MT97/MT44/MT32 /MT110/MT111/MT32 /MT115/MT105/MT101/MT110/MT100/MT111/MT32 /MT112/MT111/MT115/MT105/MT98/MT108/MT101
+/MT109/MT101/MT99/MT97/MT110/MT105/MT122/MT97/MT114/MT32/MT108/MT97/MT32/MT118/MT101/MT110/MT100/MT105/MT109/MT105/MT97/MT32/MT110/MT105/MT32/MT108/MT32/MT112/MT111/MT100/MT97/MT46/MT45/MT69/MT115/MT32/MT101/MT108/MT32/MT115/MT105/MT115/MT116/MT101/MT109/MT97/MT32/MT109/MT225/MT115/MT32/MT99/MT111/MT109/MT112/MT108/MT105/MT99/MT97/MT100/MT111
+/MT100/MT101/MT32 /MT112/MT111/MT100/MT97/MT32 /MT121/MT32 /MT109/MT97/MT110/MT116/MT101/MT110/MT105/MT109/MT105/MT101/MT110/MT116/MT111/MT44
+/MT114/MT101/MT113/MT117/MT105/MT114/MT105/MT101/MT110/MT100/MT111/MT32 /MT109/MT117/MT121/MT32 /MT98/MT117/MT101/MT110/MT111/MT115
+/MT99/MT111/MT110/MT111/MT99/MT105/MT109/MT105/MT101/MT110/MT116/MT111/MT115/MT32/MT100/MT101/MT32/MT112/MT111/MT100/MT97/MT46
+/MT45/MT83/MT101/MT32/MT115/MT117/MT101/MT108/MT101/MT110/MT32/MT99/MT111/MT109/MT101/MT116/MT101/MT114/MT32/MT108/MT111/MT115/MT32/MT109/MT97/MT121/MT111/MT114/MT101/MT115
+/MT101/MT114/MT114/MT111/MT114/MT101/MT115/MT32/MT100/MT101/MT32/MT105/MT110/MT97/MT116/MT97/MT108/MT97/MT99/MT105/MT243/MT110/MT44/MT32/MT121/MT97/MT32/MT113/MT117/MT101/MT32/MT110/MT111
+/MT115/MT101/MT32/MT114/MT101/MT115/MT112/MT101/MT116/MT97/MT110/MT32/MT108/MT111/MT115/MT32/MT109/MT97/MT114/MT99/MT111/MT115/MT32/MT243/MT112/MT116/MT105/MT109/MT111/MT115/MT100/MT101/MT32/MT100/MT105/MT115/MT101/MT241/MT111/MT46/MT50/MT54/MT48
+/MT51/MT51/MT51
+/MT76/MT105/MT114/MT9705242 Manual v5  18/10/2005  14:55  PÆgina 6869/MT45/MT76/MT97/MT32 /MT105/MT109/MT112/MT108/MT97/MT110/MT116/MT97/MT99/MT105/MT243/MT110/MT32 /MT121/MT32 /MT101/MT108
+/MT109/MT97/MT110/MT116/MT101/MT110/MT105/MT109/MT105/MT101/MT110/MT116/MT111/MT32/MT101/MT115/MT32/MT101/MT108/MT32/MT109/MT225/MT115/MT32/MT115/MT101/MT110/MT99/MT105/MT108/MT108/MT111
+/MT112/MT97/MT114/MT97/MT32/MT101/MT110/MT32/MT118/MT105/MT116/MT105/MT99/MT117/MT108/MT116/MT111/MT114/MT32/MT116/MT114/MT97/MT100/MT105/MT99/MT105/MT111/MT110/MT97/MT108/MT46
+/MT45/MT69/MT115/MT32/MT101/MT108/MT32/MT113/MT117/MT101/MT32/MT109/MT225/MT115/MT32/MT115/MT101/MT32/MT97/MT115/MT101/MT109/MT101/MT106/MT97/MT32/MT97/MT108
+/MT112/MT97/MT105/MT115/MT97/MT106/MT101/MT32/MT116/MT114/MT97/MT100/MT105/MT99/MT105/MT111/MT110/MT97/MT108/MT32/MT100/MT101/MT32/MT108/MT97/MT32/MT118/MT105/MT241/MT97/MT46
+/MT45/MT83/MT101/MT32/MT97/MT100/MT97/MT112/MT116/MT97/MT32/MT97/MT32/MT116/MT111/MT100/MT97/MT115/MT32/MT108/MT97/MT115/MT32/MT122/MT111/MT110/MT97/MT115/MT32/MT121
+/MT111/MT114/MT105/MT101/MT110/MT116/MT97/MT99/MT105/MT111/MT110/MT101/MT115/MT46/MT32/MT80/MT117/MT101/MT100/MT101/MT32/MT115/MT101/MT114/MT32/MT117/MT110
+/MT115/MT105/MT115/MT116/MT101/MT109/MT97/MT32/MT97/MT99/MT111/MT110/MT115/MT101/MT106/MT97/MT98/MT108/MT101/MT32/MT112/MT97/MT114/MT97/MT32/MT104/MT117/MT101/MT114/MT116/MT97/MT115/MT112/MT101/MT113/MT117/MT101/MT241/MT97/MT115/MT44/MT32/MT101/MT110/MT32/MT108/MT97/MT115/MT32/MT113/MT117/MT101/MT32/MT110/MT111/MT32/MT112/MT117/MT101/MT100/MT97
+/MT111/MT112/MT101/MT114/MT97/MT114/MT32/MT108/MT97/MT32/MT109/MT97/MT113/MT117/MT105/MT110/MT97/MT114/MT105/MT97/MT46
+/MT45/MT80/MT101/MT114/MT109/MT105/MT116/MT101/MT32/MT108/MT97/MT32/MT97/MT100/MT97/MT112/MT116/MT97/MT99/MT105/MT243/MT110/MT32/MT97/MT32/MT108/MT97
+/MT114/MT101/MT99/MT111/MT110/MT115/MT116/MT114/MT117/MT99/MT99/MT105/MT243/MT110/MT32 /MT100/MT101/MT108/MT32 /MT118/MT105/MT241/MT101/MT100/MT111
+/MT116/MT114/MT97/MT100/MT105/MT99/MT105/MT111/MT110/MT97/MT108/MT46
+/MT45/MT83/MT101/MT32/MT97/MT100/MT97/MT112/MT116/MT97/MT32/MT98/MT105/MT101/MT110/MT32/MT97/MT32/MT108/MT97/MT115/MT32/MT109/MT105/MT115/MT109/MT97/MT115
+/MT122/MT111/MT110/MT97/MT115/MT32/MT113/MT117/MT101/MT32/MT101/MT108/MT32/MT112/MT97/MT114/MT114/MT97/MT108/MT32/MT98/MT97/MT106/MT111/MT44/MT32/MT121/MT32/MT114/MT101/MT115/MT117/MT108/MT116/MT97/MT115/MT101/MT114/MT32/MT109/MT117/MT121/MT32/MT105/MT110/MT116/MT101/MT114/MT101/MT115/MT97/MT110/MT116/MT101/MT32/MT101/MT110/MT32/MT116/MT101/MT114/MT114/MT101/MT110/MT111/MT115
+/MT99/MT111/MT110/MT32/MT102/MT117/MT101/MT114/MT116/MT101/MT32/MT112/MT101/MT110/MT100/MT105/MT101/MT110/MT116/MT101/MT44/MT32/MT97/MT116/MT101/MT114/MT114/MT97/MT122/MT97/MT100/MT111/MT115
+/MT121/MT32/MT115/MT105/MT110/MT32/MT101/MT120/MT99/MT101/MT115/MT105/MT118/MT111/MT32/MT118/MT105/MT101/MT110/MT116/MT111/MT46
+/MT45/MT83/MT105/MT115/MT116/MT101/MT109/MT97/MT32/MT112/MT114/MT111/MT112/MT105/MT111/MT32/MT112/MT97/MT114/MT97/MT32/MT117/MT118/MT97/MT32/MT98/MT108/MT97/MT110/MT99/MT97/MT44
+/MT112/MT97/MT114/MT97/MT32/MT111/MT98/MT116/MT101/MT110/MT101/MT114/MT32/MT97/MT108/MT116/MT111/MT115/MT32/MT114/MT101/MT110/MT100/MT105/MT109/MT105/MT101/MT110/MT116/MT111/MT115/MT44
+/MT101/MT115/MT32/MT105/MT100/MT101/MT97/MT108/MT32/MT112/MT97/MT114/MT97/MT32/MT118/MT97/MT114/MT105/MT101/MT100/MT97/MT100/MT101/MT115/MT32/MT116/MT105/MT112/MT111
+/MT77/MT97/MT108/MT118/MT97/MT115/MT237/MT97/MT44/MT32/MT100/MT101/MT32/MT103/MT114/MT97/MT110/MT32/MT118/MT105/MT103/MT111/MT114/MT46
+/MT45/MT65/MT108/MT32/MT115/MT101/MT114/MT32/MT117/MT110/MT32/MT115/MT105/MT115/MT116/MT101/MT109/MT97/MT32/MT100/MT101/MT32/MT101/MT115/MT99/MT97/MT115/MT97
+/MT109/MT101/MT99/MT97/MT110/MT105/MT122/MT97/MT99/MT105/MT243/MT110/MT32/MT110/MT111/MT32/MT114/MT101/MT113/MT117/MT105/MT101/MT114/MT101/MT32/MT100/MT101
+/MT109/MT97/MT110/MT111/MT32/MT100/MT101/MT32/MT111/MT98/MT114/MT97/MT32/MT99/MT117/MT97/MT108/MT105/MT102/MT105/MT99/MT97/MT100/MT97/MT46
+/MT45/MT82/MT101/MT115/MT112/MT101/MT116/MT97/MT32/MT121/MT32/MT99/MT111/MT110/MT102/MT111/MT114/MT109/MT97/MT32/MT101/MT108/MT32/MT112/MT97/MT105/MT115/MT97/MT106/MT101
+/MT100/MT101/MT32/MT108/MT97/MT32/MT99/MT111/MT109/MT97/MT114/MT99/MT97/MT46/MT45/MT74/MT117/MT110/MT116/MT111/MT32/MT99/MT111/MT110/MT32/MT108/MT97/MT32/MT108/MT105/MT114/MT97/MT32/MT101/MT115/MT32/MT101/MT108/MT32/MT115/MT105/MT115/MT116/MT101/MT109/MT97/MT32/MT109/MT225/MT115
+/MT99/MT97/MT114/MT111/MT32/MT100/MT101/MT32/MT105/MT110/MT115/MT116/MT97/MT108/MT97/MT99/MT105/MT243/MT110/MT32/MT112/MT111/MT114/MT32/MT108/MT97/MT32/MT99/MT97/MT110/MT116/MT105/MT100/MT97/MT100
+/MT100/MT101/MT32/MT109/MT97/MT116/MT101/MT114/MT105/MT97/MT108/MT32/MT113/MT117/MT101/MT32/MT99/MT111/MT110/MT108/MT108/MT101/MT118/MT97/MT46
+/MT45/MT69/MT108/MT32/MT99/MT111/MT110/MT116/MT114/MT111/MT108/MT32/MT100/MT101/MT32/MT101/MT110/MT102/MT101/MT114/MT109/MT101/MT100/MT97/MT100/MT101/MT115/MT32/MT112/MT117/MT101/MT100/MT101
+/MT115/MT101/MT114/MT32/MT99/MT111/MT109/MT112/MT108/MT105/MT99/MT97/MT100/MT111/MT46
+/MT45/MT69/MT115/MT32/MT117/MT110/MT97/MT32/MT115/MT105/MT115/MT116/MT101/MT109/MT97/MT32/MT113/MT117/MT101/MT32/MT110/MT111/MT32/MT112/MT101/MT114/MT109/MT105/MT116/MT101
+/MT109/MT101/MT99/MT97/MT110/MT105/MT122/MT97/MT114/MT32/MT108/MT97/MT32/MT116/MT111/MT116/MT97/MT108/MT105/MT100/MT97/MT100/MT32/MT100/MT101/MT32/MT108/MT97/MT115
+/MT108/MT97/MT98/MT111/MT114/MT101/MT115/MT44/MT32/MT100/MT101/MT98/MT105/MT100/MT111/MT32/MT97/MT32/MT108/MT97/MT32/MT112/MT114/MT101/MT115/MT101/MT110/MT99/MT105/MT97/MT32/MT100/MT101
+/MT108/MT97/MT115/MT32/MT99/MT114/MT117/MT99/MT101/MT116/MT97/MT115/MT32/MT121/MT32/MT108/MT97/MT32/MT100/MT105/MT115/MT112/MT111/MT115/MT105/MT99/MT105/MT243/MT110/MT32/MT100/MT101/MT32/MT108/MT97
+/MT118/MT101/MT103/MT101/MT116/MT97/MT99/MT105/MT243/MT110/MT46/MT45/MT82/MT101/MT113/MT117/MT105/MT101/MT114/MT101/MT32/MT109/MT117/MT99/MT104/MT97/MT32/MT109/MT97/MT110/MT111/MT32/MT100/MT101/MT32/MT111/MT98/MT114/MT97/MT46
+/MT45/MT84/MT105/MT101/MT110/MT101/MT32 /MT117/MT110/MT32 /MT97/MT108/MT116/MT111/MT32 /MT99/MT111/MT115/MT116/MT101/MT32 /MT100/MT101
+/MT105/MT109/MT112/MT108/MT97/MT110/MT116/MT97/MT99/MT105/MT243/MT110/MT44/MT32/MT121/MT97/MT32/MT113/MT117/MT101/MT32/MT115/MT101/MT32/MT117/MT116/MT105/MT108/MT105/MT122/MT97/MT110
+/MT102/MT117/MT110/MT100/MT97/MT109/MT101/MT110/MT116/MT97/MT108/MT109/MT101/MT110/MT116/MT101/MT32 /MT116/MT117/MT98/MT111/MT115
+/MT103/MT97/MT108/MT118/MT97/MT110/MT105/MT122/MT97/MT100/MT111/MT115/MT32/MT112/MT97/MT114/MT97/MT32/MT115/MT111/MT112/MT111/MT114/MT116/MT97/MT114/MT32/MT108/MT97
+/MT101/MT115/MT116/MT114/MT117/MT99/MT116/MT117/MT114/MT97/MT32/MT100/MT101/MT108/MT32/MT112/MT97/MT114/MT114/MT97/MT108/MT46/MT45/MT69/MT115/MT32/MT117/MT110/MT32/MT115/MT105/MT115/MT116/MT101/MT109/MT97/MT32/MT112/MT111/MT99/MT111/MT32/MT109/MT101/MT99/MT97/MT110/MT105/MT122/MT97/MT98/MT108/MT101/MT46
+/MT45/MT68/MT101/MT98/MT105/MT100/MT111/MT32/MT97/MT32/MT108/MT97/MT32/MT102/MT111/MT114/MT109/MT97/MT99/MT105/MT243/MT110/MT32/MT113/MT117/MT101/MT32/MT115/MT101/MT32/MT108/MT97
+/MT100/MT97/MT32/MT97/MT32/MT108/MT97/MT32/MT112/MT108/MT97/MT110/MT116/MT97/MT32/MT112/MT97/MT114/MT97/MT32/MT97/MT100/MT97/MT112/MT116/MT97/MT114/MT108/MT97/MT32/MT97/MT32/MT101/MT115/MT116/MT101
+/MT115/MT105/MT115/MT116/MT101/MT109/MT97/MT32/MT100/MT101/MT32/MT99/MT111/MT110/MT100/MT117/MT99/MT99/MT105/MT243/MT110/MT44/MT32/MT116/MT97/MT114/MT100/MT97/MT32/MT109/MT225/MT115
+/MT101/MT110/MT32/MT101/MT110/MT116/MT114/MT97/MT114/MT32/MT101/MT110/MT32/MT112/MT114/MT111/MT100/MT117/MT99/MT99/MT105/MT243/MT110/MT32/MT113/MT117/MT101/MT32/MT108/MT111/MT115
+/MT100/MT101/MT109/MT225/MT115/MT32/MT115/MT105/MT115/MT116/MT101/MT109/MT97/MT115/MT46
+/MT45/MT69/MT108/MT101/MT118/MT97/MT100/MT111/MT115/MT32/MT99/MT111/MT115/MT116/MT101/MT115/MT32/MT100/MT101/MT114/MT105/MT118/MT97/MT100/MT111/MT115/MT32/MT100/MT101/MT32/MT108/MT97
+/MT99/MT111/MT109/MT112/MT108/MT105/MT99/MT97/MT100/MT97/MT32/MT111/MT114/MT116/MT111/MT103/MT114/MT97/MT102/MT237/MT97/MT32/MT100/MT101/MT108/MT32/MT116/MT101/MT114/MT114/MT101/MT110/MT111/MT46
+/MT45/MT77/MT117/MT99/MT104/MT97/MT32/MT109/MT97/MT110/MT111/MT32/MT100/MT101/MT32/MT111/MT98/MT114/MT97/MT32/MT112/MT97/MT114/MT97/MT32/MT114/MT101/MT97/MT108/MT105/MT122/MT97/MT114
+/MT111/MT112/MT101/MT114/MT97/MT99/MT105/MT111/MT110/MT101/MT32 /MT100/MT101/MT32 /MT99/MT117/MT108/MT116/MT105/MT118/MT111/MT32 /MT121/MT32 /MT100/MT101
+/MT114/MT101/MT99/MT111/MT108/MT101/MT99/MT99/MT105/MT243/MT110/MT46/MT83/MT73/MT83/MT84/MT69/MT77/MT65/MT83/MT32/MT68/MT69
+/MT67/MT79/MT78/MT68/MT85/MT67/MT67/MT73/MT211/MT78/MT86/MT69/MT78/MT84/MT65/MT74/MT65/MT83 /MT73/MT78/MT67/MT79/MT78/MT86/MT69/MT78/MT73/MT69/MT78/MT84/MT69/MT83/MT78/MT186/MT32/MT100/MT101/MT32/MT104/MT111/MT114/MT97/MT115
+/MT32/MT116/MT114/MT97/MT98/MT97/MT106/MT97/MT100/MT97/MT115
+/MT32/MT40/MT65/MT32/MT108/MT111/MT32/MT108/MT97/MT114/MT103/MT111/MT32/MT100/MT101
+/MT53/MT32/MT97/MT241/MT111/MT115/MT32/MT100/MT101
+/MT112/MT108/MT97/MT110/MT116/MT97/MT100/MT97/MT41
+/MT80/MT97/MT114/MT114/MT97/MT108
+/MT66/MT97/MT106/MT111 /MT52/MT57/MT55
+/MT83/MT46/MT68/MT46 /MT80/MT97/MT114/MT114/MT97/MT108
+/MT65/MT108/MT116/MT111
+/MT84/MT114/MT97/MT100/MT105/MT99/MT105/MT111/MT110/MT97/MT108 /MT57/MT49/MT4905242 Manual v5  18/10/2005  14:55  PÆgina 69C.3.7. Tabla de marcos de diseño y plantación
+Pensando siempre en la rentabilidad del cultivo y en la disminución de los costes
+de cultivo habrá que prever los espacios necesarios para que maniobre el tractor.
+Para permitir las maniobras del tractor con los aperos propios del cultivo es indis-
+pensable dejar a ambos lados de la parcela sendos caminos transversales de al
+menos 5 m. de ancho. Para los  tractores pequeños el ancho podría ser algo menor.
+En el parral alto se pueden eliminar los pasillos finales, si el parral permite la cir-
+culación de maquinaria debajo de él.
+Estas medidas son fruto de experiencia de los autores en diferentes viñedos de
+Canarias, fundamentadas por las medidas de los materiales, el desarrollo de la vege-tación y los requerimientos del cultivo.
+Las medidas estándares para una buena mecanización son las siguientes:
+C.4. ORIENTACIÓN DE LAS LÍNEAS DE CULTIVO
+C.4.1. Importancia
+Para lograr un mejor aprovechamiento de la energía luminosa y con ello mejorar
+la actividad fisiológica del follaje se deben colocar las filas con una orientación norte-sur, más 27º al Este. Esta orientación es la que permite lograr una maduración más uni-forme y también la que mayor producción y calidad puede dar.
+70Manual Básico de Viticultura en
+Tacoronte -Acentejo/MT77/MT101/MT100/MT105/MT100/MT97/MT115/MT32/MT40/MT109/MT41/MT69/MT115/MT112/MT97/MT108/MT100/MT101/MT114/MT97
+/MT83/MT101/MT110/MT99/MT105/MT108/MT108/MT97/MT76/MT105/MT114/MT97 /MT80/MT97/MT114/MT114/MT97/MT108/MT32/MT98/MT97/MT106/MT111 /MT80/MT97/MT114/MT114/MT97/MT108/MT32/MT97/MT108/MT116/MT111
+/MT69/MT110/MT116/MT114/MT101/MT32/MT112/MT108/MT97/MT110/MT116/MT97/MT115
+/MT69/MT110/MT116/MT114/MT101/MT32/MT112/MT111/MT115/MT116/MT101/MT115
+/MT69/MT110/MT116/MT114/MT101/MT32/MT76/MT237/MT110/MT101/MT97/MT115/MT80/MT97/MT115/MT105/MT108/MT108/MT111/MT115/MT32/MT102/MT105/MT110/MT97/MT108/MT101/MT115/MT49/MT45/MT49/MT46/MT53/MT48
+/MT54
+/MT50/MT46/MT51/MT48/MT45/MT50/MT46/MT54/MT48
+/MT53/MT48/MT46/MT57/MT45/MT49/MT46/MT50
+/MT54
+/MT51
+/MT53/MT49/MT46/MT53/MT48/MT45/MT50
+/MT51
+/MT51/MT50/MT45/MT53/MT50
+/MT52
+/MT50/MT48/MT45/MT5305242 Manual v5  18/10/2005  14:55  PÆgina 70C.4.2. Condicionantes
+La orientación de las líneas de plantación se puede ver afectada por diversos fac-
+tores:
+• La topografía del terreno; principalmente la pendiente.
+• La forma de la parcela (largo - ancho); la plantación se realizará en el sentido de
+mayor longitud de la parcela, con vistas a la mecanización del cultivo.
+En cualquiera de los dos casos se tendrá en cuenta el tipo de maquinaria a emplear,
+es decir, el grado de mecanización que deseemos (máxima mecanización: línea máslarga).
+C.4.3. Terrenos llanos
+En terrenos llanos la orientación de las filas será la norte-sur, siempre que permi-
+ta la mecanización del cultivo. En el caso de que la parcela no permita líneas de almenos 50 m. con la orientación indicada, se tratará  de orientarlas en el sentido máslargo de la parcela y así optimizar la mecanización.
+C.4.4. Terrenos en pendiente
+En función de la pendiente, se pueden considerar diferentes tipos de acondicio-
+namiento del terreno: 
+• Para pendientes inferiores al 8-10%
+,la erosión no suele ser importante. Las líne-
+as de cultivo se orientarán en el sentido de la máxima pendiente.  Se puedenmecanizar así todas las labores. Para disminuir la erosión en los lugares en losque la disponibilidad de agua lo permita mantendremos un enyerbado del sueloutilizando para ello gramíneas y leguminosas.
+• Si la pendiente del terreno oscila entre el 10 y el 20%
+para evitar la erosión por
+escorrentía plantaremos siguiendo las curvas de nivel. La mecanización es másdifícil pero posible en algunas labores.
+7105242 Manual v5  18/10/2005  14:55  PÆgina 71• En pendiente mayor al 20% habrá que abancalar el terreno, construyendo
+terrazas cuya longitud disminuya con la importancia de la pendiente. Si las terra-zas son amplias permitirán una buena mecanización, en caso contrario ésta severía muy reducida, comprometiendo la rentabilidad del cultivo.
+C.5. MATERIALES A EMPLEAR
+C.5.1. POSTES
+Estos deben ser resistentes para soportar tanto el peso de la vegetación, como
+de la propia cosecha, y tener una duración que evite tener que sustituirlos durante elperíodo de vida de la plantación. El mercado ofrece diferentes soluciones, tubos gal-vanizados, que pueden ser cortados y taladrados, tubos ya cortados con los extremosaplastados que permiten suplementarlos o colocar crucetas, perfiles con muescaslaterales y postes de madera tratada.
+Los postes prefabricados pueden ser clavados directamente en el suelo sin
+necesidad de disponer de una zapata de hormigón.
+Según la ubicación de la parcela, los precios y formación deseada, podemos ele-
+gir el tipo de material a emplear.
+C.5.1.1. GalvanizadoLos Perfiles, tanto abiertos como los cerrados, con muescas laterales son ade-
+cuados para las espalderas con un solo plano de vegetación y las liras. 
+Una de las grandes ventajas es que al venir ranurados cada 10 cm. de forma
+general, permiten la movilidad de alambres laterales, pudiendo ir colocándolos a dife-rentes alturas según vaya creciendo la vegetación, con lo que se evita el atado de cadapámpano o el empleo de rafia.
+72Manual Básico de Viticultura en
+Tacoronte -Acentejo05242 Manual v5  18/10/2005  14:55  PÆgina 72La altura del perfil dependerá del uso:
+Para esp alderas :en la Comarca Tacoronte - Acentejo es aconsejable que ten-
+gan  por los menos 2,5 m., para enterrar 0,6 m. y dejar una altura de vegetación de 1,9m., ya que los viñedos poseen un buen vigor, y si dejamos menos longitud nos obliga atener que dar un despunte severo o a enrollar todas las varas en el último alambre. Laseparación máxima entre postes en una misma fila no debe superar los 6 m.
+Para p
+arral bajo :la altura mínima que deben tener es de 1,5 m., para enterrarlos
+0,5m., dejando una altura de un metro libre. No se deben de distanciar más de 4 m.
+73
+05242 Manual v5  18/10/2005  14:55  PÆgina 73Los tubos precortados permiten la colocación de una serie de suplementos que
+facilitan la conducción del viñedo, están especialmente indicados en el caso de con-ducciones que necesiten crucetas. Igual que para los perfiles deberían de tener unaaltura mínima de 2,5 m.
+Principales consideraciones que debemos tener en cuenta a la hora de adquirir
+un poste:
+• El espesor del galvanizado, de forma general suele ser de 25 micras.• El diseño y el espesor del perfil generalmente varía entre 1,2 y 2 mm. Y en el
+diseño, cuantos más nervios tenga, mayor resistencia le confiere.
+• Que las ranuras para el asiento del alambre no coincidan a la misma altura, sino
+que se alternen, ya que suponen una zona de fragilidad.
+• Cuando sean perfiles cerrados es importante el que se disponga de tapones de
+cierre, para que una vez instalados eviten que entre el agua.
+C.5.1.2. Madera
+Es el material más empleado en Francia, ya que presentan un buen agarre en el
+suelo. La calidad depende de la especie de la que se hayan obtenido, ya que algunasresisten mejor la pudrición. Generalmente deben ser tratados. Las especies más utili-zadas son:
+•El Cast
+año y la Acacia :tienen una buena resistencia natural a la podredumbre,
+cuando provienen de madera suficientemente vieja, con bastante médula. Loque hace que principalmente se usen postes rajados, con forma cuadricular, yaque los redondos provienen de maderas más jóvenes. 
+•El pino
+:posee poca resistencia natural, motivo por el que debe de recibir un tra-
+tamiento en autoclave, adquiriendo una resistencia excelente. Los que mejor
+74Manual Básico de Viticultura en
+Tacoronte -Acentejo05242 Manual v5  18/10/2005  14:55  PÆgina 74resistencia adquieren son aquellos que se han dejado secar durante 3 a 6 meses
+antes de ser tratados. Poseen un mejor aspecto estético al ser redondos y con lasuperficie lisa. Suelen venir garantizados por 20 años. Los diámetros mínimosque deben de tener los postes son: los intermedios, de 2,5 m., deben tener un diá-metro entre 6-8 cm.; mientras que los extremos de 3 m., el diámetro ronda entrelos 8 a 12 cm.
+La sujeción de los alambres al poste se realiza mediante la colocación de unos
+accesorios llamados crochets o cáncamos, que son una especie de clavos con undiseño que permite que los alambres queden bien sujetos. 
+Hay dos tipos de crochets:•Cerrados
+:Se colocan a las dos primeras alturas, uno para
+sujetar el alambre del riego, en el caso que se disponga de regadío, yel otro para sujetar el alambre de formación; porque estos dos alam-bres son fijos. 
+75
+05242 Manual v5  18/10/2005  14:55  PÆgina 75•Abiertos :se colocan en el resto de alturas, en nuestras condicio-
+nes, generalmente dos alturas más. En estas dos alturas el alambre secoloca doble, ya que su cometido es sostener la vegetación.
+El empleo de postes de madera es aconsejado en zonas cercanas
+al mar, donde la maresía ataca muy rápidamente a los materiales galvanizados, o enfincas donde prevalezca el valor estético de la plantación.
+C.5.2. Anclajes
+Su finalidad consiste en evitar que los postes extremos cedan al empuje que ejer-
+ce el peso de la vegetación. El mercado ofrece varios tipos:
+•Espirales
+para enterrar en el suelo, similar a un sacacorchos. Tienen un buen
+comportamiento, excepto en suelos muy pedrego-sos o con muy poca tierra. 
+•Tipo Hélice :Está formado por un disco de anclaje y una varilla, ambos de acero
+galvanizado. La hélice puede tener dos diámetros: 10 y 16 cm. Mientras que lavarilla puede ser de 65, 80 o 100 cm. Han sustituido a los anteriores, ya que sucolocación es más sencilla y rápida, en terrenos con pocas piedras.
+•Est
+aca de madera :normalmente tratada, con una longitud de 70 cm., y sobre-
+sale del suelo de 10 a 15 cm.
+Una buena práctica para aumentar la fijación del anclaje en el suelo, consiste en
+plantar una cepa justo encima, de forma que el sistema radicular de la planta aumentael grado de sujeción.
+C.5.3. Alambres
+Se emplean dos tipos de materiales, el alambre galvani-zado o el hilo de poliami-
+da (Bayco). Su función depende de la ubicación en la que se disponga. Normalmenteen una espaldera se disponen a cuatro alturas:
+76Manual Básico de Viticultura en
+Tacoronte -Acentejo
+05242 Manual v5  18/10/2005  14:55  PÆgina 76•El primero :tiene la función de sujetar la tubería porta goteros, en aquellas par-
+celas que disponen de riego. Su altura varía entre los 40 y 50 cm.
+•El segundo :es el alambre de formación, y tiene la función de sostener los bra-
+zos de la cepa. Se suele colocar entre los 50 y 80 cm., según la altura a la que sedesee formar el cultivo.
+•El tercero y el cuarto
+:ambos se colocan por duplicado, con la finalidad de
+poder meter a la vegetación en medio de los mismos, evitándose de esta forma eltener que atar todas las varas. El primero se sitúa aproximadamente a 1,3 m.sobre el suelo y el último en el extremo superior de los postes (1,9 m.).
+C.5.3.1. MetálicosEs el material más usado, al tener una duración prolongada. El principal inconve-
+niente son las dilataciones que se producen con las temperaturas, y la facilidad de oxi-darse en ambientes salinos, en zonas cercanas al mar.
+Los principales diámetros utilizados, son:•2,5-3 mm
+:para sostener la formación de la cepa.
+•3 mm :para sujetar el poste extremo al anclaje.
+•2,2 mm :para sostener la vegetación.
+Existen en el mercado diferentes tipos de alambres con diferentes calidades,
+uno de los que mejor comportamiento presenta es el Alambre Crapal 4 que viene recu-bierto con una aleación del 95% de Zinc y 5% de Aluminio, lo que le proporciona unamayor resistencia frente a la oxidación. Otros que presentan buenas aptitudes son losalambres triple galvanizados.
+77
+05242 Manual v5  18/10/2005  14:55  PÆgina 77C.5.3.2. Sintéticos
+Es un material que al ser plástico no se oxida, siendo resistente a ambientes sali-
+nos, las principales desventajas son los frecuen-tes cortes producidos durante lapoda, el no permitir el uso de prepodadoras y la necesidad de protegerlos en la zonaque está en contacto con los postes, para evitar su rotura por rozamiento.
+C.5.4. Tensores
+Son los elementos que tienen por finalidad el mantener una tensión óptima en los
+alambres.
+Con esta finalidad se pueden emplear diferentes accesorios, como puede ser el uso
+de cadenas, tensores de carraca, tensores gripple, tensores de alambre sencillos, etc. 
+C.5.4.1. Tipo “carraca”Son tensores de fácil manejo, ya que la tensión del alambre la realizan enrollando
+el alambre sobre un eje, al cual se le hace girar con una llave fija. 
+En el mercado se encuentran como acero galvanizado o zincado, para aumentar
+su vida.
+El principal inconveniente es
+que cuando se enrolla el alambrellega un momento en el que no quedasuficiente espacio para seguir enro-llando más. Además cuando el alam-bre se enrolla se debilita el galvaniza-do, con lo que se oxida fácilmente.
+78Manual Básico de Viticultura en
+Tacoronte -Acentejo
+05242 Manual v5  18/10/2005  14:55  PÆgina 78C.5.4.2. Tipo gripple
+Poseen varias utilidades,
+tanto la de tensar los alambres,como servir para unir un alambrepartido. Son de fácil instalación,ya que basta con introducir el
+alambre por el orificio, y queda sujeto por la acción deuna tranca interior, que permite que el alambre sigaentrando, e impide que salga.
+La principal desventaja es la necesidad de emplear una tenaza especial para el
+tensado.
+C.5.5. Protección contra conejos
+Debido a los graves daños que pueden ocasionar los conejos en las plantaciones
+jóvenes, las plantas deben de protegerse. Las dos alternativas a las que podemosrecurrir son:
+C.5.5.1. ValladoConsiste en colocar una valla alrededor de la parcela para evitar la entrada de
+conejos. Para ello se colocan tubos o postes, generalmente de acero galvanizado,aunque ocasionalmente se implantan con postes de madera, que se colocan con unaseparación de 4 m. La altura sobre el suelo suele ser entre 1,75 m. y los 2 m. Para sos-tener la malla se disponen tres alambres, el primero a ras del suelo, el segundo en lamitad de los postes y un tercero en el extremo superior.
+79
+05242 Manual v5  18/10/2005  14:55  PÆgina 79C.5.5.2. Protectores individuales
+En el mercado hay una amplia gama de protectores individua-
+les, con diferentes colores, diseños y alturas. Generalmente son depolipropileno reciclable, motivo por el que se conocen como ecotu-bos. Entre las ventajas destacan: que ofrecen una protección muyeficaz contra los roedores y los conejos, permiten la aplicación deherbicidas con acción foliar sin riesgo para la planta, y favorece eldesarrollo de las plantas debido al efecto invernadero.
+Otro modelo de protector individual que hay en el mercado
+consiste en unas mallas plásticas que protegen a las plantas de laacción de los conejos, pero al ser abiertas no permiten la aplicaciónde herbicidas, y además los brotes jóvenes pueden pasar a travésde las aberturas, quedando desprotegidos.
+C.6. INSTALACIÓN
+C.6.1. Diseño
+Cuando se toma la decisión de realizar una nueva plan-
+tación de vid, se deben tener claro varios aspec-tos, con el finde lograr un cultivo rentable, adaptado a las circunstancias decada parcela y tipo de explotación. 
+El sistema conocido como espaldera, así como sus
+variantes (cuádruple cordón, lira, etc.) tiene como principalventaja permitir la mecanización y realizar las prácticas cultu-rales de forma más cómoda. Para ello se debe planificar elcultivo, permitiendo el acceso y el trabajo de la maquinaria enla parcela. De no ser así convendría preguntarse si es másconveniente otro tipo de conduc-ción, parral bajo o inclinado,vaso u otro. 
+80Manual Básico de Viticultura en
+Tacoronte -Acentejo
+05242 Manual v5  18/10/2005  14:55  PÆgina 80De tal forma que el diseño tiene que tratar de conseguir el mejor aprovechamien-
+to de la parcela, pero respetando los siguientes aspectos:
+• Permitir el fácil acceso de la maquinaria, dejando márgenes suficientes para
+que los tractores puedan maniobrar, dejando un margen mínimo de 5 m. libres
+entre el anclaje y el borde de la parcela.
+• Conseguir la mejor iluminación del cultivo, para ello la mejor orientación, tal y
+como ya hemos citado, es la norte – sur.
+• Evitar los vientos dominantes.• Adaptarse a la topografía del terreno, disminuyendo al máximo el riesgo de
+erosión.
+Una vez que hemos decidido el diseño debe-
+mos plasmar nuestras ideas en un plano o cro-quis, para hacer un cálculo aproximado del mate-rial que vamos a emplear.
+C.6.2. Replanteo
+Consiste en trasladar al terreno el diseño
+que previamente hemos hecho en papel. Para ellonos ayudamos de estacas de madera o cavillaspara marcar en la parcela las líneas de cultivo.
+Para realizar el replanteo de la parcela, debemos partir de una línea base, que
+será bien recta y siguiendo la dirección  elegida. A partir de esta línea se trazarán dos omás transversales que sean perpendiculares a la primera. Se mide la separación entrepostes en la primera, y en las transversales se marca la separación entre espalderas.De esta forma ya tenemos la espaldera perfectamente definida.
+81
+05242 Manual v5  18/10/2005  14:55  PÆgina 81C.6.3. Ejecución
+Una vez preparado el terreno, con las enmiendas incorporadas y el croquis reali-
+zado se siguen los siguientes pasos.
+1.- Enterrar los anclajes y clavar los postes extremos.
+2.- Colocar un  hilo tenso para guiar el clavado de los postes intermedios y las
+plantas.
+82Manual Básico de Viticultura en
+Tacoronte -Acentejo
+05242 Manual v5  18/10/2005  14:55  PÆgina 823.- Colocación de postes inter-
+medios: exactamente en lalínea definida por los finales.Los postes se clavan con unmartillo especial. Tambiénexiste una maza para aco-plarla a un tractor y realizarun clavado mecánico.
+4 .- Instalación de la red de riego
+(tuberías principales).
+5.- Plantación de la vid también
+a hilo. En el caso de varas o"pots" de pequeño diámetrocon la ayuda de una barrenade agua.
+6.- Luego se colocarán dos alambres, el primero para el riego, y el segundo a la
+altura que deseemos formar la cepa (50 - 80 cm.). Colocar dos alambres fijosen las espalderas sencillas, tres en las liras y cuádruples cordones, el restoserán móviles y acompañarán a la vegetación en su crecimiento.
+7.- Distribuir tuberías portagoteos en la finca, acoplarlas a las terciarias y atar al
+alambre inferior, labor que se puede efectuar el segundo año de cultivo.
+8.- Posteriormente se realizarán las labores de remate de la instalación: cruce-
+tas, en el caso de que las lleve, alambres móviles, arriostrado de los postesextremos a los anclajes, etc.
+9.- Podemos forzar el cultivo realizando un acolchado de las cepas mediante  una
+lámina de plástico colocada en el suelo, a los lados del tronco. En este casolos laterales de riego se dejarán debajo del plástico. Los efectos de este pro-cedimiento son varios:
+83
+05242 Manual v5  18/10/2005  14:55  PÆgina 83• Elevamos la temperatura del suelo.
+• Disminuimos el consumo de agua, al disminuir el agua que se pierde por
+evaporación.
+• Se evita la germinación de las malas hierbas.
+Como consecuencia se produce un mayor desarrollo radicular, la planta se des-
+arrolla muy rápidamente, y nos ahorramos tener que estar constantemente eliminan-do las malas hierbas que se desarrollan en las filas de cultivo. Por el contrario, se favo-rece el desarrollo de cochinillas, por lo que tanto las plantas como el suelo deben estarlibres de plagas.
+C.7. LAS PLANTAS
+La forma de propagación de la vid es a través de la vía vegetativa, ya que las semi-
+llas no fijan los caracteres de la planta madre y el resultado sería un cultivo completa-mente heterogéneo. Para evitar esto en cultivos comerciales se recurre a realizar lamultiplicación de la vid por estacas, acodos o injertos, quedando reservado el uso desemillas para los seleccionadores y a los hibridadores para la obtención de nuevasvariedades.
+C.7.1. Tipos de planta
+En Canarias, la ausencia de filoxera nos ha llevado a la plantación directa o a pie
+franco, es decir, a no emplear portainjertos de vides americanas. De esta forma, lostres principales tipos de plantas que nos podemos encontrar en el mercado son:
+C.7.1.1. Estacas o varasConsiste en trozos de sarmientos, de una longitud que puede variar entre los 30 y
+los 80 cm., y que contengan un mínimo de 3 yemas. Estas porciones de sarmientosreciben el nombre de varas, estacas o esquejes, y al ser parcialmente enterrados en un
+84Manual Básico de Viticultura en
+Tacoronte -Acentejo05242 Manual v5  18/10/2005  14:55  PÆgina 84medio favorable desarrollará un sistema radicular y una parte aérea con los mismos
+caracteres que la planta madre.
+Preparación de las estacas:Una vez recogida la madera, se le eliminan los zarcillos,
+los nietos y las partes no agostadas, y después se cortan enfragmentos (estaquillas y estacas) de una longitud variablesegún el uso al que vaya destinada. El destino de las mismasvaría con el diámetro de las maderas:
+• Los extremos cuyo diámetro es inferior a 3,5 mm. o
+superior a 14 mm. son eliminados; 
+• Las estacas para barbados deben tener como mínimo
+un diámetro de 3,5 mm. y una longitud de 55 cm. si setrata de un patrón de vid americano y 30 cm. cuando setrate de Vitis vinífera.
+• Las estacas injertables deben tener un diámetro en el
+extremo más fino comprendido entre 6 y 12 mm. paraRupestris de Lot (y los cruces entre vinifera y rupestris)y entre 6,5 y 12 mm. para los otros patrones. Su longi-tud mínima está fijada en 1,05 m. Se talonan a 2 cm. dela base de la yema inferior.
+Conservación de las estacas:La vitalidad de la madera disminuye en el transcurso de la conservación:•Por deshidratación: la pérdida de agua es perjudicial para la respuesta al
+estaquillado y al injerto; se ha demostrado que el enraizamiento es imposible sila pérdida de agua es superior al 20%.
+85
+05242 Manual v5  18/10/2005  14:55  PÆgina 85•Por disminución de las reservas en glúcidos utilizadas para la respiración
+de los tejidos: la importancia de estas reservas es función de la  temperatura,del grado de desecación, de la longitud de las estacas. En el caso de estacassumergidas, las pérdidas en glúcidos son debidas a fermentaciones intracelu-lares.
+•Por la presencia de hongos, y particularmente de la pudrición (Botrytis cine-
+rea), que se desarrollan a expensas de las reservas de las maderas.
+En consecuencia, las condiciones de conservación tendrán como objetivo evitar
+estas alteraciones, debiendo garantizar unas condiciones de alta humedad relativa,baja temperatura, pero que en ningún momento lleguen a congelar las estacas, el ópti-mo rondará entre 2 y 4 ºC, e incluso, tratamientos anticriptogámicos: dejándolas 24horas sumergidas en una solución de agua con algún fungicida de amplio espectro(Carbendazima, Procimidona, Metil Tiofanato, etc.).
+La conservación puede ser a través del método tradicional o en cámaras
+frigoríficas:
+•La Conservación tradicio-
+nal: consiste en guardar las
+estacas en una bodega o unlocal fresco y húmedo para lasestacas injertables y en el aguacorriente de un canal, en un siloo en la tierra (zanjas) para lasestacas.
+•Conservación en cámara
+frigorífica a temperatura pró-
+xima a 0 ºC. (por encima de 4ºC., la respiración se acelera)
+86Manual Básico de Viticultura en
+Tacoronte -Acentejo
+05242 Manual v5  18/10/2005  14:55  PÆgina 86con cubierta de plástico o metidos los paquetes de estacas en sacos de plástico.
+Es un procedimiento caro, pero es la mejor forma de conservación.
+Plantación de las estacas:
+Antes de proceder a la plantación de las
+estacas, si éstas han estado conservadas encámaras frigoríficas, o en ausencia de agua esconveniente dejarlas sumergidas en aguadurante un mínimo de 24 a 48 horas, para quese rehidraten y se laven las hormonas respon-sables de la dormición de yemas.
+Una vez que se encuentre el terreno per-
+fectamente preparado, y preferiblemente enlos meses de invierno, se procederá a realizarla plantación directa de las estacas, siguiendola separación entre plantas que hayamos ele-gido. Se debe de enterrar lo más profundo quesea posible, entre los 50 y 70 cm., para quetenga acceso al agua del subsuelo. Para facili-tar esta labor se recomienda que se aplique unbuen riego el día anterior a la plantación, paraaflojar la tierra. Otra alternativa es utilizar unabarra de agua, que al expulsar agua a presiónse abre paso en el suelo y profundiza fácilmen-te en terrenos con pocas piedras. Una vezenterradas, es suficiente con que queden dosyemas sobre el nivel del suelo, en el caso deque quede un mayor número de yemas sedebe realizar una poda, dejando sólo dos.
+87
+05242 Manual v5  18/10/2005  14:55  PÆgina 87C.7.1.2. Planta viva
+Se trata de estacas que han sido plantadas en bolsas plásticas o bandejas multi-
+pots con un sustrato, suelto, que retenga la humedad y bien desinfectado, normalmen-te compuesto por una mezcla de tierra, turba y arena o picón a partes iguales. 
+Para conseguir un buen enraizamiento, y un buen desarrollo de la parte aérea,
+las plantas se mantienen en invernadero sombreado o en umbráculo, con unas condi-ciones de temperatura y humedad adecuadas. En esas condiciones se mantienenhasta su venta, garantizando a las plantas unas condiciones óptimas de riego y abona-do. Cuando pasan al terreno, y se enfrenten a unas condiciones desfavorables sepuede producir una parada en el crecimiento, hasta que las plantas se aclimaten. Sidespués de la plantación no prestamos especial atención a los riegos y las plantas seven sometidas a un estrés hídrico prolongado, el porcentaje de marras puede ser muyelevado. Es muy importante comprobar la edad de las plantas, ya que si pasan más deun año en la bolsa el sistema radicular comienza a enrollarse dentro de la bolsa, per-diendo por completo el sentido de la verticalidad, con lo que cuando se implantan en elterreno definitivo el sistema radicular se mantendrá cerca de la superficie y no profun-dizará.
+88Manual Básico de Viticultura en
+Tacoronte -Acentejo
+05242 Manual v5  18/10/2005  14:55  PÆgina 88La legislación española obliga a que estas plantas para que se puedan comercia-
+lizar deben presentar un sarmiento o un brote bien desarrollado y un sistema radicularequilibrado con la parte aérea.
+C.7.1.3. Barbados
+Son estacas que se plantan a finales de
+invierno o al comienzo de la primavera en elterreno en líneas o surcos separados entre síunos 40 a 50 cm., y dejando un espacio entrelas plantas de 10 cm. En los viveros que plan-tan grandes superficies, este trabajo se reali-za de forma semi-mecanizada, con una plan-tadora remolcada por el tractor, la cual abre uncaballón, y se depositan las estacas de formavertical en el centro. Otra máquina es la quecubre y aprieta la tierra sobre las estacas. Unavez que se ha terminado de plantar se aplicaun riego de asentamiento, y según las condi-ciones ambientales se seguirán aplicando rie-gos con una frecuencia de 7 a 15 días, hasta que se acerque el agostamiento, época enla que no se debe de regar, para conseguir una buena maduración de la madera.
+Cuando se produce la parada vegetativa, en invierno, y se han caído las hojas, es
+cuando se procede a arrancar los barbados. Para facilitar esta labor se puede recurriral empleo de un arado de reja, que se introduzca por debajo de las plantas y las arran-que con su cepellón. Estos barbados una vez recogidos se limpian bien de restosvegetales y tierra, se podan tanto los brotes como las raíces y se conservan en unacámara frigorífica hasta su posterior uso, bien sea para ser injertados, en el caso deque se trate de vides americanas, resistentes a la filoxera, nemátodos, caliza, etc. ohasta el momento de su plantación en el terreno definitivo.
+89
+05242 Manual v5  18/10/2005  14:55  PÆgina 89La normativa obliga a que se cumplan con las siguientes características:
+•Diámetro: medido en el medio del entrenudo que sigue al brote superior y
+según el eje mayor será de al menos de 5 mm.
+•Longitud: la distancia del punto inferior de inserción de las raíces a la bifurca-
+ción del brote superior será como mínimo de 22 cm.
+•Raíces: cada planta tendrá tres raíces bien desarrolladas y convenientemente
+repartidas.
+C.7.1.4. Ventajas e inconvenientes de los tipos de plantas
+90Manual Básico de Viticultura en
+Tacoronte -Acentejo/MT84/MT73/MT80/MT79/MT32/MT68/MT69
+/MT80/MT76/MT65/MT78/MT84/MT65/MT67/MT65/MT82/MT65/MT67/MT84/MT69/MT82/MT205/MT83/MT84/MT73/MT67/MT65/MT83 /MT86/MT69/MT78/MT84/MT65/MT74/MT65/MT83 /MT73/MT78/MT67/MT79/MT78/MT86/MT69/MT78/MT73/MT69/MT78/MT84/MT69/MT83
+/MT69/MT83/MT84/MT65/MT67/MT65
+/MT80/MT76/MT65/MT78/MT84/MT65
+/MT86/MT73/MT86/MT65
+/MT66/MT65/MT82/MT66/MT65/MT68/MT79/MT83/MT97/MT114/MT109/MT105/MT101/MT110/MT116/MT111/MT32/MT99/MT111/MT114/MT116/MT97/MT100/MT111/MT32/MT101/MT110/MT32/MT108/MT97
+/MT233/MT112/MT111/MT99/MT97/MT32/MT100/MT101/MT32/MT112/MT111/MT100/MT97/MT44/MT32/MT115/MT105/MT110/MT32/MT114/MT97/MT105/MT122/MT44/MT104/MT111/MT106/MT97/MT115/MT32/MT110/MT105/MT32/MT110/MT105/MT110/MT103/MT117/MT110/MT97/MT32/MT112/MT97/MT114/MT116/MT101/MT118/MT101/MT114/MT100/MT101/MT46
+/MT80/MT108/MT97/MT110/MT116/MT97/MT32 /MT99/MT111/MT110/MT32 /MT115/MT105/MT115/MT116/MT101/MT109/MT97
+/MT114/MT97/MT100/MT105/MT99/MT117/MT108/MT97/MT114/MT32/MT121/MT32/MT98/MT114/MT111/MT116/MT101/MT115/MT32/MT118/MT101/MT114/MT100/MT101/MT115/MT46
+/MT80/MT117/MT101/MT100/MT101/MT32/MT118/MT101/MT110/MT105/MT114/MT32/MT101/MT110/MT32/MT117/MT110/MT97/MT32/MT98/MT111/MT108/MT115/MT97/MT111/MT32/MT101/MT110/MT32/MT98/MT97/MT110/MT100/MT101/MT106/MT97/MT115/MT32/MT109/MT117/MT108/MT116/MT105/MT112/MT111/MT116/MT115/MT46
+/MT83/MT101/MT32/MT116/MT114/MT97/MT116/MT97/MT32/MT100/MT101/MT32/MT117/MT110/MT97/MT32/MT112/MT108/MT97/MT110/MT116/MT97/MT32/MT99/MT111/MT110
+/MT114/MT97/MT237/MT122/MT44/MT32 /MT112/MT101/MT114/MT111/MT32 /MT115/MT105/MT110/MT32 /MT98/MT114/MT111/MT116/MT101/MT115
+/MT118/MT101/MT114/MT100/MT101/MT115/MT44/MT32 /MT113/MT117/MT101/MT32 /MT104/MT97/MT32 /MT115/MT105/MT100/MT111
+/MT99/MT111/MT110/MT115/MT101/MT114/MT118/MT97/MT100/MT97/MT32 /MT101/MT110/MT32 /MT117/MT110/MT97/MT99/MT225/MT109/MT97/MT114/MT97/MT32/MT102/MT114/MT105/MT103/MT111/MT114/MT237/MT102/MT105/MT99/MT97/MT46/MT83/MT101/MT32/MT112/MT108/MT97/MT110/MT116/MT97/MT32/MT100/MT105/MT114/MT101/MT99/MT116/MT97/MT109/MT101/MT110/MT116/MT101
+/MT101/MT110/MT32/MT101/MT108/MT32/MT116/MT101/MT114/MT101/MT110/MT111/MT44/MT32/MT121/MT32/MT116/MT105/MT101/MT110/MT101/MT32/MT117/MT110/MT100/MT101/MT115/MT97/MT114/MT114/MT111/MT108/MT108/MT111/MT32/MT97/MT99/MT111/MT114/MT100/MT101/MT32/MT97/MT32/MT108/MT97/MT115/MT99/MT111/MT110/MT100/MT105/MT99/MT105/MT111/MT110/MT101/MT115/MT32/MT97/MT109/MT98/MT105/MT101/MT110/MT116/MT97/MT108/MT101/MT115/MT101/MT110/MT32/MT108/MT97/MT115/MT32/MT113/MT117/MT101/MT32/MT115/MT101/MT32/MT100/MT101/MT115/MT97/MT114/MT114/MT111/MT108/MT108/MT97/MT46
+/MT83/MT101/MT32/MT116/MT114/MT97/MT116/MT97/MT32/MT100/MT101/MT32/MT101/MT115/MT116/MT97/MT99/MT97/MT115/MT32/MT113/MT117/MT101
+/MT121/MT97/MT32/MT104/MT97/MT110/MT32/MT115/MT117/MT112/MT101/MT114/MT97/MT100/MT111/MT32/MT108/MT97/MT32/MT102/MT97/MT115/MT101/MT100/MT101/MT32/MT101/MT110/MT114/MT97/MT105/MT122/MT97/MT109/MT105/MT101/MT110/MT116/MT111/MT44/MT32/MT99/MT111/MT110/MT32/MT108/MT111/MT113/MT117/MT101/MT32/MT121/MT97/MT32/MT110/MT111/MT32/MT108/MT97/MT32/MT100/MT101/MT98/MT101/MT110/MT115/MT117/MT112/MT101/MT114/MT97/MT114/MT32/MT101/MT110/MT32/MT101/MT108/MT32/MT116/MT101/MT114/MT114/MT101/MT110/MT111/MT46
+/MT65/MT108/MT32/MT116/MT101/MT110/MT101/MT114/MT32/MT114/MT97/MT237/MT99/MT101/MT115/MT44/MT32/MT121/MT97/MT32/MT110/MT111
+/MT116/MT105/MT101/MT110/MT101/MT110/MT32/MT113/MT117/MT101/MT32/MT114/MT101/MT97/MT108/MT105/MT122/MT97/MT114/MT32/MT101/MT115/MT116/MT97/MT102/MT97/MT115/MT101/MT32 /MT101/MT110/MT32 /MT101/MT108/MT32 /MT116/MT101/MT114/MT114/MT101/MT110/MT111/MT44/MT100/MT105/MT115/MT109/MT105/MT110/MT117/MT121/MT101/MT110/MT100/MT32/MT101/MT108/MT32/MT110/MT250/MT109/MT101/MT114/MT111/MT100/MT101/MT32/MT109/MT97/MT114/MT114/MT97/MT115/MT46/MT80/MT97/MT114/MT97/MT32 /MT103/MT97/MT114/MT97/MT110/MT116/MT105/MT122/MT97/MT114/MT32 /MT101/MT108
+/MT101/MT110/MT114/MT97/MT105/MT122/MT97/MT109/MT105/MT101/MT110/MT116/MT111/MT32/MT110/MT111/MT32/MT100/MT101/MT98/MT101/MT32/MT100/MT101/MT102/MT97/MT108/MT116/MT97/MT114/MT108/MT101/MT32/MT97/MT103/MT117/MT97/MT32/MT32/MT97/MT32/MT108/MT97/MT115/MT32/MT112/MT108/MT97/MT110/MT116/MT97/MT115/MT100/MT117/MT114/MT97/MT110/MT116/MT101/MT32/MT101/MT115/MT116/MT97/MT32/MT102/MT97/MT115/MT101/MT32/MT40/MT109/MT111/MT116/MT105/MT118/MT111/MT112/MT111/MT114/MT32/MT101/MT108/MT32/MT99/MT117/MT97/MT108/MT32/MT115/MT243/MT108/MT111/MT32/MT115/MT101/MT32/MT112/MT108/MT97/MT110/MT116/MT97/MT110/MT101/MT110/MT32/MT105/MT110/MT118/MT105/MT101/MT114/MT110/MT111/MT32/MT101/MT110/MT32/MT99/MT117/MT108/MT116/MT105/MT118/MT111/MT32/MT100/MT101/MT115/MT101/MT99/MT97/MT110/MT111/MT41
+/MT83/MT117/MT101/MT108/MT101/MT110/MT32/MT115/MT101/MT114/MT32/MT112/MT108/MT97/MT110/MT116/MT97/MT115/MT32/MT113/MT117/MT101
+/MT104/MT97/MT110/MT32 /MT101/MT115/MT116/MT97/MT100/MT111/MT32 /MT101/MT110/MT32 /MT117/MT110/MT97/MT115/MT99/MT111/MT110/MT100/MT105/MT99/MT105/MT111/MT110/MT101/MT115/MT32/MT109/MT117/MT121/MT32/MT98/MT117/MT101/MT110/MT97/MT115/MT44/MT100/MT101/MT32/MT114/MT105/MT101/MT103/MT111/MT44/MT32/MT97/MT98/MT111/MT110/MT97/MT100/MT111/MT32/MT101/MT105/MT108/MT117/MT109/MT105/MT110/MT97/MT99/MT105/MT243/MT110/MT44/MT32/MT99/MT111/MT110/MT32/MT108/MT111/MT32/MT113/MT117/MT101/MT32/MT97/MT108/MT108/MT108/MT101/MT103/MT97/MT114/MT32/MT101/MT108/MT32/MT116/MT101/MT114/MT114/MT101/MT110/MT111/MT32/MT112/MT117/MT101/MT100/MT101/MT110
+/MT115/MT117/MT102/MT114/MT105/MT114/MT32/MT117/MT110/MT32/MT101/MT115/MT116/MT114/MT233/MT115/MT32/MT103/MT114/MT97/MT118/MT101/MT46
+/MT78/MT111/MT32/MT115/MT101/MT32/MT100/MT101/MT98/MT101/MT110/MT32/MT112/MT108/MT97/MT110/MT116/MT97/MT114/MT32/MT101/MT110
+/MT105/MT110/MT118/MT105/MT101/MT114/MT110/MT111/MT46/MT32/MT78/MT101/MT99/MT101/MT115/MT105/MT116/MT97/MT110/MT32/MT114/MT105/MT101/MT103/MT111/MT44/MT121/MT97/MT32/MT113/MT117/MT101/MT32/MT115/MT101/MT32/MT112/MT108/MT97/MT110/MT116/MT97/MT110/MT32/MT101/MT110/MT112/MT114/MT105/MT109/MT97/MT118/MT101/MT114/MT97/MT32 /MT111/MT32 /MT118/MT101/MT114/MT97/MT110/MT111/MT99/MT117/MT97/MT110/MT100/MT111/MT32/MT108/MT97/MT115/MT32/MT108/MT108/MT117/MT118/MT105/MT97/MT115/MT32/MT115/MT111/MT110/MT101/MT115/MT99/MT97/MT115/MT97/MT115/MT4605242 Manual v5  18/10/2005  14:55  PÆgina 90C.7.2. Procedencia
+Las plantas pueden proceder de un vivero, o de una parcela que se encuentra en
+explotación del propio agricultor.
+C.7.2.1. Material propio, forma de elecciónCuando el propio agricultor decide proporcionarse su planta, lo ideal es que haga
+una selección visual en las parcelas de las que desee extraer las varas. Basta para ellocon marcar durante dos años o más (mejor si son tres o cuatro años), las plantas quetengan una producción buena y continuada y que desde el punto de vista sanitario pre-senten buen aspecto (vigor normal, ausencia de fasciaciones y deformaciones en losbrotes, etc).
+En ningún caso deberá realizarse plantación alguna con varas de origen desco-
+nocido o sacadas ahecho de otras parce-las. De este tipo de material se desconoce laproductividad, sanidad, y lo que es más importante, no existe fiabilidad sobre lavariedad.
+C.7.2.2. Compra a viveroLos viveros autorizados en Canarias, hasta la fecha carecen de material certifi-
+cado, es decir de plantas con garantía de que se encuentran libres de virus. El únicotipo de plantas que se comercializan se conocen con el nombre de material estándar,el cual debe de reunir las siguientes características:
+• Cumplir con la pureza varietal: donde al menos el 99% de las plantas vendidas
+deben ser de la variedad.
+• Encontrarse libres de los principales organismos nocivos de la vid. 
+Actualmente en Canarias hay algunos viveros y entidades públicas que están en
+9105242 Manual v5  18/10/2005  14:55  PÆgina 91el proceso de sanear las variedades tradicionales, para poder disponer de plantas de
+variedades locales que se encuentren libres de virus.
+Para importar material hay que contar con la autorización precisa, en cualquier
+caso será en forma de estaquilla, libre de tierra y de raíces, para evitar la entrada de lafiloxera en Canarias. El intercambio de material vegetal es la forma por la que se tras-miten a mayor velocidad nuevas plagas, enfermedades o virus. 
+C.7.3. Variedades de vid
+Según se establece en el Artículo 5º del reglamento por el que se rige el Consejo
+Regalador de la Denominación de Origen Tacoronte – Acentejo, la elaboración de losvinos protegidos se realizará con uvas de las variedades siguientes o con sus sinoni-mias:
+a) Preferente:•Uva tint
+a:Listán Negro y Negramoll. 
+•Uva Blancas :Gual, Malvasía, Listan Blanco y Marmajuelo. 
+b) Autorizadas:•Uva tint
+a:Tintilla, Moscatel Negro, Malvasía Rosada, Castellana Negra,
+Cabernet Sauvignon, Merlot, Pinot Noir, Ruby Cabernet, Syrah, Tempranillo,Bastardo negro o Baboso Negro, Listán Prieto y Vijariego Negro. 
+•Uva Blanca
+:Pedro Ximenez, Verdello, Moscatel, Vijariego, Forastera Blanca,
+Torrontés, Albillo, Sabro, Bastardo blanco o Baboso Blanco, Breval yBurrablanca
+En el siguiente cuadro se pueden observar la principales características de las
+variedades mayormente cultivadas en la comarca Tacoronte – Acentejo.
+92Manual Básico de Viticultura en
+Tacoronte -Acentejo05242 Manual v5  18/10/2005  14:55  PÆgina 9205242 Manual v5  18/10/2005  14:55  PÆgina 93CARACTERÍSTICAS VITIVINÍCOLAS DE LAS VARIEDADES DE VID 
+94Manual Básico de Viticultura en
+Tacoronte -Acentejo/MT86/MT97/MT114/MT105/MT101/MT100/MT97/MT100 /MT68/MT101/MT115/MT98/MT111/MT114/MT114/MT101 /MT77/MT97/MT100/MT117/MT114/MT101/MT122 /MT82/MT101/MT110/MT100/MT105/MT109/MT105/MT101/MT110/MT116/MT111 /MT66/MT111/MT116/MT114/MT121/MT116/MT105/MT115/MT77/MT105/MT108/MT100/MT105/MT117
+/MT84/MT73/MT78/MT84/MT65/MT83
+/MT66/MT76/MT65/MT78/MT67/MT65/MT83/MT76/MT105/MT115/MT116/MT225/MT110/MT32/MT78/MT101/MT103/MT114/MT111
+/MT78/MT101/MT103/MT114/MT97/MT109/MT111/MT108/MT108
+/MT78/MT101/MT103/MT114/MT97
+/MT78/MT101/MT103/MT114/MT97/MT109/MT111/MT108/MT108
+/MT82/MT111/MT115/MT97/MT100/MT97
+/MT67/MT97/MT115/MT116/MT101/MT108/MT108/MT97/MT110/MT97
+/MT110/MT101/MT103/MT114/MT97
+/MT84/MT105/MT110/MT116/MT105/MT108/MT108/MT97
+/MT66/MT97/MT98/MT111/MT115/MT111
+/MT110/MT101/MT103/MT114/MT111
+/MT86/MT105/MT106/MT97/MT114/MT105/MT101/MT103/MT111
+/MT110/MT101/MT103/MT114/MT111
+/MT67/MT97/MT98/MT101/MT114/MT110/MT101/MT116
+/MT115/MT97/MT117/MT118/MT105/MT103/MT110/MT111/MT110
+/MT77/MT101/MT114/MT108/MT111/MT116
+/MT83/MT121/MT114/MT97/MT104
+/MT82/MT117/MT98/MT121
+/MT99/MT97/MT98/MT101/MT114/MT110/MT101/MT116
+/MT80/MT105/MT110/MT111/MT116/MT32/MT78/MT111/MT105/MT114
+/MT84/MT101/MT109/MT112/MT114/MT97/MT110/MT105/MT108/MT108/MT111
+/MT76/MT105/MT115/MT116/MT225/MT110/MT32/MT66/MT108/MT97/MT110/MT99/MT111
+/MT71/MT117/MT97/MT108/MT77/MT97/MT108/MT118/MT97/MT115/MT237/MT97/MT77/MT111/MT115/MT99/MT97/MT116/MT101/MT108/MT77/MT97/MT114/MT109/MT97/MT106/MT117/MT101/MT108/MT111/MT78/MT111/MT114/MT109/MT97/MT108
+/MT84/MT97/MT114/MT100/MT237/MT111
+/MT84/MT97/MT114/MT100/MT237/MT111
+/MT78/MT111/MT114/MT109/MT97/MT108
+/MT78/MT111/MT114/MT109/MT97/MT108
+/MT84/MT101/MT109/MT112/MT114/MT97/MT110/MT111
+/MT78/MT111/MT114/MT109/MT97/MT108
+/MT84/MT97/MT114/MT100/MT237/MT111
+/MT78/MT111/MT114/MT109/MT97/MT108
+/MT78/MT111/MT114/MT109/MT97/MT108
+/MT84/MT97/MT114/MT100/MT237/MT111
+/MT84/MT101/MT109/MT112/MT114/MT97/MT110/MT111
+/MT78/MT111/MT114/MT109/MT97/MT108
+/MT78/MT111/MT114/MT109/MT97/MT108
+/MT78/MT111/MT114/MT109/MT97/MT108
+/MT73/MT114/MT114/MT101/MT103/MT117/MT108/MT97/MT114
+/MT73/MT114/MT114/MT101/MT103/MT117/MT108/MT97/MT114
+/MT78/MT111/MT114/MT109/MT97/MT108/MT78/MT111/MT114/MT109/MT97/MT108
+/MT84/MT97/MT114/MT100/MT237/MT97
+/MT84/MT97/MT114/MT100/MT237/MT97
+/MT78/MT111/MT114/MT109/MT97/MT108
+/MT78/MT111/MT114/MT109/MT97/MT108
+/MT84/MT101/MT109/MT112/MT114/MT97/MT110/MT97
+/MT84/MT97/MT114/MT100/MT237/MT97
+/MT84/MT97/MT114/MT100/MT237/MT97
+/MT78/MT111/MT114/MT109/MT97/MT108
+/MT78/MT111/MT114/MT109/MT97/MT108
+/MT84/MT97/MT114/MT100/MT237/MT97
+/MT84/MT101/MT109/MT112/MT114/MT97/MT110/MT97
+/MT84/MT101/MT109/MT112/MT114/MT97/MT110/MT97
+/MT78/MT111/MT114/MT109/MT97/MT108
+/MT84/MT101/MT109/MT112/MT114/MT97/MT110/MT97
+/MT84/MT97/MT114/MT100/MT237/MT97
+/MT84/MT97/MT114/MT100/MT237/MT97/MT84/MT97/MT114/MT100/MT237/MT97/MT65/MT108/MT116/MT111
+/MT66/MT97/MT106/MT111
+/MT78/MT111/MT114/MT109/MT97/MT108
+/MT66/MT97/MT106/MT111/MT66/MT97/MT106/MT111
+/MT77/MT101/MT100/MT105/MT111
+/MT78/MT111/MT114/MT109/MT97/MT108
+/MT66/MT97/MT106/MT111
+/MT77/MT101/MT100/MT105/MT111
+/MT66/MT97/MT106/MT111
+/MT65/MT108/MT116/MT111
+/MT66/MT97/MT106/MT111
+/MT65/MT108/MT116/MT111
+/MT65/MT108/MT116/MT111
+/MT77/MT101/MT100/MT105/MT111
+/MT66/MT97/MT106/MT111
+/MT78/MT111/MT114/MT109/MT97/MT108
+/MT66/MT97/MT106/MT111/MT80/MT111/MT99/MT111
+/MT83/MT101/MT110/MT115/MT105/MT98/MT108/MT101/MT77/MT101/MT100/MT105/MT111
+/MT83/MT101/MT110/MT115/MT105/MT98/MT108/MT101
+/MT80/MT111/MT99/MT111
+/MT83/MT101/MT110/MT115/MT105/MT98/MT108/MT101
+/MT80/MT111/MT99/MT111
+/MT83/MT101/MT110/MT115/MT105/MT98/MT108/MT101
+/MT77/MT101/MT100/MT105/MT111
+/MT83/MT101/MT110/MT115/MT105/MT98/MT108/MT101
+/MT83/MT101/MT110/MT115/MT105/MT98/MT108/MT101
+/MT80/MT111/MT99/MT111
+/MT83/MT101/MT110/MT115/MT105/MT98/MT108/MT101
+/MT80/MT111/MT99/MT111
+/MT83/MT101/MT110/MT115/MT105/MT98/MT108/MT101
+/MT77/MT101/MT100/MT105/MT111
+/MT83/MT101/MT110/MT115/MT105/MT98/MT108/MT101
+/MT83/MT101/MT110/MT115/MT105/MT98/MT108/MT101
+/MT80/MT111/MT99/MT111
+/MT83/MT101/MT110/MT115/MT105/MT98/MT108/MT101
+/MT77/MT101/MT100/MT105/MT111
+/MT83/MT101/MT110/MT115/MT105/MT98/MT108/MT101
+/MT83/MT101/MT110/MT115/MT105/MT98/MT108/MT101
+/MT80/MT111/MT99/MT111
+/MT83/MT101/MT110/MT115/MT105/MT98/MT108/MT101
+/MT77/MT101/MT100/MT105/MT111
+/MT83/MT101/MT110/MT115/MT105/MT98/MT108/MT101
+/MT77/MT101/MT100/MT105/MT111
+/MT83/MT101/MT110/MT115/MT105/MT98/MT108/MT101
+/MT83/MT101/MT110/MT115/MT105/MT98/MT108/MT101
+/MT77/MT117/MT121
+/MT83/MT101/MT110/MT115/MT105/MT98/MT108/MT101/MT77/MT101/MT100/MT105/MT111
+/MT83/MT101/MT110/MT115/MT105/MT98/MT108/MT101
+/MT77/MT101/MT100/MT105/MT111
+/MT83/MT101/MT110/MT115/MT105/MT98/MT108/MT101
+/MT77/MT101/MT100/MT105/MT111
+/MT83/MT101/MT110/MT115/MT105/MT98/MT108/MT101
+/MT83/MT101/MT110/MT115/MT105/MT98/MT108/MT101
+/MT77/MT101/MT100/MT105/MT111
+/MT83/MT101/MT110/MT115/MT105/MT98/MT108/MT101
+/MT80/MT111/MT99/MT111
+/MT83/MT101/MT110/MT115/MT105/MT98/MT108/MT101
+/MT77/MT101/MT100/MT105/MT111
+/MT83/MT101/MT110/MT115/MT105/MT98/MT108/MT101
+/MT77/MT101/MT100/MT105/MT111
+/MT83/MT101/MT110/MT115/MT105/MT98/MT108/MT101
+/MT77/MT101/MT100/MT105/MT111
+/MT83/MT101/MT110/MT115/MT105/MT98/MT108/MT101
+/MT77/MT101/MT100/MT105/MT111
+/MT83/MT101/MT110/MT115/MT105/MT98/MT108/MT101
+/MT77/MT101/MT100/MT105/MT111
+/MT83/MT101/MT110/MT115/MT105/MT98/MT108/MT101
+/MT77/MT101/MT100/MT105/MT111
+/MT83/MT101/MT110/MT115/MT105/MT98/MT108/MT101/MT77/MT101/MT100/MT105/MT111
+/MT83/MT101/MT110/MT115/MT105/MT98/MT108/MT101
+/MT77/MT101/MT100/MT105/MT111
+/MT83/MT101/MT110/MT115/MT105/MT98/MT108/MT101
+/MT77/MT101/MT100/MT105/MT111
+/MT83/MT101/MT110/MT115/MT105/MT98/MT108/MT101
+/MT77/MT101/MT100/MT105/MT111
+/MT83/MT101/MT110/MT115/MT105/MT98/MT108/MT101
+/MT77/MT101/MT100/MT105/MT111
+/MT83/MT101/MT110/MT115/MT105/MT98/MT108/MT101
+/MT77/MT101/MT100/MT105/MT111
+/MT83/MT101/MT110/MT115/MT105/MT98/MT108/MT101
+/MT79/MT98/MT115/MT101/MT114/MT118/MT97/MT99/MT105/MT111/MT110/MT101/MT115 /MT58/MT32/MT76/MT97/MT32/MT105/MT110/MT102/MT111/MT114/MT109/MT97/MT99/MT105/MT243/MT110/MT32/MT99/MT111/MT110/MT116/MT101/MT110/MT105/MT100/MT97/MT32/MT101/MT110/MT32/MT108/MT97/MT32/MT116/MT97/MT98/MT108/MT97/MT32/MT101/MT115/MT32/MT111/MT114/MT105/MT101/MT110/MT116/MT97/MT116/MT105/MT118/MT97/MT32/MT112/MT111/MT114/MT32/MT108/MT111/MT32/MT113/MT117/MT101/MT32/MT114/MT101/MT99/MT111/MT109/MT101/MT110/MT100/MT97/MT109/MT111/MT115/MT32/MT101/MT108
+/MT97/MT115/MT101/MT115/MT111/MT114/MT97/MT109/MT105/MT101/MT110/MT116/MT111/MT32/MT116/MT233/MT99/MT110/MT105/MT99/MT111/MT32/MT97/MT32/MT108/MT97/MT32/MT104/MT111/MT114/MT97/MT32/MT100/MT101/MT32/MT112/MT114/MT111/MT99/MT101/MT100/MT101/MT114/MT32/MT97/MT32/MT114/MT101/MT97/MT108/MT105/MT122/MT97/MT114/MT32/MT117/MT110/MT97/MT32/MT112/MT108/MT97/MT110/MT116/MT97/MT99/MT105/MT243/MT110/MT4605242 Manual v5  18/10/2005  14:55  PÆgina 94EN LA COMARCA TACORONTE - ACENTEJO
+95/MT86/MT97/MT114/MT105/MT101/MT100/MT97/MT100 /MT79/MT237/MT100/MT105/MT111/MT65/MT108/MT116/MT105/MT116/MT117/MT100
+/MT114/MT101/MT99/MT111/MT109/MT101/MT110/MT100/MT97/MT100/MT97
+/MT100/MT101/MT32/MT112/MT108/MT97/MT110/MT116/MT97/MT99/MT105/MT243/MT110/MT71/MT114/MT97/MT100/MT111 /MT65/MT99/MT105/MT100/MT101/MT122
+/MT84/MT73/MT78/MT84/MT65/MT83
+/MT66/MT76/MT65/MT78/MT67/MT65/MT83/MT76/MT105/MT115/MT116/MT225/MT110/MT32/MT78/MT101/MT103/MT114/MT111
+/MT78/MT101/MT103/MT114/MT97/MT109/MT111/MT108/MT108
+/MT78/MT101/MT103/MT114/MT97
+/MT78/MT101/MT103/MT114/MT97/MT109/MT111/MT108/MT108
+/MT82/MT111/MT115/MT97/MT100/MT97
+/MT67/MT97/MT115/MT116/MT101/MT108/MT108/MT97/MT110/MT97
+/MT110/MT101/MT103/MT114/MT97
+/MT84/MT105/MT110/MT116/MT105/MT108/MT108/MT97
+/MT66/MT97/MT98/MT111/MT115/MT111
+/MT110/MT101/MT103/MT114/MT111
+/MT86/MT105/MT106/MT97/MT114/MT105/MT101/MT103/MT111
+/MT110/MT101/MT103/MT114/MT111
+/MT67/MT97/MT98/MT101/MT114/MT110/MT101/MT116
+/MT115/MT97/MT117/MT118/MT105/MT103/MT110/MT111/MT110
+/MT77/MT101/MT114/MT105/MT111/MT116
+/MT83/MT121/MT114/MT97/MT104
+/MT82/MT117/MT98/MT121
+/MT99/MT97/MT98/MT101/MT114/MT110/MT101/MT116
+/MT80/MT105/MT110/MT111/MT116/MT32/MT78/MT111/MT105/MT114
+/MT84/MT101/MT109/MT112/MT114/MT97/MT110/MT105/MT108/MT108/MT111
+/MT76/MT105/MT115/MT116/MT225/MT110/MT32/MT66/MT108/MT97/MT110/MT99/MT111
+/MT71/MT117/MT97/MT108/MT77/MT97/MT108/MT118/MT97/MT115/MT237/MT97/MT77/MT111/MT115/MT99/MT97/MT116/MT101/MT108
+/MT77/MT97/MT114/MT109/MT97/MT106/MT117/MT101/MT108/MT111/MT72/MT97/MT115/MT116/MT97/MT32/MT54/MT48/MT48/MT109/MT46
+/MT72/MT97/MT115/MT116/MT97/MT32/MT52/MT48/MT48/MT109
+/MT72/MT97/MT115/MT116/MT97/MT32/MT55/MT48/MT48/MT109
+/MT72/MT97/MT115/MT116/MT97/MT32/MT54/MT48/MT48/MT109/MT72/MT97/MT115/MT116/MT97/MT32/MT55/MT48/MT48/MT109/MT72/MT97/MT115/MT116/MT97/MT32/MT52/MT48/MT48/MT109/MT72/MT97/MT115/MT116/MT97/MT32/MT52/MT48/MT48/MT109/MT72/MT97/MT115/MT116/MT97/MT32/MT52/MT48/MT48/MT109/MT72/MT97/MT115/MT116/MT97/MT32/MT52/MT48/MT48/MT109/MT72/MT97/MT115/MT116/MT97/MT32/MT56/MT48/MT48/MT109
+/MT72/MT97/MT115/MT116/MT97/MT32/MT56/MT48/MT48/MT109
+/MT72/MT97/MT115/MT116/MT97/MT32/MT52/MT48/MT48/MT109
+/MT72/MT97/MT115/MT116/MT97/MT32/MT51/MT48/MT48/MT109
+/MT72/MT97/MT115/MT116/MT97/MT32/MT52/MT48/MT48/MT109
+/MT72/MT97/MT115/MT116/MT97/MT32/MT52/MT48/MT48/MT109/MT77/MT101/MT100/MT105/MT111
+/MT66/MT97/MT106/MT111
+/MT77/MT117/MT121/MT32/MT66/MT97/MT106/MT111
+/MT65/MT108/MT116/MT111/MT65/MT108/MT116/MT111/MT65/MT108/MT116/MT111/MT65/MT108/MT116/MT111/MT65/MT108/MT116/MT111
+/MT77/MT101/MT100/MT105/MT111/MT45/MT65/MT108/MT116/MT111
+/MT65/MT108/MT116/MT111/MT65/MT108/MT116/MT111
+/MT66/MT97/MT106/MT111
+/MT77/MT101/MT100/MT105/MT111/MT45/MT65/MT108/MT116/MT111/MT77/MT101/MT100/MT105/MT111
+/MT83/MT101/MT110/MT115/MT105/MT98/MT108/MT101
+/MT77/MT101/MT100/MT105/MT111
+/MT83/MT101/MT110/MT115/MT105/MT98/MT108/MT101
+/MT77/MT101/MT100/MT105/MT111
+/MT83/MT101/MT110/MT115/MT105/MT98/MT108/MT101
+/MT83/MT101/MT110/MT115/MT105/MT98/MT108/MT101
+/MT77/MT101/MT100/MT105/MT111
+/MT83/MT101/MT110/MT115/MT105/MT98/MT108/MT101
+/MT77/MT101/MT100/MT105/MT111
+/MT83/MT101/MT110/MT115/MT105/MT98/MT108/MT101
+/MT77/MT101/MT100/MT105/MT111
+/MT83/MT101/MT110/MT115/MT105/MT98/MT108/MT101
+/MT77/MT101/MT100/MT105/MT111
+/MT83/MT101/MT110/MT115/MT105/MT98/MT108/MT101
+/MT83/MT101/MT110/MT115/MT105/MT98/MT108/MT101
+/MT77/MT101/MT100/MT105/MT111
+/MT83/MT101/MT110/MT115/MT105/MT98/MT108/MT101
+/MT77/MT101/MT100/MT105/MT111
+/MT83/MT101/MT110/MT115/MT105/MT98/MT108/MT101
+/MT83/MT101/MT110/MT115/MT105/MT98/MT108/MT101/MT83/MT101/MT110/MT115/MT105/MT98/MT108/MT101
+/MT77/MT101/MT100/MT105/MT111
+/MT83/MT101/MT110/MT115/MT105/MT98/MT108/MT101
+/MT77/MT101/MT100/MT105/MT111
+/MT83/MT101/MT110/MT115/MT105/MT98/MT108/MT101
+/MT77/MT101/MT100/MT105/MT111
+/MT83/MT101/MT110/MT115/MT105/MT98/MT108/MT101
+/MT77/MT117/MT121
+/MT83/MT101/MT110/MT115/MT105/MT98/MT108/MT101
+/MT77/MT117/MT121
+/MT83/MT101/MT110/MT115/MT105/MT98/MT108/MT101
+/MT79/MT98/MT115/MT101/MT114/MT118/MT97/MT99/MT105/MT111/MT110/MT101/MT115 /MT58/MT32/MT76/MT97/MT32/MT105/MT110/MT102/MT111/MT114/MT109/MT97/MT99/MT105/MT243/MT110/MT32/MT99/MT111/MT110/MT116/MT101/MT110/MT105/MT100/MT97/MT32/MT101/MT110/MT32/MT108/MT97/MT32/MT116/MT97/MT98/MT108/MT97/MT32/MT101/MT115/MT32/MT111/MT114/MT105/MT101/MT110/MT116/MT97/MT116/MT105/MT118/MT97/MT32/MT112/MT111/MT114/MT32/MT108/MT111/MT32/MT113/MT117/MT101/MT32/MT114/MT101/MT99/MT111/MT109/MT101/MT110/MT100/MT97/MT109/MT111/MT115/MT32/MT101/MT108
+/MT97/MT115/MT101/MT115/MT111/MT114/MT97/MT109/MT105/MT101/MT110/MT116/MT111/MT32/MT116/MT233/MT99/MT110/MT105/MT99/MT111/MT32/MT97/MT32/MT108/MT97/MT32/MT104/MT111/MT114/MT97/MT32/MT100/MT101/MT32/MT112/MT114/MT111/MT99/MT101/MT100/MT101/MT114/MT32/MT97/MT32/MT114/MT101/MT97/MT108/MT105/MT122/MT97/MT114/MT32/MT117/MT110/MT97/MT32/MT112/MT108/MT97/MT110/MT116/MT97/MT99/MT105/MT243/MT110/MT46/MT67/MT111/MT108/MT111/MT114
+/MT78/MT111
+/MT114/MT101/MT99/MT111/MT109/MT101/MT110/MT100/MT97/MT98/MT108/MT101
+/MT69/MT110/MT116/MT114/MT101/MT32/MT51/MT48/MT48
+/MT121/MT32/MT54/MT48/MT48/MT109/MT46
+/MT69/MT110/MT116/MT114/MT101/MT32/MT51/MT48/MT48
+/MT121/MT32/MT55/MT48/MT48/MT109/MT46/MT77/MT101/MT100/MT105/MT111/MT45/MT65/MT108/MT116/MT111
+/MT77/MT101/MT100/MT105/MT111/MT45/MT65/MT108/MT116/MT111
+/MT77/MT101/MT100/MT105/MT111
+/MT77/MT101/MT100/MT105/MT111/MT45/MT65/MT108/MT116/MT111/MT77/MT101/MT100/MT105/MT111/MT45/MT65/MT108/MT116/MT111
+/MT65/MT108/MT116/MT111
+/MT77/MT101/MT100/MT105/MT111
+/MT77/MT101/MT100/MT105/MT111/MT45/MT65/MT108/MT116/MT111/MT77/MT101/MT100/MT105/MT111/MT45/MT65/MT108/MT116/MT111/MT77/MT101/MT100/MT105/MT111/MT45/MT65/MT108/MT116/MT111/MT77/MT101/MT100/MT105/MT111/MT45/MT65/MT108/MT116/MT111
+/MT77/MT101/MT100/MT105/MT111
+/MT77/MT101/MT100/MT105/MT111/MT45/MT65/MT108/MT116/MT111
+/MT77/MT101/MT100/MT105/MT111/MT45/MT65/MT108/MT116/MT111
+/MT77/MT101/MT100/MT105/MT111/MT45/MT65/MT108/MT116/MT111
+/MT65/MT108/MT116/MT111
+/MT66/MT97/MT106/MT111
+/MT77/MT101/MT100/MT105/MT111/MT45/MT65/MT108/MT116/MT111/MT66/MT97/MT106/MT111
+/MT77/MT101/MT100/MT105/MT111/MT45/MT65/MT108/MT116/MT111
+/MT77/MT101/MT100/MT105/MT111
+/MT65/MT108/MT116/MT111/MT65/MT108/MT116/MT111/MT65/MT108/MT116/MT111/MT65/MT108/MT116/MT111
+/MT77/MT101/MT100/MT105/MT111/MT45/MT65/MT108/MT116/MT111/MT77/MT101/MT100/MT105/MT111/MT45/MT65/MT108/MT116/MT111/MT77/MT101/MT100/MT105/MT111/MT45/MT65/MT108/MT116/MT111
+/MT65/MT108/MT116/MT111
+/MT77/MT101/MT100/MT105/MT111/MT45/MT65/MT108/MT116/MT111/MT77/MT101/MT100/MT105/MT111/MT45/MT65/MT108/MT116/MT111
+/MT66/MT97/MT106/MT111
+/MT65/MT108/MT116/MT111/MT65/MT108/MT116/MT111
+/MT66/MT97/MT106/MT111
+/MT77/MT101/MT100/MT105/MT111/MT45/MT65/MT108/MT116/MT11105242 Manual v5  18/10/2005  14:55  PÆgina 95C.8. EL RIEGO
+C.8.1. Consideraciones previas
+La viña es una planta poco exigente en agua, tal es así, que la mayoría del viñedo
+español es de secano. Sin embargo, cuando se procede a realizar una nueva planta-ción con la ayuda del riego se puede conseguir un adelanto importante en la formaciónde la vid, y comenzar a obtener una cosecha desde el tercer año, mientras que de seca-no esto no ocurre antes del séptimo año. 
+C.8.2. Elementos principales del sistema de riego
+Un sistema de riego va a estar compuesto principalmente por los siguientes ele-
+mentos:
+Cabezal
+:
+Es la unidad de control de toda la instalación, en él se encuentran los siguientes
+dispositivos:
+•Equipo de bombeo: en aquellos casos de que no se disponga de suficiente pre-
+sión natural.
+•Filtros de arena: Son muy efectivos para retener sustancias orgánicas, sobre
+todo algas.
+•Equipo de fertilización: permiten abonar junto con el agua de riego.
+•Filtros de malla: Se sitúan justo después del equipo de fertilización, con la finali-
+dad de retener restos de abonos que no se hayan disuelto bien. En riego porgoteo se emplean mucho las mallas de 120 a 140 mesh.
+96Manual Básico de Viticultura en
+Tacoronte -Acentejo05242 Manual v5  18/10/2005  14:55  PÆgina 96•Equipos de control: generalmente podemos encontrar:
+- Manómetros: son elementos que nos informan en todo momento de la pre-
+sión.
+- Reguladores de presión: destinados a disminuir la presión cuando tene-
+mos un exceso.
+- Contador: elemento que nos informará del agua que le hemos aportado al
+cultivo.
+Tuberías :
+En un sistema de riego hay diferentes tuberías, que reciben distintos nombres
+según su posición respecto al cabezal:
+•Tuberías primarias: son aquellas que salen del cabezal, y conducen el agua
+hasta las secundarias. Generalmente suelen ser de PVC y de grandes diáme-tros, próximos a los 100 mm ( 4”).
+•Tuberías secundarias: son las que conducen el agua desde las primarias hasta
+las terciarias. Pueden ser tanto de PVC como de P.E. y de diámetro inferior a lasanteriores.
+•Tuberías terciarias: son las tuberías que suministran el agua a los laterales o
+tubería porta-goteros. El diámetro depende de la longitud, generalmente ente 32y 50 mm.
+•Tuberías porta-goteros: son las tuberías que se colocan en las líneas de plan-
+tas y suministran el agua al cultivo. Son tuberías de P.E. y normalmente de diá-metro de 16 mm. No deben superar los 60 m. de longitud.
+9705242 Manual v5  18/10/2005  14:55  PÆgina 97Según el tamaño de la parcela y la distribución de la misma se pueden encontrar
+todos los tipos de tuberías citados anteriormente o faltar alguno de ellos.
+C.8.3. Tipo de emisor
+La misión del gotero consiste en que el agua que tiene una determinada presión,
+pase por uno o varios conductos en los que por rozamiento se va perdiendo dicha pre-sión, hasta llegar al orificio de salida, donde la presión es similar a la atmosférica, moti-vo por el que el agua sale gota a gota. En el mercado hay diferentes tipos de emisores,que se pueden clasificar de diferentes formas, atendiendo a distintos criterios, en elmercado principalmente tenemos:
+•Goteros de laberinto: son goteros turbulentos que hacen pasar el agua por lar-
+gos laberintos. Son sensibles a las obturaciones y el caudal depende de la pre-sión, de forma que si se colocan en terrenos en pendiente, las plantas de la zonabaja reciben más agua que las de la zona más alta.
+98Manual Básico de Viticultura en
+Tacoronte -Acentejo
+05242 Manual v5  18/10/2005  14:55  PÆgina 98•Goteros tipo vortex: Los modelos que existen en el mercado son muy sensibles
+a las obturaciones, ya que el diámetro de paso es inferior a los 0,6 mm.
+•Goteros autocompensantes: son goteros con régimen turbulento en los que se
+intenta obtener un caudal independiente de la presión. Normalmente estos gote-ros funcionan en un determinado rango de presiones, que suele ser entre 1 y 3-4atm., fuera de este rango el efecto autocompensante no se produce.
+C.8.4. Instalación
+La instalación del sistema de riego debe comenzar una vez que se hayan coloca-
+do los postes del sistema de conducción, momento en el que es conveniente repartirsobre el terreno las tuberías porta-goteros, que serán acopladas a las tuberías tercia-rias, las cuales generalmente se colocan de forma perpendicular a las filas de la espal-dera, se deben enterrar a una profundidad igual o superior a 1 m., nunca se deben ente-rrar a menor profundidad, ya que cuando se realice una labor en profundidad, como unsubsolado, se puede romper la tubería terciaria, siendo imposible volver a abrir unazanja para reparar dicha tubería. Luego se colocarán las tuberías secundarias y pri-marias, que en el caso de que pasen por zonas donde interfieran con las labores de cul-tivo es preferible que vayan enterradas, sobre todo si son de PVC, material que noresiste la radiación solar.
+C.8.5. Control de uniformidad
+Una de las labores fundamentales que se deben realizar cada campaña, consis-
+te en comprobar la uniformidad del sistema de riego, factor que nos dice como estamosregando. El método más extendido es el de Merriam yKeller (citado por RODRIGO
+LÓPEZ, J. et al. 1997), que consiste en elegir una unidad de riego, aquella que tengalos laterales más largos, o que riegue en contra pendiente, etc. y otra que sea repre-sentativa de la parcela. 
+9905242 Manual v5  18/10/2005  14:55  PÆgina 9905242 Manual v5  18/10/2005  14:55  PÆgina 100D.
+Anexos05242 Manual v5  18/10/2005  14:55  PÆgina 10105242 Manual v5  18/10/2005  14:55  PÆgina 102ANEXO 1. PARTES DE LA VID
+103
+05242 Manual v5  18/10/2005  14:56  PÆgina 10305242 Manual v5  18/10/2005  14:56  PÆgina 104ANEXO 2. DICCIONARIO VITÍCOLA2
+Abancalamientos: Constituyen los casos más sencillos de suelos transformados por
+la intervención humana, tiene como objetivo:
+a) operar sobre suelos poco diferenciados y distribuir la superficie de forma esca-
+lonada,
+b) operar sobre suelos con materiales endurecidos con lo que hay que excavar
+para lograr una profundidad, rellenable con material adecuado para que el siste-ma radicular de la viña se pueda extender y desarrollar sin muchos problemas. 
+Abonado de cobertera: Acción de abonar regularmente (ejemplo: cada año) un
+terreno para mantener activas sus características edafológicas. Este abonado contri-buye a establecer las condiciones óptimas para el favorable desarrollo del cultivo. Estaacción también es conocida como 'abonado de cultivo' o 'fertilización'. 
+Abonado de cultivo: Véase Abonado de cobertera. 
+Abonado de fondo: Término que se emplea para hacer referencia a la acción de abo-
+nar un terreno para ponerlo en explotación posteriormente. Esta acción también sesuele denominar 'enmienda'. Normalmente se requiere de unas once mil unidades(litros o kilogramos) de producto (ejemplo: carbonato cálcico, yeso agrícola, sulfato depotasa, superfosfato de cal, materia orgánica, etc) para llevar a cabo satisfactoriamen-te esta labor. 
+Ácaros: Son pequeños animales pertenecientes a la familia de las arañas. Los que
+producen daños en la vid, son fitófagos que se alimentan de las hojas, y a partir de cier-ta población producen un debilitamiento del viñedo.
+Acodo: Técnica que permite reemplazar cepas que faltan en las viñas plantadas.
+Consiste en enterrar a 25-30 cm. de profundidad, un sarmiento no separado de la planta
+1052. Extraído de la página Web www.tacovin.com05242 Manual v5  18/10/2005  14:56  PÆgina 105madre del que se hace emerger al exterior el extremo que lleva dos yemas, en el
+emplazamiento de la planta a sustituir. Cuando las raíces están suficientemente des-arrolladas se secciona el sarmiento que une el acodo al pie madre y se separan las dosplantas. Esta técnica es conocida popularmente como 'margullar la viña'. 
+Agostamiento: Proceso por el que un pámpano pasa de estado herbáceo a madera,
+llamándose en ese momento sarmiento.
+Almud: Medida de superficie de tierra, generalmente utilizada como medida agraria.
+Equivalencia con otras magnitudes: 1 almud = 437 m
+2= 1 celemín. Véase Hectárea,
+Fanegada y Celemín. 
+Alzado: Se produce con la colocación de una horqueta o tutor de madera que mantie-
+ne suspendida en el aire la cepa.
+Arrienda: Labor de suelo de poca profundidad que tiene como principal finalidad la eli-
+minación de hierbas del terreno. 
+Atado: Fijación de la cepa y de la madera dejada en la poda. Se hace necesario para
+mantener los sarmientos en el plano de conducción, para realizar el arqueado en algu-nos sistemas de poda y para permitir a la cepa que resista más la acción de los vientosen las formas altas. Para realizar el atado se emplean diferentes materiales: mimbre,hilo, alambre, paja de centeno, etc. 
+Atarjea: Véase Tajea. 
+Azufrar: Espolvorear las viñas con azufre, para preservarlas del oídio (ceniza) y otras
+plagas.
+Azufre: Elemento químico de fuerte acción fungicida. 
+Bagazo: Hollejo de la uva, restos que quedan tras el prensado.
+106Manual Básico de Viticultura en
+Tacoronte -Acentejo05242 Manual v5  18/10/2005  14:56  PÆgina 106Bago: Grano de uva. 
+Barbados: Planta procedente de vivero con raíz con un año de vida aproximadamente.
+Baya de uva: Grano de uva. Está compuesto de tres partes: Piel u hollejo, pulpa y
+semillas. Desde el punto de interés de la enología, la piel u hollejo aportan la mayoríade los aromas de la variedad y dan color al vino; la pulpa contiene el mosto, es decir, lamasa compuesta por agua, azúcares y ácidos fundamentalmente, y de forma excep-cional en algunas variedades (moscateles y malvasías) también algunos aromas; ypor último, las semillas las cuales casi carecen de interés, aportando exclusivamenteastringencia al vino. 
+Brotación: Momento en que la vid comienza a echar sus yemas, hojas o flores. 
+Botritis: Hongo microscópico (Botrytis cinerea) responsable de la podredumbre de la
+uva.
+Cadena: Véase Terraza. 
+Carga: Cantidad de yemas fértiles o francas dejadas en una cepa, de ello dependerá la
+futura producción de la misma.
+Ceniza: Véase Oídio.
+Celemín: Medida de superficie de tierra, generalmente utilizada como medida agra-
+ria. Equivalencia con otras magnitudes: 1 celemín = 1 almud = 437 m
+2.
+Cepa: Tronco de la vid, y por extensión, toda la planta.
+Chupón: Brote vigoroso que sale de la base de la cepa.
+Cruz de San Andrés: Modalidad local del sistema de espaldera doble. 
+10705242 Manual v5  18/10/2005  14:56  PÆgina 107Cierna: Fecundación de las flores que provoca el cuajado de los frutos de la vid.
+Daga: Véase Pulgar.
+Desborre: Primera manifestación del crecimiento de la yema; cuando en primavera
+las yemas comienzan a hincharse, las escamas protectoras que las recubren se abreny la borra aparece al exterior. 
+Descarga: También conocida como poda preparatoria o pre-poda. Consiste en supri-
+mir todas las maderas inútiles de la planta. 
+Deschuponar: Eliminar chupones.
+Deshojado: Consiste en suprimir un cierto número de hojas en la base de los racimos
+con el fin de obtener una mejor exposición de los racimos a la luz, el aire y el calor. Estaoperación se suele practicar en el momento de la pos-maduración. 
+Despampanar: Eliminar pámpanos de la cepa con la finalidad de mejorar su posterior
+desarrollo.
+Despunte: Consiste en la supresión de la punta de los ramos que llevan hojas jóve-
+nes. Practicada después de la floración favorece el cuajado. Facilita los trabajos demantenimiento, labores culturales y tratamientos. Con ello se busca limitar el creci-miento de la cepa.
+Díptero: Son insectos pertenecientes a la familia de las moscas.
+Ecotubo: Denominación coloquial del tubo traslúcido utilizado para proteger la cepa
+joven de la acción de los roedores y el viento; además, su instalación contribuye a faci-litar la aplicación de herbicidas.
+108Manual Básico de Viticultura en
+Tacoronte -Acentejo05242 Manual v5  18/10/2005  14:56  PÆgina 108Edad de la viña: Se considera viña joven la que tiene una edad inferior a 5 ó 7 años, a
+partir de los 30 años pasa a ser considerada como vieja. La viña comienza a rendirfavorablemente a partir del cuarto año de estar plantada. 
+Engazo: También denominado 'Raspón' o 'Escobajo'. Compuesto por el eje principal
+y ejes secundarios del racimo. 
+Enmienda: Véase Abonado de fondo. 
+Entrenudo: Véase Nudo.
+Envero: Término que representa el momento en que la uva cambia de color. Si la
+variedad es blanca, del verde pasará al amarillo; mientras que, si se trata de una varie-dad tinta, del verde pasará al rojo claro que se irá oscureciendo posteriormente.
+Entullo: Material de relleno para cubrir o nivelar terrenos; normalmente se trata de
+escombros, arena, materia vegetal u otros materiales.
+Entutorar: Acción de poner tutores. Conducir la cepa joven a lo largo de un tutor (éste
+puede ser de madera, caña, acero, etc).
+Eriófidos: Ácaros de pequeño tamaño que se alimentan de los brotes tiernos y hojas
+de la vid, provocando la enfermedad conocida como erinosis de la vid.
+Escandallo: Determinación del precio de coste o de venta de una mercancía teniendo
+en cuenta el material, el trabajo, el interés del capital, etc. 
+Escobajo: Véase Engazo. 
+Escombros: Materiales de desecho, por ejemplo procedentes de una cantera o de un
+derribo.
+10905242 Manual v5  18/10/2005  14:56  PÆgina 109Escorrentía: Conjunto de las corrientes superficiales que aparecen a consecuencia
+de las lluvias.
+Espada: Véase Vara.
+Espora: Órgano por el que se reproducen los hongos.
+Estaca: Trozo de sarmiento preparado para reproducir la vid.
+Estaquillado: Consiste en colocar en un medio favorable un trozo de sarmiento sepa-
+rado de la cepa, para que se desarrollen raíces y un sistema aéreo idéntico a la planta-madre. Esta técnica, únicamente puede ser utilizada en suelos ausentes de filoxera.
+Fanegada: Medida de superficie de tierra, habitualmente usada como medida agra-
+ria. Dependiendo del sitio geográfico en que se esté toma diferentes valores, en la islade Tenerife 1 fanegada se corresponde con 5.248 m
+2. Equivalencia con otras magnitu-
+des: 1 Fanegada = 5.248 m2= 12 almudes.
+Fertilización: Aplicación de fertilizantes (abonos químicos, estiércoles naturales,
+semillas para abono en verde, etc). Véase Abonado de cobertera. 
+Fitosanitarios: Productos específicos para evitar o eliminar plagas y enfermedades
+de la vid. 
+Filoxera: Parásito animal, pulgón (Phylloxera vastatrix), enemigo más temible de la
+vid. Ataca a las hojas, pámpanos y raíces de la vid. Las plantas atacadas se debilitanrápidamente, y progresivamente las plantas vecinas corren la misma suerte. A pesarde que se han utilizado diferentes medios para combatirlo, el verdadero método delucha es el injerto de variedades europeas sobre portainjertos resistentes.
+Gual: Variedad de uva blanca, caracterizada por un racimo mediano, cónico y com-
+pacto; siendo su uva mediana, elipsoidal y con piel gruesa. 
+110Manual Básico de Viticultura en
+Tacoronte -Acentejo05242 Manual v5  18/10/2005  14:56  PÆgina 110Hectárea: Medida de superficie de 10.000 m2, habitualmente usada como medida
+agraria; símbolo Ha. Equivalencia con otras magnitudes: 1 Ha =10.000 m2= 23 almudes.
+Hifas: Ramificaciones vegetativas de un hongo. 
+Hijos: Véase nietos o yemas prontas.
+Hollejo: Ver baya o uva.
+Horqueta: Utensilio agrícola a modo de tenedor constituido por una rama bifurcada
+que se emplea para diversas operaciones agrícolas, entre ellas para levantar la viña.Ver Levantada de viña. 
+Horquetear: Levantar la viña del suelo con horquetas.
+Injertar: Colocar en una rama o en el tronco de una vid una rama de otra con alguna
+yema, para que quede unida a aquélla y brote con su savia.
+Laboreo: Conjunto de operaciones de cultivo que se realizan en el suelo con el objeto
+de lograr un desarrollo satisfactorio de la vid, actuando sobre sus componentes físi-cos, químicos y biológicos. Comprende las siguientes tareas: cava, arrienda, tracto-reo, etc.
+Levantada de viña: Consiste en elevar la parra para evitar que el racimo esté en con-
+tacto directo con el suelo y facilitar su estado sanitario y desarrollo, así como posterior-mente la vendimia. Se utiliza en el sistema tradicional de cultivo. Comprende dos tare-as: alzado y retirada de horquetas.
+Listán: Dícese de una variedad de uva de grano grande y muy jugoso, que puede ser
+blanca o negra, y que proporciona mosto de gran calidad. Véase Listán blanco y Listánnegro.
+11105242 Manual v5  18/10/2005  14:56  PÆgina 111Listán blanco: Variedad de uva blanca, caracterizada por un racimo mediano, cónico,
+de baya esférica y también mediana.
+Listán negro: Variedad de uva tinta, caracterizada por racimo de tamaño mediano -
+grande, de forma regular, cónico y compacto. La baya es mediana, negra y redonda,de jugo incoloro, pulpa carnosa y piel fina - mediana. 
+Lloro de vid: Savia que sale de la vid a nivel de las heridas de la poda. Los lloros
+corresponden a la entrada en actividad del sistema radicular por acción de la elevaciónde la temperatura del suelo. Se produce una activación de la respiración celular, unarecuperación de la absorción de agua y de elementos minerales, así como una movili-zación de las reservas. La cantidad de líquido que se derrama puede alcanzar hastalos cinco litros por cepa según el patrón y la edad de la misma.
+Macho: En una cadena o huerta, dícese del conjunto de surcos paralelos comprendi-
+dos entre dos surcos perpendiculares.
+Májara: Hilera de parras en un viñedo. También denominado 'Marja'. 
+Malvasía: Variedad de uva blanca, caracterizada por racimo cilíndrico alargado de
+compacidad media. La baya es redonda pruinosa, de tamaño medio, jugo incoloro,pulpa carnosa y sabor perfumado. Variedad calificada como excelente, pues es la másaromática de cuantas se conocen en el archipiélago canario.
+Mamón: Véase Chupón.
+Marco de plantación: Consiste en marcar el emplazamiento de cada cepa de mane-
+ra que se obtenga un reparto regular que facilite posteriormente la acción de los aperosagrícolas. El espacio ocupado por cada cepa influye sobre las posibilidades de instala-ción de la masa radicular, el potencial de la planta y el desarrollo aéreo de la misma.
+112Manual Básico de Viticultura en
+Tacoronte -Acentejo05242 Manual v5  18/10/2005  14:56  PÆgina 112Margullar la viña: Meter bajo la tierra un sarmiento de viña largo sin separarlo del
+tronco, dejando fuera el extremo, para que eche raíces la parte enterrada y forme unanueva planta. Véase 'acodo'.
+Marja: Véase Májara. 
+Marras: Plantas que se mueren después del trasplante.
+Masa foliar: Número de hojas en cada cepa. Al actuar cada hoja como una pantalla
+solar que capta energía que influirá en el crecimiento y maduración de los racimos deuvas, un determinado nivel de masa foliar supondrá un mejor proceso vegetativo de lavid.
+Masa radicular: Red de raíces surgidas a partir de la ramificación de la raíz de la vid.
+Medianero: Persona que explota tierras a medias, o sea, repartiendo los productos
+con el propietario de ellas.
+Micelio: Conjunto de hifas entrecruzadas entre sí, determinando el cuerpo del hongo.
+Mildiu: Enfermedad criptogámica. Hongo microscópico (Plasmopara viticola) que
+forma en las hojas, tallos, y frutos de la vid una especie de moho blanquecino queacaba por destruirlos; se combate generalmente fumigando la planta con sulfato decobre.
+Negramoll: Variedad de uva tinta, caracterizada por racimo mediano de forma cónico
+- ramoso y poco compacto. La baya es mediana, esférica y de pulpa carnosa. Es unavariedad utilizada en coupage con listán negro, para la elaboración de vinos tintos.
+Nietos: Véase yemas prontas.
+11305242 Manual v5  18/10/2005  14:56  PÆgina 113Nudo: Abultamiento en el sarmiento a nivel del cual están insertas las hojas, zarcillos,
+yemas, etc. La distancia que separa dos nudos se denomina 'entrenudos'; es decir,que podemos aceptar que un sarmiento está constituído por una sucesión de entrenu-dos.
+Oídio: Enfermedad criptogámica, también conocida como 'Ceniza'. Hongo parásito
+(Uncinula necator) que produce la enfermedad del mismo nombre en la vid y otras
+plantas; se desarrolla generalmente sobre todos los órganos verdes. El único medioeficaz de combatir el oídio es la lucha química. 
+Operaciones en verde: Se lleva a cabo durante el período activo de vegetación.
+Comprende las siguientes tareas: deshojado, atado de varas, y poda en verde. 
+Orujo: Restos del mosto después de prensado. Está compuesto por restos de hollejo,
+raspón, pepitas, etc.
+Pámpanos: Sarmientos sin uvas. Según su estado de crecimiento también se les
+conoce como hijos o nietos de la cepa.
+Parra: Planta de vid. También denominada comúnmente como cepa o pie.
+Parral: 1. Plantación de parras. 2. Conjunto de parras y un armazón que las sostiene.
+Plantación: Podemos distinguir hasta tres tipos de estadios de la planta (vid) a culti-
+var, dependiendo de la fase de crecimiento de la misma, así nos encontramos quepodemos plantar Varas (estado 0), Plantas vivas (estado 1), o Barbados (estado 2). 
+Pipa: Medida de capacidad para líquidos de 480 litros. 
+Pitón: Véase pulgar.
+114Manual Básico de Viticultura en
+Tacoronte -Acentejo05242 Manual v5  18/10/2005  14:56  PÆgina 114Penciar entre poda guyot simple o doble.
+Poda Guyot simple: Se trata de una poda mixta sobre un tronco corto, es decir, la
+cepa está formada por un tronco prolongado que lleva un pulgar con dos yemas y unavara cuya longitud dependerá del vigor de la cepa.
+Poda Guyot doble: La poda está constituida por un tronco con dos brazos que llevan
+cada uno un pulgar y una vara.
+Poda larga: Poda en las que en el sarmiento únicamente se dejan varas (espadas),
+con cuatro o más yemas.
+Poda mixta: Poda en la que se combinan pulgares y varas.
+Podredumbre ácida: Enfermedad de los racimos provocado por una asociación
+entre levaduras y bacterias, favorecidas por la acción de la mosca del vinagre.
+Podredumbre gris: Enfermedad criptogámica generada por hongo (Botrytis cine-
+rea). Este hongo ataca a múltiples plantas; en la vid, se manifiesta en los órganos her-
+báceos (hojas, brotes, inflorescencias), en las estacas-injertos y sobre los racimos. Lamejor forma de combatir la podredumbre es la realización de técnicas culturales pre-ventivas; la lucha química es difícil de realizar.
+Podredumbre noble: Inoculación de los racimos con Botrytis cinerea en condiciones
+controladas para que se produzca la deshidratación de los racimos sin que afecte a lacalidad sanitaria de los mismos, para elaborar vinos licorosos (Sauternes en Francia yTokay en Hungría).
+Productividad de la viña: Entre los 10 y los 20 años de edad de la vid, es cuando se
+obtiene la máxima producción. Existe una alta varianza en la productividad ya que éstadepende del sistema de conducción empleado, el ciclo vegetativo, etc.
+11505242 Manual v5  18/10/2005  14:56  PÆgina 115Pulgar: Trozo de sarmiento con un número variable de yemas que se deja al podar la
+cepa. También llamado pitón o daga. 
+Pulpa de la uva: Ver Baya de uva.
+Racimo: Tras la floración, la inflorescencia recibe el nombre de racimo. Está constitui-
+do por el eje principal y los ejes secundarios, que forman el raspón que lleva los frutos,llamados bayas. 
+Raspón: Ver Engazo. 
+Reconversión: En principio, podemos distinguir entre reconversión del sistema de
+conducción (ejemplo: de tradicional a espaldera), reconversión de variedad (ejemplo:cambiar listán negro por negramoll), reconversión de plantación conjuntamente convariedad (ejemplo: sustituir viña vieja de marmajuelo por viña nueva de listán blanco).
+Replanteo de postes: Señalar la posición de cada poste en el terreno, una vez traza-
+das las calles.
+Riego de la viña: Consiste en aportar agua al terreno para mantener una reserva
+hídrica en el suelo a disposición de la planta. 
+Rotavator: Apero agrícola. Sirve para mover superficialmente la tierra (ejemplo: con
+la finalidad de eliminar la hierba). Se utiliza una o dos veces al año, además de cuandose preparan los terrenos.
+Sarmiento: Rama de la vid.
+Sistema de conducción: Método de organizar y dirigir el cultivo de la viña. Conjunto
+de técnicas escogidas por el viticultor para el establecimiento de la viña y el control desu desarrollo. El sistema de conducción viene caracterizado por los parámetrossiguientes: modo de implantación de las cepas al nivel de una parcela; forma dada a la
+116Manual Básico de Viticultura en
+Tacoronte -Acentejo05242 Manual v5  18/10/2005  14:56  PÆgina 116cepa; importancia y modo de reparto de la vegetación y de los racimos en el transcurso
+del período activo de vegetación. Existen diferentes sistemas de conducción del viñe-do, por ejemplo: sistema de conducción en espalderas, sistema de conducción enparral bajo, etc. Véase Sistema de espaldera, Sistema tradicional, Sistema de parralbajo.
+Sistema de espaldera: Sistema de cultivo del viñedo. Sistema de conducción eleva-
+do, constituido por un conjunto de alambres paralelos y horizontales, sostenidos porpostes verticales equidistantes. Dentro de este sistema podemos destacar la prácticade cortina sencilla, o bien la práctica de doble cortina de vegetación (Lira, cordón cuá-druple, doble cortina con caída). Véase Cruz de San Andrés. 
+Sistema de parral bajo: Sistema de conducción elevado para el cultivo de la viña. En
+este sistema, los pámpanos reposan sobre un soporte horizontal situado generalmen-te a 1 metro de altura.
+Sistema tradicional: Sistema de cultivo del viñedo. También conocido como de ras-
+tras. Consiste en la elaboración de parrales desmontables construidos con horquetas(o tutores), los cuales se montan cada año a principios de verano, quedando la vid dis-puesta en plano horizontal a 60 centímetros del suelo; tras la vendimia, se retiran lashorquetas quedando la vid tendida sobre el suelo hasta el año siguiente.
+Nota: Para pasar de un sistema de cultivo tradicional a uno de espaldera, no es indis-
+pensable pero sí es aconsejable, dejar el terreno libre (arranque de viñas) y luego ins-talar las nuevas cepas.
+Sobreinjertar: Injertar sobre una variedad que a su vez está sobre un patrón autorizado.
+Sorribas: Consiste en la creación de nuevos suelos en áreas de rocas o materiales
+estériles, aportando masas de tierras de zonas donde existen espesores de suelo quehacen posible el arranque y transporte de la misma. Las propiedades de los suelos
+11705242 Manual v5  18/10/2005  14:56  PÆgina 117sorribados dependerán del tipo de material que se aporte y la disposición en que sean
+colocados.
+Subsolador: Apero agrícola de labor profunda (en torno a 60 - 70 cm.). Subsolar es
+equivalente a arar. Es utilizado básicamente para la preparación del terreno. Lo ideal,posteriormente, es utilizar el subsolador una vez cada dos años. 
+Subir la viña: Referido al sistema de espalderas, implica el atado de las varas en
+dicha estructura mecánica, a medida que la cepa se va desarrollando. También sepuede encontrar como 'Atar varas'. 
+Suela de labor: Zona del terreno apelmazada por un excesivo numero de pasadas
+del rotavator.
+Surco: Hendidura que se hace en la tierra, principalmente con un arado o una asada. 
+Tajea: Canales pequeños, generalmente de mampostería, que sirve para conducir el
+agua en las huertas.
+Talud: Pendiente de tierra que separa dos terrazas.
+Terraza: Trozo de terreno, generalmente en serie escalonada con otros, arrellanado y
+dispuesto horizontalmente en la ladera de una montaña, y sujeto con un muro, gene-ralmente de piedras superpuestas sin argamasa, para cultivarlo. También conocidocomo 'cadena'. 
+Terruño: Trozo de tierra con viña o zona con caracteres peculiares que dan personali-
+dad a los vinos producidos en ella. 
+Tintilla: Variedad de uva negra, de bago pequeño y racimo muy apretado, que le da un
+color muy tinto al mosto. 
+118Manual Básico de Viticultura en
+Tacoronte -Acentejo05242 Manual v5  18/10/2005  14:56  PÆgina 118Tiñuela: Enfermedad criptogámica producida por hongo de tipo fumagina. Se carac-
+teriza por el ennegrecimiento de troncos y sarmientos afectados. Se combate con pro-ductos anticriptogámicos combinados con tratamientos para evitar el desarrollo de lamangla (cochinilla).
+Tronco: Tallo de una planta cuando es leñosa, por ejemplo, la vid.
+Tutor: Palo, caña, etc., que bien se pone al lado de una planta para sujetar a él su tallo
+mientras es tierno a fin de que no se tuerza o rompa; o bien, se pone para guiar el des-arrollo de la planta. 
+Uva: Véase Baya de uva. 
+Uvero: Sarmiento con uva.
+Vara: Rama de la cepa limpia de hojas.
+Variedad: Tipo de uva de características distintivas. Todas las variedades utilizadas
+para la elaboración de vinos pertenecen a una sola especie: Vitis vinifera.
+Variedad autorizada: Tipo de uva cuyo uso está autorizado para la producción de
+vinos de una determinada Denominación de Origen.
+Variedad preferente: Calificación otorgada en una Denominación de Origen a un tipo
+de uva característico o de más alta calidad de los existentes en la zona, en ocasiones,a aquellas variedades que aportan caracteres mejorantes a los vinos.
+Vecera: Se aplica a las vides que alternan los años de mucho fruto con los de poco o
+nada.
+Vendimia: Operación de recolectar la uva.
+11905242 Manual v5  18/10/2005  14:56  PÆgina 119Vidueño: Superficie de viñedo plantada toda ella con una sola variedad de uva. En
+ocasiones también hace referencia al conjunto de variedades mezcladas en una viñaen proporciones desconocidas.
+Vinífera: Una de las especies del género 'vitis', la única capaz de producir frutos aptos
+para el consumo humano, bien directamente como uvas de mesa, pasas o mostos,bien transformando estos últimos en vino.
+Vid: Planta trepadora cuyo fruto es la uva. 
+Vijariego: Variedad de uva blanca, caracterizada por un racimo mediano - grande con
+uva carnosa y ovoide.
+Viña: Terreno plantado de vides. 
+Yema: Brote sin desarrollar del sarmiento de la vid.
+Yema adventicia: Se trata de la yema situada en la madera vieja debajo de la corteza,
+no visible, que si se desarrolla dará origen a los chupones.
+Yema axilar: Situada en cada nudo y en la axila de la hoja, formada por la yema laten-
+te y la yema pronta.
+Yema bacilar: Sinónimo de yema casquera.
+Yema casquera: También denominada 'yema bacilar'; es la yema situada entre el sar-
+miento y la madera vieja de la cepa.
+Yema latente: Yemas formadas en la axila de las hojas; no se desarrollan el año de su for-
+mación sino que quedan en estado de reposo hasta la primavera siguiente.
+120Manual Básico de Viticultura en
+Tacoronte -Acentejo05242 Manual v5  18/10/2005  14:56  PÆgina 120Yema Pronta: Yemas formadas en la axila de las hojas; que se desarrollan el año de
+su formación.
+Yema terminal: Yema situada en el extremo del pámpano verde en crecimiento. Esta
+yema asegura el crecimiento en longitud del pámpano por multiplicación celular y dife-renciación de nudos, hojas, yemas y zarcillos. Cae en la parada del crecimiento (envero).
+Zarcillo: Ramificación delgada de la vid con tendencia a enrollarse en otras ramas.
+Zoospora: Espora provista de apéndices que le permiten moverse.
+12105242 Manual v5  18/10/2005  14:56  PÆgina 12105242 Manual v5  18/10/2005  14:56  PÆgina 122Foto nº1 .- ESTADO A 
+(Yema de invierno)
+Foto nº2 .- ESTADO B 
+(Yema de algodón)Foto nº3 .- ESTADO C
+(Punta verde)
+Foto nº4 .- ESTADO D
+(Salida de hojas)
+123ANEXO 3. ESTADOS FENOLÓGICOS
+05242 Manual v5  18/10/2005  14:56  PÆgina 123Foto nº5 .- ESTADO E
+(Hojas extendidas)
+Foto nº6 .- ESTADO F
+(Racimos visibles)Foto nº7 .- ESTADO G
+(Racimos separados)
+Foto nº8 .- ESTADO H
+(Botones florales)
+124Manual Básico de Viticultura en
+Tacoronte -Acentejo
+05242 Manual v5  18/10/2005  14:57  PÆgina 124Foto nº9 .- ESTADO I
+(Floración)
+Foto nº10 .- ESTADO J
+(Cuajado)Foto nº11 .- ESTADO K
+(Tamaño guisante)
+Foto nº12 .-ESTADO L
+(Crecimiento vegetativo)
+125
+05242 Manual v5  18/10/2005  14:57  PÆgina 125Foto nº13 .- ESTADO M1
+(Inicio envero)
+Foto nº14 .-ESTADO M2
+(Pleno envero)Foto nº15 .- ESTADO N
+(Maduración)
+126Manual Básico de Viticultura en
+Tacoronte -Acentejo
+05242 Manual v5  18/10/2005  14:58  PÆgina 126ANEXO 4. ESTUDIO DE VARIEDADES
+Desde el 2001 se viene realizando un estudio comparativo de ocho variedades
+tintas cultivadas dentro de la D.O. Tacoronte-Acentejo, dicho estudio ha sido realizadopor la SAT 7793 Viticultores de Tenerife y se ha prolongado hasta el 2004. Las varieda-des estudiadas han sido, Listán Negro, Negramolle, Castellana y cinco variedades delas recientemente introducidas: Tempranillo, Merlot, Ruby Cabernet, CabernetSauvignon y Syrah, todas autorizadas dentro de esta Denominación de Origen.
+Dentro de los numerosos datos obtenidos podemos destacar los siguientes:
+127/MT80/MT65/MT82/MT193/MT77/MT69/MT84/MT82/MT79/MT83/MT32/MT69/MT83/MT84/MT85/MT68/MT73/MT65/MT68/MT79/MT83
+/MT86/MT65/MT82/MT73/MT69/MT68/MT65/MT68/MT69/MT83
+/MT70/MT105/MT110/MT99/MT97/MT32/MT49/MT40/MT56/MT48/MT32/MT109/MT41
+/MT70/MT105/MT110/MT99/MT97/MT32/MT50/MT40/MT49/MT53/MT48/MT32/MT109/MT41
+/MT70/MT105/MT110/MT99/MT97/MT32/MT51/MT40/MT51/MT53/MT48/MT32/MT109/MT41
+/MT70/MT105/MT110/MT99/MT97/MT32/MT52/MT40/MT53/MT55/MT53/MT32/MT109/MT41
+/MT70/MT105/MT110/MT99/MT97/MT32/MT53/MT40/MT54/MT50/MT53/MT32/MT109/MT41
+/MT70/MT105/MT110/MT99/MT97/MT32/MT54/MT40/MT54/MT53/MT48/MT32/MT109/MT41/MT89/MT101/MT109/MT97/MT115/MT100/MT101/MT32/MT99/MT97/MT114/MT103/MT97/MT89/MT101/MT109/MT97/MT98/MT114/MT111/MT116/MT97/MT100/MT97/MT37/MT68/MT101/MT115/MT98/MT111/MT114/MT114/MT101/MT112/MT72/MT65/MT99/MT105/MT100/MT101/MT122/MT84/MT111/MT116/MT97/MT108/MT40/MT103/MT114/MT47/MT108/MT41/MT71/MT114/MT97/MT100/MT111/MT65/MT108/MT99/MT111/MT104/MT243/MT108/MT105/MT99/MT111/MT80/MT114/MT111/MT98/MT97/MT108/MT100/MT101/MT80/MT101/MT115/MT111/MT32/MT100/MT101/MT71/MT114/MT97/MT110/MT111/MT40/MT103/MT114/MT41/MT65/MT110/MT116/MT111/MT99/MT105/MT97/MT110/MT111/MT115/MT40/MT109/MT103/MT114/MT47/MT108/MT41 /MT73/MT80/MT84
+/MT76/MT105/MT115/MT116/MT225/MT110/MT32/MT78/MT101/MT103/MT114/MT111
+/MT78/MT101/MT103/MT114/MT97/MT109/MT111/MT108/MT108/MT101/MT76/MT105/MT115/MT116/MT225/MT110/MT32/MT78/MT101/MT103/MT114/MT111
+/MT77/MT101/MT114/MT108/MT111/MT116
+/MT82/MT117/MT98/MT121/MT32/MT67/MT97/MT98/MT101/MT114/MT110/MT101/MT116/MT67/MT97/MT98/MT101/MT114/MT110/MT101/MT116
+/MT83/MT97/MT117/MT118/MT105/MT103/MT110/MT111/MT110
+/MT76/MT105/MT115/MT116/MT225/MT110/MT32/MT78/MT101/MT103/MT114/MT111
+/MT67/MT97/MT115/MT116/MT101/MT108/MT108/MT97/MT110/MT97
+/MT76/MT105/MT115/MT116/MT225/MT110/MT32/MT78/MT101/MT103/MT114/MT111/MT84/MT101/MT109/MT112/MT114/MT97/MT110/MT105/MT108/MT108/MT111/MT77/MT101/MT114/MT108/MT111/MT116
+/MT83/MT121/MT114/MT97/MT104
+/MT76/MT105/MT115/MT116/MT225/MT110/MT32/MT78/MT101/MT103/MT114/MT111/MT78/MT101/MT103/MT114/MT97/MT109/MT111/MT108/MT108/MT101/MT78/MT101/MT103/MT114/MT97/MT109/MT111/MT108/MT108/MT101 /MT49/MT55/MT44/MT48/MT53
+/MT49/MT55/MT44/MT49/MT56
+/MT49/MT52/MT44/MT55/MT51
+/MT50/MT49/MT44/MT52/MT53
+/MT49/MT51/MT44/MT49/MT54
+/MT49/MT57/MT44/MT49/MT54/MT49/MT52/MT44/MT54/MT53
+/MT50/MT52/MT44/MT56/MT51
+/MT50/MT49/MT44/MT56/MT49
+/MT49/MT57/MT44/MT52/MT53/MT50/MT51/MT44/MT55/MT53
+/MT49/MT57/MT44/MT52/MT56
+/MT49/MT57/MT44/MT53/MT56
+/MT52/MT55/MT44/MT49/MT54
+/MT52/MT57/MT44/MT57/MT56/MT57/MT44/MT55/MT49
+/MT57/MT44/MT53/MT53
+/MT49/MT48/MT44/MT48/MT51
+/MT49/MT50/MT44/MT53/MT49
+/MT49/MT48/MT44/MT52/MT49/MT49/MT51/MT44/MT48/MT54/MT49/MT48/MT44/MT49/MT56
+/MT49/MT52/MT44/MT52/MT56
+/MT49/MT52/MT44/MT48/MT49
+/MT49/MT50/MT44/MT51/MT51/MT49/MT57/MT44/MT50/MT51
+/MT49/MT54/MT44/MT50/MT51
+/MT49/MT55/MT44/MT56/MT56
+/MT51/MT50/MT44/MT48/MT56
+/MT51/MT50/MT44/MT56/MT49/MT53/MT56/MT44/MT49/MT50
+/MT55/MT50/MT44/MT54/MT48
+/MT53/MT51/MT44/MT50/MT56
+/MT53/MT57/MT44/MT57/MT56
+/MT56/MT48/MT44/MT51/MT53/MT54/MT56/MT44/MT55/MT52/MT54/MT57/MT44/MT53/MT50
+/MT53/MT57/MT44/MT57/MT56
+/MT54/MT53/MT44/MT48/MT49
+/MT55/MT49/MT44/MT56/MT53/MT56/MT48/MT44/MT56/MT53
+/MT56/MT51/MT44/MT51/MT49
+/MT57/MT49/MT44/MT49/MT52
+/MT54/MT55/MT44/MT57/MT55/MT54/MT53/MT44/MT54/MT56/MT51/MT44/MT54
+/MT51/MT44/MT56
+/MT51/MT44/MT55
+/MT51/MT44/MT56
+/MT51/MT44/MT55/MT51/MT44/MT54/MT51/MT44/MT54
+/MT51/MT44/MT55
+/MT51/MT44/MT55
+/MT52/MT44/MT48/MT51/MT44/MT54
+/MT51/MT44/MT54
+/MT51/MT44/MT55
+/MT51/MT44/MT56/MT51/MT44/MT55/MT52/MT44/MT53/MT52
+/MT51/MT44/MT57/MT57/MT53
+/MT52/MT44/MT50/MT52/MT53
+/MT52/MT44/MT49/MT51/MT53
+/MT52/MT44/MT56/MT50/MT53
+/MT54/MT44/MT52/MT52
+/MT53/MT44/MT52
+/MT53/MT44/MT51/MT57
+/MT56/MT44/MT52/MT50
+/MT51/MT44/MT56/MT48/MT54/MT44/MT49/MT56
+/MT54/MT44/MT55/MT54
+/MT54/MT44/MT49/MT51
+/MT52/MT44/MT55/MT50
+/MT53/MT44/MT51/MT48/MT49/MT49/MT44/MT57/MT48
+/MT49/MT50/MT44/MT49/MT55
+/MT49/MT50/MT44/MT55/MT48
+/MT49/MT51/MT44/MT52/MT48
+/MT49/MT52/MT44/MT49/MT56/MT49/MT51/MT44/MT50/MT55/MT49/MT51/MT44/MT52/MT52
+/MT49/MT50
+/MT49/MT49/MT44/MT51/MT51
+/MT49/MT50/MT44/MT56/MT50/MT49/MT51/MT44/MT52/MT53
+/MT49/MT50/MT44/MT57/MT57
+/MT49/MT51/MT44/MT50/MT49
+/MT49/MT51/MT44/MT48/MT49
+/MT49/MT50/MT44/MT56/MT57/MT49/MT44/MT57/MT52
+/MT50/MT44/MT52/MT51
+/MT50/MT44/MT53/MT51
+/MT50/MT44/MT53/MT56
+/MT49/MT44/MT51/MT49
+/MT49/MT44/MT49/MT49/MT53
+/MT49/MT44/MT50/MT56
+/MT50/MT44/MT57/MT56
+/MT49/MT44/MT52/MT54
+/MT50/MT44/MT55/MT48/MT49/MT44/MT55/MT54
+/MT48/MT44/MT57/MT53
+/MT50/MT44/MT51/MT55/MT50/MT44/MT53/MT49/MT49/MT44/MT53/MT49/MT49/MT55/MT54/MT44/MT53/MT48
+/MT49/MT51/MT57/MT44/MT51/MT51
+/MT49/MT49/MT57/MT44/MT56/MT51
+/MT49/MT53/MT53/MT44/MT49/MT54
+/MT50/MT49/MT51/MT44/MT53/MT48/MT53/MT48/MT52/MT44/MT49/MT54/MT50/MT53/MT48/MT44/MT56/MT51
+/MT54/MT53/MT44/MT56/MT51
+/MT49/MT56/MT50/MT44/MT56/MT51
+/MT54/MT53/MT44/MT52/MT54
+/MT50/MT51/MT56/MT44/MT51/MT51
+/MT51/MT57/MT49
+/MT55/MT50/MT44/MT56/MT51
+/MT54/MT51/MT50/MT55/MT49/MT44/MT54/MT54
+/MT50/MT49/MT44/MT54/MT52
+/MT50/MT53/MT44/MT51/MT48
+/MT49/MT56/MT44/MT54/MT51
+/MT51/MT51/MT44/MT52/MT51
+/MT51/MT49/MT44/MT52/MT48/MT51/MT52/MT44/MT57/MT53/MT51/MT48/MT44/MT49/MT57
+/MT51/MT49/MT44/MT49/MT52
+/MT51/MT54/MT44/MT52/MT54
+/MT50/MT52/MT44/MT51/MT57/MT50/MT55/MT44/MT53/MT56
+/MT50/MT52/MT44/MT55/MT54
+/MT50/MT51/MT44/MT49/MT48/MT49/MT56/MT44/MT48/MT55/MT50/MT51/MT44/MT48/MT5305242 Manual v5  18/10/2005  14:58  PÆgina 12705242 Manual v5  18/10/2005  14:58  PÆgina 128ANEXO 5. BIBLIOGRAFÍA Y PUBLICACIONES DE INTERÉS.
+• ÁLVAREZ DE LA PAZ, F.J. 2003. Efectos del ácido giberélico sobre la varie-
+dad ( Vitis vinifera L ) Listán Negro en la Comarca Tacoronte – Acentejo .
+Trabajo Final de Carrera. Centro superior de Ciencias Agrarias. Universidad de LaLaguna.
+• ÁLVAREZ DE LA PAZ, F.J. y REYES JORDÁN, L. 2002. Curso de plagas y
+enfermedades de la vid . Cursos de viticultura del Consejo Regulador Tacoronte-
+Acentejo.
+• CONSEJO REGULADOR DE LA DENOMINACIÓN DE ORIGEN TACORONTE-
+ACENTEJO. http://www.tacovin.com
+• CONSEJO REGULADOR TACORONTE-ACENTEJO, 2002. Moderniza tu viñe-
+do .
+• GÓMEZ GONZÁLEZ, A. et al. 1998. Curso de poda de la vid . Edita C. R.
+Tacoronte – Acentejo.
+• HIDALGO FERNÁNDEZ-CANO, L. e HIDALGO TOGORES, J. 2001. Ingeniería y
+mecanización vitícola . Mundi-Prensa. Madrid.
+• MARTÍNEZ VALERO, R. 2001. Prácticas integradas de viticultura. 1º Ed.
+Mundi-Prensa. Madrid.
+• MINISTERIO DE AGRICULTURA, PESCA Y ALIMENTACIÓN, 1998. Los parási-
+tos de la vid. Estrategias de protección razonada. 4º Edición, Ed. Mundi-
+Prensa, Madrid.
+• PEARSON, R. y GOHEEN, A. 1996. Plagas y enfermedades de la vid. The
+American Phytopathological Society. Ed. Mundi-Prensa. Madrid.
+• RODRIGO LÓPEZ, J.  et al. 1997. Riego localizado. 2ª Ed. Mundi- Prensa, Madrid.
+• REYES JORDÁN, L. 2004. Estudio comparativo de ocho variedades de uva
+tinta ( Vitis vinifera L. ) cultivadas dentro de la D.O. Tacoronte-Acentejo.
+Trabajo Final de Carrera. Centro superior de Ciencias Agrarias. Universidad de LaLaguna.
+• REYNIER, A. 2002. Manual de Viticultura. 6º Ed. Mundi-Prensa. Madrid.
+• SUÁREZ SOSA, S. et al. 2002. La reconversión del viñedo en función de los
+costes de producción: la nueva OCM del vino. 2º Ed. Hoja divulgativa del
+Cabildo de Tenerife.
+12905242 Manual v5  18/10/2005  14:58  PÆgina 12905242 Manual v5  18/10/2005  14:58  PÆgina 130ANEXO 6. DIRECCIONES Y TELÉFONOS DE INTERÉS.
+131/MT69/MT110/MT116/MT105/MT100/MT97/MT100 /MT68/MT105/MT114/MT101/MT99/MT99/MT105/MT243/MT110 /MT84/MT101/MT108/MT233/MT102/MT111/MT110/MT111 /MT70/MT97/MT120 /MT69/MT45/MT77/MT97/MT105/MT108/MT32/MT47/MT32/MT87/MT101/MT98
+/MT67/MT69/MT68/MT69/MT82
+/MT84/MT97/MT99/MT111/MT114/MT111/MT110/MT116/MT101/MT45
+/MT65/MT99/MT101/MT110/MT116/MT101/MT106/MT111
+/MT67/MT111/MT110/MT115/MT101/MT106/MT101/MT114/MT237/MT97/MT32/MT100/MT101
+/MT65/MT103/MT114/MT105/MT99/MT117/MT108/MT116/MT117/MT114/MT97/MT44
+/MT71/MT97/MT110/MT97/MT100/MT101/MT114/MT105/MT97/MT32/MT121
+/MT80/MT101/MT115/MT99/MT97/MT32/MT121
+/MT65/MT108/MT105/MT109/MT101/MT110/MT116/MT97/MT99/MT105/MT243/MT110
+/MT40/MT68/MT105/MT114/MT101/MT99/MT99/MT105/MT243/MT110
+/MT71/MT114/MT97/MT108/MT46/MT32/MT100/MT101
+/MT68/MT101/MT115/MT97/MT114/MT114/MT111/MT108/MT108/MT111
+/MT65/MT103/MT114/MT237/MT99/MT111/MT108/MT97/MT41
+/MT71/MT111/MT98/MT105/MT101/MT114/MT110/MT111/MT32/MT100/MT101
+/MT67/MT97/MT110/MT97/MT114/MT105/MT97/MT115
+/MT67/MT111/MT110/MT115/MT101/MT106/MT111
+/MT82/MT101/MT103/MT117/MT108/MT97/MT100/MT111/MT114/MT32/MT100/MT101
+/MT108/MT97/MT32/MT68/MT46/MT79/MT46
+/MT84/MT97/MT99/MT111/MT114/MT111/MT110/MT116/MT101/MT45
+/MT65/MT99/MT101/MT110/MT116/MT101/MT106/MT111
+/MT69/MT120/MT116/MT101/MT110/MT115/MT105/MT243/MT110
+/MT65/MT103/MT114/MT97/MT114/MT105/MT97/MT32/MT100/MT101
+/MT84/MT97/MT99/MT111/MT114/MT111/MT110/MT116/MT101
+/MT83/MT46/MT65/MT46/MT84/MT46
+/MT86/MT105/MT116/MT105/MT99/MT117/MT108/MT116/MT111/MT114/MT101/MT115/MT32/MT100/MT101
+/MT84/MT101/MT110/MT101/MT114/MT105/MT102/MT101/MT99/MT47/MT32/MT74/MT117/MT101/MT122/MT32/MT74/MT111/MT114/MT103/MT101
+/MT71/MT101/MT114/MT99/MT237/MT97/MT32/MT71/MT111/MT110/MT122/MT225/MT108/MT101/MT122/MT44
+/MT115/MT47/MT110/MT44/MT32/MT84/MT97/MT99/MT111/MT114/MT111/MT110/MT116/MT101/MT46
+/MT67/MT46/MT80/MT46/MT32/MT51/MT56/MT51/MT53/MT48
+/MT65/MT118/MT100/MT97/MT46/MT32/MT74/MT111/MT115/MT233
+/MT77/MT97/MT110/MT117/MT101/MT108/MT32/MT71/MT117/MT105/MT109/MT101/MT114/MT225/MT44
+/MT56/MT46/MT32/MT69/MT100/MT105/MT102/MT105/MT99/MT105/MT111/MT115
+/MT77/MT250/MT108/MT116/MT105/MT112/MT108/MT101/MT115/MT32/MT73/MT73
+/MT67/MT97/MT114/MT114/MT101/MT116/MT101/MT114/MT97/MT32/MT71/MT114/MT97/MT108/MT46
+/MT100/MT101/MT108/MT32/MT78/MT111/MT114/MT116/MT101/MT44/MT32/MT57/MT55
+/MT67/MT46/MT80/MT46/MT32/MT51/MT56/MT51/MT53/MT48
+/MT67/MT116/MT114/MT97/MT46/MT32/MT84/MT97/MT99/MT111/MT114/MT111/MT110/MT116/MT101/MT45
+/MT84/MT101/MT106/MT105/MT110/MT97/MT44/MT32/MT49/MT53
+/MT67/MT46/MT80/MT46/MT32/MT51/MT56/MT51/MT53/MT48
+/MT67/MT47/MT32/MT65/MT98/MT97/MT108/MT101/MT115/MT44/MT32/MT51/MT54/MT44
+/MT84/MT97/MT99/MT111/MT114/MT111/MT110/MT116/MT101/MT44
+/MT67/MT46/MT80/MT46/MT32/MT51/MT56/MT51/MT53/MT48/MT57/MT50/MT50/MT32/MT53/MT55/MT32/MT48/MT51/MT32/MT55/MT48
+/MT57/MT50/MT50/MT32/MT52/MT55/MT32/MT54/MT55/MT32/MT50/MT55
+/MT57/MT50/MT50/MT32/MT53/MT54/MT32/MT48/MT49/MT32/MT48/MT55
+/MT57/MT50/MT50/MT32/MT53/MT55/MT32/MT51/MT51/MT32/MT49/MT48
+/MT57/MT50/MT50/MT32/MT53/MT55/MT32/MT49/MT51/MT32/MT48/MT53/MT57/MT50/MT50/MT32/MT53/MT55/MT32/MT48/MT55/MT32/MT55/MT53
+/MT57/MT50/MT50/MT32/MT52/MT55/MT32/MT54/MT55/MT32/MT51/MT55
+/MT57/MT50/MT50/MT32/MT53/MT54/MT32/MT49/MT49/MT32/MT53/MT53
+/MT57/MT50/MT50/MT32/MT53/MT54/MT32/MT48/MT54/MT32/MT49/MT50
+/MT57/MT50/MT50/MT32/MT53/MT55/MT32/MT51/MT50/MT32/MT53/MT52/MT105/MT110/MT102/MT111/MT64/MT99/MT101/MT100/MT101/MT114/MT116/MT97/MT99/MT46/MT99/MT111/MT109
+/MT119/MT119/MT119/MT46/MT99/MT101/MT100/MT101/MT114/MT116/MT97/MT99/MT46/MT99/MT111/MT109
+/MT119/MT119/MT119/MT46/MT103/MT111/MT98/MT99/MT97/MT110/MT46/MT101/MT115
+/MT119/MT119/MT119/MT46/MT103/MT111/MT98/MT105/MT101/MT114/MT110/MT111/MT100/MT101/MT99/MT97/MT110/MT97/MT114/MT105/MT97/MT115/MT46/MT111/MT114/MT103
+/MT99/MT111/MT110/MT115/MT101/MT106/MT111/MT64/MT116/MT97/MT99/MT111/MT118/MT105/MT110/MT46/MT99/MT111/MT109
+/MT119/MT119/MT119/MT46/MT116/MT97/MT99/MT111/MT118/MT105/MT110/MT46/MT99/MT111/MT109
+/MT97/MT101/MT120/MT116/MT97/MT103/MT114/MT116/MT97/MT99/MT111/MT114/MT111/MT110/MT116/MT101/MT64
+/MT99/MT97/MT98/MT116/MT102/MT101/MT46/MT101/MT115
+/MT118/MT105/MT116/MT105/MT99/MT117/MT108/MT116/MT111/MT114/MT101/MT115/MT116/MT102/MT64/MT121/MT97/MT104/MT111/MT111/MT46/MT101/MT11505242 Manual v5  18/10/2005  14:58  PÆgina 13105242 Manual v5  18/10/2005  14:58  PÆgina 132

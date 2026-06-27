@@ -1,0 +1,1401 @@
+ 
+ 
+ 
+ 
+LA PODA DE LA VID 
+ 
+ 
+ALIQUÓ, Gustavo 1  
+CATANIA, Aníbal 2  
+AGUADO, Germán 3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Estación Experimental Agropecuaria Mendoza  
+Actualización: Marzo 2010 Secretaría de Agricultura, Ganadería, Pesca y Alime ntación 
+    Instituto Nacionalde TecnologíaAgropecuaria  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(1)  Ingeniero Agrónomo, Convenio INTA – FeCoVitA. EEA M endoza INTA 
+ 
+(2)  Ingeniero Agrónomo, Agencia de Extensión Rural Lujá n de Cuyo. EEA Mendoza INTA 
+ 
+(3)  Ingeniero Agrónomo, Agencia de Extensión Rural Maip ú. EEA Mendoza INTA 
+ 
+ 
+Compaginación y revisión de texto: Ings. Agrs. Anal ía Díaz Bruno y Liliana Troilo 
+ 
+Luján de Cuyo, Mendoza, Junio de 2008  
+ 
+ 
+ 
+Secretaría de Agricultura, Ganadería, Pesca y Alime ntación 
+Instituto Nacional de Tecnología Agropecuaria 
+Estación Experimental Agropecuaria Mendoza 
+ 
+Estación Experimental Agropecuaria Mendoza 
+San Martín 3853 – (5507) Luján de Cuyo (Mza.) – Tel. : 54 261 4963020/332 – Fax: 54 261 4963320  3 ÍNDICE  
+ 
+I. ANTECEDENTES HISTÓRICOS DEL CULTIVO DE LA VID Y SU PODA........................5 
+II. LAS YEMAS...................................... ................................................... ......................................7 
+1 Denominación de las yemas........................ ................................................... ..........................7 
+2 Fertilidad de las yemas.......................... ................................................... ................................9 
+2.1 Fertilidad de las yemas en el sarmiento........ ................................................... ..............10 
+III. FUNDAMENTOS Y PRINCIPIOS DE LA PODA DE LA VID. .............................................11 
+1 Definición de poda............................... ................................................... ...............................11 
+2 Comportamiento de las vides no podadas........... ................................................... ................11 
+3 Fundamentos de la poda........................... ................................................... ...........................11 
+4 Principios generales de la poda.................. ................................................... .........................11 
+5 Objetivos de la poda............................. ................................................... ...............................12 
+6 Elementos de la poda de fructificación: Pitón y C argador............................................ .........13 
+7 Sistemas de poda................................. ................................................... ................................14 
+IV. TIPOS DE PODA.................................. ................................................... ..................................16 
+1 Según la finalidad............................... ................................................... .................................16 
+1.1 Poda de formación.............................. ................................................... .........................16 
+1.2 Poda de fructificación......................... ................................................... .........................16 
+1.3 Poda de rejuvenecimiento o renovación.......... ................................................... ............17 
+1.4 Poda de restauración o reconversión............ ................................................... ...............17 
+1.5 Poda de transplante............................ ................................................... ..........................17 
+2 Según su época de realización.................... ................................................... .........................18 
+2.1 Poda invernal.................................. ................................................... .............................18 
+3 Podas especiales................................. ................................................... .................................19 
+3.1 Poda de viñedos afectados por granizo.......... ................................................... .............19 
+3.1.1 Poda invernal................................ ................................................... .......................20 
+3.2 Poda de viñedos afectados por heladas tardías.. ................................................... ..........20 
+V. CONCEPTOS GENERALES SOBRE PODA EN VID........... .................................................22  
+1 Poda balanceada.................................. ................................................... ................................22 
+2 Riqueza de poda.................................. ................................................... ................................22 
+2.1 Riqueza de poda expresada en número de nudos po r planta..........................................2 3 
+2.2 Riqueza de poda expresada en número de nudos po r hectárea......................................23 
+2.3 Determinación de la riqueza de poda............ ................................................... ..............24 
+2.3.1 Vigor del brote.............................. ................................................... ......................24 
+2.3.2 Número de brotes............................. ................................................... ...................24 
+2.3.3 Relación producción/peso de poda (Índice de R avaz)...........................................24 
+2.3.4 Peso de madera de poda....................... ................................................... ...............25 
+2.3.5 Peso del sarmiento........................... ................................................... ....................25 
+3 Acrotonía o Dominancia Apical.................... ................................................... ......................25 
+3.1 Influencia de la acrotonía  sobre los brazos de  la planta......................................... .......27 
+3.2 Efectos de la Cianamida Hidrogenada............ ................................................... ............27 
+VI. INTERRELACIÓN DE LA PODA CON OTROS ASPECTOS DEL  CULTIVO...................29 
+1 Poda - Entorno................................... ................................................... ..................................29 
+2 Poda - Sistema de conducción..................... ................................................... ........................29  
+ 
+ 
+ 
+Secretaría de Agricultura, Ganadería, Pesca y Alime ntación 
+Instituto Nacional de Tecnología Agropecuaria 
+Estación Experimental Agropecuaria Mendoza 
+ 
+Estación Experimental Agropecuaria Mendoza 
+San Martín 3853 – (5507) Luján de Cuyo (Mza.) – Tel. : 54 261 4963020/332 – Fax: 54 261 4963320  4 3 Poda - Vigor..................................... ................................................... ...................................29 
+4 Poda - Composición del mosto..................... ................................................... .......................30 
+VII. CRITERIOS SOBRE PODA EN VID................... ................................................... .................31 
+1 Elección de sarmientos para cargadores y pitones. ................................................... .............31 
+2 Realización de los cortes........................ ................................................... .............................31 
+VIII. BIBLIOGRAFÍA................................. ................................................... ....................................34  
+ 
+ 
+ 
+Secretaría de Agricultura, Ganadería, Pesca y Alime ntación 
+Instituto Nacional de Tecnología Agropecuaria 
+Estación Experimental Agropecuaria Mendoza 
+ 
+Estación Experimental Agropecuaria Mendoza 
+San Martín 3853 – (5507) Luján de Cuyo (Mza.) – Tel. : 54 261 4963020/332 – Fax: 54 261 4963320  5  
+I.  ANTECEDENTES HISTÓRICOS DEL CULTIVO DE LA VID Y SU PODA 
+ 
+Se piensa que el cultivo de la vid comenzó durante el Neolítico (7.000-5.000 a. C.) a lo largo 
+de la costa oriental del Mar Negro en la región con ocida como Transcaucasia. Puede decirse que el 
+primer viñedo fue plantado con toda probabilidad en tre los actuales territorios de Turquía, Georgia 
+y Armenia. Sabemos que en esta región, cuyo clima y  relieve son particularmente propicios al 
+cultivo de la vid, crecía antaño en estado silvestr e.  Asimismo se han hallado en casi toda Europa 
+semillas de uvas señaladas como Vitis vinifera  L. (o su progenitor Vitis sylvestris ), que datarían de 
+los periodos paleoclimáticos Atlántico y Sub-boreal , aproximadamente entre los años 7.500 a 2.500 
+a. C. Anteriormente a estos periodos la uva ya form aba parte de la dieta humana y era recolectada 
+de las vides silvestres que trepaban por sobre los árboles del bosque.  
+El descubrimiento del vino fue probablemente accide ntal, siendo el resultado inesperado (e 
+inevitable) del almacenamiento de bayas durante los  meses de invierno. Es posible que los primeros 
+viñedos se hayan cultivado seleccionado las mejores  vides, de ese modo comenzó la historia de la 
+viticultura y la enología. Aproximadamente desde el  año 4.000 a. C., el cultivo de la vid y las 
+técnicas de elaboración de vino se extendieron desd e Transcaucasia hacia el Asia Menor. En 
+Lagash, ciudad sumeria en la cuenca baja del Tigris , las evidencias del cultivo de vid en zonas 
+regadías datan del año 3.000 a. C. En esta cultura el vino era la bebida preferida de reyes y 
+comerciantes.  
+Una de las primeras grandes civilizaciones de las q ue se tiene registro de su cultivo fue la 
+egipcia, la viticultura ya era mostrada en mosaicos  de la Cuarta Dinastía de Egipto (2.440 a. C.). El 
+vino se utilizaba en celebraciones religiosas, con fines terapéuticos y fundamentalmente, en la vida 
+social de la clase alta egipcia. Era bebida exclusi va de los faraones, clérigos y guerreros. 
+ 
+ 
+ Cosechando uvas y haciendo vino, mosaico egipcio 1 500 a. C. 
+ 
+Del siglo VIII al VI a. C. tomó en Grecia importanc ia el cultivo de la vid. Los griegos 
+trabajaban y abonaban sus viñedos con esmero. El de sarrollo de los viñedos griegos consiguió 
+superar las fronteras, gracias a que en su afán col onizador llevaron la técnica del cultivo por todo e l 
+Mediterráneo hasta alcanzar las costas de Francia y  España. Si bien se estima que la aplicación de la 
+poda a la planta de vid data de tiempos remotos, la  primera documentación cierta de la misma 
+recién aparece en la literatura griega. Florentino,  agrónomo griego, escribió haciendo alusión a las 
+vides que se plantaban usando como punto de apoyo l os árboles: Se debe tener presente que este 
+tipo de vides, o sea, las que trepan por los árbole s, han de dejarse largas en la poda, de forma que 
+los sarmientos queden no más cortos de dos codos. Al parecer los griegos fueron pioneros en 
+adoptar la poda para mejorar la producción de la vi d.   
+ 
+ 
+ 
+Secretaría de Agricultura, Ganadería, Pesca y Alime ntación 
+Instituto Nacional de Tecnología Agropecuaria 
+Estación Experimental Agropecuaria Mendoza 
+ 
+Estación Experimental Agropecuaria Mendoza 
+San Martín 3853 – (5507) Luján de Cuyo (Mza.) – Tel. : 54 261 4963020/332 – Fax: 54 261 4963320  6 
+Desde la península helénica esta práctica se difund ió por toda Italia. Los etruscos y romanos 
+al observarla y convencerse de su eficacia la termi naron adoptando a sus prácticas culturales. 
+Estos antiguos pueblos fueron creadores de dos conc epciones vitícolas completamente 
+opuestas. Por su lado los etruscos, seleccionaban v ides selváticas del bosque provenientes de Vitis 
+silvestris conduciéndolas sobre sostenes vivos, frecuentemente  árboles bastante altos, dejando que 
+la vid exprese su crecimiento libremente, sin podar la o haciéndolo a intervalos prolongados. Como 
+resultado se obtenían plantas muy productivas pero los vinos eran de muy baja calidad. 
+Los griegos, en cambio, formaban viñedos de alta de nsidad obteniendo plantas pequeñas, 
+“arbolillos”, sin sostén o con pequeños sostenes mu ertos, practicaban una poda corta y anual. 
+Utilizaron variedades de Vitis vinifera  (Moscatel, Malvasía, etc.), provenientes de la zon a del 
+Cáucaso traídas a través de Egipto (Fregoni, 1998).  La calidad enológica de estas uvas era superior 
+a la obtenida con las cepas y manejo del sistema et rusco. 
+Los romanos heredaron de los griegos todo el saber a cerca del cultivo de la vid y la 
+elaboración del vino extendiendo dichas prácticas h asta los confines del imperio. Estas dos 
+filosofías vitícolas coexisten en la actualidad en Italia y en buena parte del mundo, han 
+evolucionado hasta lo que hoy conocemos como Sistem a Griego, de alta densidad de plantación con 
+baja producción por planta, y Sistema Etrusco, de b aja densidad, con plantas voluminosas de altas 
+producciones. De hecho, hacia el siglo III d. C., l os romanos ya habían sentado las bases de los 
+grandes viñedos europeos actuales, de manera que lo s límites de la viticultura clásica coinciden con 
+los del Imperio Romano en el momento de su máxima e xpansión. De todas las regiones, quizás fue 
+la implantación de este cultivo en Las Galias lo qu e dejó la impronta más perdurable para la historia 
+de la  vitivinicultura ya que la llegada de la vid a Marsella en el año 500 a. C. es tomada como fecha  
+del inicio de la viticultura europea.  
+Con la caída del Impero Romano, el comercio del vin o fue interrumpido y las 
+plantaciones comerciales de vid declinaron. Durante  la primera parte del Medioevo 
+(500-1000 d. C.) los custodios de la viticultura y del arte de la elaboración del vino 
+fueron los monasterios. Solamente la Iglesia, que n ecesitaba vino y era capaz de 
+garantizar una continuidad de consumo, permitió la supervivencia de la viticultura, 
+de hecho los viñedos se encontraban precisamente al rededor de monasterios y 
+catedrales. Los monjes no se contentaron con hacer vino: lo mejoraron. Los 
+cistercienses de Borgoña fueron los primeros en est udiar el suelo de la Cóte d’Or, 
+en transformar los viñedos seleccionando las mejore s plantas, en experimentar con la poda y en 
+elegir las parcelas no expuestas a las heladas, que  eran las que daban las uvas más maduras. Todos 
+sus esfuerzos tendían a producir un vino destinado no solamente a la misa, sino a la venta, ya que 
+los monjes desempeñaron un papel esencial en el com ercio de vinos durante la Edad Media. 
+La viticultura europea finalmente se expandió a par tir de los siglos XVI al XIX, con el 
+crecimiento de un comercio internacional extensivo de vinos en el que los británicos y los 
+holandeses fueron los principales clientes. 
+Durante estos siglos y hasta la década de 1870, cad a país y/o zona vitícola desarrolló un 
+sistema de poda característico, que si bien estaba en perfecta armonía con las condiciones 
+agronómicas locales, solía ser complicado. Actualme nte, los avances en los estudios del 
+comportamiento de la vid, permiten adaptar la tecno logía más apropiada a las condiciones locales y 
+a los objetivos de cada viticultor. No obstante, la  poda es una de las operaciones de cultivo que 
+menos ha evolucionado, de hecho Virgilio y Plinio a l comienzo de la era cristiana dieron 
+instrucciones para la guía y poda de vides que en m uchas partes, con excepción de pequeños 
+cambios empíricos, todavía se mantienen.  
+ 
+ 
+ 
+Secretaría de Agricultura, Ganadería, Pesca y Alime ntación 
+Instituto Nacional de Tecnología Agropecuaria 
+Estación Experimental Agropecuaria Mendoza 
+ 
+Estación Experimental Agropecuaria Mendoza 
+San Martín 3853 – (5507) Luján de Cuyo (Mza.) – Tel. : 54 261 4963020/332 – Fax: 54 261 4963320  7 II.  LAS YEMAS 
+ 
+Las yemas son los órganos de la planta donde se enc uentran los primordios de brotación de 
+las primeras hojas y de todos los racimos que pueda  contener el futuro pámpano.  Tiene forma de 
+cono abultado, se ubica en el nudo del sarmiento, j unto a la inserción del pecíolo de la hoja. A 
+simple vista parece constituida por una sola unidad , sin embargo siempre son dos, perfectamente 
+distinguidas, denominadas yema principal o latente y yema pronta:  
+- Yema Principal o Latente : es la más voluminosa, generalmente brota en la pr imavera 
+siguiente a su formación. Es en realidad un yemario  compuesto por una yema primaria 
+ubicada en el centro y dos yemas secundarias o cont rayemas ubicadas una a cada lado de 
+ésta. En época de brotación la yema primaria es la que brota y las yemas secundarias pueden 
+bien: quedar en latencia y brotar en caso de que oc urra la pérdida del brote (por helada, 
+granizo, daño mecánico) o brotar junto con la prima ria originando “brotes dobles”, los 
+cuales deben ser eliminados durante el desbrote ya que ejercen una fuerte competencia con 
+el brote principal. 
+- Yema Pronta : a diferencia de la yema principal está constituid a por una sola yema, más 
+pequeña y ubicada a un costado de ésta. Suele brota r el mismo año de su formación dando 
+lugar a un brote denominado “feminela”.  
+ 
+ 
+Esquema de disposición de yema principal (yemario) y  yema pronta 
+ 
+ 
+1 Denominación de las yemas  
+ 
+Las yemas que se encuentran sobre un sarmiento reci ben distintos nombres en función de la 
+ubicación que tengan:  
+- Francas : se trata de las yemas principales ubicadas a lo l argo del sarmiento situado sobre el 
+pitón o cargador del año anterior. Se considera como primera yema franca aquella separ ada  
+ 
+ 
+ 
+Secretaría de Agricultura, Ganadería, Pesca y Alime ntación 
+Instituto Nacional de Tecnología Agropecuaria 
+Estación Experimental Agropecuaria Mendoza 
+ 
+Estación Experimental Agropecuaria Mendoza 
+San Martín 3853 – (5507) Luján de Cuyo (Mza.) – Tel. : 54 261 4963020/332 – Fax: 54 261 4963320  8 de la base por un entrenudo de al menos 5 mm. de lo ngitud, descartándose las casqueras. 
+Las yemas francas son las que se tienen en cuenta a  la hora de estimar la carga de poda. 
+- Bourillon : es a la primera yema franca del sarmiento, es dec ir la más cercana a su base. 
+Normalmente suele ser más pequeña que las restantes  y su fertilidad, de acuerdo a la 
+variedad, puede ser algo menor.  
+- Casqueras : son de menor tamaño que las francas, se ubican en  la proximidad de la unión 
+entre el sarmiento con la madera de dos o más años.  Allí aparecen en grupos formado un 
+anillo o collar.  
+- Ciega : se denomina así a la mejor formada de las yemas c asqueras. Dependiendo de las 
+variedades su fertilidad puede ser media o baja. 
+- Yemas de la madera vieja : son yemas generadas en años anteriores, generalment e 
+casqueras aunque también pueden ser latentes o pron tas no brotadas en su momento y que  
+han permanecido durmientes durante más de un ciclo vegetativo. Al ir  quedando cubiertas 
+año tras año por capas de corteza no suelen ser  visibles. En condiciones normales raramente 
+brotan. Ocasionalmente pueden  ser fértiles y generan brotes llamados chupones 
+ 
+ 
+ 
+Distintos tipos de yemas. Esquema: Ings. Agrs. E. He rrera y W. Cinta 
+ 
+ 
+ 
+ 
+ 
+Secretaría de Agricultura, Ganadería, Pesca y Alime ntación 
+Instituto Nacional de Tecnología Agropecuaria 
+Estación Experimental Agropecuaria Mendoza 
+ 
+Estación Experimental Agropecuaria Mendoza 
+San Martín 3853 – (5507) Luján de Cuyo (Mza.) – Tel. : 54 261 4963020/332 – Fax: 54 261 4963320  9  
+Las yemas según su ubicación en el sarmiento.                        Esquema: Ings. Agrs. E. Herrera y W.  Cinta 
+                        Foto: Ing. Agr. Valeria Bonomo  
+ 
+ 
+2 Fertilidad de las yemas 
+ 
+Cuando hablamos de fertilidad de una yema nos refer imos al número de racimos 
+desarrollados dentro de ella, suelen ser de uno a t res. Si bien este número varía en cada variedad, 
+también puede ser afectado por diversos factores ta nto internos como externos.  Todas las yemas, 
+inicialmente, están en condiciones de desarrollar b rotes con fruto. Sin embargo, como se observa 
+habitualmente, hay algunos brotes que no tienen rac imos u otros que poseen sólo uno escasamente 
+desarrollado. Esto se debe principalmente a que fac tores climáticos y de nutrición, son los que 
+determinan que la yema resulte fructífera o no. El número de racimos dentro de cada yema queda 
+definido aproximadamente en el mes de diciembre del  ciclo anterior, es decir algo más de un año 
+antes de la cosecha. Realizar un buen manejo de can opia y mantener la planta con un adecuado 
+vigor son requisitos de suma importancia para tener  un alto porcentaje de fertilidad en las yemas. 
+Condiciones de poca luminosidad y de excesivo o esc aso vigor influyen negativamente en el 
+desarrollo de yemas fértiles.  
+Por lo tanto: mantener una canopia con buenas condi ciones de iluminación y realizar un 
+buen control de riegos y fertilizaciones para logra r obtener plantas con un adecuado vigor sin un 
+excesivo desarrollo vegetativo, son requisitos fund amentales. 
+El nivel de fertilidad es distinto para cada tipo d e yema:  
+ 
+Tipos de Yemas Nivel de Fertilidad 
+(racimos por brote) 
+Yema primaria de las principales del cargador y/o p itón Media – Alta (1,5 – 2,5) 
+Bourillon Media (1 – 2) 
+Yema pronta Baja - Media (0,5 – 1) 
+Yemas secundarias de las principales  Baja   (0,2 –  1) 
+Ciega Baja (0,2 – 0,8) 
+Yemas casqueras Baja (0,2 – 0,4) 
+Yemas de madera vieja (chupones) Baja (0,2 – 0,4) 
+ 
+ 
+ 
+ 
+ 
+Secretaría de Agricultura, Ganadería, Pesca y Alime ntación 
+Instituto Nacional de Tecnología Agropecuaria 
+Estación Experimental Agropecuaria Mendoza 
+ 
+Estación Experimental Agropecuaria Mendoza 
+San Martín 3853 – (5507) Luján de Cuyo (Mza.) – Tel. : 54 261 4963020/332 – Fax: 54 261 4963320  10  2.1  Fertilidad de las yemas en el sarmiento 
+ 
+Dentro del sarmiento las yemas de mayor fertilidad están ubicadas en el tercio medio del 
+mismo. Las yemas del ápice son rudimentarias y no s uelen llevar racimos. Este gradiente está en 
+relación con la complejidad en la organización de l as yemas, que es mayor en aquellas que se han 
+formado durante el período de crecimiento más inten so con el desarrollo de máxima vegetación y 
+abundante y apropiada nutrición (Hidalgo, 2003; Rey nier, 2005).  
+Según estudios de Herrera y Cinta (1968), en nuestr a región donde las condiciones 
+climáticas son bastante favorables para el cultivo de vid bajo riego, la ubicación de la yema en el 
+sarmiento no tendría mayor influencia sobre su fert ilidad. No obstante hay variedades que presentan 
+una cierta tendencia en lo que se refiere a la ubic ación de sus yemas fértiles. De acuerdo a la 
+bibliografía existente y las experiencias publicada s tanto en nuestro país (Vega, 1976) como en el 
+extranjero (Ferraro Olmos 1983; Valor y Bautista, 1 996) podríamos agrupar a éstas variedades en 
+tres diferentes grupos: 
+- Variedades fértiles en sus yemas basales : estas variedades preferentemente admiten y se 
+adaptan mejor a una poda del tipo corta. Entre ella s podemos mencionar las cultivares 
+Cabernet Sauvignon, Cabernet Franc, Carménère, Merl ot y Viognier. 
+- Variedades con mayor fertilidad a partir de la cuar ta o quinta yema o más : en estas 
+variedades se adapta mejor una poda larga. Ejemplo de ellas son las cultivares Tocai 
+Friulano, Tempranillo, Bonarda, Criolla Grande, Cri olla Chica, Moscatel de Alejandría, 
+Pedro Jiménez, Sangiovese, Sauvignon Blanc, Rieslin g, Sultanina, Patricia y Concord. 
+- Variedades que tienen buena fertilidad tanto en sus  yemas basales como medias : estas 
+variedades se adaptan muy bien a ambos tipos de pod a, comportándose frente a las mismas 
+de manera indistinta. Ejemplo de ellas son las cult ivares: Malbec, Petit Verdot, Tannat, 
+Semillon, Chenin y Syrah. 
+ 
+  
+ 
+ 
+ 
+Secretaría de Agricultura, Ganadería, Pesca y Alime ntación 
+Instituto Nacional de Tecnología Agropecuaria 
+Estación Experimental Agropecuaria Mendoza 
+ 
+Estación Experimental Agropecuaria Mendoza 
+San Martín 3853 – (5507) Luján de Cuyo (Mza.) – Tel. : 54 261 4963020/332 – Fax: 54 261 4963320  11  III.   FUNDAMENTOS Y PRINCIPIOS DE LA PODA DE LA VID 
+ 
+1 Definición de poda 
+ 
+La práctica de la poda consiste en la  eliminación de partes vivas de la planta (sarmient os, 
+brazos, partes del tronco, partes herbáceas, etc.) con el fin de modificar el hábito de crecimiento 
+natural de la cepa, adecuándola a las necesidades d el viticultor . 
+ 
+2 Comportamiento de las vides no podadas 
+ 
+La vid ( Vitis vinifera L.) pertenece a la familia de las Vitáceas , es una planta que se 
+caracteriza por ser una liana con aspecto de arbust o sarmentoso y trepador, con tendencia al 
+crecimiento continuo. En su medio natural y en cond iciones de libre crecimiento adquiere un 
+excesivo desarrollo vegetativo alejándose más y más  cada año los brazos del tronco. La planta 
+adquiere dimensiones y formatos grandes, desordenad os y enmarañados. En estas condiciones las 
+yemas ubicadas en el extremo de los sarmientos son las que preferentemente se desarrollan por ser 
+las mejor alimentadas y formadas y por la marcada d ominancia apical o acrotonía que caracteriza a 
+la especie. En la base y regiones medias de los sar mientos quedan numerosas yemas latentes sin 
+brotar. Los pámpanos son abundantes pero de poco vi gor individual; la expresión vegetativa no 
+guarda relación con su producción en frutos, la cua l se torna “vecera” no siendo constante año a 
+año. Los racimos son abundantes y de tamaño reducid o, con bayas pequeñas de maduración 
+deficiente, retrasada y de baja calidad.  
+En estado natural, sin intervenciones culturales, l a vid con el tiempo alcanza un equilibrio 
+entre su producción y su vegetación, lo cual en con diciones ambientales favorables le permite una 
+prolongada vida, pero sin posibilidades de rendimie ntos satisfactorios. Por estas causas la poda se 
+admite como operación necesaria, ya que sin ella el  cultivo de la vid no sería económicamente 
+posible (Hidalgo, 2003). 
+ 
+3 Fundamentos de la poda 
+ 
+La vid fructifica en los pámpanos de un año, genera lmente nacidos sobre madera del año 
+anterior, la poda limita el número y longitud de lo s sarmientos. De ésta manera se efectúa un 
+balance entre su vigor y su producción regulando la  misma tanto en cantidad como en calidad. Con 
+la poda las cepas adquieren mayor longevidad debido  a que todos los años se está renovando 
+material vegetativo. En el sitio de cultivo, nos pe rmite formar a la planta acorde con el espacio que 
+ocupa, la densidad de plantación, el sistema de con ducción elegido y la cantidad de yemas según la 
+capacidad de la cepa, es decir la potencialidad de crecimiento total que cada planta posee.  
+ 
+4 Principios generales de la poda 
+ 
+Los principios generales aquí expuestos, surgen del  conocimiento del hábito de crecimiento 
+y fructificación de la vid, como así también, de la  forma en que la planta responde a la remoción de 
+alguna de sus partes. Las principales nociones se l istan a continuación:  
+ 
+ 
+ 
+Secretaría de Agricultura, Ganadería, Pesca y Alime ntación 
+Instituto Nacional de Tecnología Agropecuaria 
+Estación Experimental Agropecuaria Mendoza 
+ 
+Estación Experimental Agropecuaria Mendoza 
+San Martín 3853 – (5507) Luján de Cuyo (Mza.) – Tel. : 54 261 4963020/332 – Fax: 54 261 4963320  12  1.  La vid fructifica en pámpanos de un año nacidos en madera del año anterior. 
+2.  Los pámpanos que nacen sobre “madera vieja” de dos o más años, denominados chupones, 
+tienen su origen en yemas latentes y pueden ser fru tales o no según la fertilidad de estas 
+yemas. 
+3.  Las yemas terminales de un sarmiento en posición ve rtical, son las que desarrollan mejores 
+pámpanos por razones nutricionales y hormonales (ac rotonía e inhibición correlativa). 
+4.  Los sarmientos de mediano vigor son los más fructíf eros. Los excesivamente vigorosos y los 
+débiles presentan yemas poco diferenciadas debido a  una deficiente nutrición. 
+5.  El vigor de los pámpanos de una planta es inversame nte proporcional al número de éstos y a 
+la cantidad de frutos. 
+6.  La capacidad de una planta (producción total de fru to y madera) depende de su actividad 
+fotosintética. Como ésta tiene lugar casi exclusiva mente en las hojas del vegetal, resulta que 
+la capacidad está estrechamente vinculada con la su perficie foliar. 
+7.  La poda debe adecuarse al hábito de fructificación de la variedad como así también a la 
+capacidad de la planta. Una poda normal y balancead a es aquella que logra la mayor 
+producción de frutos sin provocar el debilitamiento  de la cepa. 
+8.  La poda y la producción de frutos, por separado y e n conjunto, reducen la capacidad de la 
+planta. Esto es: 
+a.  Una poda “intensa” reduce el número de hojas y como  consecuencia, la elaboración de 
+sustancias nutritivas por fotosíntesis 
+b.  Una producción excesiva de frutos demanda gran cant idad de sustancias nutritivas, 
+disminuyen entonces las reservas que la cepa necesi ta para alcanzar una brotación, 
+floración y cuaje normales la temporada siguiente 
+ 
+5 Objetivos de la poda 
+ 
+- Contribuir a establecer la forma de la planta -segú n el sistema de conducción elegido- y su 
+posterior mantenimiento a fin de lograr la mayor op eratividad y eficiencia en las labores 
+propias del cultivo. 
+- Reducir el envejecimiento de la cepa mediante la re novación de sus partes. 
+- Seleccionar yemas fértiles. 
+- Limitar el número de yemas a fin de mantener el nec esario equilibrio entre la producción de 
+frutos y la producción de madera, lo que permitirá asegurar una capacidad adecuada de la 
+planta. 
+- Distribuir armónicamente las unidades de carga en l a planta (pitones y cargadores), según su 
+capacidad (cantidad total de frutos y madera obteni dos), para mantener producciones 
+adecuadas y uniformes en el tiempo. 
+- Regular el número de brotes y por lo tanto el númer o y tamaño de los racimos. 
+  
+ 
+ 
+ 
+Secretaría de Agricultura, Ganadería, Pesca y Alime ntación 
+Instituto Nacional de Tecnología Agropecuaria 
+Estación Experimental Agropecuaria Mendoza 
+ 
+Estación Experimental Agropecuaria Mendoza 
+San Martín 3853 – (5507) Luján de Cuyo (Mza.) – Tel. : 54 261 4963020/332 – Fax: 54 261 4963320  13  6 Elementos de la poda de fructificación: Pitón y Car gador 
+ 
+En el siguiente esquema se muestran las distintas p artes de la planta de vid: 
+ 
+ 
+ 
+El sarmiento portador de las yemas fructíferas pued e tomar diferentes nombres según el 
+sistema de poda al que es sometido: 
+- Pitón o Pulgar : es un sarmiento de un año, el corte de poda se re aliza dejando de 1 a 3 
+yemas. Se utiliza en el sistema de “poda corta” par a la producción del año y en la “poda 
+mixta”, además proveen la madera de reemplazo para el año siguiente  
+- Cargador o Vara : es el sarmiento de un año, sobre madera de dos añ os (generalmente el 
+pitón del año anterior), el corte de poda se realiz a dejando de 4 a 12 yemas. Su función 
+principal es la de ser un elemento productivo. 
+ 
+ 
+Foto Ing. Agr. E. Merlo. Convenio INTA-FeCoVitA 
+  
+ 
+   pitón      cargador  
+             
+ 
+ 
+ 
+Secretaría de Agricultura, Ganadería, Pesca y Alime ntación 
+Instituto Nacional de Tecnología Agropecuaria 
+Estación Experimental Agropecuaria Mendoza 
+ 
+Estación Experimental Agropecuaria Mendoza 
+San Martín 3853 – (5507) Luján de Cuyo (Mza.) – Tel. : 54 261 4963020/332 – Fax: 54 261 4963320  14  7 Sistemas de poda 
+ 
+Existen numerosos y diversos sistemas de poda, pero  en general responden a tres tipos 
+principales : Sistemas de Poda Corta, Sistemas de Poda Larga  y Sistemas de Poda Mixta. 
+La denominación de poda corta o larga se refiere a la longitud que el podador deja al 
+sarmiento encargado de portar los futuros racimos y  dicha longitud está en relación directa con el 
+número de yemas dejadas. 
+- Sistemas de Poda Corta : en estos sistemas el elemento de poda utilizado e s el pitón o 
+pulgar, es decir, los sarmientos se rebajan dejando  de 1 a 3 yemas como máximo. El pitón 
+desempeña dos funciones: la de fructificación y la de provisión de madera de poda para el 
+siguiente año. Ej. de este sistema de poda son los cordones Royat y Bilateral Pitoneados. 
+- Sistemas de Poda Larga : en estos sistemas el elemento de poda utilizado e s el cargador o 
+vara, los sarmientos se podan dejando de 4 hasta in cluso 12 yemas, dependiendo de la 
+situación de la planta que se está podando. En este  tipo de poda el cargador tiene las 
+funciones de proporcionar la fruta y la madera de p oda del año siguiente. La temporada 
+siguiente el cargador será eliminado con la poda in vernal y es reemplazado con alguno de 
+los sarmientos que se hallan desarrollado sobre el mismo, en general se selecciona como 
+nuevo cargador al más próximo a la base de éste. El  sistema Sylvoz es un ejemplo de este 
+tipo de poda. 
+- Sistemas de Poda Mixta : en este tipo de sistemas ambos elementos se combi nan en la 
+poda, es decir, que en la planta están presentes ta nto el pitón como el cargador. En la poda 
+mixta están comprendidos la mayoría de los sistemas  de poda conocidos (Guyot Doble, 
+Guyot Triple o Mendocino, Parral Cuyano, Parral en “H” con cargadores, Cazenave-
+Marcón, Ybm INTA). El cargador cumple principalment e la función de elemento de 
+fructificación, mientras que la función principal d el pitón es la de proveer la madera para la 
+poda del año siguiente. Una vez que el cargador ha proporcionado racimos se elimina con la 
+poda invernal y se lo sustituye por un sarmiento su rgido del o los pitones dejados. Es decir 
+que de los sarmientos que brotaron sobre el pitón d el año anterior, se seleccionará durante la 
+poda el sarmiento más cercano a la base del viejo p itón para formar el pitón nuevo y el 
+sarmiento más extremo para formar el cargador nuevo . El cargador siempre ocupará una 
+posición superior al pitón; debe procurarse – en lo  posible – no alejarlo demasiado del eje de 
+la planta. El pitón debe ocupar la posición más dis tal posible con respecto al cargador 
+correspondiente, de esta forma se evita que los bra zos se prolonguen indebidamente, lo que 
+provocaría el excesivo “enmaderamiento” de la cepa.   
+Es conveniente, además, que el vigor de este elemen to sea similar o algo menor que el del 
+cargador. Un pitón de elevado vigor con respecto a su cargador, ubicado a poca distancia del 
+mismo, puede provocar una fuerte competencia, lo cu al se traduce en un escaso crecimiento 
+y desarrollo de los brotes originados en las yemas del cargador. 
+ 
+Los sistemas de poda no se aplican indistintamente sino que cada cultivar tiene sus propias 
+exigencias en función de la ubicación de las yemas fructíferas. En algunas variedades de vid, como 
+Cabernet Sauvignon, las yemas fructíferas se hallan  situadas en la base de los sarmientos y por 
+consiguiente es más conveniente realizar poda corta . En otros casos, como en Sultanina, los frutos 
+se desarrollan de yemas situadas en la extremidad d e los sarmientos, siendo lo más aconsejable la 
+poda larga. Por último existen cultivares, como el Malbec, cuyas yemas fructíferas se encuentran 
+repartidas a lo largo del sarmiento, siendo indisti nto aplicar uno u otro sistema de poda.  
+ 
+ 
+ 
+Secretaría de Agricultura, Ganadería, Pesca y Alime ntación 
+Instituto Nacional de Tecnología Agropecuaria 
+Estación Experimental Agropecuaria Mendoza 
+ 
+Estación Experimental Agropecuaria Mendoza 
+San Martín 3853 – (5507) Luján de Cuyo (Mza.) – Tel. : 54 261 4963020/332 – Fax: 54 261 4963320  15  
+ 
+Poda Mixta: Sistema Guyot Doble. Foto Ing. Agr. E. Merl o Convenio INTA-FeCoVitA 
+ 
+ 
+ 
+Poda Corta: Sistema Cordón Bilateral. Foto Ing. Agr. E.  Merlo Convenio INTA-FeCoVitA 
+ 
+  
+ 
+ 
+ 
+Secretaría de Agricultura, Ganadería, Pesca y Alime ntación 
+Instituto Nacional de Tecnología Agropecuaria 
+Estación Experimental Agropecuaria Mendoza 
+ 
+Estación Experimental Agropecuaria Mendoza 
+San Martín 3853 – (5507) Luján de Cuyo (Mza.) – Tel. : 54 261 4963020/332 – Fax: 54 261 4963320  16  IV.  TIPOS DE PODA 
+ 
+1 Según la finalidad 
+ 
+Según la finalidad y el momento en que se realiza, podemos clasificar la poda en: 
+- Poda de Formación 
+- Poda de Fructificación 
+- Poda de Rejuvenecimiento o Renovación 
+- Poda de Restauración o Reconversión 
+- Poda de Transplante 
+ 
+1.1  Poda de formación 
+La poda de formación se lleva a cabo desde la impla ntación y durante toda la fase juvenil de 
+las plantas. En el caso de la vid éste tipo de poda  generalmente suele tomar de dos a tres años 
+dependiendo si la variedad es vigorosa y productiva  en feminelas, las cuales pueden ser 
+aprovechadas para adelantar la formación de las pla ntas. La importancia de ésta poda radica, en que 
+determina la estructura que la planta posiblemente mantendrá durante toda su vida. Su objetivo, 
+como su nombre lo dice, es formar la planta de acue rdo al sistema de conducción elegido, 
+permitiendo a futuro tener una planta equilibrada q ue posibilite la llegada de la luz solar a todos lo s 
+órganos aéreos de la misma.  
+Cuando se planta un barbecho o barbado, lo más comú n es realizar una poda de plantación 
+rebajando la planta y dejando solamente dos yemas s obre el sarmiento. Luego de la brotación, se 
+elige el brote mejor ubicado y desarrollado y se lo  conduce verticalmente hasta que llegue al primer 
+alambre en el caso de espalderos o al alambre maest ro en el caso de parrales. El otro brote puede 
+eliminarse durante esa misma primavera o bien sólo despuntarlo, evitando su excesivo desarrollo y 
+competencia con el brote elegido, luego será elimin ado en la poda invernal. Esta última opción nos 
+permite que ante cualquier pérdida eventual del bro te elegido (daño mecánico, granizo, etc.), pueda 
+ser rápidamente reemplazado evitando, de esta maner a, un atraso en la formación de la planta; 
+además de contribuir en una mayor síntesis de fotos intatos a la planta a través de sus hojas.  
+La poda de formación de los distintos sistemas de p oda, comúnmente utilizados en nuestro 
+país, será explicada con detalle cuando se desarrol le el tema “Sistemas de Conducción”.  
+ 
+1.2  Poda de fructificación 
+Bajo este nombre se identifican todas las podas que  se realizan luego que la planta ha sido 
+formada de acuerdo al sistema de conducción elegido . Se busca con esta práctica seleccionar yemas 
+fértiles y bien ubicadas para asegurar una buena pr oducción y permitir una adecuada aireación e 
+iluminación de la canopia generando mejores condici ones en la misma, así como también la 
+selección de yemas que permitan la emisión de sarmi entos de reemplazo para conseguir la máxima 
+duración de la vida productiva de la planta y evita r su envejecimiento. 
+Además, otros objetivos que se persiguen con esta o peración son: mantener la estructura de 
+la cepa que se haya adoptado en la poda de formació n y equilibrar el vigor de ésta con la  
+ 
+ 
+ 
+Secretaría de Agricultura, Ganadería, Pesca y Alime ntación 
+Instituto Nacional de Tecnología Agropecuaria 
+Estación Experimental Agropecuaria Mendoza 
+ 
+Estación Experimental Agropecuaria Mendoza 
+San Martín 3853 – (5507) Luján de Cuyo (Mza.) – Tel. : 54 261 4963020/332 – Fax: 54 261 4963320  17  producción para tratar de obtener cosechas regulare s y de buena calidad, para lo cual se deberán 
+respetar los principios de poda balanceada.  
+ 
+1.3  Poda de rejuvenecimiento o renovación 
+Se realiza sobre plantas envejecidas, que presentan  bajo vigor, con escaso crecimiento 
+vegetativo, deficiente floración y excesiva cantida d de madera vieja improductiva. Se trata 
+justamente de eliminar aquellas partes envejecidas y menos productivas, para estimular el 
+nacimiento de otras nuevas. Generalmente se realiza  un rebaje intenso de la planta, lo que provoca 
+un efecto vigorizante sobre la misma ya que las res ervas acumuladas en las raíces y tronco estarán 
+disponibles para un número mucho menor de yemas dej adas en la poda, lo cual originará 
+porcentajes de brotación incluso superiores al 100%  debido a la brotación de contrayemas, yemas 
+casqueras y yemas latentes en brazos y tronco con e l consecuente desarrollo de chupones. Durante 
+la primavera deberán seleccionarse los brotes mejor  ubicados para renovar y volver a formar la 
+planta.  
+Para renovar toda la planta, se utiliza un brote de l tronco principal (chupón), lo más próximo 
+al nivel del suelo, el cual es mantenido y conducid o para tal fin. En la poda invernal se elimina la 
+vieja estructura y la planta se reconstruye a parti r del sarmiento proveniente de éste chupón.  
+La poda de rejuvenecimiento tiene, sin embargo, alg unos inconvenientes: por una parte, 
+obliga a practicar grandes heridas de poda que será n puertas de entrada para enfermedades fúngicas 
+de la madera como “hoja de malvón”. Para prevenir e sta situación, será conveniente que todos los 
+cortes que dejen heridas de más de 2,5 cm. de diáme tro, sean pintados con una mezcla de 
+látex+fungicida (ej: carbendazim, carboxin+tiram, c aptan, etc.) o pasta bordelesa al 10%. Por otra 
+parte, los efectos de la poda de rejuvenecimiento e stán limitados a pocos años si las plantas no son 
+ayudadas con adecuadas labores de fertilización, de  lo contrario se provocará un efecto inverso  
+debilitándolas aún más. De acuerdo a lo ya indicado  por uno de los principios generales de la poda, 
+una poda intensa reduce el número de hojas y como c onsecuencia, la elaboración de sustancias 
+nutritivas para la para la planta. No obstante, si la operación se hace en su momento tomando todos 
+los recaudos mencionados, puede prolongar notableme nte la vida de la cepa.  
+ 
+1.4  Poda de restauración o reconversión 
+Es una poda drástica, en donde sólo se deja el tron co principal y de ser necesario algún 
+brazo o parte del mismo o un cargador para cumplir la función de “tirasavia”. La finalidad es la 
+reconversión varietal por medio de injertos de yema . En el caso de injerto de hendidura diametral, 
+con una o dos púas, se puede eliminar la planta ent era dejando únicamente un pequeño tocón o bien 
+solo decapitarla, dejando el tronco si el mismo se encuentra en buen estado y desea aprovecharlo 
+para formar más rápido la planta.  
+ 
+1.5  Poda de transplante 
+Rara vez utilizada en viticultura, se realiza cuand o se desea transplantar una planta ya 
+desarrollada e instalada en el suelo. Al sacarla de  su ubicación, parte del cepellón de raíces se 
+pierde. Dado que la planta ha perdido gran parte de  su sistema radicular, es incapaz de sostener y 
+alimentar toda la parte aérea. Por ello es necesari o realizar una poda, más o menos severa, de la 
+parte aérea que debe ser proporcional a la cantidad  de raíces perdidas para que la planta así pueda 
+desarrollarse sin problemas.   
+ 
+ 
+ 
+Secretaría de Agricultura, Ganadería, Pesca y Alime ntación 
+Instituto Nacional de Tecnología Agropecuaria 
+Estación Experimental Agropecuaria Mendoza 
+ 
+Estación Experimental Agropecuaria Mendoza 
+San Martín 3853 – (5507) Luján de Cuyo (Mza.) – Tel. : 54 261 4963020/332 – Fax: 54 261 4963320  18  2 Según su época de realización 
+ 
+Vamos a distinguir dos tipos de poda según el momen to del ciclo vegetativo en que se 
+efectúan, estos son: 
+- Poda invernal o seca : se realiza después de la caída de hojas y antes de  la brotación, 
+cuando la planta entra en receso invernal y no hay transferencias apreciables de 
+carbohidratos desde el sarmiento a las raíces. El f loema está inactivo durante el reposo y los 
+vasos cribosos se cubren con callosa. En esta poda se remueve madera del año (sarmientos) 
+y madera de dos o más años (pitones y cargadores de l año anterior, brazos, troncos). 
+- Poda en verde : es un complemento de la anterior que además facili ta la operación de poda 
+invernal del siguiente año, también se suele utiliz ar durante la poda de formación 
+realizándose la eliminación de brotes bajos o mal u bicados, despuntes, etc. Se efectúa en el 
+momento de vegetación de la planta y fundamentalmen te sobre brotes jóvenes (brotes 
+indeseables, mal ubicados o dobles, chupones, etc.)  y hojas, desde la iniciación de la 
+brotación, hasta incluso pocos días previos a la ma duración de los racimos. 
+ 
+2.1  Poda invernal 
+ 
+La poda, en principio, puede hacerse durante todo e l período de reposo vegetativo, es decir 
+desde la caída de las hojas hasta la última semana anterior a la brotación. En la Región de Cuyo la 
+temporada de poda se extiende generalmente desde me diados de mayo hasta fines de agosto. El 
+momento preciso dependerá del clima de la zona, sob re todo del comportamiento de las bajas 
+temperaturas. Con fuertes heladas no se debe podar;  en esos momentos los sarmientos son 
+quebradizos, los cortes poco limpios y los tejidos expuestos al aire son muy sensibles al hielo. 
+Como regla, la poda invernal se debe realizar duran te el receso vegetativo de la planta, 
+siempre atento al clima y las bajas temperaturas, c omenzando por las variedades de ciclos 
+vegetativos cortos y continuando por las de ciclo m ás largo. 
+Sobre la base de lo manifestado, el viticultor pued e determinar el momento oportuno para 
+efectuar la poda en su viñedo en forma racional ten iendo en consideración las siguientes opciones: 
+- En otoño : durante el período de “bajada” de la savia, es cu ando la planta moviliza todas las 
+sustancias útiles desde las hojas y las acumula en zonas de reserva (brazos, tronco, y raíces), 
+preparándose para pasar el invierno en estado de re poso. Si durante este lapso se somete la 
+planta a poda, inmediatamente después de la caída d e las hojas, este acopio de reservas no se 
+completa, debido a que se impide a la misma acumula r las reservas contenidas en los 
+sarmientos provenientes de las hojas. En consecuenc ia se está debilitando a la planta y 
+comprometiendo su salud durante la brotación primav eral (la cual además generalmente 
+suele retrasarse). No obstante, en el caso de plant as que manifestaron excesivo vigor y poca 
+producción este debilitamiento puede ser beneficios o.  
+- En invierno : las plantas minimizan su actividad. En esta época , la gran mayoría de reservas 
+se han acumulado en tronco y raíces y se desplazará n desde el comienzo de la brotación a la 
+parte aérea. La acumulación de reservas será mayor que si se hubiese podado en época 
+otoñal, por lo tanto retrasar la poda hasta el invi erno resultará especialmente beneficioso 
+para plantas de vigor medio o debilitadas. En cambi o, pueden verse perjudicadas aquellas 
+plantas muy vigorosas.  
+ 
+ 
+ 
+Secretaría de Agricultura, Ganadería, Pesca y Alime ntación 
+Instituto Nacional de Tecnología Agropecuaria 
+Estación Experimental Agropecuaria Mendoza 
+ 
+Estación Experimental Agropecuaria Mendoza 
+San Martín 3853 – (5507) Luján de Cuyo (Mza.) – Tel. : 54 261 4963020/332 – Fax: 54 261 4963320  19  - A fines de invierno o principios de primavera : la poda realizada poco antes de la 
+brotación o cuando las primeras yemas han brotado, puede causar retraso de la brotación 
+durante varios días o aún semanas. Esta estrategia puede usarse para prevenir daños por 
+heladas tardías u otras condiciones climáticas adve rsas en fases fenológicas críticas, como 
+en floración en variedades de brotación temprana.  
+- A principios de primavera : si la poda se lleva a cabo cuando las vides ya ha n brotado, es 
+decir, cuando ya han consumido parte de sus reserva s, la brotación será débil; en este caso se 
+favorece la fructificación de las plantas con exces ivo vigor y se perjudica a las de vigor 
+normal y debilitadas. 
+Si se va a aprovechar el material de poda, ya sea p ara la selección de sarmientos y la 
+obtención de púas para injertos o para la selección  de estacas para vivero, es importante que este 
+material contenga la mayor cantidad posible de sust ancias de reserva. Lo más conveniente es podar 
+y retirar los sarmientos inmediatamente después de la caída de las hojas en otoño. Esta importante 
+acumulación de reservas asegurará una buena emisión  de brotes y raíces de las estacas, aunque esto 
+produce, como ya se mencionó, el debilitamiento de la planta de donde se extraiga dicho material.   
+ 
+3 Podas especiales 
+ 
+3.1  Poda de viñedos afectados por granizo 
+ 
+De acuerdo al momento de ocurrencia de la granizada : primaveral (octubre – noviembre) o 
+de verano (febrero – marzo) y al estado del viñedo,  serán diferentes las decisiones a tomar.  
+ 
+- Granizada primaveral:  No podar, salvo casos extremos en los que más del 80% de la 
+producción haya sido destruida y la planta presente  graves daños. En este caso se deben 
+podar sin demora los pámpanos afectados a pocos cen tímetros de su inserción. Esta labor se 
+debe realizar a más tardar dentro los 5-6 días post eriores a la ocurrencia de la granizada.  
+Desbrotar y deschuponar cuidadosamente para poder c onseguir madera apropiada para la 
+poda siguiente y de ser posible recolectar algo de uva. 
+De no haberse realizado previamente una fertilizaci ón, incorporar urea, nitrato de amonio o 
+sulfato de amonio para estimular el buen crecimient o y desarrollo de los nuevos brotes.  
+Los especialistas de INTA, Martínez Pelaez y Nazral a (1969) afirman, en uno de sus 
+trabajos,  que en el caso de viñedos afectados por granizadas primaverales y que no superen 
+el 15 de noviembre, directamente no debe realizarse  ningún tratamiento de poda, únicamente 
+realizar los desbrotes normales. Ellos sostienen qu e la práctica de la poda, en dicho 
+momento, no solamente es difícil de realizar en for ma económica y a corto plazo, sino que 
+perjudica la cosecha del período agrícola siguiente . En caso de realizar podas, las mismas 
+resultarían beneficiosas en los rendimientos de ese  ciclo, pero en el próximo habrá una 
+disminución de la producción y económicamente será injustificada. La explicación de ésta 
+situación se debe a que una poda, en ese momento, p roduce un atraso en el rebrote, lo cual a 
+esa altura del ciclo vegetativo trae aparejado el p roblema de un menor número de yemas 
+fructíferas correctamente diferenciadas sobre los b rotes debido a que el tiempo del que 
+disponen para desarrollarse es menor que el de las yemas de las plantas que no fueron 
+podadas. Diversos ensayos realizados por dichos esp ecialistas arrojaron como resultado que 
+sobre cargadores largos dejados en vides no podadas  después del granizo no solamente  
+ 
+ 
+ 
+Secretaría de Agricultura, Ganadería, Pesca y Alime ntación 
+Instituto Nacional de Tecnología Agropecuaria 
+Estación Experimental Agropecuaria Mendoza 
+ 
+Estación Experimental Agropecuaria Mendoza 
+San Martín 3853 – (5507) Luján de Cuyo (Mza.) – Tel. : 54 261 4963020/332 – Fax: 54 261 4963320  20  observaron mayor cantidad de racimos por yema sino que los mismos se produjeron hasta en 
+la séptima y décima yema inclusive, a diferencia de  los cargadores dejados en las plantas 
+podadas después de la granizada en los que el númer o de racimos por yema no solo fue 
+menor sino que además los mismos fueron producidos únicamente entre la primera y sexta 
+yema.  
+Este mismo criterio es el que ellos recomiendan que  deba adoptarse para situaciones de 
+plantas gravemente dañadas por heladas tardías. 
+ 
+- Granizada de verano:  En esta época, los sarmientos ya poseen una cierta  cantidad de 
+reservas que le servirán a la planta para tener una  buena y homogénea brotación en la 
+siguiente primavera. Además, dentro de las yemas pr incipales ya se han formado los 
+racimillos que son los que darán origen a los racim os de la vendimia del próximo año. Podar 
+en este momento no solo implica eliminar parte de l a producción del siguiente año, sino 
+también eliminar parte de las reservas contenidas e n los sarmientos que utilizará la planta 
+para brotar la primavera siguiente. Por lo tanto, l a decisión más acertada después de una 
+granizada de verano es no podar. 
+ 
+3.1.1  Poda invernal 
+ 
+Los viñedos que han sufrido daños por granizo en la  temporada estival, no sólo pierden total 
+o parcialmente la cosecha sino que además queda com prometida la producción del año siguiente, 
+debido a que las yemas pueden resultar dañadas. Al llegar el periodo invernal se procederá a podar 
+con el siguiente criterio: si al evaluar el estado del material de poda observamos daños importantes 
+en los futuros cargadores, se recomienda podar deja ndo varios pitones en lugar de cargadores con 
+lesiones. De lo contrario provocaríamos una brotaci ón despareja del viñedo con el consecuente 
+desequilibrio del mismo. 
+En el caso que la planta haya sido gravemente afect ada es preciso priorizar la reconstrucción 
+de la misma en detrimento de la futura cosecha. Al podar elegir maderas bien formadas y sin daño o 
+con el menor daño posible (aunque procedan del tron co o de los brazos), eliminando las maderas 
+que presenten heridas importantes.  
+ 
+3.2  Poda de viñedos afectados por heladas tardías 
+ 
+En función del momento en el ciclo fenológico del c ultivo en que se produzca la helada y la 
+intensidad de la misma, se recomienda proceder de l as siguientes maneras: 
+Si la helada ocurre cuando el viñedo ha iniciado re cientemente su brotación, los brotes son 
+de pocos centímetros e incluso hay yemas sin brotar , el viticultor no deberá tocar los brotes 
+afectados sino que debe esperar a que evolucionen l as yemas que todavía no han brotado. 
+Cuando la helada ocurre una vez que el cultivo se e ncuentra con la mayor parte o la totalidad 
+de las yemas brotadas o incluso con brotes portando  inflorescencias en formación, los daños pueden 
+ser parciales o directamente totales. Ante esta sit uación el productor tomará la decisión de podar o 
+no hacerlo, no obstante la planta recuperará su fol laje por la brotación de las yemas secundarias, 
+casqueras e incluso de madera vieja.  
+ 
+ 
+ 
+Secretaría de Agricultura, Ganadería, Pesca y Alime ntación 
+Instituto Nacional de Tecnología Agropecuaria 
+Estación Experimental Agropecuaria Mendoza 
+ 
+Estación Experimental Agropecuaria Mendoza 
+San Martín 3853 – (5507) Luján de Cuyo (Mza.) – Tel. : 54 261 4963020/332 – Fax: 54 261 4963320  21  En la bibliografía consultada encontramos que algun os autores recomiendan podar los 
+cargadores y pitones por encima de la última yema o  brote que afectó la helada. Procediendo de esta 
+manera, se estimula la brotación de las yemas ciega s que si no han sido dañadas pueden resultar 
+fructíferas siempre y cuando se trate de una varied ad de yemas ciegas fértiles. De esta manera 
+también se estimula la brotación de las yemas casqu eras, que aunque no darán cosecha servirán en 
+el futuro para la obtención de sarmientos fructífer os. Por otra parte, ya se mencionó que una poda 
+produce un atraso en el rebrote, lo cual trae apare jado el problema de un menor número de yemas 
+fructíferas correctamente diferenciadas debido a qu e el tiempo del que disponen para desarrollarse 
+es menor. Por lo tanto la cosecha del siguiente año  se verá afectada, siendo menores los 
+rendimientos (Martínez Pelaez y Nazrala, 1969). 
+Otros especialistas son partidarios de no podar, ya  que de todas maneras brotarán las yemas 
+que no hayan sido dañadas por la helada y esto perm itirá la recuperación de la planta. En base a 
+nuestra experiencia podemos afirmar que el tejido a fectado se necrosa y en breve tiempo se seca, 
+por lo tanto no genera ningún tipo de competencia n i inhibición en lo que respecta a la brotación de 
+las yemas no afectadas. Por otro lado, al no podar cargadores ni pitones las yemas secundarias o 
+contrayemas sanas, que no hayan brotado antes sobre  éstos lo harán ahora, siendo su fertilidad, 
+según la variedad, similar e incluso mayor que la d e las yemas ciegas.   
+Este último criterio coincide con lo que hacen la g ran mayoría de los viticultores de las 
+zonas del Valle de Uco y sur de Mendoza, cuya tradi ción vitícola y basta experiencia en el manejo 
+de viñedos afectados por heladas los ha llevado a s ostener que lo mejor que debe hacerse ante esos 
+casos es no podar y dejar que la planta se recupere  por sí sola. 
+Podemos concluir entonces, que la respuesta de la p lanta dañada será la brotación de sus 
+yemas no afectadas, no obstante se haya efectuado o  no la poda. Realizar posteriormente adecuados 
+trabajos de desbrote y fertilización serán fundamen tales para la formación de buena madera de 
+poda. A nuestro criterio, por todo lo expuesto ante riormente, la decisión de no podar sería la más 
+acertada ya que con esto evitamos generar un gasto extra en concepto de poda que no justifica los 
+resultados obtenidos.  
+ 
+  
+ 
+ 
+ 
+Secretaría de Agricultura, Ganadería, Pesca y Alime ntación 
+Instituto Nacional de Tecnología Agropecuaria 
+Estación Experimental Agropecuaria Mendoza 
+ 
+Estación Experimental Agropecuaria Mendoza 
+San Martín 3853 – (5507) Luján de Cuyo (Mza.) – Tel. : 54 261 4963020/332 – Fax: 54 261 4963320  22  V.  CONCEPTOS GENERALES SOBRE PODA EN VID 
+ 
+1 Poda balanceada 
+ 
+Consiste en equilibrar el número de nudos dejados e n la poda con la capacidad de la planta, 
+el objetivo es mantener un balance entre el crecimi ento vegetativo y la producción. 
+El término “capacidad” se refiere justamente a que cada planta, durante cada temporada, 
+tiene una capacidad interna de madurar solamente un a cierta cantidad de racimos y soportar sólo un 
+cierto número de brotes sin que se produzca un desb alance. Esta característica es proporcional al 
+crecimiento potencial total. Una planta con mayor c apacidad podrá soportar una mayor cantidad de 
+yemas (mayor riqueza de poda). La capacidad de cada  planta va a depender y variar de acuerdo a 
+distintos factores: 
+- Factores Internos: variedad, edad, estado sanitar io.  
+- Factores Externos: clima (heladas, granizo, radia ción solar, temperaturas), suelo, prácticas   
+de manejo del viñedo  (riego, fertilización, poda, etc.). 
+Volviendo al concepto de poda balanceada, el objeti vo es podar respetando la capacidad de 
+cada planta. La experiencia previa del podador sobr e una parcela determinada, el conocimiento de 
+los sucesos meteorológicos del año anterior y la ca ntidad de cosecha son las guías para decidir sobre 
+el nivel de poda. El podador debe tener en cuenta e l calibre de los sarmientos comparándolo con 
+otros años y concluir si la cepa está debilitada o si tiene un vigor excesivo. Asimismo, el número y 
+grosor de chupones y feminelas es también indicativ o del vigor de la cepa; con estos datos el 
+podador decide si debe aumentar la carga de la cepa , mantenerla o disminuirla, haciéndolo siempre 
+de manera prudente.  
+A fines prácticos, la recomendación es dejar un núm ero específico de nudos por cada kilo de 
+madera de poda que se obtuvo de la planta. Distinta s experiencias realizadas a nivel mundial han 
+permitido fijar valores indicativos para lograr una  poda balanceada. Uno de los criterios, que mejor 
+se adapta a nuestro medio, es: “Dejar 30 nudos por cada kilo de madera de poda obt enida. 
+Superado el primer kilo, agregar 10 nudos adicional es por cada ½ kilo de madera de más que se 
+tenga”. Esto implica realizar un poda balanceada a la plant a, pesar el total del material extraído y en 
+base a esto determinar si se debe corregir o no el número de yemas dejadas. 
+Otro criterio es: “Fijar la carga de una planta dejando tantos nudos como sarmientos de 
+más de 1 metro se observen en la cepa”.  Deberá observarse detenidamente la planta y tener criterio 
+a la hora de contar los sarmientos, asignando valor es de 1,5 e incluso 2 a aquellos que presenten un 
+excesivo vigor y valores de 0,5  a los que denoten escaso vigor. 
+ 
+2 Riqueza de poda 
+ 
+La riqueza de poda se refiere a la cantidad de nudo s o yemas principales que se dejan en la 
+planta, independientemente del tipo de poda que se realice. La palabra nudo es el término más 
+apropiado para referirnos a riqueza de poda ya que como sabemos la yema principal es en realidad 
+un yemario compuesto por una yema primaria y dos ye mas secundarias o contrayemas.   
+ 
+ 
+ 
+Secretaría de Agricultura, Ganadería, Pesca y Alime ntación 
+Instituto Nacional de Tecnología Agropecuaria 
+Estación Experimental Agropecuaria Mendoza 
+ 
+Estación Experimental Agropecuaria Mendoza 
+San Martín 3853 – (5507) Luján de Cuyo (Mza.) – Tel. : 54 261 4963020/332 – Fax: 54 261 4963320  23  Se califica a la poda como rica  cuando se deja en la planta el mayor número de nud os 
+posibles para una variedad determinada, permitiéndo le mantener su capacidad y  vigor en forma 
+permanente. 
+Esta consideración habrá de hacerse atendiendo a la s posibilidades vegetativas de la 
+variedad en una zona y con un manejo determinado. C ada variedad tendrá una poda rica, media o 
+pobre teniendo como referencia su máxima expresión productiva. 
+El número de nudos puede expresarse como nudos por planta, nudos por metros de hilera, 
+nudos por metro de canopia o nudos por hectárea. 
+ 
+2.1  Riqueza de poda expresada en número de nudos por pl anta 
+ 
+En variedades de mediana expresión vegetativa (Malb ec, Semillón, Chardonnay, etc.), 
+conducidas en espaldero alto de 4 alambres, con pod a tipo Guyot y en buenas condiciones de 
+cultivo, la riqueza de poda puede considerarse, apr oximadamente, dentro de la siguiente escala: 
+- Poda Pobre:  Un cargador y  un pitón (8 nudos) 
+- Poda Media: Dos cargadores y dos pitones (16 nudos) 
+- Poda Rica:  Tres cargadores y tres pitones (24 nudos) 
+Cuando se trata de variedades de gran expresión veg etativa (Cereza, Criolla Grande, etc.), 
+conducidas en parral con poda mixta, la riqueza de poda puede considerarse así: 
+- Poda Pobre: Cuatro cargadores y cuatro pitones (32 nudos).   
+- Poda Media: Seis cargadores y seis pitones (48 nudos).  
+- Poda Rica: Ocho cargadores y ocho pitones (64 nudos). 
+ 
+2.2  Riqueza de poda expresada en número de nudos por he ctárea 
+ 
+Medida en nudos por hectárea la riqueza de poda se puede clasificar en: 
+- Muy Pobre:  menos de 30.000 nudos por hectárea. Típico de viñe dos con poca expresión 
+vegetativa, como espalderos bajos, vasos y sistemas  en cabeza. 
+- Pobre: de 30.000 a 60.000 nudos por hectárea. Se da en vi ñedos de poco vigor, sobre 
+espalderos tanto con poda Guyot doble o triple, com o con cordones bilaterales pitoneados.  
+- Media: de 60.000 a 90.000 nudos por hectárea. Típico en e spalderos altos con buen vigor y 
+expansión vegetativa y parrales con vigor medio. 
+- Rica: de 90.000 a 120.000 nudos por hectárea. Se da en p arrales para vinificar con alto 
+vigor. 
+- Muy Rica:  más de 120.000 nudos por hectárea. Típica en parra les para uva de mesa. 
+ 
+  
+ 
+ 
+ 
+Secretaría de Agricultura, Ganadería, Pesca y Alime ntación 
+Instituto Nacional de Tecnología Agropecuaria 
+Estación Experimental Agropecuaria Mendoza 
+ 
+Estación Experimental Agropecuaria Mendoza 
+San Martín 3853 – (5507) Luján de Cuyo (Mza.) – Tel. : 54 261 4963020/332 – Fax: 54 261 4963320  24  2.3  Determinación de la riqueza de poda 
+ 
+Para determinar la carga que conviene dejar, el pod ador deberá estimar la capacidad de la 
+planta para producir frutos y madera según la varie dad de que se trate y la situación en la que se 
+encuentre. Evaluar a simple vista la poda del año a nterior permitirá tomar una decisión respecto a la 
+riqueza de poda. Pueden, en este sentido, observars e dos situaciones extremas y una media:  
+- Una buena cantidad de sarmientos, con vigor normal y maduros dará la idea de una poda 
+anterior balanceada y ajustada a la capacidad de la  planta, por lo cual deberá mantenerse el 
+mismo número de nudos que el año anterior.  
+- Si los sarmientos son pocos, demasiados vigorosos - largos y gruesos- aunque maduros y 
+además se han desarrollado numerosos chupones, debe  suponerse que la poda anterior fue 
+pobre. En estas condiciones la planta orientó su ac tividad hacia la producción de madera, en 
+razón de no haber tenido la posibilidad de fructifi car normalmente por falta de yemas. La 
+nueva poda deberá ser más rica. 
+- Si la cepa manifiesta debilidad, con sarmientos cor tos y delgados, se tendrá la evidencia de 
+una poda anterior excesivamente rica que produjo de masiados frutos y que rompió el 
+equilibrio que debe existir entre estas produccione s. Para restituirlo, se deberá hacer una 
+poda pobre, disminuyendo radicalmente el número de yemas. 
+Por lo tanto, la decisión respecto a la riqueza de poda que se deje cada año dependerá de 
+cómo evaluemos el balance del crecimiento vegetativ o y productivo del ciclo anterior. Para 
+determinar cuándo una planta está balanceada se pue den tener en cuenta los parámetros que se 
+describen a continuación. 
+ 
+2.3.1  Vigor del brote 
+Una planta balanceada con un vigor óptimo presenta sarmientos bien maduros con respecto al color, 
+de 1 a 1,2 m de largo total, con un diámetro promed io de alrededor de 7 mm. y una longitud 
+promedio de entrenudos de 6 a 8 cm., los cuales deb en ser de aspecto redondeado o levemente 
+elípticos y poseer yemas bien desarrolladas, de asp ecto globoso. 
+ 
+2.3.2  Número de brotes 
+Una planta balanceada posee, en promedio, unos 15 a  16 brotes por cada metro de canopia. 
+ 
+2.3.3  Relación producción/peso de poda (Índice de Ravaz) 
+Esta relación (F/P) da una indicación del balance e ntre la producción de frutos y el crecimiento 
+vegetativo. La relación varía de acuerdo a la varie dad y el ambiente. Valores entre 5 y 10 parecen 
+ser los óptimos para obtener mostos de calidad, en un amplio rango de situaciones. Esto se traduce 
+en que una planta equilibrada debería dar entre 5 y  10 kilos de uva por, aproximadamente, cada kilo 
+de madera de poda. Valores inferiores a 5 serían in dicadores de alto vigor y mayores que 10 
+indicarían situaciones de bajo vigor y excesiva car ga. 
+  
+ 
+ 
+ 
+Secretaría de Agricultura, Ganadería, Pesca y Alime ntación 
+Instituto Nacional de Tecnología Agropecuaria 
+Estación Experimental Agropecuaria Mendoza 
+ 
+Estación Experimental Agropecuaria Mendoza 
+San Martín 3853 – (5507) Luján de Cuyo (Mza.) – Tel. : 54 261 4963020/332 – Fax: 54 261 4963320  25  2.3.4  Peso de madera de poda 
+El rango óptimo es de 0,3 - 0,6 Kg./m de canopia. 
+ 
+2.3.5  Peso del sarmiento 
+Éste es un buen indicador del vigor. Un vigor exces ivo está caracterizado por sarmientos largos y 
+gruesos, generalmente elípticos más que redondeados  y normalmente con excesivo crecimiento de 
+feminelas. Además sus yemas generalmente son más pe queñas y menos desarrolladas, presentando 
+una forma más bien cónica en vez de globosa. Un sar miento de grosor medio debería pesar de 20 a 
+40 gramos como valor óptimo. 
+ 
+3 Acrotonía o Dominancia Apical 
+ 
+Se denomina acrotonía al adelanto en la brotación q ue presentan las yemas de la vid situadas 
+en el ápice del sarmiento, respecto a los tramos in feriores y medios en condiciones normales. Las 
+yemas ubicadas en el tramo apical tienen precocidad  y también brotes más vigorosos que las yemas 
+situadas en los tramos medio y basal, las cuales pr esentan una brotación retardada en algunos días y 
+un crecimiento más débil.  
+El efecto inhibidor de la yema apical es más fuerte  sobre las yemas adyacentes y va 
+disminuyendo desde el ápice hacia la base del sarmi ento (Bautista, 1991). Por lo tanto la actividad 
+vegetativa del brote o pámpano va a depender de su posición en el cargador o pitón y estará 
+influenciada por los fenómenos de acrotonía e inhib ición correlativa de las yemas.  
+En el caso de vides no podadas, por efecto de la in hibición sobre las yemas medias y 
+basales, la mayoría de los brotes se concentran en el extremo del sarmiento, en posiciones alejadas 
+del tronco y los brazos. La planta en estas condici ones adquiere dimensiones grandes y frondosas, 
+con brotes desordenados. Por otro lado, en plantas donde se dejen elementos de poda demasiado 
+largos, por efecto de la acrotonía, pueden quedar i nhibidas algunas yemas de la parte media y basal 
+impidiéndose por completo su brotación. Esto se ver á reflejado en una reducción en el número de 
+brotes respecto a lo esperado y una menor producció n, además causará problemas en la estructura 
+de la planta por la no renovación o renovación parc ial de madera ocasionando el enmaderamiento y 
+envejecimiento de dicha estructura. 
+La acrotonía es una propiedad fisiológica de la vid  relacionada con su estado de liana, ya 
+que al ser favorecido el crecimiento en el extremo de los sarmientos, la planta puede trepar 
+rápidamente y alcanzar zonas luminosas. Fisiológica mente ocurren, al menos, dos fenómenos que la 
+explican: 
+- Las primeras yemas en brotar tienen mejor conexión con el sistema vascular y además existe 
+una mayor presión de savia hacia la parte apical de l sarmiento. Esto ocasiona que yemas de 
+la parte media y basal desarrollen brotes de menor vigor. 
+- Hay una inhibición correlativa de las yemas bajo el  efecto de hormonas de crecimiento de 
+tipo auxínico, que se manifiesta en mayor o menor m edida según: las condiciones de poda 
+(nivel de carga, longitud y posición de los element os de poda) y las condiciones climáticas 
+en primavera. 
+ 
+  
+ 
+ 
+ 
+Secretaría de Agricultura, Ganadería, Pesca y Alime ntación 
+Instituto Nacional de Tecnología Agropecuaria 
+Estación Experimental Agropecuaria Mendoza 
+ 
+Estación Experimental Agropecuaria Mendoza 
+San Martín 3853 – (5507) Luján de Cuyo (Mza.) – Tel. : 54 261 4963020/332 – Fax: 54 261 4963320  26  Diversos factores inciden sobre la acrotonía que ma nifiesta una planta, estos son: 
+- Tipo y posición de los elementos de poda : los cargadores atados a 45º o quebrados a 90º y 
+atados o enrollados en forma paralela al alambre, p resentan brotaciones irregulares, con 
+menor porcentaje de yemas brotadas y longitudes med ias de brotes mayores en el ápice y 
+base de los mismos. En cambio, los cargadores que s on arqueados después de la poda, tienen 
+una brotación más homogénea, con mayor porcentaje d e yemas brotadas y longitudes 
+medias de brotes más uniformes entre la base, la pa rte media y el ápice. Al arquear los 
+cargadores, los tejidos de conducción son sometidos  a una tensión mecánica que provoca la 
+disminución del calibre de los vasos conductores. E sto causa una disminución en la 
+velocidad de circulación de la savia que ahora se d istribuye mejor a lo largo de todo el 
+sarmiento. En cuanto al arqueado de los sarmientos,  debe mencionarse además, que el 
+quebrado del cargador a 90º y posterior enrollado s obre el alambre, tiene un agravante 
+adicional: algunas yemas quedan apretadas entre ést e y el alambre impidiendo el desarrollo 
+de los brotes. 
+En el caso de los pitones, debido a la escasa longi tud que presentan, la acrotonía es menos 
+marcada. Recién puede comenzarse a observar su infl uencia en pitones de 3 yemas o 
+pequeños cargadores de 4 a 5 yemas. No obstante, en  plantas conducidas sobre cordones 
+pitoneados en las cuales la poda ha sido demasiado rica respecto al vigor de la planta, a 
+menudo se puede observar que la única yema brotada ha sido la apical. 
+- La variedad : en las variedades con fuerte acrotonía, como Cabe rnet Sauvignon, se observa 
+mayor tendencia a presentar cargadores con un impor tante número de yemas no brotadas o 
+con brotes débiles en su parte media, incluso habie ndo sido curvados correctamente. Otros 
+cultivares, como Malbec, presentan una brotación pr ácticamente regular a lo largo de todo el 
+cargador no exigiendo curvaturas demasiado intensas . Es recomendable entonces el manejo 
+con poda corta para variedades con acrotonía fuerte . 
+- El vigor : en plantas débiles se acentúa el fenómeno de acro tonía. Esto tienen que ver 
+también con la capacidad de autorregulación de brot ación que desarrolla la planta frente a 
+situaciones adversas. 
+- El rigor del invierno : inviernos poco rigurosos la favorecen. 
+En la siguiente figura se muestra un ejemplo de car gadores arqueados correctamente y 
+cargadores envueltos en posición paralela al alambr e de conducción. 
+ 
+ 
+Curvado correcto , realizado de manera suave.                    Cur vado incorrecto , quebrado a 90º y enroscado  
+                                                                                                   sob re el alambre. 
+ 
+ 
+ 
+ 
+ 
+ 
+Secretaría de Agricultura, Ganadería, Pesca y Alime ntación 
+Instituto Nacional de Tecnología Agropecuaria 
+Estación Experimental Agropecuaria Mendoza 
+ 
+Estación Experimental Agropecuaria Mendoza 
+San Martín 3853 – (5507) Luján de Cuyo (Mza.) – Tel. : 54 261 4963020/332 – Fax: 54 261 4963320  27  
+3.1  Influencia de la acrotonía  sobre los brazos de la planta 
+ 
+Se advierten también efectos inhibitorios de la bro tación por acrotonía en los brazos o 
+cordones pitoneados. Se ha observado que en plantas  de escaso vigor con poda a pitón, las yemas 
+ubicadas en las posiciones del sector medio de los cordones no brotan o lo hacen con brotes 
+bastante débiles. De no tomarse las medidas adecuad as para que estas plantas recuperen su vigor, 
+con el tiempo estas posiciones se terminan perdiend o definitivamente en el cordón.  
+Otra situación ocurre en plantas muy vigorosas de v ariedades con marcada acrotonía 
+conducidas en cordón pitoneado. En este tipo de pla ntas es común observar que los podadores 
+suelen dejar un pitón de 3 yemas o incluso un peque ño cargador de 4-5 yemas en los extremos del 
+cordón, esta poda tiene por finalidad que de los br otes que provengan de este pitón se pueda 
+seleccionar el próximo año un elemento de renovació n de calibre adecuado. Si por el contrario, se 
+podaran los pitones de los extremos con sólo 2 yema s, el vigor de los brotes desarrollados sería 
+excesivo y de diámetro no aconsejable para ser util izado como buen elemento fructífero para la 
+siguiente temporada. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Efecto de la acrotonía sobre planta poco vigorosa co nducida 
+                                        en cordón b ilateral. Foto: Ing. Agr. Valeria Bonomo  
+ 
+ 
+3.2  Efectos de la Cianamida Hidrogenada 
+ 
+La cianamida hidrogenada es un regulador de crecimi ento. Se encuentra formulado para su 
+utilización en agricultura con la finalidad de cont rarrestar los efectos de la acrotonía e inhibición 
+correlativa. Actúa como fitorregulador, rompiendo l a dormancia y estimulando la brotación de las 
+yemas. Lográndose así  uniformizar la brotación y e l desarrollo vegetativo.   
+ 
+ 
+ 
+Secretaría de Agricultura, Ganadería, Pesca y Alime ntación 
+Instituto Nacional de Tecnología Agropecuaria 
+Estación Experimental Agropecuaria Mendoza 
+ 
+Estación Experimental Agropecuaria Mendoza 
+San Martín 3853 – (5507) Luján de Cuyo (Mza.) – Tel. : 54 261 4963020/332 – Fax: 54 261 4963320  28  Se recomienda su aplicación durante el receso inver nal, entre 30 y 25 días antes de la 
+brotación normal de cada variedad, para evitar posi bles daños por heladas tardías producto de una 
+brotación anticipada. El producto se pulveriza sobr e cargadores y pitones hasta punto de 
+escurrimiento, es importante asegurar un buen cubri miento de los mismos. Debido a que la 
+cianamida hidrogenada es un producto fitotóxico en tejidos verdes, se debe tener especial cuidado 
+de evitar la deriva a cultivos vecinos cuando se es té realizando su aplicación.  
+Este producto es bastante tóxico, clasificado como “moderadamente peligroso” y perjudicial 
+para el medio ambiente. La persona encargada de su aplicación tendrá que seguir estrictamente las 
+instrucciones dadas por el fabricante, utilizando e l equipo de protección adecuado.   
+ 
+Finalmente, podemos concluir que: la poda , el curvado adecuado de sarmientos  y la 
+aplicación de cianamida de hidrógeno  son herramientas útiles que permiten controlar la brotación 
+irregular y el enmaderamiento de la planta causado por efecto de la acrotonía o dominancia apical 
+de la vid.  
+ 
+  
+ 
+ 
+ 
+Secretaría de Agricultura, Ganadería, Pesca y Alime ntación 
+Instituto Nacional de Tecnología Agropecuaria 
+Estación Experimental Agropecuaria Mendoza 
+ 
+Estación Experimental Agropecuaria Mendoza 
+San Martín 3853 – (5507) Luján de Cuyo (Mza.) – Tel. : 54 261 4963020/332 – Fax: 54 261 4963320  29  VI.  INTERRELACIÓN DE LA PODA CON OTROS ASPECTOS DEL CUL TIVO 1 
+ 
+En este punto se analiza cómo se relaciona la poda con otros componentes que intervienen 
+en el cultivo y con los factores ambientales.  
+ 
+1 Poda - Entorno 
+ 
+La poda puede contribuir a atenuar sucesos climátic os adversos (como las heladas 
+primaverales, los excesos de temperatura y humedad de los racimos, etc.), si bien no es un factor 
+decisivo en este sentido, puesto que la variedad, e l sistema de conducción y otros aspectos del 
+cultivo, juegan un papel más importante.  
+La poda puede retrasar la fecha de brotación, evita ndo heladas tardías en momentos 
+fenológicos críticos, tales como el cuaje. Como ya se mencionó, este efecto se puede conseguir 
+mediante una poda muy temprana o tardía, justo ante s de la brotación.  
+La poda puede tener influencia, junto con el sistem a de conducción, en los niveles de 
+humedad, iluminación y aireación a nivel de canopia . Distribuyendo adecuadamente los elementos 
+vegetativos en el espacio, según los sistemas de co nducción, se evitan crear sectores sombríos y 
+aglomeraciones de hojas y de racimos, disminuyendo así los riesgos de determinadas enfermedades 
+criptogámicas tales como Botrytis y Oídio. 
+ 
+2 Poda - Sistema de conducción 
+ 
+Existe una relación muy estrecha entre ambos aspect os desde el inicio de la plantación. La 
+poda de formación modela la planta hasta que ésta a lcanza el estado adulto, decidiéndose mediante 
+ésta la situación definitiva de tronco y brazos, y luego la posición anual de los elementos fructífero s 
+en una fase más avanzada del cultivo. 
+Durante la etapa de plena producción la poda debe, por un lado, mantener la forma de la 
+cepa dentro de los límites que se han dispuesto y p or otro ralentizar el envejecimiento de la misma 
+debido al alargamiento excesivo que disminuye el po tencial vegetativo. 
+ 
+3 Poda - Vigor 
+ 
+El estado natural de la cepa es la no-poda, existie ndo un equilibrio interno de la planta entre 
+el crecimiento vegetativo y la fructificación. Sin embargo, en la viticultura comercial la poda 
+ocasiona una alta disminución del número total de y emas, por lo que si aumentamos las yemas 
+dejadas en carga los rendimientos también aumentan hasta un límite en el que ya no existe 
+incremento debido a dichos efectos de compensación.  
+Dejar una carga demasiado pequeña implica una pérdi da, puesto que los pámpanos serían 
+vigorosos aumentando el riesgo de corrimiento de la  flor y se desarrollarían chupones poco fértiles 
+e inflorescencias poco desarrolladas. Por el contra rio, una carga demasiado alta origina muchos 
+racimos por lo que la capacidad de producción de la  planta puede no ser suficiente. Esto resulta en 
+                                                 
+1 Basado en el trabajo de Joaquín Huete, “La poda, i nteracción con los aspectos del cultivo”. 2000.  
+ 
+ 
+ 
+Secretaría de Agricultura, Ganadería, Pesca y Alime ntación 
+Instituto Nacional de Tecnología Agropecuaria 
+Estación Experimental Agropecuaria Mendoza 
+ 
+Estación Experimental Agropecuaria Mendoza 
+San Martín 3853 – (5507) Luján de Cuyo (Mza.) – Tel. : 54 261 4963020/332 – Fax: 54 261 4963320  30  una mala maduración, un agostamiento insuficiente y  un debilitamiento de la planta. La poda al ser 
+una operación drástica elimina gran cantidad de mad era, con el consiguiente debilitamiento de la 
+planta. Es aquí donde debemos recordar y aplicar lo s conceptos de “poda balanceada” y “capacidad 
+de la planta” anteriormente desarrollados, para que  de ésta manera seamos capaces de realizar una 
+poda adecuada y con criterio. 
+ 
+4 Poda - Composición del mosto 
+ 
+El objetivo principal en uvas para vinificar, desar rolladas en una viticultura de calidad, es 
+obtener una materia prima de la cual se pueda extra er mosto y otras sustancias presentes en el 
+hollejo, de la mayor calidad enológica posible. 
+Según un trabajo de revisión elaborado por Jackson y Lombard (1993) cargas moderadas 
+con un Índice de Ravaz del orden de 5 a 8 ocasionan  una alta concentración de sólidos solubles 
+(azúcares), alta acidez, bajo pH, una alta concentr ación de polifenoles y de aromas; mientras que 
+índices mayores de 10, e incluso menores de 5 provo can los efectos contrarios. 
+Estos investigadores no encontraron, en su trabajo de revisión, diferencias significativas en 
+la calidad del mosto entre poda larga y poda corta.  
+ 
+  
+ 
+ 
+ 
+Secretaría de Agricultura, Ganadería, Pesca y Alime ntación 
+Instituto Nacional de Tecnología Agropecuaria 
+Estación Experimental Agropecuaria Mendoza 
+ 
+Estación Experimental Agropecuaria Mendoza 
+San Martín 3853 – (5507) Luján de Cuyo (Mza.) – Tel. : 54 261 4963020/332 – Fax: 54 261 4963320  31  VII.  CRITERIOS SOBRE PODA EN VID 
+ 
+1 Elección de sarmientos para cargadores y pitones 
+ 
+En términos generales deben preferirse los sarmient os maduros y sanos, de mediano vigor y 
+aspecto redondeado o levemente elípticos, con un di ámetro promedio de alrededor de 7 mm. y 
+entrenudos de longitud normal para la variedad (6-8  cm.), ubicados en lo posible, en un lugar donde 
+haya recibido buena iluminación, con yemas bien des arrolladas de aspecto globoso. 
+Para el cargador se utiliza siempre madera de un añ o, que se encuentre sobre madera de dos 
+años. Para pitones debe seguirse el mismo criterio,  pero, cuando sea necesario renovar brazos, 
+cordones, etc., o bien corregir errores de formació n de la planta, pueden dejarse pitones sobre 
+chupones bien ubicados para tal fin. 
+ 
+2 Realización de los cortes 
+ 
+Durante la operación de la poda se deben tomar cier tos recaudos a la hora de hacer los cortes 
+ya que un corte mal realizado puede provocar un dañ o en ese sector de la planta complicando o 
+directamente impidiendo la brotación de las yemas e legidas. Como medidas de prevención a estos 
+daños se debe asegurar que las tijeras siempre esté n bien afiladas y en buen estado, la hoja de corte 
+debe estar bien regulada de manera que no exista un a “excesiva luz” entre ésta y el gavilán o apoyo  
+de la misma, para que el corte sea limpio y liso y no a manera de pellizco dejando restos de corteza. 
+Al practicar los cortes se colocará el gavilán haci a el lado del sarmiento que se suprime, para evitar  
+magullamientos sobre la parte que se conserva. 
+Si la longitud de los entrenudos de los sarmientos no es exagerada, el corte se practicará por 
+encima del nudo de la última yema respetada, ya que  el diafragma constituye una barrera para la 
+entrada de microorganismos. En caso de ser los entr enudos muy largos, se puede efectuar el corte 
+sobre estos procurando alejarse unos 2 - 3 cm. de l a yema respetada y no al ras, para evitar que se 
+interrumpa la conducción de savia desde la madera a  la yema debido a la formación de tejidos de 
+cicatrización en esa zona. Además dichos cortes deb en realizarse a “bisel”, en sentido opuesto a la 
+yema para favorecer el escurrimiento del agua de ll uvia o de savia si la cepa produce lloro previo a 
+la brotación. De esta manera se evita que la yema e ntre en contacto con una excesiva humedad y se 
+pudra o agrave el riesgo de daño por una helada. 
+En los cortes que se realicen sobre brazos y tronco s debe dejarse siempre un pequeño tocón, 
+cuyo bisel mire al lado opuesto a la posición ocupa da por el órgano que prolonga el brazo o tronco. 
+La longitud de este tocón corresponderá al diámetro  de la sección y se realiza, de acuerdo a lo 
+expuesto anteriormente, con el fin de evitar que la  herida cicatrice y se seque introduciendo un 
+sector de madera muerta en la zona del tronco donde  se ha  producido el corte, interrumpiendo la 
+conducción de savia desde la madera al resto de los  órganos. Además, siempre que sea posible y las 
+condiciones así lo permitan, es preferible el uso d e podón o tijerón en lugar de serrucho debido a 
+que éste último no produce un corte liso y limpio s ino que provoca una laceración de los tejidos 
+dejando una herida “granulada” la cual es más prope nsa al ataque de enfermedades. 
+  
+ 
+ 
+ 
+Secretaría de Agricultura, Ganadería, Pesca y Alime ntación 
+Instituto Nacional de Tecnología Agropecuaria 
+Estación Experimental Agropecuaria Mendoza 
+ 
+Estación Experimental Agropecuaria Mendoza 
+San Martín 3853 – (5507) Luján de Cuyo (Mza.) – Tel. : 54 261 4963020/332 – Fax: 54 261 4963320  32  
+                                                                                                                                                                                  
+Esquema de distintos tipos de corte: A corte correcto  realizado sobre el diafragma; B 
+corte correcto realizado sobre el entrenudo a 2-3 c m. por encima de la yema; C corte 
+incorrecto muy cercano a la yema; D corte incorrect o con bisel apuntando hacia la yema  
+ 
+ 
+     
+   Esquema de los distintos  
+componentes de un sarmiento   
+          Fuente: L. Hidalgo      
+                
+Es conveniente que todos los cortes mayores de 2,5 cm. de diámetro sean pintados con una 
+mezcla de látex+fungicida (Ej.: carbendazim, carbox in+tiram, captan, etc.) o pasta bordelesa al 
+10%, para evitar que sean puerta de entrada para en fermedades fúngicas de la madera como “hoja 
+de malvón”, “yesca”, “eutipiosis”, etc. Algunas de las mezclas recomendadas para pintar los cortes 
+son: 
+ 
+1.  Pasta Bordelesa : 
+- 1 litro de agua 
+- 100 gramos de sulfato de cobre pentahidratado 98%  WP 
+- 80 gramos de cal hidratada 
+- 50 cm 3 de aceite mineral 
+ 
+2.  Carbendazim + Látex : 
+- 1 litro de pintura látex 
+- 250 cm 3 de carbendazim 50% SC 
+ 
+ 
+  
+ 
+ 
+ 
+Secretaría de Agricultura, Ganadería, Pesca y Alime ntación 
+Instituto Nacional de Tecnología Agropecuaria 
+Estación Experimental Agropecuaria Mendoza 
+ 
+Estación Experimental Agropecuaria Mendoza 
+San Martín 3853 – (5507) Luján de Cuyo (Mza.) – Tel. : 54 261 4963020/332 – Fax: 54 261 4963320  33  3.  Carboxin + Tiram + Látex : 
+- 500 cm 3 de pintura látex 
+- 500 cm 3 de carboxin 20% + tiram 20% FS 
+ 
+4.  Captan + Látex : 
+- 1 litro de pintura látex 
+- 150 cm 3 de captan 37% SC o 80 gramos de captan 80% WP 
+ 
+  
+ 
+ 
+ 
+Secretaría de Agricultura, Ganadería, Pesca y Alime ntación 
+Instituto Nacional de Tecnología Agropecuaria 
+Estación Experimental Agropecuaria Mendoza 
+ 
+Estación Experimental Agropecuaria Mendoza 
+San Martín 3853 – (5507) Luján de Cuyo (Mza.) – Tel. : 54 261 4963020/332 – Fax: 54 261 4963320  34  VIII.  BIBLIOGRAFÍA 
+ 
+BASF Chile S.A. 2007. Hoja de datos de seguridad de  cianamida hidrogenada. 
+BAUTISTA, D. 1991. Potencial de brotación y fertili dad de tres cultivares de vid ( Vitis vinifera  L.) 
+bajo condiciones tropicales. Agronomía Trop. 41(1-6 ):1.13. 
+FERRARO OLMOS, R. 1983. Viticultura Moderna. Volume n 1, Hemisferio Sur, Uruguay. 
+FREGONI, M. 1998. Viticoltura di Qualità, Edizioni l’Informatore Agrario, Verona, Italia. 
+HERRERA, E. J.; CINTA, W. 1968. Poda de la vid. INT A Centro Regional Andino (Circular, 23), 
+Mendoza, Argentina.  
+HIDALGO, L. 2003. Poda de la Vid. Sexta edición, re visada y ampliada. Ediciones Mundi-Prensa, 
+Madrid, España.  
+HUETE, J. 2000. La Poda, Interacción con los Aspect os del Cultivo. Revista Vida Rural Nº 119: 
+53-56. 
+JACKSON, D y LOMBARD, P. 1993. Environmental and ma nagement practices affecting grape 
+composition and wine quality-A review. Am. J. Enol.  Vitic. 44: 409-430. 
+MARTÍNEZ VALERO, R; MELGAREJO MORENO, P; HERNÁNDEZ GARCÍA, F; 
+MARTÍNEZ NICOLÁS, J; SALAZAR HERNÁNDEZ, D y MARTÍNE Z FRONT, R. 2001. 
+Prácticas Integradas de Viticultura, Mundi-Prensa, Madrid, España. 
+MARTÍNEZ PELAEZ, H.; NAZRALA, M. L. 1969. Recuperac ión de viñedos granizados. 
+Mendoza: INTA EEA Junín. s.p.  
+MERLO, E; ALTURRIA, L. 2006. Poda Invernal de Viñed os. Apunte Capacitación Poda de la Vid. 
+Convenio INTA-FeCoVitA. INTA EEA Mendoza. (inédito)  
+MULLINS, M; BOUQUET, A y WILLIAMS, L. 1992. Biology  of the Grapevine, Cambridge 
+University Press, USA. 
+PACOTTET, P. 1928. Viticultura, Salvat Editores S.A , Barcelona, España. 
+PÉREZ RECIO, G. 2007. Operaciones Manuales en Viñed o, Servicio de Formación Agraria e 
+Iniciativas. Junta de Castilla y León, España. 
+REYNIER, A. 2005. Manual de Viticultura. Sexta edic ión, revisada y ampliada. Mundi-Prensa, 
+Madrid, España. 
+RODRÍGUEZ, J. G. 2000. Sistemas de Conducción, Seri e Apuntes Viticultura. Cátedra de 
+Viticultura, Facultad de Ciencias Agrarias, Univers idad Nacional de Cuyo. 
+RODRÍGUEZ, J. G. 2005. Poda Anual de los Viñedos. R evista El Vino y su Industria, Nº 35: 36-
+54. 
+VALOR, O y BAUTISTA, D. 1996. Brotación y Fertilida d de Yemas en Tres Cultivares de Vid 
+para Vino. Universidad Centro Occidental Lisandro A lvarado. Instituto de la Uva, Decanato de 
+Agronomía. Estado Lara. Venezuela.  
+VEGA, J. 1976. Fertilidad de las Yemas de Vid Según  Ubicación y Variedad. Revista IDIA Nº 343-
+348: 97-104. 

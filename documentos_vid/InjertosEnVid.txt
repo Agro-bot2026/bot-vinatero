@@ -1,0 +1,1275 @@
+FACULTAD DE CIENCIAS AGRARIAS Y FORESTALES  |  UNLP     141 
+ CAPÍTULO 7  
+Injertación: Fundamentos y técnicas  
+Gustavo Esteban Gergoff Grozeff y Gabriela Andrea Morelli  
+Introducción  
+ 
+Desde un punto de vista general, la injertación puede ser entendida como la acción deliberada 
+o no de unir partes de plantas para que puedan continu ar creciendo y desarrollándose como si 
+fueran una sola unidad, dando lugar a un organismo fusionado de genética compuesta. En la 
+naturaleza la unión de ramas o raíces adyacentes de ramas de una misma planta o de plantas 
+adyacentes es posible pero no muy co mún. Desde un punto de vista adaptativo y evolutivo, 
+existen ciertas plantas parásitas que viven a expensas de otras, generando estructuras 
+especiales para tal fin, como son los haustorios, los cuales se introducen en el xilema o el floema 
+del hospedante, para abastecerse de savia bruta o elaborada, respectivamente. Sin embargo el 
+hombre mediante la experimentación ha encontrado formas de acelerar y hacer más eficiente 
+este proceso.  
+Hay autores que a esta técnica la denominan un "arte" debido a la alta capa cidad que se 
+requiere para efectuar un injerto exitoso. Desde el punto de vista técnico, injertar  implica unir 
+dos o más partes de diferentes plantas, para que puedan seguir su crecimiento y desarrollo como 
+una sola unidad.  
+Estas técnicas se han utilizado,  con sus variantes, tanto para plantas leñosas o semileñosas 
+pluricárpicas (árboles y arbustos), como así también en plantas monocárpicas (herbáceas o 
+semiherbáceas). Tengamos en cuenta que es un arte milenario que se ha documentado desde 
+las antiguas civi lizaciones en Asia 1.000 años A.C. llegando hasta nuestros días con la utilización 
+de máquinas semiautomáticas, aplicadas a cultivos hortícolas.  
+Desde el punto de vista fisiológico, una planta injertada  o estión  es considerada un 
+simbionte, compuesta por u na o más partes aéreas, que corresponden al epibionte  y una 
+limitada porción de tallo y el sistema radical que conforman el hipobionte . Desde un punto vista 
+práctico, a estas partes que conforman una planta injertada o las plantas injertadas cuentan 
+básica mente con una parte subterránea y una o más partes que confor man la parte aérea de la 
+planta : 
+* Patrón  (también denominado portainjerto, pie o stock  o rootstock o under stock  en inglés): 
+Forma una pequeña parte del tallo inferior de las plantas o "corona",  junto con todo el sistema 
+radical, pudiendo proceder de semillas, estacas, acodos o por técnicas de micropropagación.  FACULTAD DE CIENCIAS AGRARIAS Y FORESTALES  |  UNLP     142 
+ * Patrón intermedio  (interstock , intermediate  stock o  interstem  en inglés) : Conforma  una 
+pequeña parte del tallo que desarrolla entre el sistema radical y la parte aérea, y se lo utiliza para 
+evitar casos de incompatibilidades entre el patrón y la púa y de allí que muchas veces se lo 
+denomina "filtro".  
+* Púa (también denominado coloquialmente "injerto " o scion  del inglés): Conforma el tallo  y 
+parte aérea de la planta injertada y puede consistir en una simple yema o en una pequeña porción 
+de tallo. Este punto es de destacar, ya que corresponde a la clasificación de técnicas que 
+veremos más adelante. Cabe aclarar que en ciertos casos la parte aérea puede estar compuesta 
+por más de una púa, dando lugar a copas compuestas, pero a nivel productivo son las menos 
+comunes.  
+ 
+Figura 7.1  
+ 
+Nota . Propagación de plantas por medio de injertos. Dos (izquierda) o más partes (derecha) de 
+una planta pueden con vivir y desarrollarse como una única unidad, manteniendo sus 
+individualidades, pero interactuando desde el punto de vista fisiológico mediante la influencia 
+estiónica (ver final de la primera parte de este capítulo). (Elaboración propia).  
+ 
+  
+Objetivos de l a injertación  
+ 
+Una vez vistas las partes que conforman un estión, podemos definir los objetivos que ha 
+perseguido esta técnica y que a lo largo de la experimentación de prueba y error ha llevado al 
+perfeccionamiento de la mism a. De forma resumida, se puede n definir los siguientes objetivos 
+principales:  
+* Clonación : este es el primer y uno de los principales objetivos de la injertación. La técnica 
+no modifica el acervo genético (constituido por la molécula de ADN) de las partes que conforma 
+el estión y mucha s veces se la utiliza como técnica de conservación de especies cuando otras 
+técnicas de propagación ( e.g. semillas, estacas o acodos) fallan.  
+FACULTAD DE CIENCIAS AGRARIAS Y FORESTALES  |  UNLP     143 
+ * Resistencia a plagas y enfermedades : Este punto es de vital importancia para que las 
+plantas puedan prosperar en  condiciones que serían limitantes, como pueden ser plagas ( e.g. 
+pulgón lanígero, nemátodos) o enfermedades (e.g. Phytophtora  spp., Agrobacterium spp .) en el 
+sistema radical o en la parte aérea (virosis en cítricos, por ejemplo). Vale decir que existen 
+diferentes niveles de resistencia, en donde la plaga o enfermedad conviven sin causar daños 
+sustanciales, hasta plantas que son consideradas inmunes al ataque de las plantas injertadas.  
+* Adaptación a condiciones edáficas y/o climáticas . Si tomáramos las cond iciones 
+agroecológicas (entendidas como las condiciones de suelo, clima y biota presente) que definen 
+la distribución de una especie dada, veríamos su área de distribución bastante restringida. Sin 
+embargo, muchos cultivos han visto su expansión gracias a la utilización de plantas injertadas. 
+Sólo a modo de ejemplo se puede citar la resistencia que ofrece a las bajas temperaturas la 
+utilización del portainjerto Poncirus trifoliata  a diferentes especies de cítricos o la adaptación a 
+suelos pesados como es el  portainjerto Mirabolano a los ciruelos.  
+* Manejo del vigor de las variedades . Ciertos portainjertos determinan el potencial de 
+crecimiento de las variedades que se injertan sobre ellos. A modo de ejemplo se pueden citar las 
+series de portainjertos de man zano, encontrándose desde los enanizantes hasta los vigorizantes, 
+pasando por todas las escalas intermedias o en el caso del vigor transferido a las variedades de 
+tomate injertadas sobre el portainjerto Maxifort. Este efecto es debido básicamente al aporte  que 
+hacen los portainjertos en un balance hormonal y de los carbohidratos hacia la copa. Portainjertos 
+que inducen vigor se caracterizan por aportar altas concentraciones de auxinas y giberelinas, 
+bajas de ácido abscísico (ver Capítulo 3)  y un flujo mayor  de carbohidratos ayudado por vasos 
+de mayor diámetro.  
+* Anticipación o retraso de la entrada en producción . Como se ha visto en el Capítulo 3, 
+las plantas leñosas y semileñosas requieren períodos variables para pasar a la fase adulta y 
+fructificar, que  en muchos casos puede llegar a varios años. Este punto es de importancia para 
+reducir el lucro cesante en especies arbóreas para producir semillas o frutos, por lo que la 
+injertación permite combinar en una misma unidad, partes de plantas en fase juvenil,  como la 
+excelente velocidad para el crecimiento y establecimiento del sistema radical y otras partes 
+aéreas en fase adulta, con capacidad de florecer y fructificar en plazos muchos menores. Por 
+otro lado, hay casos en los que se producen efectos inversos,  como es el portainjerto Cleopatra 
+(Citrus reshnii ) sobre variedades de cítricos, en donde la producción se ve disminuida durante 
+los primeros 15 años, pero en los siguientes 15, la producción en cantidad y calidad se ven 
+compensadas. Es por ello que en la  jerga viverística, a Cleopatra se la conoce como el 
+"portainjerto de los segundos 15 años ". Este proceso se discutirá más adelante en la sección 
+sobre influencia estiónica . 
+* Recambio varietal o reparación de daños : Esto ocurre en muchas variedades de fru tales 
+que por su poca demanda, pasan a no ser rentables y es por ello que pueden ser reemplazadas 
+con distintas técnicas de injertos de copa que se realizan a campo con nuevos cultivares que 
+auguren mayores rentabilidades. En el caso de daños de ramas prin cipales, éstas pueden ser 
+subsanadas mediante la autoinjertación de ramas formando puentes o bypass , restableciendo el FACULTAD DE CIENCIAS AGRARIAS Y FORESTALES  |  UNLP     144 
+ flujo de savia en el lugar afectado. Por último y a modo de ejemplo, podemos mencionar el 
+recambio de los portainjertos por problemas de incompatibilidad o por daños por plagas o 
+enfermedades. Este último tipo se denomina injerto de punta, en donde a la planta afectada se 
+injertan barbados (estacas enraizadas) en la parte media del tronco, reemplazando con el tiempo 
+completamente al sistema  radical. Esta última técnica es muy onerosa, pero si permite el rescate 
+de plantas valiosas ante el ataque de, por ejemplo, enfermedades que no tengan posibilidad de 
+dispersarse y se desarrollen puntualmente, como es el caso de Agrobacterium tumefaciens . 
+* Trabajos en fitotecnica y fitopatología . Estos objetivos se podrían considerar adicionales 
+a los mencionados anteriormente, pero con otras aplicaciones. En el caso del mejoramiento 
+genético (o fitotecnia), la injertación permite el adelanto de la producc ión en el proceso de 
+selección de plantas por la calidad de los frutos en menores tiempos. En el caso de las técnicas 
+fitopatológicas, es sabida que la presencia de ciertas virosis hace incompatibles ciertas 
+combinaciones estiónicas, por lo que con una téc nica a campo se puede determinar la ausencia 
+de enfermedades. En la actualidad, esta última ha sido reemplazada por testeos serológicos con 
+anticuerpos específicos o mediante tecnologías de ADN como la PCR ( Polimerase Chain 
+Reaction , traducida como Reacció n en cadena de la polimerasa), que permiten una identificación 
+más precisa, pero más costosa.  
+ 
+ 
+Condiciones para el éxito del injerto  
+ 
+Desde un punto de vista práctico, se describen las condiciones necesarias para que la unión 
+de un injerto sea exitosa. C abe aclarar que desde el punto de vista productivo este éxito en la 
+injertación puede ser variable, llegando en ciertos casos al 100 % de eficiencia en especies de 
+fácil injertación como los manzanos, hasta eficiencias del 40 % en casos de mucha dificultad , 
+como son los nogales ( Juglans spp . y Carya spp .).  
+Desde un punto de vista general, y sin entrar en detalles celulares  ni tisulares, el proceso de 
+cicatrización y unión se puede dividir a grandes rasgos en tres etapas, a saber:  
+* Unión mecánica : Esta uni ón es forzada por medio de distintas ataduras o dispositivos para 
+garantizar la estabilidad de la ubicación adecuada de las partes a injertar, debiendo garantizar 
+además de la estanqueidad, evitar la desecación de los tejidos en el proceso de cicatrización . 
+* Unión anatómica : Por tratarse de una herida, las partes de las plantas comenzarán a 
+generar un tejido indiferenciado que tiende a taponar los espacios libres. Este tejido 
+indiferenciado se denomina callo y tiene paredes celulares muy delgadas, por lo q ue la pérdida 
+de agua puede ser importante, si no se evita por medio de las mencionadas ataduras. A partir de 
+allí se regenerarán los tejidos preexistentes de conducción como el floema y el xilema y los tejidos 
+meristemáticos como el cambium y el felógeno.  A nivel microscópico, en los injertos compatibles 
+se generan abundantes plasmodesmos entre ambas partes, que favorecen la "comunicación" 
+entre las partes vegetales intervinientes.   FACULTAD DE CIENCIAS AGRARIAS Y FORESTALES  |  UNLP     145 
+ * Unión fisiológica : Una vez restablecida la comunicación vascular comienz a a reanudarse 
+la denominada unión fisiológica, en la cual las dos o más partes que conforman el estión 
+comienza a intercambiar distintas sustancias inorgánicas (como los nutrientes por medio del 
+xilema) y orgánicas (carbohidratos, aminoácidos, hormonas, A RN, entre muchas otras). Desde 
+el punto de vista de la fisiología, esto se denomina " influencia estiónica ", la cual será tratada 
+brevemente al final de este capítulo.  
+ 
+ 
+Compatibilidades ≈  incompa tibilidades  
+ 
+La compatibilidad es una de las condiciones fun damentales para que distintas partes tengan 
+una unión duradera y estable en el tiempo. Como primera medida, el límite para la injertación se 
+encuentra a nivel de Familia : vale decir que los injertos entre familias no prosperan por diferentes 
+razones anatóm icas y fisiológicas. A medida que ingresamos en los taxa inferiores como género, 
+especie, subespecie, cultivar y clon, la compatibilidad es cada vez mayor (ver Capítulo 2). Otra 
+forma de decirlo es que existen posibilidades de éxito de injertos intergenéri cos (e.g. en cítricos 
+entre Citrus spp . y Poncirus spp .), interespecíficos (e.g. en duraznero entre Prunus persica  y 
+Prunus davidiana ; o en tomate entre Solamun ly copersicum  y Solanum sisymbriifolium ) o 
+intraespecíficos (como en el caso del manzano Malus d omestica  cv. Red Delicius injertado sobre 
+Malus domestica  cv. Granny Smith).  
+A partir de establecer esta limitante para la técnica, en este apartado se mencionarán las 
+principales causas de incompatibil idades  (es muy probable que en futuro se descubran ot ras) y 
+las formas en las cuales éstas pueden ser evitadas o subsanadas : 
+Incompatibilidad localizada : Es debida al contacto entre diferentes partes que conforman el 
+estión. Hay ciertas combinaciones en que esto se da con mayor frecuencia, como es el caso de  
+ciertas variedades de ciruelos con sus portainjertos o de frutales de pepita como el peral. En 
+muchos casos estas incompatibilidades pueden verse en forma retrasada en el tiempo, 
+desarrollando síntomas externos a nivel de la unión en la corteza, generándo se abundante 
+parénquima e internamente deformaciones en el tejido vascular. Este tipo de incompatibilidades 
+pueden ser subsanadas por medio de un injerto intermedio o "filtro", el cual puede consistir en 
+una pequeña porción de tallo compatible con el patró n y la púa simultáneamente.  
+Incompatibilidad traslocada : Este tipo de incompatibilidad incluye a aquellos casos en que 
+aún la incorporación al estión de un injerto intermedio o filtro no produce una exitosa unión entre 
+las partes. El fundamento de esta in compatibilidad es debida a que por medio del floema circulan 
+ciertas sustancias que atraviesan el injerto intermedio, el cual no puede "filtrar", y llegan al otro 
+extremo en la otra porción de tejido incompatible. Estas sustancias muchas veces se tratan de  
+glucósidos cianogenéticos , los cuales al encontrar la enzima hidrolítica en el otro extremo, 
+liberan cianuro, el cual inhibe la respiración mitocondrial y por consiguiente se produce la muerte 
+del tejido con una necrosis localizada en el punto de unión. E n este caso particular, se debe 
+cambiar la variedad de la púa a injertar o reemplazar el portainjerto por otro que sea compatible. FACULTAD DE CIENCIAS AGRARIAS Y FORESTALES  |  UNLP     146 
+ Otro de los casos es la presencia de virus silentes  en algunas de las partes del estión. Estos 
+virus conviven con las plantas  sin producir los síntomas característicos, como son las clorosis 
+internervales, enanismo o bajas en el rendimiento y calidad de la fruta. En otras palabras, estos 
+virus se esconden para pasar desapercibidos y se pueden propagar por mano del hombre 
+(median te el tránsito no autorizado de material, el polen o vectores). Tenga en cuenta que la 
+estrategia de la mayoría de los virus es pasar desapercibidos sin ser detectados para poder 
+propagar una enfermedad a nuevos huéspedes; y, sin ir más lejos, esto puede o bservarse en el 
+caso del SARS -CoV2 que produce un gran número de infectados asintomáticos. Para subsanar 
+este tipo de incompatibilidad, la solución es utilizar material libre de virus, el cual debe estar 
+certificado y aislado en un lugar especial del viver o (este punto se discutirá en el último capítulo 
+de este libro ). Las incompatibilidades del tipo virósico se dan con mayor frecuencia en cítricos y 
+frutales rosáceos.  
+Incompatibilidades anatómicas : Este tipo de incompatibilidades se debida al poco 
+desarro llo del floema o a la discontinuidad del tejido vascular. En estos casos, la tasa de 
+crecimiento en diámetro de alguna de las partes que forman el estión es muy diferente y ocasiona 
+el famoso efecto "botella", con un ahorcamiento en la zona de unión, que  limita el normal flujo de 
+savia.  
+Incompatibilidades en el tiempo : En este párrafo, se pretende aclarar que el éxito de un 
+injerto no puede ser juzgado solamente por su desempeño en el vivero. Muchas veces ocurre 
+que las fallas en el injerto pueden ser vi stas en el monte con árboles que pueden llevar más de 
+una década creciendo y fructificando, como es el caso de los frutales. Sin embargo, al cabo de 
+un tiempo, comienzan a aparecer síntomas de incompatibilidad, como el crecimiento desigual de 
+la púa y el p atrón, la secreción de resinas o la formación de labios alrededor del punto de unión. 
+Este tipo de incompatibilidades se las denomina incompatibilidades retrasadas  y 
+probablemente éstas podrían ser debidas al cambio del metabolismo cuando las plantas llega n 
+a una determinada edad ontogénica. Es por ello que se recomienda la consulta previa de 
+bibliografía para determinar la combinación adecuada, y que ésta sea exitosa a lo largo del 
+tiempo.  
+ 
+ 
+Contacto íntimo entre las partes cambial es y evitar la desecació n 
+La técnica de injerto debe garantizar que ambas porciones de tejido estén muy cerca una de 
+otra. Tenga en cuenta, que en el proceso de cicatrización, se producen dos o tres capas de tejido 
+parenquimático, el cual debe tomar contacto con el tejido vecino.  Una vez unidas las dos partes, 
+esta formación debe tener una estanqueidad mecánica, ya que constituirá una unión débil, hasta 
+que se reestablezca la comunicación vascular. Es importante destacar la coincidencia de los 
+tejidos vasculares para garantizar el  éxito: en este caso se requiere que las regiones cambiales  
+en las especies leñosas tengan una muy buena coincidencia, para favorecer la restitución del 
+tejido del líber y del floema nuevamente.  FACULTAD DE CIENCIAS AGRARIAS Y FORESTALES  |  UNLP     147 
+ Esta unión mecánica puede ser llevada a cabo por medio de ci ntas polietileno especiales para 
+injertar, cintas del estilo Parafilm® (se pega sobre sí misma por electrostática) o en el caso de 
+injertos en herbáceas, por medio de clips. Otro punto importante es evitar la desecación. En los 
+casos mencionados anteriorme nte, las cintas evitan la pérdida de agua y consecuente 
+desecación de los tejidos; pero en el caso de injertos de mayores dimensiones, como son los 
+realizados a campo, requieren de pastas especiales para cumplir dicho fin. Para ello se pueden 
+utilizar mezc las en iguales proporciones de cera de abejas y aceite de lino, entibiadas a baño 
+María o productos comerciales como el mastique, que constituyen una resina flexible que evita 
+la pérdida de agua. No se recomienda la utilización de parafina por su alta temp eratura de fusión 
+(puede llegar a cauterizar el tejido) y por su poca adhesión.  
+ 
+ 
+Época y estado f isiológico  adecuado s 
+Épocas para injertar:  En general se puede injertar durante todo el año mientras que el patrón 
+y la púa se encuentren en el estado fisiol ógico adecuado. Sin embargo, hay determinadas fechas 
+en las cuales se dan diversas combinaciones de condiciones que aumentan las oportunidades 
+de éxito. Esto significa que las yemas deben estar  en reposo  (dormición) y el patrón puede estar 
+en reposo o en i nicio de su crecimiento activo  con un escaso flujo de savia, según el método de 
+injerto que se emplee . En las especies arbóreas, los momentos son:  
+* a la salida del verano, principios de invierno, en donde el pie está comenzando a ingresar 
+en el reposo inv ernal y el flujo de sabia baja, sumado al aumento de las hormonas inhibidoras de 
+la brotación, como el ácido abscísico.  
+* Invierno: en este caso el reposo es absoluto y no hay flujo de savia y todos los meristemas 
+se encuentran totalmente inactivos metaból icamente.  
+* salida del invierno: en este momento, el portainjerto ha activado su metabolismo, pero las 
+yemas aún no se encuentran con signos de brotación pronta.  
+* Principios de verano: A pesar de que tenemos un portainjerto en plena etapa de crecimiento  
+vegetativo, durante el verano debido a las altas temperaturas, la alta demanda evapotranspirativa 
+y un estrés hídrico, tenemos un detenimiento en el proceso de crecimiento, lo que disminuye el 
+flujo de savia. Este detenimiento momentáneo en el crecimiento , se lo denomina comúnmente 
+"parada de verano".  
+Y por otro lado, las yemas o púas  a injertar deben estar siempre en estado de dormición. 
+Los momentos en los cuales podemos extraer las yemas de las plantas madre son básicamente 
+tres (Figura 7.2):  
+* Principi os de otoño : las yemas ya han acumulado suficientes reservas y los inhibidores 
+del crecimiento, como el ácido abscísico, que evitarán que esta yema brote, aún dando las 
+condiciones climáticas adecuadas. Recordemos que las plantas pueden censar la duración del 
+día, entrando en el proceso de dormición profunda, junto con la removilización de nutrientes antes 
+de la caída de las hojas. Como mencionamos en el Capítulo 3, en este momento las yemas se 
+encuentran en endodormición . FACULTAD DE CIENCIAS AGRARIAS Y FORESTALES  |  UNLP     148 
+ * Invierno : Se podría considerar q ue el invierno sería la época ideal para la cosecha de yemas 
+que servirán como púa para nuestros futuros estiones, sin embargo, para que los injertos prendan 
+en esta época necesitaremos recrear condiciones de temperatura que favorezcan el proceso. En 
+este caso, las yemas también se encuentran en estado de endodormición .  
+Por otro lado, las baretas de las plantas madre yemeras también pueden ser cosechadas, por 
+ejemplo en julio, y conservarse en condiciones de humedad elevada y temperaturas de 
+aproximadament e 5 ó 6 ºC, retrasando el proceso de reinicio de la brotación, que naturalmente 
+ocurriría hacia fines de agosto. En este caso, las yemas de especies caducas, habrán cumplido 
+su requerimiento de frío y por lo tanto un aumento de los promotores del crecimien to, como las 
+giberelinas, la removilización de las reservas en los tallos y el aumento de la temperatura 
+induciría la brotación. Es por ello que las yemas pueden ser guardadas en heladera, prolongando 
+en este caso el proceso de ecodormición .  
+* Verano : Este es otro de los momentos en que las yemas pueden ser cosechadas sobre los 
+brotes del año corriente. Tengamos en cuenta que los brotes poseen una yema apical, la cual 
+crece durante todo el período primavero -estival, pero inhibe el crecimiento de las yemas laterales. 
+Este proceso lo hemos visto en el Capítulo 3  y se denomina dominancia apical, que es debida a 
+la producción de auxinas en el ápice, inhibiendo la conexión vascular de las yemas axilares. A 
+este tipo de dormición se la llama paradormancia  y si la s yemas son sacadas de esa condición 
+e injertadas en un pie, estas brotan inmediatamente, lo que evidencia la reversibilidad de su 
+estado fenológico ante la ausencia de auxinas que inhiban su crecimiento.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ FACULTAD DE CIENCIAS AGRARIAS Y FORESTALES  |  UNLP     149 
+ Figura 7.2  
+ 
+Nota . Resumen d e las diferentes épocas de injertación. El injerto de otoño se realiza a finales del 
+verano, principios del otoño con yemas dormidas, de la misma que con el injerto forzado, ya que 
+formarán el callo de cicatrización y brotarán en la primavera. El injerto p rimaveral debe ser 
+realizado con yemas en ecodormición inducida, adelantando la cosecha de las varetas de la 
+planta madre yemera. El injerto precoz se realiza a inicios de verano con yemas en 
+paradormancia. Tanto el primaveral como el precoz son a yema des pierta, vale decir, que 
+formarán el callo y brotarán al poco tiempo de haberse realizado la tarea de injertación. 
+(Elaboración propia).  
+ 
+ 
+Temperatura  
+Esta variable coincide en la mayoría de los casos con la época en la cual vamos a injertar. A 
+grandes rasg os, se puede decir que temperaturas entre 17 y 20 ºC son las que garantizan una 
+buena tasa de división celular y consecuentemente una buena cicatrización en la mayoría de los 
+casos. Sin embargo se han encontrado casos en los cuales se requieren temperatura s máximas 
+de 16 º C para garantizar el éxito de prendido en nogales injertados sobre pie de nogal negro.  
+ 
+ 
+ 
+ 
+Influencia estiónica  
+FACULTAD DE CIENCIAS AGRARIAS Y FORESTALES  |  UNLP     150 
+ Como se ha mencionado anteriormente en este capítulo, la unión anatómica en el injerto 
+restablece la comunicación entre, por ejemplo la raíz y la copa, mediante la unión de citoplasmas 
+a través de los plasmodesmos. Este tipo de comunicación se lo puede atribuir a numerosas 
+sustancias de diferente naturaleza, que pueden constituir desde iones inorgánicos que la planta 
+realiza par a su nutrición absorbiendo desde la solución del suelo por parte de los pelos radicales, 
+pasando por sustancias carbonadas como azúcares o aminoácidos, llegando a hormonas y 
+sustancias mucho más complejas como ARN. Vale destacar que si el lector toma algun o de los 
+textos dedicados a propagación, previos a la década del 2010, podrá comprobar que en dichos 
+libros se hacía hincapié en que las partes de una planta injertada mantenían su identidad 
+genética intacta, ya que el ADN por ser una macromolécula, no pod ía abandonar el núcleo y 
+transferirse a otra célula. Sin embargo, la influencia y la combinación entre diferentes plantas ya 
+era conocida desde los días del Imperio Romano, ya se hablaba de injertos de olivos "buenos" y 
+"malos". También mediante la experim entación en frutales fundamentalmente, se ha demostrado 
+que una misma variedad injertada sobre diferentes portainjertos puede dar frutos de diferente 
+calidad; y viceversa, una misma variedad de portainjerto se comporta de diferente manera 
+cuando es injerta da con variedades de copa diferentes. Ahora, a pesar de no perder la identidad 
+genética, en las combinaciones de materiales ocurrían cambios en la fenología, en la resistencia 
+a plagas y enfermedades, resistencia a condiciones climáticas adversas, en la ca lidad de la fruta, 
+entre muchas otras. A este efecto, se lo denominó influencia estiónica  desde hace mucho 
+tiempo, pero sin conocer las causales del mismo (Figura 7.3). Vale decir que cada planta injertada 
+con un portainjerto y una púa determinados, dará u na combinación única , con características 
+particulares y distintas en su comportamiento a las plantas individuales que les dieron origen, 
+tanto pie como púa. A modo de ejemplo, mencionaremos que una misma variedad de naranjo 
+dulce, produce frutos con cásca ra más gruesa cuando es injertada sobre limonero rugoso; pero 
+cuando es injertada sobre naranjo trifoliata ( Poncirus trifoliata ), la cáscara es significativamente 
+más fina. En este caso se han documentado numerosas moléculas de micro ARNs que viajan 
+desde el portainjerto hacia la copa, induciendo cambios en el fenotipo de la variedad injertada. 
+Con el mismo paralelismo se pueden atribuir resistencia al frío de P. trifoliata : esta especie 
+presenta un receso invernal y es un arbusto caduco, influyendo también  en la disminución del 
+tamaño de las plantas que se injertan sobre él. En este último caso, es probable que haya 
+además una regulación hormonal y de flujo de hidratos de carbono tanto ascendente como 
+descendente entre la copa y la raíz.  
+Desde el punto de vista fisiológico, se ha descubierto que el intercambio de hormonas, 
+azúcares y microRNAs determina también el vigor que se le imprime a la variedad. Por ejemplo, 
+las variedades que imprimen un gran vigor presentan niveles mayores de auxinas y giberelinas,  
+mientras que poseen una menor síntesis de ácido abscísico, traslocan una mayor cantidad de 
+carbohidratos por el floema y presentan vasos de mayor diámetro. Sin embargo en las variedades 
+enanizantes se da el caso contrario, es decir, menor contenido de aux inas y giberelinas, mayor 
+de ácido abscísico y una menor translocación de carbohidratos en vasos de menor diámetro, 
+dando consecuentemente plantas de menor porte, pero con una mayor eficiencia desde el punto FACULTAD DE CIENCIAS AGRARIAS Y FORESTALES  |  UNLP     151 
+ de la captación de luz y mayor producción de fru ta (en Fruticultura esto se denomina eficiencia 
+de copa) (Figura 7.3).  
+ 
+Figura 7.3  
+Auxinas
+Giberelinas
+Ácido abscisico
+Azúcares simples
+microRNAs
+ 
+Nota. Las diferentes partes del estión, púa y el portainjerto mantienen sus individualidades 
+genéticas, pero existe una comunicación entre ellos  dada por el intercambios de azúcares, 
+mensajeros químicos como las hormonas y compuestos capaces de regular la expresión de 
+genes como son los micro -ARNs. Es por ello que las características de la combinación son únicas 
+respecto de las partes individuales , produciendo cambios fenotípicos en el estión. (Elaboración 
+propia).  
+ 
+ 
+Tipos de injertos  
+ 
+Existen aproximadamente 200 formas de injertar plantas que difieren entre sí en detalles poco 
+significativos. Estas formas o tipos de injertos se clasifican de acuer do a la porción de material 
+vegetal que se inserta en el patrón y en su forma de contacto en tres grupos: de yema, de púa y 
+de aproximación. A la vez, estos grupos presentan variantes en la forma de hacer los cortes y de 
+ensamblar el material vegetal.  
+Las características básicas de estos tres grupos son las siguientes:  
+1) Injertos de yema. El material a injertar es un pequeño fragmento de tallo con una yema. En 
+ocasiones este fragmento lleva adherida a la corteza una porción de xilema (yema con astilla).  
+Según la forma que presenta dicha porción y la manera de insertarla en el patrón o en la rama 
+a injertar se tienen diferentes tipos: escudete, parche, canutillo y chip.  
+2) Injertos de púa o ramita. El material a injertar es un trozo de tallo con una o vari as yemas. 
+De acuerdo con el grosor del patrón o rama a injertar y de la forma de encajar la púa se tienen 
+diferentes tipos: inglés, hendidura, omega, corona o incrustación.  FACULTAD DE CIENCIAS AGRARIAS Y FORESTALES  |  UNLP     152 
+ 3) Injertos de aproximación. Las ramas a injertar permanecen unidos a la planta mad re 
+mientras se establece la soldadura. Según la porción de los materiales empleados pueden ser: 
+de aproximación lateral o aproximación terminal.  
+Si bien la elección del tipo de injerto depende de diferentes factores, muchas veces el 
+injertador elije de acu erdo a su costumbre cual implementar y el éxito depende más de su “mano” 
+que del tipo de injerto.  
+A la vez estos tipos de injertos pueden realizarse con material vegetal que presenta distintos 
+grado s de lignificación, diferenciándose entonces en:  
+ a) Herb áceos: cuando el patrón y el injerto no están aún lignificados. Es el caso de injertos 
+de ápices sobre plántulas al poco tiempo de su nacencia que se realiza en especies hortícolas 
+como tomates, berenjenas y pimientos por ejemplo. Si bien se pueden realiza r por los métodos 
+descrito s en este libro, para que la técnica tenga éxito se requieren de elementos especiales y 
+de condiciones ambientales muy controladas debido a que, por tratarse de material herbáceo, se 
+deshidratan muy fácilmente .  
+ b) Semileñosos: c uando los materiales están parcialmente lignificados o bien un material está 
+lignificado y el otro no , como es el caso de  yemas extraídas de brotes.  
+c) Leñosos: cuando los materiales a injertar están totalmente lignificados. Por ejemplo, los 
+injertos de p úa sobre ramas.  
+ 
+ 
+Herramientas para injertar  
+ 
+Fundamentalmente, para realizar los diferentes tipos de injertos es imprescindible contar con 
+una navaja, si bien existen varios modelos lo fundamental es que se encuentre bien afilada.  
+Para dar los primeros pasos, se recomienda la navaja de hoja de corte curvada hacia la punta 
+que va provista de una lengüeta metálica, ambas partes se pliegan sobre el mango. La forma 
+curva de la hoja permite hacer cortes con más precisión y facilidad. En tanto, los injertadore s 
+profesionales, suelen elegir la navaja de hoja recta. Esta tiene en el extremo opuesto al corte una 
+pequeña cuña que hace las veces de espátula y facilita la separación de la corteza. Para los 
+injertos de parche se utilizan preferentemente navajas de hoj a doble. Para cortar material muy 
+lignificado o duro y para realizar cortes previos de preparación y alisado es muy útil una navaja 
+robusta de hoja curvada y terminada en punta (serpeta). En los injertos de púa que es necesario 
+hendir los troncos o las ram as se usan cinceles, machetes, cuchillos, formones, o una 
+herramienta llamada hendidor que está provista en el extremo de una especie de cuña que sirve 
+para mantener la hendidura abierta y poder introducir las púas sin la necesidad de utilizar cuñas.  
+Para ejecutar algunas técnicas son necesarios mazos o martillos para golpear las 
+herramientas, y sierras para cortar las ramas o troncos a injertar. Además, existen diferentes 
+tipos de máquinas de injertar para injertos de púa que incluso dejan ensamblado el in jerto, como 
+en los injertos de omega utilizados en vid.  
+En las Figuras 7.4, 7.5 y 7.6 se observan algunas herramientas para injertar.  FACULTAD DE CIENCIAS AGRARIAS Y FORESTALES  |  UNLP     153 
+  
+Figura 7.4  
+ 
+Nota. A la izquierda se observa una navaja de injertar de hoja recta, en el centro una navaja de 
+hoja curv a y a la derecha una navaja con serpeta; esta última es una hoja sin filo que sirve 
+separar las partes sin cortarlas al momento de hacer el injerto. (Fuente propia).  
+ 
+Figura 7.5  
+ 
+Nota . Extractor de parche (izquierda) y navaja de hoja doble artesanal (der echa). (Fuente propia).  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+FACULTAD DE CIENCIAS AGRARIAS Y FORESTALES  |  UNLP     154 
+ Figura 7.6  
+ 
+  
+Nota. Arriba a la izquierda se observa un hendidor con su masa, a su derecha una tijera para 
+injerto de hendidura, y abajo diferentes modelos de injertadoras de ensamble manuales. (Fuente 
+propia).  
+ 
+ 
+Material para atar   
+ 
+Cinta de película de polivinilo (PVC):  son muy usadas, tienen entre  1-1,5 cm de ancho y se 
+cortan a 30 -40 cm. Este material es impermeable al agua, elástico y como es transparente 
+permite inspeccionar la yema cubierta  (Figura 7.7) . 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+FACULTAD DE CIENCIAS AGRARIAS Y FORESTALES  |  UNLP     155 
+  
+Figura 7.7  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Nota. Cinta para injertar (izquierda) y raffia (derecha) (Fuente propia).  
+ 
+ 
+ 
+ 
+Cinta biodegradable : esta cinta está compuesta por poliolefinas mezclada con cera y 
+caucho. Lo cual permite que se desintegre por medio de la acción sola r unos meses después del 
+atado, quedando la zona del injerto liberada. La cinta se debe enrollar desde la parte de abajo 
+del injerto hacia arriba, aplicando entre una y dos capas alrededor de la zona. Puede estirarse 8 
+veces más que su largo original y una  vez estirada se transforma en auto adherente, no necesita 
+ser anudada. Su elasticidad permite mantener la yema bien asegurada en su lugar, además se 
+extiende a medida que crece el patrón permitiendo que no se produzca constricción. Este 
+material evita que  se seque el injerto y permite la respiración de la planta gracias a su contenido 
+de cera. Se suministra en rollos de 60 metros con los que se pueden realizar entre 570 y 1000 
+injertos (en función del tamaño de cada injerto) . 
+Raffia : fue el material usado tradicionalmente, y que se sustituyó por los mencionados 
+anteriormente. Consiste en segmentos fibrosos de las hojas de ciertas especies de Raphia. Este 
+material se debe remojar en agua durante la noche anterior, para que quede más laxo, 
+“ablandarlo”. Igual mente, las ataduras con este material son muy poco elásticas, pudiendo 
+provocar una constricción que perjudicaría al injerto, por lo tanto deben cortarse unos 10 días 
+después de injertar.  
+Ceras : Ceras calientes: Para la protección de los cortes realizados  en las ramas o troncos en 
+algunos tipos de injertos como los de corona y hendidura, aplicados con brocha sobre la 
+superficie a cubrir. Deben aplicarse lo suficientemente calientes para que la cera fluya con 
+facilidad pero que no queme los tejidos.  Una mez cla usada por los viveristas es cera de abeja y 
+aceite de lino en partes iguales, manteniéndolo caliente a baño María.  
+FACULTAD DE CIENCIAS AGRARIAS Y FORESTALES  |  UNLP     156 
+ En el mercado también se cuenta con ceras listas para usar en frío, como el Mastique, que  
+está compuesto por mezclas de resinas y ceras que presentan una gran adhesión y plasticidad, 
+que impiden  el lavado por las lluvias.  
+Si se desea preparar de forma casera, Hartman  y Kester (1999) da la siguiente receta : 
+ 
+ 
+ 
+ 
+Ingredientes:  
+ 
+Brea  2,300 g  
+Cera de abeja   350 g  
+Aceite de linaza crudo  250 g  
+Negro de humo   30 g 
+Cola de pescado  45 g 
+ 
+En un recipiente de doble fondo caliéntese la cola de pescado añadiéndose sólo el agua 
+necesaria para disolverla. En otro recipiente derrítanse los otros ingredientes y déjese enfriar la 
+mezcla enfriada parcialmen te, agitándola de continuo. Vacíese en moldes engrasados de poco 
+fondo o en cajas de madera forradas con papel engrasado. Déjese endurecer. Para usarla, 
+pártase en porciones pequeñas. Caliéntese en un calentador para cera de injertos y aplíquese 
+con una br ocha de pintor pequeña.  
+Ceras frías: actualmente se consiguen en el mercado ceras frías a base de asfalto y agua. 
+Este producto es soluble en agua, por lo que se debe aplicar una capa de abundante espesor 
+para prevenir las perdidas por lluvias y evaporació n. Tener en cuenta que la lluvia lava a ese tipo 
+de producto por lo que, si llueve, tendrá que repasarse. Es importante destacar que las 
+preparaciones para impermeabilizar techos son inapropiadas para usarse como ceras de injerto.  
+ 
+ 
+Plantas madre de injer tos y varetas yemeras  
+ 
+Las varetas son aquellas porciones de las ramas seleccionadas de la especie vegetal que se 
+quiere reproducir. De ellas se extraen las yemas o púas para injertar. Si bien las varetas se 
+pueden extraer de cualquier planta que cumpla l a condición adecuada, lo recomendable es 
+disponer de plantas específicas para esta finalidad. En el caso de producción de plantas 
+certificadas es obligatorio que los injertos procedan de plantas madre de injerto. Estas plantas 
+deben poseer garantía de su i dentidad varietal y de su estado sanitario y si es posible ser de 
+origen clonal.  
+Para formar una planta madre se debe priorizar una ramificación abundante, que reciba una 
+buena insolación. Generalmente se les da forma de pequeños vasos. Estos vasos se debe n FACULTAD DE CIENCIAS AGRARIAS Y FORESTALES  |  UNLP     157 
+ podar intensamente para producir numerosos brotes de un vigor medio de forma que se pueda 
+extraer el mayor número de yemas, o de púas con el grosor adecuado. Con esa finalidad, en 
+invierno, se realiza una poda muy intensa de todas sus ramas dejando en la  parte basal 2 ó 3 
+yemas  (similar al seto para la producción de estacas en el Capítulo  5). Estas pocas yemas 
+brotaran vigorosamente y originaran al próximo año la nueva ramificación que conformará las 
+nuevas varetas.  
+Es muy importante para evitar contamina ciones desinfectar las tijeras u otros instrumentos de 
+corte antes de utilizarlos, con una dilución de lavandina  o amonio cuaternario . También con la 
+finalidad de mantener la sanidad monitorear plagas y enfermedades.  
+Obtención de las yemas : Se deben selec cionar yemas vegetativas y sanas de ramas enteras 
+y largas. Las yemas mixtas (producen crecimiento vegetativo y reproductivo) que presentan 
+algunas especies dan resultados satisfactorios. Se descartan las yemas florales, ya que no 
+desarrollan brotación. Es tas últimas se diferencian por ser más globosas.  
+Para preservar la sanidad es importante partir de material vegetal sano, si se parte de yemas 
+infectadas se corre el riesgo enfermar a la planta propagada. Es conveniente entonces, no 
+obtener las varetas de  árboles que presenten alguna deformación, decoloración, mancha o 
+sospecha de síntoma  provocado por algún tipo de hongo, virus o bacteria ( ver el último Capítulo  
+de este libro ) (Figura 7.8).  
+Manejo de las varetas yemeras : de manera ideal las varetas deben ser cosechadas el 
+mismo día en que se va a injertar, evitando su deshidratación. Si se van a realizar muchos 
+injertos , la recomendación es ir cortando las ramas a medida que se van a utilizar. Siempre 
+mantenerlas frescas y húmedas en lugar sombrío. En caso  de tener que conservarlas por unos 
+pocos días hasta su uso , se las envuelve  en pequeños manojos con una tela húmeda  o papel de 
+diario , y se las coloca  dentro de bolsas plásticas oscuras en lugar fresco  (heladera a 4 ºC) . Todo 
+el material de propagación de be estar perfectamente identificado, indicando especie, variedad, 
+procedencia y fecha de recolección. Una buena opción es colocar etiquetas plásticas con la 
+información escrita con tinta indeleble.  
+Las mejores yemas en forma general son las de la parte ba sal y media de la rama. A medida 
+que se van seleccionando las mismas , deben eliminarse las hojas  (si las tuviera)  para evitar 
+pérdida de agua por su superficie, dejando una porción de peciolo con el fin de facilitar la 
+manipulación de la yema sin tocarla  (Figura 7.8) . 
+ 
+Figura 7.8  
+ FACULTAD DE CIENCIAS AGRARIAS Y FORESTALES  |  UNLP     158 
+  
+Nota. Plantas madre yemeras (izquierda) y varetas de manzanos identificadas (derecha). (Fuente 
+propia).  
+ 
+ 
+Principales técnicas de injertos  
+ 
+ 
+Injertos de yema  
+ 
+Injerto en "T" o injerto de escudete:  si bien existen variantes de e ste método, lo más usual es 
+precede r de la siguiente forma:  
+Preparación del patrón : Hacer en el patrón un corte vertical de la corteza de unos 2 ,5 cm de 
+largo. Hacer un corte horizontal de alrededor de un tercio del grueso del patrón (queda una “T "). 
+Abrir  las dos aletas de la corteza con una ligera vuelta de la navaja (Figura 7.9).  
+ 
+Figura 7.9  
+ 
+Nota. Injerto de escudete formando una solapa en forma de "T". (Fuente propia).  
+ 
+FACULTAD DE CIENCIAS AGRARIAS Y FORESTALES  |  UNLP     159 
+ Preparación de la yema: cortar una rebanada de corteza con yema, desde 1.5  cm deba jo 
+hasta 2, 5 cm por encima de ésta. A unos 2 cm por encima de la yema cortar horizontal hasta 
+llegar a la madera para poder extraer la sección de la yema. A esta sección se la denomina 
+“escudete” (Figura 7.10) . Si la yema es de una especie perennifolia pue de ir acompañada del 
+peciolo ya que servirá para manipular a l escudete, evitando así tocar el cambium con los dedos 
+y la contaminación con las bacterias de nuestra piel  (Figura 7.10) . 
+ 
+ 
+ 
+ 
+ 
+Figura 7.10  
+ 
+ 
+Nota. Escudete (izquierda) y Cara inferior del escu dete anterior con el cambium tierno y turgente 
+(derecha). (Fuente propia).  
+ 
+Inserción de la yema en el patrón: insertar el escudete, empujándolo hacia abajo desde las 
+dos aletas de la corteza hasta emparejar los cortes horizontales del escudete y del patró n. El 
+escudete debe quedar ajustado y cubierto por los dos labios de la corteza, mientras que la yema 
+debe quedar expuesta  (Figura 7.11) . 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+FACULTAD DE CIENCIAS AGRARIAS Y FORESTALES  |  UNLP     160 
+ Figura 7.11  
+ 
+Nota. Inserción del escudete en el portainjerto. (Fuente propia).  
+ 
+Atado : envolver ajustadamente  la unión del injerto con algún material apropiado  (Figura 7.12) . 
+ 
+Figura 7.12  
+ 
+Nota. Atado con cinta común (izquierda) y atado con cinta autoajustable (derecha). (Fuente 
+propia).  
+ 
+El atado es de fundamental importancia. Debe permitir mantener en contact o estrecho los dos 
+componentes del injerto hasta que se logre la ci catrización. Debe tensionarse lo justo, no 
+permitiendo que la yema se mueva, ni que se estrangule.  
+ 
+ 
+FACULTAD DE CIENCIAS AGRARIAS Y FORESTALES  |  UNLP     161 
+ Injerto de parche  
+ 
+Para realizar este tipo de injerto se remueve  en una sección lisa  del patrón un parche completo 
+de corteza rectangular , y se re emplaza por un parche con cor teza del mismo tamaño que 
+contenga una yema. Para que la corteza se desprenda con facilidad se debe realizar a fin de 
+verano - principio  de otoño, o a inicio de primave ra. Los cortes en el patrón y en la vareta  yemera , 
+así como la colocación del parche , se deben hacer con el máximo cuidado, rapidez y precisión 
+para evitar la oxidación de estos tejidos malogrando el contacto entre los cambium . En cuanto a 
+los diámetros, l o recomendable es que  tanto el del patrón como el de la vareta yemera sean 
+parecidos y preferentemente  de alrededor de 1,5 a 2,5 cm. En caso de injertar sobre patrones 
+de mayor diámetro, se deben elegir las  yemas de varetas de no mucho más de 2, 5 cm  de 
+diámetro.  
+Para realizar los cortes  con más precisión se usan navaja s de doble hoja, que haga n dos 
+cortes paralelos con una separación de 2,5 a 3,5 cm.  Como no es fácil conseguirlas en el 
+mercado, se pueden fabricar en forma artesanal  (Figura 7.5). Generalment e para los cortes 
+transversales se usa la navaja de una sola hoja . El corte es a través de la corteza y hasta el leño 
+(xilema) .  
+Se prefiere este método para especies de yemas grandes o corteza gruesa como es el caso 
+de los nogales , pecane s y especies trop icales  como el palto .  
+Preparación del patrón: Se hacen dos cortes horizontales paralelos que abarquen alrededor 
+de un tercio de la circunferencia de la rama. Luego se conectan en cada lado con un corte vertical  
+(Figura 7.13).  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ FACULTAD DE CIENCIAS AGRARIAS Y FORESTALES  |  UNLP     162 
+ Figura 7.13  
+ 
+ 
+Nota . Arriba se observan los cortes en los laterales del parche y abajo el desprendimiento de la 
+corteza. (Fuente propia).  
+ 
+Preparación de la yema: de la vareta yemera se corta el parche con yema haciendo dos cortes 
+horizontales con la navaja, seguido s (puede usarse la navaja de hoja doble) seguidos de un corte 
+vertical a cada lado de la yema (Figura 7.14).  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+FACULTAD DE CIENCIAS AGRARIAS Y FORESTALES  |  UNLP     163 
+ Figura 7.14  
+ 
+Nota . Cortes para extraer el parche con yema (izquierda) y extracción del parche con yema 
+(derecha). (Fuente propia ). 
+ 
+Inserción de la yema en el patrón: Una vez preparado s ambos materiales se remueve la 
+corteza del patrón y se inserta la yema. Si es necesario se recorta para lograr un adecuado 
+ensamble  (Figura 7.15).  
+ 
+Figura 7.15  
+ 
+Nota . Extracción de la corteza del patrón (izquierda) y patrón listo para injertar el parche 
+(derecha). (Fuente propia).  
+ 
+Atado: Si la corteza del patrón es más gruesa que la del parche, esta se tiene que rebajar 
+para que la cinta de atado mantenga al parche bien ajustado al patrón. Al envo lver el parche se 
+deben cubrir todas las superficies cortadas para evitar la desecación y muerte de los tejidos. Lo 
+ideal es usar cinta especial para injertos , aunque algunos aficionados atan con hilo grueso de 
+algodón y luego lo cubren cera para injertos,  logrando resultados satisfactorios. Como en todos 
+los tipos de injerto es importante no ajustar demasi ado para evitar constricciones (Figura 7.16).  
+ 
+ 
+ 
+ 
+ 
+ 
+FACULTAD DE CIENCIAS AGRARIAS Y FORESTALES  |  UNLP     164 
+ Figura 7.16  
+ 
+Nota . Inserción de la yema en el patrón (izquierda) y envoltura de todos los cortes co n cinta 
+(derecha). (Fuente propia).  
+ 
+En casos de difícil prendimiento, para facilitar la cicatrización, se pueden cortar los lados del 
+parche sin desprenderlo tres semanas antes al día de la injertación. De esta forma se inicia la 
+formación del callo en el  patrón y una vez que se inserta el parche con la yema se acelera la 
+cicatrización.  
+ 
+ 
+Injerto de astilla  
+ 
+En este injerto la yema que se inserta va acompañada de una pequeña porción de madera 
+denominada “astilla” o "chip" (del inglés astilla). Como no hay que desprender corteza, puede 
+hacerse en épocas en que el patrón no está en actividad. Los viveristas lo implementan para 
+propagar material pequeño de entre 13 a 25 mm de diámetro, como vides y rosales. Para 
+adelantar el tiempo de obtención de la planta se  pueden injertar las estacas sin enraizar, 
+colocando el material para forzar la cicatrización en condiciones adecuadas de temperatura y 
+humedad y proceder luego a la obtención de raíces posteriormente. Este tipo de injerto se 
+denomina "Forzado”. También, e l injerto de astilla, es usado en plantas adultas para cambiar la 
+variedad.  
+Se proponen estos pasos para su ejecución, pudiéndose invertir el orden, pero lo importante 
+es lograr que la astilla de la yema coincida perfectamente con el corte ejecutado en el  patrón .  
+Preparación del patrón: en un sector liso del patrón y cercano a la base, se hace un corte en 
+ángulo de 45º hasta llegar a la madera del patrón (aproximadamente un tercio del diámetro) y 
+luego a 2  cm encima de éste se realiza otro corte hacia aba jo y hacia adentro  que intercepte al 
+primer corte (Figura 7.17).  
+ 
+ 
+ 
+ 
+ 
+FACULTAD DE CIENCIAS AGRARIAS Y FORESTALES  |  UNLP     165 
+ Figura 7.17  
+ 
+ 
+Nota . Secuencia de cortes en el patrón para la realización de injerto de "chip" o "astilla". (Fuente 
+propia).  
+ 
+Preparación de la yema:  de la vareta yemera, se corta en b isel, aproximadamente medio 
+centímetro por debajo de la yema a extraer y después el corte longitudinal de unos 3 c m, siempre 
+buscando que el asiento en el patrón y la astil la o chip sean del mismo tamaño (Figura 7.18).  
+ 
+Figura 7.18  
+ 
+Nota . A la izquierda  se observa una vareta, de donde se extraerán las astillas con peciolo, 
+facilitando la manipulación; y al centro y a la derecha una astilla con pecíolo de ciruelo (una 
+especie caducifolia). (Fuente propia).  
+ 
+FACULTAD DE CIENCIAS AGRARIAS Y FORESTALES  |  UNLP     166 
+ Inserción de la yema en el patrón: se extrae la astilla del patrón y se reemplaza por la astilla 
+con la yema, para lo cual deben tener ambas astillas la misma forma y tamaño. Las capas del 
+cambium deben coincidir al menos en un lado del tallo.  
+Al amarrar se deben envolver bien todos los bordes de la as tilla para que quede sellada, 
+evitando así la deshidratación. La atadura de la yema debe ser inmediata y preferentemente con 
+cinta autoajustable y degradable. En caso de usar otro tipo de cinta, cuando la yema comienza 
+a crecer la cinta se corta.  
+Cuando po r alguna razón se desea cambiar la variedad de una planta adulta se puede 
+proceder como lo hicieron los injertadores en la Figura 7.19 en un viñedo de Cafayate (Salta, 
+Argentina). En este caso se decidió por razones comerciales, cambiar en toda una plantac ión la 
+copa de uva Torrontés por la variedad Malbec. Para conseguirlo, en invierno se insertó la yema 
+con la astilla en la cepa, cuando la yema prendió, el tronco se cortó por encima de esta. Una vez 
+iniciado el crecimiento vegetativo de primavera, se elim inan todos los pámpanos (brotes) del 
+tronco favoreciendo el crecimiento de la yema injertada. Una técnica conveniente es,  al momento 
+de injertar, realizar un corte con serrucho por debajo del chip. De esta forma se evita la fuerte 
+presión de savia sobre la  yema insertada, la planta pierde savia por el corte a modo de drenaje 
+(en la jerga frutícola se dice que la vid "llora") y así se evita la expulsión del chip.  
+ 
+Figura 7.19  
+ 
+ 
+Nota. Presión de savia sobre la yema (izquierda) y corte con serrucho en cepa d e vid (derecha). 
+(Fuente propia).  
+ 
+ 
+ 
+ 
+FACULTAD DE CIENCIAS AGRARIAS Y FORESTALES  |  UNLP     167 
+ Injertos de púa o ramita  
+ 
+Injerto de ensamble, inglés o de lengüeta:  mediante esta técnica se logra un alto porcentaje 
+de prendimiento en frutales como cerezos, peras, manzanos, kiwi y vid. Se debe realizar cuando 
+amba s partes a ensamblar están en reposo. El mayor éxito, se obtiene cuando la púa tiene el 
+mismo diámetro que el patrón, que oscilan entre 0,5 y 1,5 cm.  Si el diámetro de la púa es menor 
+al del patrón, se deberá tener suma precaución en hacer coincidir alguno  de los lados con el 
+corte efectuado en el patrón. Se deben evitar las púas de mayor diámetro que el patrón.  
+Además, para lograr un buen contacto entre las zonas cambiales de ambas partes y favorecer 
+la correcta cicatrización la púa debe tener entre dos y  tres yemas, y se debe ensamblar en la 
+parte internodal del patrón, mientras que, los cortes deben ser exactamente iguales y quedar 
+lisos, por lo que se deben usar navajas bien afiladas.  
+Preparación del patrón: En la punta del patrón se hace un corte a bis el, con una longitud de 
+al menos el doble del diámetro del patrón  (A) se hace la lengüeta  (Figura 7.20) , realizando un 
+corte vertical con la navaja de 1 - 1,5 cm de longitud, en el cuarto superior del bisel, lo más 
+paralelo posi ble al ángulo del bisel (B) (Figura 7.20).  
+ 
+Figura 7.20  
+ 
+Nota. Corte A (izquierda) y corte B (derecha) para generar la doble lengüeta del injerto doble 
+inglés. (Fuente propia).  
+ 
+Preparación de la púa: se corta una púa con dos o tres yema s y en la base se realizan los 
+mismos cortes que en el patrón. E l bisel debe ser lo más parecido posible en dimensiones al del 
+patrón para garantizar la mayor zona de contacto entre ambos.  
+Ensamble: el patrón y la púa se ensamblan con las lengüetas entrelazadas. Ambas partes  
+deben coincidir perfectam ente (Figura 7.21).  
+ 
+ 
+FACULTAD DE CIENCIAS AGRARIAS Y FORESTALES  |  UNLP     168 
+ Figura 7.21  
+ 
+Nota. Ensamble de las dos lengüetas en el injerto inglés doble. (Fuente propia).  
+ 
+Atado: se ata con plásticos o cintas de injertar, aplicando presión para asegurar un mayor 
+contacto entre púa y patrón y siempre desde aba jo hacia arriba, de forma que el plástico deje la 
+zona sellada herméticamente. En caso de usar ra fia o alguna cinta que no sea adhesiva, debe 
+encerarse la unión. Una vez soldado el injerto , la envoltura debe eliminarse (Figura 7.22).   
+ 
+Figura 7.22  
+ 
+Nota.  Injertador atando en un vivero de Kiwi (izquierda) y detalle de púa atada (derecha). (Fuente 
+propia).  
+FACULTAD DE CIENCIAS AGRARIAS Y FORESTALES  |  UNLP     169 
+ Existen en el mercado herramientas especiales para realizar estos "cortes espejados". En los 
+viveros más tecnificados, este tipo de injerto se hace, por lo general, en taller o mesa de trabajo 
+sobre estacas de vid o acodos de manzanos. En estas ocasiones el injerto se realiza con 
+herramientas especiales, que logran un ensamble perfecto, por lo que en vez de amarrarlos se 
+introducen en cera para injerto. Un a variante de este injerto es el ensamble omega (Figura 7.23).  
+ 
+ 
+Figura 7.23  
+ 
+   
+Nota. Injerto de taller en mesa de injertación (izquierda) y ensamble perfecto en omega (derecha). 
+(Fuente propia).  
+ 
+Cuando se injertan estacas es necesario disponer de cáma ras de forzado  en vivero ya que 
+se necesita que sueld e el injerto y el portainjerto emita raíces, denominándose esta técnica 
+“injerto forzado” (ver más arriba en este capítulo las etapas de dormición y épocas en que se 
+realiza) (Figura 7.24).  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+FACULTAD DE CIENCIAS AGRARIAS Y FORESTALES  |  UNLP     170 
+ Figura 7.24  
+ 
+Nota. Forzado del callo y detalle del injerto omega soldado en Vitis spp . (Fuente propia).  
+ 
+Injerto de hendidura:  es uno de los métodos más antiguos y de uso más amplio , aunque 
+otros tipos de injertos tienen mejo r progreso. Consiste en cortar la copa de pequeños árboles o 
+ramas de 2,5 a 10 cm de diámetro, hacer una hendidura e insertar púas en el corte. Se puede 
+usar para obtener plantas o para cambiar la variedad de una planta ya establecida. Se 
+recomienda para e species de madera de grano recto que se pueda partir  uniformemente, como 
+las camelias, vides, frutales de pepita, cereza y ciruelos, no siendo adecuado para el duraznero.  
+Para su ejecución se realiza un corte transversal en el patrón o en la rama o tronco a injertar, 
+dejando un tocón que se alisa con la navaja. A continuación, se realiza en el centro del tocón un 
+corte vertical “hendidura” haciéndolo penetrar hacia abajo unos 3 -5 cm, según el grosor, sin 
+agrietar el leño. Para esta operación se usa una nava ja de hoja recta si el patrón es fino y un 
+cuchillo especial de hoja gruesa (hendidor) o un formón si el patrón es grueso  (Figura 7.25) . De 
+acuerdo a los diámetros se pueden establecer variantes:  
+Hendidura plena o simple:  si la púa es del mismo grosor que el patrón se coloca una púa 
+que establecerá contacto cambial en las dos partes del corte.  
+Hendidura doble:  Si el patrón tiene mayor grosor, entonces se colocan 2 púas, una a cada 
+lado de la he ndidura, quedando en este caso  el borde de la púa en el interio r sin contacto. Para 
+un buen ajuste, el corte de las púas debe tener el lado de la cara exterior algo más grueso que 
+el lado que queda en el interior.  
+Preparación del patrón:  Se corta el patron a la altura deseada. Se parte el toc ón al centro, con 
+una her ramienta de filo adecuado, se ayuda con una masa.  
+ 
+ 
+ 
+ 
+ 
+ 
+FACULTAD DE CIENCIAS AGRARIAS Y FORESTALES  |  UNLP     171 
+ Figura 7.25  
+ 
+Nota. Formación de la hendidura en la planta que oficiará de portainjerto. (Fuente propia).  
+ 
+Preparación de la púa:  Se hace una cuña de una longitud de 8 -10 cm, mediante dos cortes 
+longitudinales oblicuos de unos 3 -5 cm de longitud. Es conveniente iniciar estos cortes 
+horizontalmente penetrando unos 3 mm a cada lado y luego se continúa con los cortes 
+longitudinales acabando en punta. Las dos caras formadas en la púa deben ser planas para  que 
+el cambium tenga buen contacto en la hendidura. En la parte superior de la púa deben quedar 
+de 2 a 4 yemas.  
+Inserción de la púas en el patrón: Para introducir la o las púas se abre la hendidura con la 
+ayuda de la lengüeta del hendidor o de otra herram ienta, o bien manteniendo la cuña introducida 
+anteriormente. En patrones finos la púa se introduce directamente, haciéndola deslizar sobre la 
+hendidura dando unos golpes suaves en su extremo, haciendo coincidir las capas de cambium 
+(Figura 7.26).  
+ 
+Figura 7 .26 
+ 
+Nota. Formación de la ramita en forma de "cuña" e inserción en el portainjerto. Muy utilizado 
+cuando se quieren cambiar variedades en diferentes especies. (Fuente propia).  
+FACULTAD DE CIENCIAS AGRARIAS Y FORESTALES  |  UNLP     172 
+  
+Atado: Finalmente, se saca la cuña. En troncos gruesos y en ramas la propia presión que 
+ejercen los lados del corte sobre la púa puede ser suficiente para mantenerla fijada, pero siempre 
+es recomendable atar los injertos. Luego se debe  proteger con masti que o cera de injertar todo 
+el corte , incluyendo las puntas de las púas  (no es  necesario encerar la s yemas) pa ra evitar que 
+se deshidraten (Figura 7.27).  
+ 
+Figura 7.27  
+ 
+Nota. Encerado de la herida para disminuir la deshidratación y favorecer la cicatrización. (Fuente 
+propia).  
+ 
+Un interrogante que suele surgir es  si se puede injerta r más de una variedad en un pie. L o 
+recomendable para que tengan un desarrollo y comportamiento parecido y que sea más fácil de 
+manejar , es injertar una sola variedad, pero se pueden colocar variedades diferentes, con el fin 
+de tener por ejemplo, dos tipos  de ciruelas  en un mismo pie  como se ve en la Figura 7.28. L as 
+hojas verdes y la floración blanca  corresponden a una variedad de ciruela originada por una de 
+las púas y las hojas moradas y floración blanco -rosada a la otra. Ambas variedades darán frutas 
+de diferentes características y en momentos diferentes. Aunque esto es posible,  se necesita un 
+seguimiento continuo y un manejo individual de cada variedad, como desbrotes para equilibrar 
+los crecimientos.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+FACULTAD DE CIENCIAS AGRARIAS Y FORESTALES  |  UNLP     173 
+ Figura 7.28  
+ 
+Nota. Injertos múltiples en un mismo pie de ciruelo. (Fuente propia).   
+ 
+Si bien injertar (por cualquier método) diferentes variedades en un pie no es factible en un 
+monte productivo, es una opción para los aficionados o para quienes les guste experimentar.  
+ 
+ 
+Injerto de corona  
+ 
+El injerto de corona se utiliza para el cambio de vari edades. Para este fin, es preferible en 
+casi todos los casos al injerto de hendidura doble, ya que es más fácil de ejecutar y tiene un gran 
+porcentaje de prendimiento. Se puede realizar en ramas que tengan entre 2,5 y 30 cm de 
+diámetro (c uanto mayor sea el grosor del tronco más dificultosa es la cicatrización ). Para su 
+ejecución se debe desprender la corteza de la madera, debiéndose realizar  en primavera, una 
+vez que el patrón ha iniciado el crecimiento activ o. Como las púas tienen que encontrarse en 
+reposo, las varetas de las especies caducifolias se deben recolectar durante el invierno y 
+mantenerlas refrigeradas y húmedas hasta el momento del injerto, mientras que en las especies 
+perennifolias se pueden reco lectar en el momento.  
+Preparación del patrón:  El tronco o rama a injertar se corta previamente con una sierra. L uego 
+se alisa el corte en el momento de injertar y se refina el borde con la navaja. A continuación se 
+efectúa con la navaja un corte longitudi nal de unos 3 a 4 cm en la corteza, sin penetrar en el leño. 
+Luego, con la lengüeta de la navaja se levanta ligeramente la corteza en uno o ambos lados, 
+según la forma de insertar la púa  (Figura 7.29) . 
+ 
+Figura 7.29  
+FACULTAD DE CIENCIAS AGRARIAS Y FORESTALES  |  UNLP     174 
+  
+Nota. Secuencia de cortes para el inj erto de corona. (Fuente propia).  
+ 
+Preparación de las púas : Cada  púa se prepara haciendo primero una incisión transversal, a 
+3-5 cm de su extremo, penetrando la mitad de su grosor o algo más, y luego a partir de esta 
+incisión s e realiza un corte longitudina l. De esta forma la púa encajará a modo de silla en el 
+tronco a injertar, presentando un mejor contacto cambial. El corte longitudinal se hace a modo 
+de bisel, por un solo lado, rebajando algo más de la mitad del grosor de la púa y terminando en 
+punta. Fin almente, en su extremo, por el otro lado de la corteza, se da un pequeño corte en bisel, 
+de unos 0,5 cm, que servirá para que la púa penetre más fácilmente entre la corteza de la rama 
+y no se levante el extremo de su corteza al insertarla  (Figura 7.30) . 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+FACULTAD DE CIENCIAS AGRARIAS Y FORESTALES  |  UNLP     175 
+ Figura 7.30  
+ 
+Nota. Corte longitudinal de la púa y vista lateral de la misma. (Fuente propia).  
+ 
+Inserción de las púas en el patrón : Las púas se colocan haciéndolas deslizar, con ligeros 
+golpes, entre la corteza levantada de la rama o d el tronco  (Figura 7.31).  
+ 
+Figura 7.31  
+ 
+Nota. Inserción de la púa y sostén de las mismas en la rama. (Fuente propia).  
+ 
+Sostén de la púa : Para sostener la púa con la corteza puede clavarse con un clavo de cobre 
+de punta fina y de cabeza gruesa, para que as í la punta pueda apretar la corteza y penetrar la 
+púa sin agrietarla, y afianzarse en el leño de la rama o del tronco. S i es necesario se ata y en 
+este caso la cinta se retira pasado los 2 ó 3 meses. Para una  mayor protección de los cortes, 
+estos pueden em bolsarse hasta su cicatrización.  
+Encerado : Finalmente, con un pin cel se aplica con cera o mastique, para proteger los cortes. 
+Es conveniente efectuar un repaso al cabo de unos días evitando que queden grietas. También 
+debe sellarse el extremo de las púas.  
+La Figura 7.32 muestra un cambio de copa con injerto de corona realizado en una plantación 
+de Pecan, en Arturo Seguí, Provincia de Buenos Aires. Esta planta no había sido injertada, al 
+FACULTAD DE CIENCIAS AGRARIAS Y FORESTALES  |  UNLP     176 
+ cabo de 10 años comenzó a dar nueces y éstas fueron muy pequeñas, por lo que se decidió 
+injertar una variedad de nueces de mayor tamaño. Al cabo de unos meses, la nueva copa estaba 
+en pleno desarrollo.  
+ 
+Figura 7.32  
+ 
+Nota. Injerto de corona en Pecán realizado el 2 de septiembre de 2021 y posterior desarrollo de 
+las púas el 19 de diciembre del mismo año. (Fuente propia).  
+ 
+ 
+Injerto por aproximación  
+ 
+Los injertos por  aproximación  se realizan entre dos plantas independientes, teniendo cada 
+una un sistema radical propio. Una vez que se establece la soldadura y se encuentra asegur ado 
+el abastecimiento de savia del injerto , se realizan los cortes de acuerdo a la finalidad para separar 
+la planta injertada de sus dos plantas madres. Como se ve en la Figura 7.33, pueden haber dos 
+tipos de este injerto: terminal o por apuntalamiento y l ateral.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+FACULTAD DE CIENCIAS AGRARIAS Y FORESTALES  |  UNLP     177 
+ Figura 7.33  
+ 
+Nota. Injerto por aproximación o terminal o apuntalamiento (Izquierda) y lateral (derecha). 
+(Fuente propia).  
+ 
+Injerto de aproximación terminal o apuntalamiento:  Se emplean en casos excepcionales , 
+generalmente  para salvar ár boles  en los que el sistema radical  ha sido dañado por algún motivo, 
+o bien que el patrón sobre el que se hallan injertados no funciona correctamente, o para 
+revigorizar árboles viejos . Por el tiempo que lleva, lo costoso y la dificultad de su ejecución, e s 
+una técnica que se implementa en ejemplares que se desea conservar por poseer algún valor 
+interesante, mayormente histórico.   
+Se procede implantando nuevos patrones con un buen sistema radicular alrededor del tronco 
+del árbol que se desea recuperar, para  luego unirse. La  forma más usual de ensamblar estas 
+partes consiste en dar dos cortes longitudinales paralelos en la corteza del tronco, de unos 5 cm, 
+a una separación similar al grosor del patrón; luego se retira la corteza dejando una lengüeta en 
+la par te superior. En el patrón se da un corte longitudinal de la misma longitud en su extremo, 
+penetrando ligeramente en el leño, y otro pequeño corte (1 cm) en el lado opuesto del extremo. 
+El extremo del patrón se introduce en la lengüeta dejada en la corteza y se encaja sobre la ranura 
+del tronco haciendo coincidir las zonas cambiales, se clava o se ata y se protege con mastique . 
+Injerto de aproximación lateral:  esta técnica se realiza para propagar especies que son muy 
+difícil es de lograr por otro medio. Cons iste en soldar dos ramas o troncos uniendo  las zonas 
+cambiales de los dos materiale s a injertar en contacto íntimo .  
+La planta que conformará el pie se cultiva en maceta, y se coloca cerca de la planta 
+establecida que proporcionar á la púa de la planta inje rtada. También pueden cultivarse ambas 
+plantas en macetas  individuales . 
+Existen varias formas de dar los cortes para dejar al descubierto el cambium y que haya 
+coincidencia entre las dos partes a injertar. La más sencilla de ejecutar es elegir porciones de l 
+mismo diámetro, cortar en cada uno una rebanada plana de corteza con algo de leño, de unos 
+4-5 cm, formando dos superficies ovaladas iguales; para luego juntar el injerto haciendo coincidir 
+FACULTAD DE CIENCIAS AGRARIAS Y FORESTALES  |  UNLP     178 
+ la zonas cambiales y atar con cinta de tela o cuerda. Finalmente  se protege  el injerto con cera o 
+mastique . 
+Este método se usa en la propagación comercial de la Acacia baileyana  F. Muel.  En la Figura 
+7.34 se muestra como se dispone la maceta con el patrón en este caso Acacia floribunda  
+(obtenida por semilla)  próxima a una rama flexible y del mismo grosor de la planta madre de 
+Acacia baileyana  que se intenta propagar (pueden realizarse  varios  injertos en simultá neo).  En 
+la misma Figura 7.34 s e indica donde una vez formada la unión (aproximadamente 40 días) se 
+debe cortar  el pie por encima del injerto y luego la rama que conformará la copa para así 
+separarla de la planta madre y obtener un nuevo ejemplar.  
+ 
+Figura 7.34  
+ 
+Nota. Superficie cambial para el contacto y procedimiento del injerto para luego realizar el atado . 
+(Fuente propia).  
+ 
+Estos injertos se realizan, preferentemente, a la salida del invierno cuando los materiales 
+usados están entrando en actividad.  
+Injerto filtro:  esta técnica se utiliza cuando, c omo se mencionó anteriormente , por problemas 
+de autoincompa tibilidad localizada. S e requiere incorporar un filtro  compatible  entre el patrón y 
+la copa.  
+Las formas de realizar e ste doble injerto son numerosas. S e pueden utilizar las técnicas de 
+injerto de yema o de púa, o ambas combinadas. Un método usual es injert ar en otoño la yema 
+del patrón intermedio y sobre el crecimiento de esta un año después injertar de yema la variedad 
+deseada.  
+Se muestra en la Figura 7.35 el caso de un injerto filt ro de peral sobre pie de membri llero con 
+injertos de púa.  
+ 
+ 
+ 
+ 
+ 
+Corte del pie  
+Corte de la 
+copa  FACULTAD DE CIENCIAS AGRARIAS Y FORESTALES  |  UNLP     179 
+ Figura 7.35  
+Injerto filtro o interm edio
+ 
+Nota.  Injerto de una variedad filtro marcado en amarillo. Por abajo del filtro se ubica el portainjerto 
+y por encima filtro la variedad. (Fuente propia).  
+ 
+ 
+Cuidados de la planta injertada  
+ 
+Durante la época posterior a la r ealización del injerto , habrá que  tener ciertos  cuidados 
+especiales en la planta para favorecer la soldadura y, especialmente, mantener la humedad 
+adecuada del suelo y evitar la competencia de las malezas.  
+Se debe tener en cuenta que la yema tarda en sold arse al patrón aproximadamente entre 2 ó 
+3 semanas. A su vez, se puede considerar que:  
+✓ El injerto prendió cuando  el pecíolo se desprende en forma limpia a la vez que se ve 
+turgente la yema y la  corteza de la púa mantiene  su coloración normal  (no hay necros is). 
+✓ El injerto falló  cuando : el peciolo queda adherido y se oscurece la yema y el pecíolo. Se 
+puede volver a injertar, mientras las condiciones sean las adecuadas y se disponga de yemas 
+valiosas.  
+ 
+Eliminación de la atadura: En los injertos realizados ent re final de febrero y marzo atados con 
+cintas de plástico, debe cortarse la cinta a los 12 -15 días, una vez que se ha comprobado la 
+soldadura, sobre todo en los injertos en T para evitar el crecimiento de callo por encima del 
+escudete. Si el injerto se rea liza algo más tarde (después de mediados de marzo), la cinta debe 
+cortarse pasados 20 -25 días.  
+En los injertos a ojo despierto, las cintas deben cortarse, aproximadamente  a los 20 días, 
+antes de que se dificulte la brotación de la yema y se produzca un est rangulamiento en el patrón.  
+En injertos de púa ti po inglés, hendidura plena y otros , la cinta debe mantenerse bastante 
+más tiempo, al menos 40 -60 días, hasta que el estrangulamiento sea muy notorio .  
+En los injertos de corona debe repasarse, al cabo de un a semana, la protección con mastique  
+para tapar las posibles nuevas grietas o poros.  FACULTAD DE CIENCIAS AGRARIAS Y FORESTALES  |  UNLP     180 
+ Recepado o corte del patrón. Si el injerto se realiza a ojo despierto debe cortarse el patrón 
+para forzar la brotación de la yema, aunque es necesario mantener inicialmen te algunos brotes 
+del patrón para ay udar al crecimiento del injerto. Para ello, al injertar se descorteza  el tronco por 
+encima del injerto pero manteniendo activa la parte aérea y luego se suprime progresivamente 
+la vegetación hasta cortarlo definitivament e por encima del punto de injerto.  
+En los injertos a ojo dormido, el corte del patrón se realiza en invierno. Puede ser conveniente 
+mantener en la primavera algunos brotes despuntados que salgan del patrón para tener más 
+hojas y ayudar al injerto en su br otación. Posteriormente, se deben suprimir estos brotes con 
+tijera.  
+Desahijado: se llama así a la operación que se realiza para evitar el debilitamiento del injerto, 
+suprimiéndose todos los brotes que provengan del portainjerto y no correspondan a la yema  
+injertada. Esto es variable entre diferentes especies, pero sólo a modo de ejemplo, se puede 
+decir que los portainjertos de ciruelo emiten brotes continuamente, por lo que son necesario 
+reiterados desbrotes durante la temporada de crecimiento.  
+En los inje rtos para el cambio de variedad , es conveniente mantener algunos brotes de la 
+variedad anterior hasta que se desarrolle la brotación de los injertos.  
+ 
+ 
+Anexo fotográfico  
+ 
+Figura 7.36  
+ 
+Nota. Caja con diferentes tipos de herramie ntas para injertación. Cu rso de Fruticultura FCAyF 
+UNLP. (Fuente propia).  
+ 
+ 
+FACULTAD DE CIENCIAS AGRARIAS Y FORESTALES  |  UNLP     181 
+ Figura 7.37  
+ 
+Nota . En ciertos casos, las plantas injertadas deben permanecer en condiciones de penumbra 
+hasta la formación del callo cicatricial. En este caso se observa una vitrina para la injertación de  
+Cupresáceas. Foto tomada en el Vivero Ferrari Hermanos en la Localidad de Arana, La Plata - 
+Argentina. (Fuente propia).  
+ 
+Figura 7.38  
+ 
+Nota.  Detalle de una Thuja spp . injertada sobre un pie de Cupressus spp . A la derecha se 
+encuentra el Ing. Agr. Mario F errari dando una clase a estudiantes del curso de Extensión de 
+Propagación de Plantas (Curso de Fisiología Vegetal - FCAyF UNLP) en el Vivero Las Delicias, 
+en donde se desempeña como director técnico. Al momento de la publicación de este libro, el 
+Ing. Fer rari es actualmente Vice -presidente de la Asociación Argentina de Floricultores y 
+Viveristas de Argentina. (Fuente propia).  
+ 
+ 
+ 
+FACULTAD DE CIENCIAS AGRARIAS Y FORESTALES  |  UNLP     182 
+ Figura 7.39  
+ 
+Nota . Diferentes injertos de ramita con sus variantes, que ya fueron desarrolladas en el presente 
+capítulo. Foto de  un cuadro de autor anónimo en el Curso de Fruticultura (FCAyF UNLP). (Fuente 
+propia).  
+ 
+ 
+ 
+Referencias  
+ 
+Castle, W.S. (1995). Rootstock as a fruit quality factor in citrus and deciduous tree crops. New 
+Zealand Journal of Crop and Horticultural Science , 23(4) , 383-394. 
+Chirino, J.S. & Lucero, A.I. (2018). Obtención de plantas de nogal en tiempo breve, mediante 
+injertos en semilla nodriza . Tesis de grado. Facultad de Ciencias Agrarias y Forestales, UN LP. 
+Disponible on line: http://sedici.unlp.edu.ar/handle/10915/67670.  
+Hartmann, H.T. & Kester, D.E.  (1999 ). Propagación de Plantas. Principios y Prácticas . Compañía 
+Editorial Continental S.A. de C.V. México. Séptima reimpresión. pp. 760.  
+Hartmann, H.T. & K ester, D.E.  (2014 ). Plant Propagation. Principles and Practices . Pearson 
+Education Limited., Harlow. Eight Edition. pp. 922  
+Lee, J -M., Kubota, C., Tsao, S.J., Bie, Z., Hoyos Echevarria, P., Morra, L., Oda M. (2010). Current 
+status of vegetable grafting: Di ffusion, grafting techniques, automation. Scientia Horticulturae , 
+127, 93–105. 
+Melnyk, C.W. & Meyerowitz, E.M.  (2015 ). Plant grafting. Corrent Biology , 25(5) , R183 -R188.  
+Modge, K., Janick, J., Scofield, S., Goldschmidt, E.E.  (2009 ). A history of grafting. Horticultural 
+reviews , 35, 437-493. 
+Solofoharivelo,  M.C., van der Walt, A. P., Stephan,  D., Burger, J.T., Murray, S.L.  (2014 ). 
+MicroRNAs in fruit trees: discovery, diversity and future research directions. Plant Biology , 
+16(5),  856-865. 
+ 
+  

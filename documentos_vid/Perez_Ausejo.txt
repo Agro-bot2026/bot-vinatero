@@ -1,0 +1,722 @@
+UNIVERSIDAD 
+DE BURGOS  SEGUIMIENTO MULTIVARI ANTE DE LA
+MADURACIÓN DE LAS UV AS 
+TRABAJO DE FIN DE GRADO  
+GRADO EN CIENCIA Y TECNOLOGÍA DE LOS ALIMENTOS  
+Marina Pérez Ausejo  
+Mayo 2019  
+Tutoras : Ana Herrero Gu tiérrez y S usana P almero D íaz Índice  
+1. Introducción   ..........................................................................  2
+2. Obje ctive s  ............................................................................  3
+3. Fundamento teórico  ................................................................  3
+3.1 Definición y medida de parámetros físico -químicos en uvas  ................  3 
+3.2 Análisis y regresión de componentes principales  ..............................  6 
+4. Experimental   .........................................................................  7
+4.1 Reactivos y disoluciones  ...........................................................  7 
+4.2 Materiales e instrumentación   .....................................................  7 
+4.3 Toma y preparación de la muestra para el análisis  ...........................  8 
+4.4 Procedimiento experimental  ......................................................  8 
+5. Resultados y discusión   ...........................................................  13
+5.1 Determinaciones analíticas  ...............................................  13 
+5.2 Análisis multivariante ......................................................  17 
+5.2.1. Análisis de componentes principales  ..........................  17 
+5.2.2.  Regresión de componentes principales  .......................  20 
+6.Conclusions  .........................................................................  22
+7.Acknowledgements  ................................................................  22
+8.B
+ibliografía  .........................................................................  23Seguimiento multivariante de la maduración de las uvas  
+1 
+  
+ 
+Resumen  
+El análisis de los parámetros físicos -químicos de la uva durante su maduración es de 
+vital importancia para los viticultores, pues de él  dependerá que el vino producido 
+tenga unas características sensoriales u otras , y un mayor o menor grado alcohólico . 
+En el presente trabajo , se utilizan  técnicas de análisis basadas en los métodos oficiales, 
+normalizados  por la OIV, para la determinación de  parámetros  físicos (densidad, 
+intensidad de color  y tonalidad) y químicos ( pH, acidez, azúcares totales, azúcares 
+reductores, potasio, ácido málico  y polifenoles totales)  en uvas recogidas 
+secuencialmente .  
+Mediante un análisis multivariante  basado en el análisis y regresión de componentes 
+principales , se estudia la relación de eso s parámetros con la maduración de las uvas,  y 
+cómo es su variación co n el tiempo . 
+ 
+ 
+Abstract  
+Analysis of physico -chemical parameters of grapes during their ripening is really 
+important to vine growers because by checking them, the wine they produce will 
+acquire different sensorial features and a higher or a lower alcoholic strength.  
+Analytic techniques founded on official methods , normalized by OIV,  are used  to 
+determine physical parameters ( density, intensity  and tonality  of colour ) and chemical 
+paramete rs (pH, acidity, sugars, reducing sugars, potas sium, malic acid and total 
+polyphenols ) analysed on grapes sequentially harvested . 
+By doing a multivariate analysis based on principal component analysis and regression , 
+it is possible to study how these parameters are related  to the ripening of the grapes , 
+and how they vary as ripening progress.  
+ 
+  Seguimiento multivariante de la maduración de las uvas  
+2 
+ 1. Introducción  
+Las antiguas civilizaciones ya lo empleaban en sus actos ceremoniales e incluso 
+dedicaron dioses como Dionisio  en Grecia, Baco en Roma y Osiris en Egipto para 
+venerarlo, y es que el vino proporcionaba unas sensaciones placenteras que iban 
+mucho más allá de la necesidad de alimentarse o hidratarse  [1].  
+Debido a su larga historia, los estudios que se han realizado sobre el vino son muy 
+numerosos y abarcan  muchos ámbitos de estudio como su historia, la cultura que lo 
+rodea, sus características físico -químicas, su aporte nutricional, cómo es su producción 
+y cómo se puede combinar con la gastronomía de cada región o maridaje.  
+El primer paso para llevar a cabo la producción del vino se denomina vendimia y consiste en recoger la uva de la vid lo suficientemente madura para que la 
+fermentación de los azúcares y la producción de alcohol, aromas, color y otros 
+parámetros sea óptima. Si la vendimia se realiza demasiado pronto, las uvas estarán  
+aún verdes y su sabor será áspero y astringente, en cambio, si se recogen demasiado tarde se obtendrán uvas sobremaduras  [2]. Pero, ¿cómo determinar cuándo es el 
+momento óptimo para la vendimia? Para poder contestar a esta pregunta es necesario tener clara la definición de maduración en relación al fruto de la vid.  
+Hay tres aspectos a considerar en la madur ación de las uvas : la madurez  tecnológica  se 
+da cuando hay un crecimiento notable de las bayas, un aumento en la concentración de azúcares y una disminución de la acidez; la madurez  fenólica, cuando se desarrollan 
+los componentes responsables del color (polifenoles) , y la fisiológica, en la que las 
+semillas son capaces de germina r [3]. Los componentes de la uva evolucionan en su 
+interior de diferente manera dependiendo de diversos factores externos tales como el clima (temperatura, humedad, iluminación), el suelo y la ubicación de la vid, así como 
+su variedad, los trabajos para el cultiv o y desarrollo de la vid, por lo que no se puede 
+generalizar y establecer un tiempo de maduración concreto para todas las uvas.  
+En la práctica, se suelen realizar diversos análisis físico -químicos para determinar 
+cuándo se deben recoger las uvas. La madure z tecnológica se evalúa principalmente 
+mediante dos parámetros: los azúcares, para el cálculo del grado alcohólico probable y los ácidos. No obstante, según un estudio llevado a cabo por la Estación Enológica de Haro (L a Rioja) y con la colaboración de la Facultad de Ciencias de la Universidad de 
+Burgos, en el que se realizaron exámenes visuales, táctiles y gustativos, se concluyó que el análisis sensorial es igual de válido que el físico -químico para determinar el 
+momento óptimo de la vendimia [4-5].  
+Los análisis físico -químicos de los componentes de la uva para la determinación de su 
+madurez se pueden realizar de distinta manera según laboratorios, por lo que en España existe una legislación específica que describe cómo han de realizarse los análisis de manera oficial [6]. Por su parte, la OIV (Organización Internacional de la 
+Viña y el Vino) es una organización intergubernamental que se encarga, ente otras actividades, de establecer una armonía en las prácticas y normas relacionadas con 
+todos los prod uctos de la vid entre los países miembros  [7-8]. 
+En el presente trabajo, se ponen a punto una serie de procedimientos de análisis 
+siguiendo, en la medida de lo posible, los métodos oficiales. Para llevar a cabo el Seguimiento multivariante de la maduración de las uvas  
+3 seguimiento de la maduración de uvas recogidas a lo largo de un período de tiempo, se 
+han estudiado:  
+Densidad
+pH y acidez
+Concentración de azúcar
+Concentración de ácido málico
+Azúcares reductores
+Potasio
+Parámetros relacionados con el color: índice de polifenoles totales, intensidad ytonalidad
+Para establecer la relación de los parámetros químico -físicos considerados con el 
+tiempo, es decir, con el grado de maduración, se utilizan métodos de análisis 
+multivariantes.
+ 
+2.Objectives
+To learn  the official analytic methods to determine physico -chemical parameters in 
+grapes in order to monitor their ripening.  
+To determine different physico- chemical parameters in grapes, after hav ing been 
+sequentially harvested.  
+To establish a relationship between these physico- chemical parameters and the 
+ripening of the grapes and also with their evolution over time. 
+3.Fundamento teórico
+3.1. Definición y medida de par ámetros físico -químicos en uvas  
+En este trabajo se evalúan distintos parámetros físico -químicos relacionados con la 
+maduración de las uvas.  Por ejemplo, la concentración de solutos disueltos se 
+incrementa a medida que la uva va madurando. Cuanto mayor es la concentración de 
+solutos disueltos en el mosto, como por ejemplo azúcares, mayor será la densidad de éste. Los glúcidos del mosto, princi palmente glucosa y fructosa, se transforman en 
+etanol y dióxido de carbono durante la fermentación, por tanto, para obtener un vino de calidad, con un grado alcohólico adecuado, es necesario controlar periódicamente el nivel de azúcar de las uvas para llevar a cabo la vendimia en el momento idóneo.  
+Conocer la densidad y la concentración de azúcar del mosto permite tener una estimación del grado alcohólico probable.  
+La densidad es la masa por unidad de volumen de mosto a una temperatura dada, y se 
+expresa en  gramos por mililitro. Su determinación se puede realizar por aerometría 
+(hidrometría) utilizando un aerómetro graduado o densímetro, cuyo fundamento se Seguimiento multivariante de la maduración de las uvas  
+4 
+ encuentra en el principio de Arquímedes, en base a la flotabilidad que presenta un 
+cuerpo de peso const ante e n el mosto  (Método OIV -MA-AS2-01B en [7]).  
+Por otro lado, la refractometría es una técnica analítica que permite determinar de forma indirecta la concentración de azúcar  de un mosto a través de la medida de su  
+índice de refracción , ya que éste aumenta proporcionalmente a medida que lo hace  la 
+densidad del mosto.  Este análisis se lleva a cabo utilizando refract ómetros, que 
+establece n el índice de refracción en base a  la determinación del  ángulo crítico.  
+Los refractómetros digitales utilizan sistemas de reflexión  como el que se muestra  de 
+forma esquemática en la figura 1 . Conti enen  un prisma de un material de alto índice de 
+refracción, sobre el que se dispone  la muestra.  El haz A, que incide con cierto ángulo 
+sobre la interfase prisma -muestra, es refractado. Por otro lado, el haz B, que incide con 
+un ángulo mayor, ya no se refracta; este ángulo se denomina ángulo crítico. Haces que 
+inciden con ángulos mayores que el ángulo crítico, como el haz C, son reflejados por 
+reflexión interna to tal. El ángulo crítico depende de la relación entre los índices de 
+refracción  del prisma y la muestra, y por tanto su determinación lleva a conocer el 
+índice de refracción de la muestra [9]. 
+En la actualidad, es habitual  que los refractómetros proporcionen el índice de 
+refracción , expresado en grados Brix , relacionado con el porcentaje de sólidos solubles 
+contenidos en la solución acuosa, en este caso, el mosto . Dentro de los sólidos solubles 
+se encuentran todos los sólidos disueltos, incluyendo azúcares, sales, proteínas, ácidos, 
+etc. El refractómetro se calibra respecto a la cantidad de azúcar, de modo que los  
+grados Brix de un mosto representa n los gramos de azúcar (expresados en g de 
+sacarosa) que contienen 100 mL de mosto (Método OIV -MA-AS2-02, en [7]) . 
+ 
+ 
+ 
+Figura 1. Esquema del sistema de refracción de un refractómetro digital  [9]. 
+ Otro parámetro  a considerar en el estudio de la maduración de las  uvas es el pH. 
+Determinar el pH es importante por que sus variaciones  pueden conlleva r: cambios de 
+color, sabor ácido y modificaciones de  los potencial es redox, así como de  la eficacia de 
+la fermentación maloláctica, etc.  [10]. 
+La acidez total  es, según  la OIV  (Método OIV-MA-AS313 -01 en [7]) , la suma de los 
+ácidos valorables del mosto cuando éste es valorado potenciométricamente hasta 
+Seguimiento multivariante de la maduración de las uvas  
+5 
+ llegar a pH 7 por adición de  una disolución  patrón de hidróxido de sodio. Sin embargo, 
+en este caso, la AOAC (11.042/84.962.12/90) aconseja llevarlo hasta un pH algo más 
+elevado, como 8,2 por tratarse de una valoración de una  base fuerte con un ácido 
+débil . Esta acidez se expresa como  gramos  de ácido tartárico por litro  de mosto , por 
+ser éste  el ácido mayoritario tanto de la uva como del mosto (y el futuro vino).  
+A pesar de que la acidez se expresa como ácido tartárico , al ser ácido más abundante, 
+no se debe despreciar la presencia de otros ácidos como el ácido málico, que también 
+resulta n relevante s en la maduración de las uvas.  La concentración del ácido L- málico 
+se determina utilizando un método enzimático  (Método OIV- MA-AS313 -11, en [7] ). 
+Este ensayo se basa en la oxidación d el ácido L -málico a oxalacetato por la 
+nicotinamida- adenina dinucleótido (NAD+); la  forma reducida de este compuesto,  
+NADH, se relaciona directamente con el L -malato que se consume y  se mide 
+espectrofotométricamente a 340 nm . La reacción está catalizada por la enzima L -
+malato  deshidrogenasa (MDH)  y, para desplazar el equilibrio , favorec iendo  la 
+formación de oxalacetato, se aña de también la enzima glutamato -oxalacetato 
+transaminasa (GOT) , que transforma irreversiblemente el oxalacetato  en L-aspartato . 
+ 
+ 
+ 
+ 
+ Por otro lado, l a determinación de los azúcares reductores  presentes en el zumo de 
+uva (glucosa y fructosa) se basa en el método Rebelein (Método OIV -MA-AS311- 01C). 
+En é ste método se mide  la capacidad de estos azúcares para reducir sales cúpricas , 
+haciendo reaccionar el mosto con una cantidad determinada de una s olución alcalina  
+de cobre y midiendo yodométricamente el exceso de iones cobre.  A temperatura de 
+ebullición el Cu
++2 (azul) es reducido a Cu+ (incoloro) y el exceso se determina por 
+yodometría,  tras haber adicionado KI en condiciones ácidas. Las reacciones que tienen 
+lugar son las siguientes:  
+ 
+ 
+El potasio  es uno de los cationes más abundantes de las uvas, seguido del calcio, del 
+magnesio y del sodio. Además de en forma de catión, el potasio se puede encontrar 
+formando sales como sulfatos, cloruros y fosfatos de potasio. Además, puede unirse a 
+Seguimiento multivariante de la maduración de las uvas  
+6 
+ ácidos y formar sales ácidas como el tartrato ácido de potasio [ 11], que precipita en 
+presencia de etanol, por lo que es normal encontrarlo en el fondo de las barricas 
+durante el proceso de crianza del vino. La precipitación en forma de cristales de estas 
+sales hace que disminuya la acidez. E n este trabajo e l potasio  se determina mediant e 
+fotometría de llama, mediante un método basado en el oficial: OIV- MA-AS322- 02B. 
+Los polifenoles  son sustancias caracterizadas por la presencia de uno o varios anillos 
+fenólicos que se en cuentran principalmente en las plantas  [12]. Actúan como 
+antioxidantes, contribuyen al color y protegen contra la luz ultravioleta.  En los 
+alimentos , contribuyen a la acidez y sensación astringente así como en el color, el 
+aroma y la estabilidad oxidativa[ 13]. Debido a la presencia de estos anillos fenólicos,  
+los polifenoles  tienen la capacidad de  absorber la  radiación ultravioleta a 280 nm, por 
+lo que midiendo  en el mosto la  absorbancia a esta longitud de onda se estima el índice 
+de polifenoles totales  (IPT)  [14]. 
+La determinación del color de un alimento, en este caso un mosto de uva, puede ser evaluad o tanto cualitativamen te mediante , por ejemplo, determinaciones sensoriales , 
+como cuantitativamente, caracterizando dos de los parámetros que conforman el 
+color: la intensidad y la tonalidad . En el caso del vino  (Método  OIV- MA-AS2-07B), la 
+intensidad de color  se define como la suma de las absorbancias o  densidades ópticas a 
+420, 520 y 620 nm , mientras que la tonalidad o tono es el cociente entre la densidad 
+óptica a 420 y a 520 nm. El valor de la absorbancia a cada una de es as tres longitudes 
+de onda indica la “cantidad” de pigmentos amarillos (420 nm), rojos (520 nm) y azules (620 nm) del mosto [14]. 
+ 
+3.2. Análisis  y regresión de componentes principales  
+Cuando se dispone de u n conjunto de datos en el que , para  cada muestra (u objeto)  se 
+han medido diversas variables  (llamadas variables predictoras) , el análisis de 
+componentes principales es una técnica de análisis mult ivariante que se utiliza para 
+reducir la dimensionalidad del conjunto de datos  y facilitar, así, el estudio y la 
+interpretación de su estructura interna.  
+En el espacio multidimensional de las variables predictoras  se construyen unas nuevas 
+variables, las componentes principales . La primera componente principal (CP  1) se 
+obtiene como combinación lineal de las variables predictoras, en la dirección de máxima varianza.  La segunda componente principal (CP  2) se calcula como 
+combinación lineal de las variables predictoras en la siguiente dirección de máxima varianza que no esté correlacionada con la anterior. Y de esta forma, se van construyendo las sucesivas componentes principales.  
+Las coordenadas de cada muestra en el  espacio vectorial definido por las componentes 
+principales se denominan puntuaciones  o scores , y los coeficientes de las variables 
+predictoras en cada combinación lineal son los pesos  o weight . El análisis de las 
+primeras componentes principales, las que explican más varianza, suele  poner de 
+manifiesto la estructura subyacente del conjunto de datos.  
+Cuando las variables predictoras son de magnitudes muy diferentes, antes de realizar el análisis, es habitual llevar a cabo un autoescalado de  los datos  para evitar que pesen 
+más las variables de mayor tamaño . Al autoescalar una variable  (restando la media a Seguimiento multivariante de la maduración de las uvas  
+7 
+ cada valor, y dividiendo por la desviación típica) ésta tiene  media cero y desviación 
+típica  uno. De esta manera se consigue que todas las variables  tengan la misma 
+influencia en el análisis . 
+Por otro lado, para relacionar las variables predictoras medidas con una variable 
+respuesta, es necesario ajustar un modelo de regresión multivariante. Lo más sencillo 
+sería utilizar un modelo de regresión lineal múltiple por mínimos cuadrados , pero para 
+ello es necesario que las variables predictoras  no estén correlacionadas entre ellas  ya 
+que, de lo contrario, se obtienen modelos de regresión inestables y con poca 
+capacidad de predicción . Sin embargo, es frecuent e que exista correlación entre las 
+variables medidas , cuando se trata de datos experimentales , de modo que, una forma 
+de eludir  este problema consiste en realizar el ajuste utilizando, en lugar de las 
+variables predictoras, las puntuaciones de las componentes principales que, por 
+construcción, no están correlacionadas entre sí.  En este caso, se habla de regresión de 
+componentes principales.  
+ 
+ 
+4. Experimental  
+ 
+4.1. Reactivos y disoluciones  
+Se ha utilizado tiosulfato sódico pentahidratado ( PR) y almidón (PA) de Panreac, 
+tartrato de potasio y sodio tetrahidratado (PA) , yoduro potásico (PA)  y ftalato ácido de 
+potasio (Emsure) de Merck, sulfato de cobre pentahidratado (99 %) de Cofarcas S.A., 
+ácido sulfúrico (95 %, Analab) de VWR Chemical BDH, e hidróxido de s odio (97%) de 
+Ercros.  
+Para llevar a cabo los análisis, se han preparado las siguientes disoluciones en agua 
+destilada: NaOH 0.1 N, ftalato ácido de potasio 0.1 N, tiosulfato sódico 0.0551 M, yoduro potásico del 30 % (p/v) y ácido sulfúrico al 16 % . Se ha preparado también una 
+disolución de almidón al 2 % (p/v)  y una disolución alcalina 0.886 M  de tartrato  sódico 
+de potasio . Por último, se ha dispuesto una solución cúprica  de sulfato de cobre 
+pentahidratado  0.17 M . 
+Por otro lado, se han preparado disolucione s patrón de 5, 8, 11, 14 y 17 mg/L de 
+potasio a partir de una disolución madre de 100 ppm, obtenida a partir de cloruro potásico.  
+  
+4.2. Materiales e instrumentación  
+Las medidas espectrofotométricas se han realizado con los espectrofotómetros UV -
+Visible Cary 50  Conc de Va rian y UV -mini- 1240 de Shimadzu y l a determinación de 
+potasio se ha llevado a cabo con el fotómetro de llama 410  de Corning.  Por otro lado, 
+la concentración de azúcares se ha determinado  utilizando el refractómetro digital de 
+bolsillo PAL -1 3810 de Atago  y en las medidas de acidez y pH se ha empleado el 
+valorador automático Metrohm 719S Titrino con el agitador magnético Metrohm 728 acoplado.  Seguimiento multivariante de la maduración de las uvas  
+8 
+ Las muestras se han filtrado con filtros de papel Whatman™ 597 y con filtros de jeringa 
+de fluoruro de polivinilideno (PVDF) hidrofílico, de 25 mm de diámetro y 0.45 µm de 
+tamaño de poro, de Labbox. La determinación de ácido málico se ha llevado a cabo utilizando el kit enzimático Enzytec ™ Liquid L- Malic  Acid (E8 280) de R -biopharm ®.  
+Los análisis de datos se han realizado con el programa el programa STATGRAPHICS 
+Centurion XVII [15] y el PLS Toolbox  [16] de Matlab (versión 7.10, TheMathWorks) . 
+ 
+4.3. Toma y preparación de la muestra para el análisis  
+Para llevar a cabo los análisis, se han recogido uvas de una parra ornamental, cada 
+cuatro días aproximadamente, durante un período de 47 días (del 1 de octubre al 16 de noviembre  de 2018) Una vez recogidas, las uvas se introducen en una bolsa de 
+plástico que se mete al congelad or para su posterior análisis. Se dispone de un total de 
+12 muestras distintas.  
+Aproximadamente 24 horas antes del análisis, las muestras se sacan del congelador para que se vayan descongelando poco a poco a temperatura ambiente. Una vez 
+descongeladas, se parten por la mitad de manera vertical para poder extraer las 
+semillas y se tritura la pulpa (con hollejos incluidos) con una batidora a la velocidad más baja, para obtener el zumo. Como el mosto resultante es muy turbio , éste se 
+somete a un proceso de fil tración, que se divide en tres fases. El primer filtrado se 
+obtiene al hacer pasar el zumo por un embudo Büchner mediante filtración a vacío, en esta etapa se consigue eliminar la mayor parte de los hollejos, pero el zumo sigue 
+siendo muy turbio, por lo que se hace una segunda filtración con papel de filtro. Por 
+último, antes de comenzar los análisis, se realiza una tercera filtración utilizando  filtros 
+de jeringa.  
+ 
+4.4. Procedimiento experimental.  
+ Determinación de la densidad.  Se toman aproximadamente 70 mL de l mosto 
+filtrado  y se ponen en una probeta limpia. Se introduce el densímetro dejándolo caer y 
+levantándolo un par de veces para asegurarse de que no toca las paredes de la probeta 
+y, a continuación, se toma la medida (Figura 2.2 ) 
+ Determinación de l grado Brix . Tras hacer un blanco con agua destilada, se toma 
+una gota de  mosto con una pipeta Pasteur, se coloca en el visor del refractómetro y se  
+lee la medida de azúcares totales expresada en grados Brix  (Figura 2.2). El dispositivo 
+realiza la corrección de t emperatura de forma automática. Para determinar el grado 
+alcohólico probable podríamos acudi r a las tablas para la evaluación de los azúcar es 
+por refractometría de la OIV, en el método especificado anteriormente.  
+ Seguimiento multivariante de la maduración de las uvas  
+9 
+ (1) (2) 
+Figura 2. Aerómetro (1) y refractómetro  (2) 
+  
+ Determinación del pH.  Se lleva a cabo con el valorador automático (Figura 3) 
+después de calibrarlo con las soluciones reguladoras de pH 7.02 y 4.01. Para llevar a 
+cabo la medida del pH del mosto simplemente se introduce el electrodo en  el mosto y 
+se anota la medida cuando esta se estabilice.  
+ 
+ 
+Figura 3. Valorador automático Metrohm 719S Titrino  
+  
+ Determinación de la acidez total.  Se realiza igualmente con el valorador 
+automático  (Figuras 4.1 y 4.2)  Para ello se toman 10 mL de mosto y 10 mL de agua 
+destilada, y se añade NaOH, previamente valorada con ftalato ácido de potasio , hasta 
+que el pH llega a 8,2.  
+ 
+Seguimiento multivariante de la maduración de las uvas  
+10 (1) (2) 
+Figura 4. Valorador automático Metrohm 719S Titrino con agitador antes ( 1) y después de la 
+valoración  (2) 
+Determinación de los azúcares reductores.  Se analizan siguiendo el método  
+Rebelein, que consiste en una valoración con tiosulfato de sodio, la cual se realiza con 
+dos tipos de buretas (Figura 5.1) En un matraz Erlenmeyer o en un vaso de precipitados se ponen: el mosto ( o el mismo volumen de agua destilada en el caso del 
+blanco) y  la solución cúprica. Se añaden perlas de vidrio, se tapa y se coloca sobre una 
+placa calefactora hasta ebullición durante dos  minutos (Figura 5 .2) En caliente, se 
+añaden la solución alcalina y se mantiene en ebullición un minuto y medio más. Se deja 
+enfriar y se añade  yoduro potásico  (Figura 6.1), ácido sulfúrico (Figura 6.2) y almidón , 
+que actúa como indicador  (Figura 7.1)Finalmente s e valora co n tiosulfato hasta color 
+lechoso (Figura 7.2)  La diferen cia entre el volumen de tiosulf ato gastado en el blanco 
+(v) y en la muestra (v’) da el contenido de azúcares reductores expresado en g/L.  
+(1) (2) 
+Figura 5. Bureta  y microbureta  de 25 y 2 mL ( 1) y ebullición de la muestra y el blanco  con 
+reducción del cobre (2)  
+Seguimiento multivariante de la maduración de las uvas  
+11 (1) (2) 
+Figura 6. Blanco y muestra de mosto tras la adici ón del yoduro potásico (1) y del ácido 
+sulfúrico ( 2) 
+(1) (2) 
+Figura 7.Muestra tras la adición de engrudo de  almidón ( 1) y blanco y muestra tras la valoración 
+con tiosulfato  (2). 
+Determinación del potasio.  En primer lugar, se lleva a cabo la medida de los 
+patrones de calibrado utilizando  el fotómetro de llama (Figura 8.2)  Para medir las 
+muestras de mosto, éstas se diluyen inicialmente 100 veces (0.25mL en 25 mL) y, en 
+caso de que la señal supere a la del patrón más concentrado, se diluye de nuevo a la mitad.  
+D eterminación del ácido málico.  En primer lugar, se diluye la muestra en 
+proporción 1:25 y a continuación se siguen las indicaciones del Kit enzimático. Se 
+toman dos tubos de ensayo, uno para el blanco y otro para la muestra, y se marcan como “B” y “M” respectivamente. En el de la muestra se ponen 100 µL (v) de la mues tra diluida y en el del blanco, el mismo volumen de agua destilada. A cada uno de 
+ellos se les añaden 2000  µL del reactivo 1 (tampón, L- glutamato y glutamato -
+oxalacetato transaminasa)  y se incuban a 37 °C durante 3 minutos. Luego, se calibra el 
+espectrofotómetro y se mide la absorbancia de  la muestra y el blanco a 340 nm (Figura 
+9)A las absorbancias obtenidas las llamaremos en cada caso A
+B1 o A M1, dependiendo
+Seguimiento multivariante de la maduración de las uvas  
+12 de si se trata del blanco o de la muestra. Después, se añaden 500 µ L del reactivo 2 
+(NAD y L- malat o deshidrogenasa) a cada uno de los dos tubos, tras lo cual tanto las 
+muestras como los blancos adquieren una coloración amarillenta. Se incuban de nuevo 
+durante 1 minuto y se mide de nuevo la absorbancia a la misma longitud de onda. De manera análoga, las  absorbancias obtenidas las denominaremos como A
+B2 y A M2. Para 
+determinar la concentración de ácido málico, se introducen los datos obtenidos  en la 
+siguiente ecuación:  
+CL-málico  [g/L] = (V * P molecular *∆A)/(ε*d*v*1000)  
+CL-málico  [g/L] =0.5534* ∆A 
+Donde V es el volumen total (2 600 µL), Pmolecular  es el peso molecular del ácido 
+málico  (134,09 g/mol ), ∆A se calcula como  (AM2 – df*A M1) – (AB2 – df*A B1), df, es el 
+factor de dilución (0,808), ε es el coeficiente de extinción molar del NADH a 340 nm 
+(6,3 L/mmol*cm) y d es el camino óptico (1 cm).  
+Figura 8. Fotómetro de llama  Figura 9. Espectrofotómetro UV -mini -1240 de 
+Shimadzu.  
+D eterminación de los polifenoles totales y de las características cromáticas.  
+Esta determinación se basa en una medida espectrofotométrica en la región visible (800- 380 nm) y otra en el ultravioleta (400 -200 nm). Para la medida en el espectro 
+visible se utilizan cubetas de vidrio de 1 mm de camino óptico,  mientras que para el 
+ultravioleta se trata de cu betas de cuarzo de 10 mm de camino óptico (Figura 10)  
+Según la O.I.V., para obtener el índice de polifenoles totales se aplica la siguiente fórmula:  
+IPT = A
+280 · 100 
+Y de la misma manera, para obtener las características cromáticas, definidas por la intensidad colorante (I) y la tonalidad (N) se utilizan las siguientes fórmulas:  
+I = A
+420 + A 520 + A 620 
+N = A 420 / A 520 
+Seguimiento multivariante de la maduración de las uvas  
+13 Figura 10. Cubetas de 1 y 10 mm para medir espectrofotométricamente 
+en el espectro visible y en el ultravioleta , respectivamente.  
+5.Resultados y discusión
+5.1. Determinaciones analíticas  
+Para llevar a cabo el seguimiento de la maduración de las uvas,  se realizan  en cada una 
+de las 12 muestras recogidas a lo largo de 47 días , las determinaciones detalladas en el 
+apartado  “Procedimiento experimental” . Este seguimiento es importante de cara a 
+determinar el momento propicio para la vendimia pues, dependiendo del tipo de vino 
+que se quiera obtener, es decir, de los parámetros que se quieran potenciar como el color, el sabor, el grado alcohólico... se vendimiará antes o después. En la tabla 1 se pueden ver los resultados obtenidos tras cada determinación. Algunos de ellos se han 
+considerado resultados anómalos al compararlos con el resto de datos obtenidos para cada parámetro (en la tabla se encuentran indicados en cursiva), por lo que han sido 
+excluidos del resto del análisis.  Para facilitar el estudio, el resto de datos se muestra n 
+de forma gráfica en la figura 11.  
+Los valores obten idos para la densidad se encuentran dentro de los esperados para el 
+mosto de uva, que suelen encontrarse entre 1,059 -1,115 g/ cm
+3.Como puede 
+observarse en la figura 11.1, hay una cantidad significativa de sólidos disueltos , aunque 
+no se acusa un cambio realmente significativo  en la  densidad, quizás una tendencia a 
+aumentar ligeramente a medida que pasa el tiempo . 
+Seguimiento multivariante de la maduración de las uvas  
+14 Tabla 1. Parámetros físico -químicos obtenidos a lo largo de los distintos días de maduración. 
+Parámetro Día 
+1 5 9 12 15 20 24 29 33 37 42 47 
+Densidad 
+(g/cm3) 1,068 1,071 1,070 1,072 1,064 1,070 1,070 1,075 1,080 1,077 1,076 1,067 
+Azúcares 
+(°Brix)  12,0  12,0  13,2  15,3  13,1  13,4  12,4  13,1  15,1  13,5  14,6  14,2  
+pH 3,20  3,20  3,41  3,49  3,27  3,25  3,14  3,30  3,39  3,45  3,46  3,33  
+Acidez  
+(g/L 
+tartárico) 11,5  11,2  10,0  11,4  11,4  12,6  11,4  11,4  10,1  10,5  10,5  12,7  
+Azúcares 
+reductores 
+(g/L) 1,20  0,80  0,28  0,87  0,63  0,05  0,12  2,73  0,08  1,12  0,73  0,17  
+Potasio  
+(ppm)  1356  501 473 635 525 526 1052  913 681 771 1840  2140  
+Ácido 
+málico 
+(mg/L)  178,8 204,1 199,0 202,1 209,7 216,3 261,4 213,2 12,4  248,6 254,1 291,2 
+Polifenoles 
+totales 53,2  34,7  18,8  65,1  61,0  57,1  69,4  66,3  70,4  68,5  69,3  78,7  
+Intensidad  1,09  4,12  1,15  1,49  1,42  1,23  1,82  1,35  1,77  1,82  1,35  1,74  
+Tonalidad  0,88  1,43  2,14  0,93  0,95  0,98  1,16  0,53  1,08  1,27  1,08  0,90  
+Como se ha señal ado anteriormente, es muy importante que el viticultor conozca las 
+propiedades de la uva en cada momento durante su desarrollo para, así, saber o 
+aproximar cuándo podrá vendimiar. Con la ayuda de un refractómetro , los viticultores 
+pueden medir de forma muy sencilla la concentración de azúcares  en unidades de 
+grados Brix y relacionarla con el grado alcohólico probable, es decir el grado de alcohol que se espera que tenga el vino resultante tras la ferm entación. S i en la fermentación 
+todo transcurre correctamente, la cantidad de etanol formado debería ser directamente proporcional a la concentración inicial de azúcares. La sacarosa que pudiera quedar ( que no se  ha hidrolizado en fructosa y glucosa) aportará dulzor al 
+vino.  
+Haciendo alusión a los res ultados obtenidos para la concentración de azúcar es, que se 
+muestran  en la tabla 1  y la figura 11.2 , se podría decir que  la tendencia es ascendente, 
+es decir, la concentración de azú cares aumenta con la maduración. No obstante, los 
+días 12 y 33 el aumento es mayor, se alcanzan valores más altos que los que cabría esperar teniendo en cuenta la pauta marcada por el resto de días.  No obstante, esto 
+entraría dentro de la variabilidad esperada entre las distin tas muestras de uvas 
+recogidas para realizar el estudio.  Seguimiento multivariante de la maduración de las uvas  
+15 (1) (2) 
+(3) (4) 
+(5) (6) 
+(7) (8) 
+(9) (10) 
+Figura 11. P arámetros físico -químicos analizados en las uvas a lo largo del período de 
+maduración considerado.  0,00,51,01,5
+0 10 20 30 40 50Densidad (g/cm3)
+Días05101520
+0 10 20 30 40 50Azúcares º Brix
+Días
+01234
+0 10 20 30 40 50pH
+Días051015
+0 10 20 30 40 50Acidez (g ácido 
+tartárico /L)
+Días
+0,00,51,01,5
+0 10 20 30 40 50Azúcares 
+reductores (g/L)
+Días05001000150020002500
+0 10 20 30 40 50Potasio (mg/L)
+Días
+0100200300400
+0 10 20 30 40 50Ácido L -málico 
+(mg/L)
+Días020406080100
+0 10 20 30 40 50Polifenoles totales
+Días
+0,00,51,01,52,0
+0 10 20 30 40 50Intensidad
+Días0,00,51,01,5
+0 10 20 30 40 50Tonalidad
+DíasSeguimiento multivariante de la maduración de las uvas  
+16 Los azúcares reductores  que podría haber en la uva son la glucosa y la fructosa, 
+principalmente. Se podría suponer, que , así como la concentración de azúcares, 
+expresados en grados Brix es ascendente, la concentración en azúcares reductores  
+siguiera la misma tendencia, sin embargo, según los resultados obtenidos, se observa 
+tanto en la tabla 1 como en la gráfica 11.5, que no es así . Esto puede deberse a que  el 
+tamaño muestral era pequeño , pues todas las uvas que se recogieron eran de una sola 
+parra y no eran representativas de la  planta entera. Esto puede influir en gran medida 
+en los resultados de las diferentes determinaciones, puesto que condiciones climáticas 
+distintas como la exposición al sol o la acumulación de más agua por lluvias influye en gran medida en los componentes de la uva [ 17]. 
+De la misma manera que la concentración de azúcares está íntimamente relacionada con la maduración, lo están el pH  y la acidez , pero en su caso de manera inversamente 
+proporcional, ya que van disminuyendo conforme avanza la etapa de maduración del fruto. Como podemos observar en la tabla 1, el pH y la acidez no siguen una tendencia similar, lo cual es contradictorio pues, así como los valores de pH son más o menos constantes (alrededor de 3,3),  para la ac idez no se observa ninguna tendencia c lara, 
+por lo que no se evidencia si aumenta o disminuye.  Esto se podría debe r a que el 
+mosto se comporta  como una disolución tampón o reguladora. En el pH, además de los 
+ácidos, influyen otras especies que participan en los equilibrios de hidrólisis e 
+ionización de los ácidos. La acidez está expresada en ácido tartárico puesto que es uno 
+de los principales ácidos de las uvas. Según  la ref. [21], la calidad de las uvas para 
+producir vino reside en que la acidez total del mosto, expresada en gramos de ácido 
+tartárico por litro, tiene que ser mayor a 7,8. Además, tanto la acidez como el pH se ven influidos por la cantidad de otros ácidos orgánicos c omo el málico, del que se 
+hablará más tarde. La variación de pH podría afectar a otras características como el aroma, la estabilidad del color o la facilidad para extraer antocianos.  
+Además, la acidez valorable se ve influenciada por la concentración de diferentes tipos 
+de ácidos, de la concentración de potasio y del pH, por lo que es normal que cuando 
+varíe uno de estos tres parámetros, la acidez total (expresada como ácido tartárico) se vea influenciada.  
+En cuanto a la concentración de potasio , como ya se  ha indicado anteriormente, este 
+elemento puede formar , en combinación con ácido tartárico,  tartrato ácido de potasio, 
+cuya solubilidad disminuye cuando lo hace la temperatura . Debido a la formación de 
+cristales de hielo  durante la congelación de las uvas , las células del tejido vegetal se 
+rompen permitiendo la salida de sus componentes al exterior y haciendo que reaccionen entre sí formando sales ácidas, muy poco solubles y provocando la precipitación de las mismas  [18]. Es posible  que el hecho de que las determinaciones  
+se hayan hecho tras un período de congelación haya influido tanto en la concentración de potasi o como en la de ácido tartárico, aunque este efecto sería el mismo para todas 
+las muestras. Sin embargo, según se observa en la figura 11.6, el potasio aumenta  
+conforme avanza la maduración.  Este aumento se podría justificar teniendo en cuanta 
+que, durante la descongelación de las uvas, por el aumento de la temperatura, el tartrato ácido  de potasio vuelve a solubilizarse [16] y podría disociarse d e nuevo en 
+potasio y ácido tartárico.  
+Según se observa tanto en la tabla de resultados como en la gráfica de manera más 
+visual (figura 11.7) , la evolución del ácido málico  es claramente creciente conforme  la Seguimiento multivariante de la maduración de las uvas  
+17 maduración avanza.  Esto es algo contradictorio, puesto que en teoría [11], los ácidos 
+disminuyen durante la maduración , pero  el ácido málico se forma gracias a diferentes 
+rutas metabólicas de los azúcares durante el periodo herbáceo, lo cual puede significar 
+que este período aún no ha finalizado.  
+Los polifenoles  se encuentran sobre todo en el hollejo  [19], por lo que es esperable  
+que esta parte de la uva tenga más color que la pulpa, incluso aunque la pulpa no contenga polifenoles y que su leve coloración provenga tan solo de lo que aporta la piel. Además  de observar un claro aumento de los polifenoles  con respecto al 
+transcurso de los días  en los resultados obtenidos  (figura 11.8), la maduración en este 
+caso se evidencia claramente por el cambio de color en las uvas , desde un verde claro 
+hasta un rojo pál ido. 
+Se podría decir que el color, así como otras determinaciones físicas entraría a formar 
+parte del análisis sensorial. Sin embargo, como se ha visto, se puede hacer una valoración cuantitativa de la maduración de las uvas (y  del mosto) atendiendo a las 
+características cromáticas:  intensidad y tonalidad, definidas anteriormente en el 
+apartado  3, “F undamento teórico ”. Según los resultados obtenidos  (figuras 11.9 y 
+11.10) se pueden observar diferencias entre la evolución de la intensidad  y la de la 
+tonalidad. La intensidad sigue claramente una tendencia ascendente, por lo que, sabiendo que este parámetro es inversamente proporcional a la luminosidad, 
+podemos decir que las uvas se van oscureciendo conforme transcurre la maduración. 
+Para la tonalidad, por su p arte, no se observan cambios significativos en el tiempo de 
+estudio. 
+5.2. Análisis multivariante  
+5.2.1.  Análisis de componentes principales  
+El estudio de todos los parámetros físico -químicos determinados en las distintas 
+muestras de uva se ha realizado de manera conjunta mediante un análisis de componentes principales. Este  análisis se ha llevado a cabo con los datos de la tabla 
+1autoescalados; el conjunto de datos  inicial tiene dimensión 12 × 10, donde 12 es el 
+número de muestras (uvas recogidas en 12 d ías distintos de forma secuencial) y 10 el 
+número de variables predictoras  (determinaciones analíticas de  las uvas)  Sin embargo, 
+en la tabla se pueden observar algunos datos anómalos, indicados en cursiva, que no siguen la pauta del resto de los datos y que se pueden considerar medidas erróneas . 
+Estos datos se han eliminado  antes del análisis . 
+Los autovalores y porcentajes de varianza e xplicada del análisis de componentes 
+principales se pueden ver en las primeras filas de la tabla 2 . Como los datos se  
+autoescalan previamente, en principio habría que considerar relevantes únicamente las componentes principales con autovalores mayores de 1, es decir, las tres primeras 
+componentes. Con ellas se explica casi el 75% de la variabilidad de los datos 
+experimentales . 
+Sin embargo, cuando se representan gráficamente las puntua ciones de estas tres 
+componentes (Figura 12) , se puede ver cómo únicamente la primera componente 
+principal se puede relacionar con el paso del tiempo y, por tanto, con el proceso de Seguimiento multivariante de la maduración de las uvas  
+18 maduración  de las uvas . Las puntuaciones en la primera componente principal son 
+mayores cuanto más maduras están las uvas.  
+Para establecer una relación entre la primera componente principal y los parámetros  
+físico -químicos analizado s, se deben estudiar los pesos de las variables en dicha 
+componente. En la figura 13  se representan  gráficamente estos pesos. Muestras con 
+puntuaciones altas en la primera componente principal  (Figura 12), tendrán valores 
+más altos en las variables predictoras con pesos grandes (F igura 13), y viceversa.  El 
+análisis de componentes principales lleva a establecer que, en el período de tiempo 
+considerado, todos los parámetros se incremen tan en las uvas con el paso del tiempo 
+excepto los azúcares reductores (variab le 5), que se reducen ligeramente, y la acidez y 
+la tonalidad, que no han experimentado grandes cambios.  
+Tabla 2  Análisis de componentes principales  realizado con todos los datos y sin el día 12 . 
+Modelo  Número de 
+componentes 
+principales  Autovalor  Varianza 
+explicada  
+(%) Varianza 
+acumulada  
+(%) 
+Experimento 
+completo  1 3,57  35,74  35,74  
+2 2,38  23,78  59,53  
+3 1,52  15,19  74,71  
+4 0,94  9,36  84,07  
+5 0,56  6,63  89,70  
+6 0,46  4,95  94,28  
+Experimento 
+sin el día 12  1 3,85  38,48  38,48  
+2 2,36  23,57  62,05  
+3 1,42  14,17  76,22  
+4 0,99  9,90  86,11  
+5 0,57  5,74  91,85  
+6 0,40  4,00  95,85  Seguimiento multivariante de la maduración de las uvas  
+19 (1) 
+(2) 
+ (3) 
+Figura 
+12. Puntuaciones de las tres primeras componentes principales  en los días muestreados. 
+Seguimiento multivariante de la maduración de las uvas  
+20 Figura 13. Pesos estimados para la primera componente principal . Variables: densidad  (1), 
+azúcares (2), pH (3), acidez (4), azúcares reductores (5) , potasio (6), ácido málico (7), 
+polifenoles totales (8), intensidad (9) y tonalidad (10)  
+5
+.2.2 Regresión de componentes principales  
+Con objet o de confirmar la relación de los parámetros físico -químicos considerados y 
+el grado de maduración de las uvas, se construye un modelo de regresión 
+multivariante. Se ajusta un modelo de regresión lineal múltiple por mínimos cuadrados , considerando como respuesta los días transcurridos hasta la recogida de la 
+uva y como variables predictoras  las puntuaciones de las muestras para las tres 
+primeras componentes principales . 
+En las primeras filas de la  Tabla 3 se muestra n los parámetros correspondientes a 
+dicho modelo de regresión. Este modelo explica el 93,20% de la varianza de la 
+respuesta. Sin embargo, se puede ver que las estimaciones de los coeficientes b
+2 y b 3 
+no son significativas a  un nivel de significación del 5% . En ambos casos, dado que el  P-
+valor del test de significación es m ayor  de 0,05, no se tienen evidencias suficientes 
+para rechazar la hipótesis nula (hipótesis nula: el coeficiente no es significativo; hipótesis alternativa: sí que lo es ). 
+Por ello, se ajusta un nuevo modelo de regresión por mínimos cuadrados considerando  
+como variable independiente (z
+1) las puntuaciones de la primera componente 
+principal. Se debe tener en cuenta que, aunque este modelo es univariante, z 1 es una 
+combinación lineal de todas las variables predictoras medidas. La ecuación del modelo, que tiene un coeficiente de correlación de 0,912, es la siguiente:  
+y = 22,829 + 7,222 z
+1 
+Seguimiento multivariante de la maduración de las uvas  
+21 
+ Tabla 3 . Parámetros y estadístic os de los modelos de regresión múltiple.  
+Modelo  Coeficiente  Estimación  Desviación 
+típica  Estadístico T  P-Valor  
+Experimento 
+completo  b0 24,2 4 1,41 17,2 5 0,000  
+b1 7,48 0,747  10,01  0,000  
+b2 0,34 0,960  0,350  0,737  
+b3 - 0,37 1,24 -0,298  0,775  
+Experimento sin el día 12  b0 23,82 1,44 16,57 0,000  
+b1 7,51 0,769 9,77 0,000  
+b2 0,682 0,982 0,695 0,510 
+b3 -0,140 1,27 -0,110 0,915 
+ 
+Al analizar los residuos estudentizados de las distintas muestras, se observa que hay 
+una de ellas con un residuo anormalmente grande ( -3,86) , el cuarto dato de la figura 
+14.1 (día 12) , cuyo valor absoluto supera el valor umbral de 2,5 y que, por tanto, debe 
+ser eliminado.  
+ 
+  
+Figura 14 . Residuos estudentizados de los modelos  de regresión estimados con toda s las 
+muestras  (1) y sin  la del d ía 12  (2). 
+ 
+Se rehace el análisis multivariante completo con los datos restantes. La exclusión del 
+día 12 del conjunto de datos apenas modifica el análisis de componentes principales 
+anterior. Los porcentajes de varianza explicada por las cuatro primeras componentes 
+principales construidas en este segundo  análisis se muestran en la Tabl a 2. Se puede 
+ver que los valores de varianza apenas varían,  y tampoco  cambian prácticamente  las 
+puntuaciones y los pesos  estimados, que son prácticamente idénticos  a los mostrados , 
+para la primera componente principal,  en las figuras 12 y 13 respectivamen te. 
+Se ajusta un nuevo modelo de regresión de componentes principales con las puntuaciones de las tres primeras componentes de este segundo análisis. Los coeficientes estimados en ausencia del dí a 12 se encuentran en la tabla 3 . De nuevo, 
+los coeficientes relacionados con las componentes principales  segunda y tercera son 
+Seguimiento multivariante de la maduración de las uvas  
+22 estadísticamente iguales a cero (p -valor > 0,05) , por lo que se recalcula el modelo de 
+regresión únicamente con las puntuaciones de la primera componente principal. En 
+este caso no se ha detectado ningún residuo estudentizado que supere el valor 
+umbral, como s e puede ver en la figura 14.2, por lo que ningún dato se ha considerado 
+anómalo. El modelo  de regresión es el siguiente :  
+y = 23,819 + 7,508 z 1 
+El coeficiente de correlación de este modelo es  0,963,  lo que quiere decir que los 
+parámetros físico -químicos considerados , y transformados a través del análisis de 
+componentes principal es, están relacionados con la maduración de las uvas y explican 
+el 96,3% de la variabilidad encontrada en éstas durante el transcurso de los días.  
+6. Conclusions
+The analytical procedures for the determination of physico -chemical parameters on 
+grapes have been successfully implemented in the laboratory.  
+The one at a time interpretation of each physico -chemical parameter does not provide 
+a good enough global point of view to establish a relationship between them and the ripening of the grapes, but it highlights the patterns over time.   
+ 
+The joint study of the physico-c hemical parameters by using multivariate methods 
+of analysis has allowed extracting the relevant information about ripening and the 
+rol
+e that each parameter plays.  
+Most of the parameters analysed increase as the time goes by, but some others like reducing sugars decrease. The acidity and the tonality decrease as well but in a lower proportion.
+ 
+7.Acknowledgement s
+This
+ work was supported by the Erasmus+ of the European Union programme (Project 
+No. 2018-1- ES01- KA201 -049936).  Seguimiento multivariante de la maduración de las uvas  
+23 
+ 8. Bibliografía  
+ 
+1. Peñín, J., Historia del vino –  Ebook . 2011, Espasa Libros, ISBN: 978- 84-670- 3845 -3. 
+2. Hui, Y. H., editado  por Sinha, N. K., Sidhu, J. S. Handbook of fruits and fruit 
+processing. 2006. Blackwell Publishing, Parte III: 440 -441. ISBN 978- 0-8138 -0894 -9 
+3. Sotomayor, J.P., Determinación de madurez en uvas para vinificar . 1984, IPA, 
+Quilamapu 22: 22 -27  
+4. Meléndez, E., Íñiguez, M., Puras, P., Ortiz, M. C., Sarabia, L. A.,  Las uvas también se 
+catan. 2010 Cuaderno de campo 45: 34- 39 
+5. Meléndez, E., Íñiguez, M., Puras, P., Ortiz, M. C., Sarabia, L. A.,  Las uvas también se 
+catan (Segunda parte) . 2011 Cuaderno de campo 46: 34- 39 
+6. Orden de 27 de abril de 1988 por la q ue se apr ueban los métodos oficiales de 
+análisis de zumos de uva. Boletín Oficial del Estado núm.  110, de 7 de mayo de 1988, 
+páginas 13905 a 13920.  
+7. Organización  internacional  del vino y la viña (OIV) Compendium of international 
+methods of wine and must  analysis, 2019. Volumen 1. 
+8. Organización  internacional  del vino y la viña (OIV) Compendium of international 
+methods of wine and must analysis, 2019. Volumen 2. 
+9. ATAGO. Cuerpo visible: Bits o f knowledge about refractometers. ATAGO. 
+Recuperado de: https://www.atago.net/USA_es/pop_knowledge.html  (último acceso: 
+mayo 2019)  
+10. Cazorla García, J.; Xirau  Vayreda, M. Manual enología -  Técnicas usuales de análisis 
+en enología.  INCAVI y Panreac química S.A.  (último acceso: mayo 2019)  
+http://www.usc.es/caa/MetAnalisisStgo1/enologia.pdf  
+11. Benito Sáez, P., (2011), Origen y evolución de los ácidos de la uva. Urbina V inos 
+Blog. [Sitio web]. (último acceso: mayo 2019)  Disponible en: 
+https://urbinavinos.blogspot.com/search?q=%C3%A1cido+tart%C3%A1rico  
+12. Quinones, M., Miguel, M., Aleixandre, A., Los polifenoles, compuestos de origen 
+natural con efectos saludables sobre el sistema cardiovascular  (Revisión) Nutrición 
+hospitalaria 2012; 27 (1):76- 89. ISSN 0212- 1611. DOI:10.3305/nh.2012.27.1.5418  
+13. Cetó , X., Gutiérrez , J. M. , Gutiérrez , M., Céspedes , F., Capdevila, J. , Mínguez, S. , 
+Jiménez -Jorquerac,  C., del Valle , M., Determination of total polyphenol index in wines 
+employing a voltammetric electronic  tongue , Analytica Chimica Acta 2012; 732: 172 -
+179. DOI:10.1016/j.aca.2012.02.026  
+14. Méndez Sánchez, J. V. Estudio de la maduración fenólica y antociánica en uvas 
+tintas de bobal para diferentes condiciones agrológicas.  Tesis doctoral Universidad Seguimiento multivariante de la maduración de las uvas  
+24 
+  
+politécnica de Valencia (2005).  (último acceso: mayo 2019)  Dispo nible en: 
+https://riunet.upv.es/bitstream/handle/10251/1853/tesisUPV2293.pdf  
+15. Statgraphics Centurion XVII. Version 17.1.12 StatPoint Technologies, Inc., Herndon, 
+VA, 2014  
+ 
+16. Wise, B.M., Gallagher, N.B., Bro, R., Shaver, J.M., Windig, W., Koch, R.S., PLS 
+Toolbox 5.8.2, Eigenvector Research Inc., Manson, WA, (2010)  
+ 
+17. Hidalgo Togores, J., La calidad del vino desde el viñedo , 2006. Ediciones Mundi -
+Prensa. ISBN: 84- 8476- 279- 3. 
+18. Threlfall, R.,  Main, G., Morris, J., Effect of freezing grape berries and heating must 
+samples on extraction of components and composition parameters of red wine grapes 
+varieties.  2006. Australian Journal of Grape and Wine Research, 12:161 -169.  
+19. Peyn aud, E., Enologíapráctica. Conocimiento y elaboración del vino. 1993, Ediciones 
+Mundi -Prensa, ISBN: 84 -7114 -214- 7. 
+ 
+ 
+ 

@@ -1,0 +1,32 @@
+# === SECRETO - NUNCA SUBIR ===
+llave.json
+*.json.key
+*.pem
+.env
+
+# === Credenciales y sesiones de WhatsApp ===
+auth_info/
+.wwebjs_auth/
+.wwebjs_cache/
+
+# === Datos privados de usuarios ===
+usuarios_autorizados.json
+bayesian_data.json
+
+# === Pesado y regenerable ===
+node_modules/
+venv/
+__pycache__/
+*.pyc
+vectordb_vid/
+
+# === Backups y borradores viejos ===
+*.bak
+*.backup
+*_backup_*
+*.20*.backup
+fix_*.py
+fix_*.mjs
+
+# === Logs ===
+*.log
